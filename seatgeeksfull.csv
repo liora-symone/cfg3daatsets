@@ -1,0 +1,955 @@
+id_event,short_title,performer_id,performer_name,average_price,venue_state,id_performer,name_merged,type_performer,taxonomy_id,genre_id,genre_name,postal_code,capacity,combined_venue,combined_address,combined_city,combined_venueid,combined_country
+6288459,Bobby McFerrin,4414,Bobby McFerrin,108.0,CA,,,,,,,,,Freight & Salvage,2020 Addison Street,Berkeley,2239.0,US
+6307926,Lauren Fox,797799,Lauren Fox,151.0,GA,,,,,,,,,Falany Performing Arts Center,7300 Reinhardt Circle,Waleska,14060.0,US
+6270066,Merry Country Christmas,773028,Merry Country Christmas,118.0,VA,,,,,,,,,Wayne Theatre,521 West Main Street,Waynesboro,232314.0,US
+6220195,Debbii Dawson,806930,Debbii Dawson,35.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+5923504,Stephen Sanchez with Stephen Day,797186,Stephen Sanchez,182.0,FL,,,,,,,,,House of Blues - Orlando,1490 E Buena Vista Dr,Orlando,617.0,US
+6154662,One Step Closer (16+),730425,One Step Closer,87.0,NY,,,,,,,,,Empire Underground - NY,93 North Pearl Street,Albany,519050.0,US
+6177110,From Ashes To New with The Word Alive,278397,From Ashes To New,90.0,MN,,,,,,,55414,300.0,Varsity Theater - Minneapolis,1308 SE 4th Street,Minneapolis,920.0,US
+6309161,Hed PE,5052,Hed PE,85.0,KY,,,,,,,,,Madison Live,734 Madison Ave,Covington,80735.0,US
+6144118,Pentatonix,20599,Pentatonix,231.0,SC,20599.0,Pentatonix,band,2000000.0,452.0,Pop,,,Bon Secours Wellness Arena,650 North Academy Street,Greenville,111.0,US
+6229753,Ella Vos,625559,Ella Vos,45.0,GA,,,,,,,,,The Masquerade - Purgatory,50 Lower Alabama Street,Atlanta,6490.0,US
+6054969,Daniel O'Donnell,538,Daniel O'Donnell,102.0,FL,,,,,,,,,Lillian S. Wells Hall at The Parker,707 NE 8th Street,Ft Lauderdale,519124.0,US
+6026446,MacCabeats,20182,MacCabeats,99.0,NJ,,,,,,,07631,1367.0,Bergen Performing Arts Center,30 North Van Brunt Street,Englewood,438.0,US
+6307925,Lauren Fox,797799,Lauren Fox,87.0,GA,,,,,,,,,Falany Performing Arts Center,7300 Reinhardt Circle,Waleska,14060.0,US
+5926209,The Carolina Opry,58455,The Carolina Opry,123.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6287255,Madeline The Person,806608,Madeline The Person,56.0,NY,,,,,,,,,Baby's All Right,146 Broadway,Brooklyn,56718.0,US
+6168237,Craig Owens,10555,Craig Owens,99.0,PA,,,,,,,19108,650.0,Underground Arts,1200 Callowhill Street,Philadelphia,8679.0,US
+6298891,Rematch,779719,Rematch,33.0,OH,,,,,,,,,Rumba Cafe,2507 Summit Street,Columbus,8607.0,US
+6270065,Merry Country Christmas,773028,Merry Country Christmas,149.0,VA,,,,,,,,,Wayne Theatre,521 West Main Street,Waynesboro,232314.0,US
+6206240,Mariah Carey ,2494,Mariah Carey,658.0,MA,2494.0,Mariah Carey,band,2000000.0,452.0,Pop,02114,19580.0,TD Garden,100 Legends Way,Boston,1544.0,US
+6205289,"Jingle Ball with OneRepublic, Jelly Roll, Big Time Rush, Doechii, & more!",79338,	iHeartRadio Jingle Ball,292.0,DC,79338.0,	iHeartRadio Jingle Ball,band,2000000.0,,,20004,20173.0,Capital One Arena,601 F Street Northwest,Washington,181.0,US
+6287186,Woodz,806748,Woodz,199.0,NY,,,,,,,,,Kings Theatre,1027 Flatbush Avenue,Brooklyn,77210.0,US
+6053407,Steve Miller Band,1693,Steve Miller Band,217.0,SC,1693.0,Steve Miller Band,band,2000000.0,472.0,Classic Rock,,,Peace Concert Hall At The Peace Center,300 South Main Street,Greenville,687.0,US
+6227527,Rockapella,2592,Rockapella,104.0,MA,,,,,,,,,City Winery - Boston,1 Canal St,Boston,431585.0,US
+6068779,Doja Cat,297762,Doja Cat,343.0,ON,297762.0,Doja Cat,band,2000000.0,493.0,Rap,,,Scotiabank Arena,40 Bay Street,Toronto,91.0,Canada
+6222143,A Motown Christmas,31590,A Motown Christmas,243.0,PA,,,,,,,16501,2250.0,Warner Theatre - PA,811 State Street,Erie,536.0,US
+6021125,Engelbert Humperdinck,691,Engelbert Humperdinck,113.0,NJ,,,,,,,07701,1543.0,Hackensack Meridian Health Theatre at Count Basie Center,99 Monmouth Street,Red Bank,297.0,US
+6236952,Serena Ryder,1606,Serena Ryder,94.0,ON,,,,,,,,,Thunder Bay Community Auditorium,1 Paul Shaffer Drive,Thunder Bay,1266.0,Canada
+6174262,Girl Named Tom,796666,Girl Named Tom,227.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
+6250561,CHUU,807299,CHUU,128.0,MD,,,,,,,20745,3000.0,The Theater at MGM National Harbor,101 MGM National Ave,National Harbor,419566.0,US
+6119490,Dirty Honey,310639,Dirty Honey,142.0,OH,,,,,,,,,The Bluestone,583 East Broad Street,Columbus,16015.0,US
+6142247,DURRY,798993,DURRY,77.0,KY,,,,,,,,,Zanzabar,2100 South Preston Street,Louisville,1688.0,US
+6257601,Joe Gransden,616333,Joe Gransden,119.0,GA,,,,,,,,,The Eagle at Sugar Hill,5029 West Broad Street Northeast,Sugar Hill,469011.0,US
+6177599,The Prophecy Show,746620,The Prophecy Show,102.0,MO,,,,,,,,,Jesse Auditorium,320 Jesse Hall,Columbia,751.0,US
+6308043,Lonestar,1132,Lonestar,131.0,TX,,,,,,,,,Perot Theatre,221 Main Street,Texarkana,13842.0,US
+6108101,Hot Mulligan,405099,Hot Mulligan,200.0,UT,405099.0,Hot Mulligan,band,2000000.0,457.0,Alternative,84101,1200.0,The Depot - Salt Lake City,400 West South Temple,Salt Lake City,624.0,US
+6215418,Majid Jordan,441072,Majid Jordan,117.0,NY,,,,,,,11222,1800.0,Brooklyn Steel,319 Frost Street,Brooklyn,420076.0,US
+6117147,Big Wreck,14565,Big Wreck,81.0,TX,,,,,,,,,The Bronze Peacock at House of Blues Houston,1204 Caroline Street,Houston,140733.0,US
+6263493,Born Without Bones,254820,Born Without Bones,200.0,VA,,,,,,,,,The Camel,1621 West Broad Street,Richmond,11522.0,US
+6276092,Darren Criss,10412,Darren Criss,171.0,IL,,,,,,,,,Athenaeum Theatre - IL,2936 N Southport Ave,Chicago,5505.0,US
+6296461,Ann Wilson,128221,Ann Wilson,157.0,FL,,,,,,,32202,1930.0,Florida Theatre Jacksonville,128 East Forsyth Street,Jacksonville,493.0,US
+6037271,Croce Plays Croce,684791,Croce Plays Croce,130.0,TX,,,,,,,75201,1704.0,Majestic Theatre - Dallas,1925 Elm Street,Dallas,3621.0,US
+6093520,Dogstar,804918,Dogstar,269.0,NY,,,,,,,11211,550.0,Music Hall of Williamsburg,66 North 6th St.,Brooklyn,399.0,US
+6063933,Neffex,677939,Neffex,32.0,TX,,,,,,,,,Ruins,2653 Commerce Street,Dallas,449521.0,US
+6143537,Lindsay Stirling,27573,Lindsey Stirling,225.0,PA,,,,,,,19602,7215.0,Santander Arena,700 Penn Street,Reading,629.0,US
+6193488,Sky Ferreira (16+),31888,Sky Ferreira,221.0,NY,,,,,,,10003,2500.0,Webster Hall,125 East 11th Street,New York,463.0,US
+6116339,Jazmin Bean,805657,Jazmin Bean,137.0,TX,,,,,,,,,Cambridge Room at House Of Blues - Dallas,2200 N Lamar Street,Dallas,173207.0,US
+6259040,Bryson Tiller,375017,Bryson Tiller,270.0,PA,375017.0,Bryson Tiller,band,2000000.0,493.0,Rap,,,The Fillmore Philadelphia,29 E Allen Street,Philadelphia,78730.0,US
+6140310,Tauren Wells,687727,Tauren Wells,116.0,TX,,,,,,,75210,3420.0,Music Hall at Fair Park,909 1st Ave,Dallas,3620.0,US
+6276458,Adam Levy,724369,Adam Levy,55.0,IL,,,,,,,60202,250.0,SPACE - Evanston,1245 Chicago Avenue,Evanston,2109.0,US
+6229159,Lovejoy,800384,Lovejoy,198.0,CO,800384.0,Lovejoy,band,2000000.0,,,,,Mission Ballroom,4242 Wynkoop Street,Denver,467142.0,US
+6177510,Shawn Johnson,10774,Shawn Johnson,118.0,MN,,,,,,,,,Ames Center,12600 Nicollet Avenue,Burnsville,2849.0,US
+5932568,The Time Jumpers,22447,The Time Jumpers,63.0,TN,,,,,,,,,3rd & Lindsley Bar & Grill,818 3rd Avenue South,Nashville,1524.0,US
+6145005,Roy Woods (17+),78815,Roy Woods,138.0,IL,,,,,,,60654,1300.0,House of Blues Chicago,329 N Dearborn St,Chicago,515.0,US
+6113538,Dylan Matthew (Rescheduled from 10/20/2023),777269,Dylan Matthew,56.0,WA,,,,,,,98122,578.0,Neumos,925 East Pike Street,Seattle,657.0,US
+6065768,Macy Gray,5457,Macy Gray,220.0,TX,,,,,,,,,Antone's Nightclub,305 East 5th Street,Austin,982.0,US
+6246794,Southside Johnny & The Asbury Jukes,1665,Southside Johnny & The Asbury Jukes,204.0,IL,,,,,,,,,City Winery - Chicago,1200 West Randolph Street,Chicago,9520.0,US
+6094652,The Jinkx and Dela Holiday Show - Minneapolis,292405,Jinkx Monsoon,138.0,MN,,,,,,,55455,2700.0,Northrop Auditorium,84 Church St SE,Minneapolis,1370.0,US
+6262943,Leah Tash,807511,Leah Tash,27.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+6138761,Piano Man,269261,Piano Man,146.0,NV,,,,,,,89109,5067.0,V Theater at Planet Hollywood Resort and Casino - Las Vegas,3667 Las Vegas Blvd S,Las Vegas,4361.0,US
+6199329,Haley Joelle (18+),806631,Haley Joelle,92.0,CA,,,,,,,,,Moroccan Lounge,901 E 1st St,Los Angeles,432202.0,US
+6027283,Highly Suspect,37338,Highly Suspect,316.0,ID,,,,,,,83702,1000.0,Knitting Factory Concert House - Boise,416 S. 9th Street,Boise,452.0,US
+6068341,Hiss Golden Messenger,140552,Hiss Golden Messenger,80.0,CA,,,,,,,,,Harlow's Restaurant & Nightclub,2708 J Street,Sacramento,1751.0,US
+6051015,"Enrique Iglesias, Pitbull and Ricky Martin",5448,Enrique Iglesias,480.0,BC,5448.0,Enrique Iglesias,band,2000000.0,452.0,Pop,V6B 6G1,19000.0,Rogers Arena,800 Griffiths Way,Vancouver,2983.0,Canada
+6035314,Jeff Rosenstock with Small Crush,170360,Jeff Rosenstock,109.0,WA,,,,,,,98101,1150.0,The Showbox,1426 1st Ave,Seattle,1671.0,US
+6161119,Devendra Banhart,593,Devendra Banhart,68.0,OR,,,,,,,97214,850.0,Revolution Hall - Portland,1300 SE Stark Street,Portland,77427.0,US
+6226630,Hoobastank,860,Hoobastank,125.0,CA,860.0,Hoobastank,band,2000000.0,472.0,Classic Rock,90026,500.0,Echoplex,1154 Glendale Boulevard,Los Angeles,1014.0,US
+6091667,Matteo Lane,267552,Matteo Lane,120.0,BC,,,,,,,V6Z 1L2,1150.0,Vogue Theatre - BC,918 Granville Street,Vancouver,1003.0,Canada
+6112163,Cattle Decapitation,12924,Cattle Decapitation,83.0,WA,,,,,,,98121,525.0,The Crocodile,2200 2nd Avenue,Seattle,1156.0,US
+6097419,"K-Love Christmas Tour with Danny Gokey, Natalie Grant and Mac Powell",261430,K-Love Christmas Tour,118.0,CA,,,,,,,,,3Crosses Church,20600 John Drive,Castro Valley,289790.0,US
+6048751,Awakening,79952,Awakening,294.0,NV,,,,,,,,,Awakening Theater at Wynn Las Vegas,3131 Las Vegas Boulevard South,Las Vegas,6206.0,US
+6069742,Buckcherry,384,Buckcherry,93.0,CO,,,,,,,,,Mesa Theater and Club,538 Main Street,Grand Junction,6251.0,US
+6285157,Chris Botti,453,Chris Botti,176.0,NY,,,,,,,,,Blue Note,131 West 3rd Street,New York,1455.0,US
+6276357,Jose Feliciano,4686,Jose Feliciano,226.0,CA,,,,,,,,,Lobero Theatre,33 East Canon Perdido Street,Santa Barbara,2671.0,US
+6106405,Armor For Sleep,16020,Armor For Sleep,174.0,WA,,,,,,,,,El Corazon,109 Eastlake Ave E,Seattle,1178.0,US
+6282487,A December to Remember with Portugal. The Man,61830,A December To Remember,141.0,OR,,,,,,,97209,1000.0,McMenamins Crystal Ballroom,1332 W. Burnside,Portland,756.0,US
+6241470,Robert Glasper (21+),18154,Robert Glasper,119.0,OR,,,,,,,97209,1550.0,Roseland Theater,10 Northwest 6th Ave.,Portland,543.0,US
+6282046,X The Band with Skating Polly,301455,X The Band,107.0,WA,,,,,,,98105,479.0,Neptune Theatre - WA,1303 Northeast 45th Street,Seattle,5805.0,US
+6113437,Cayucas and Matt Costa (21+),72358,Cayucas,97.0,CA,,,,,,,,,Felton Music Hall,6275 California 9,Felton,471731.0,US
+6264162,Eartheater,807525,Eartheater,202.0,CA,,,,,,,94117,500.0,The Independent,628 Divisadero Street,San Francisco,649.0,US
+6147467,Healy,682706,Healy,102.0,CA,,,,,,,94102,21291.0,Rickshaw Stop,155 Fell Street,San Francisco,2453.0,US
+6245869,Toby Keith,1912,Toby Keith,628.0,NV,1912.0,Toby Keith,band,2000000.0,450.0,Country,89109,6400.0,Dolby Live at Park MGM,3770 S Las Vegas Blvd,Las Vegas,431354.0,US
+6295811,Windser,797826,Windser,58.0,CA,797826.0,Windser,band,2000000.0,,,,,Sweetwater Music Hall,19 Corte Madera Avenue,Mill Valley,8340.0,US
+6050285,Fast Times,20587,Fast Times,408.0,CA,,,,,,,90069,500.0,Whisky a Go Go,8901 Sunset Boulevard,West Hollywood,2477.0,US
+6286193,Jordy,229735,Jordy,162.0,CA,229735.0,Jordy,band,2000000.0,,,90069,500.0,The Roxy Theatre,9009 Sunset Boulevard,Los Angeles,973.0,US
+6234237,Parmalee,33171,Parmalee,80.0,CA,33171.0,Parmalee,band,2000000.0,450.0,Country,92230,2557.0,Morongo Casino Resort and Spa,49500 Seminole Drive,Cabazon,854.0,US
+6299323,Heilung,770981,Heilung,124.0,CA,,,,,,,90007,6300.0,Shrine Expo Hall,649 W. Jefferson Street,Los Angeles,1591.0,US
+6139522,Little Texas,17982,Little Texas,157.0,NV,17982.0,Little Texas,band,2000000.0,450.0,Country,,,The Showroom at the Golden Nugget Las Vegas,301 Fremont Street,Las Vegas,4365.0,US
+5926208,The Carolina Opry,58455,The Carolina Opry,125.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6178669,A Bing Crosby Christmas with Jared Bradshaw,806324,A Bing Crosby Christmas,100.0,IN,,,,,,,,,Eagles Theatre,106 West Market Street,Wabash,200899.0,US
+6135064,Knuckle Puck with Real Friends (21+),262036,Knuckle Puck,104.0,PA,262036.0,Knuckle Puck,band,2000000.0,456.0,Rock,,,Harrisburg Midtown Arts Center,1110 North 3rd Street,Harrisburg,18020.0,US
+6276672,Boney M.,45547,Boney M.,148.0,NS,,,,,,,,,Scotiabank Centre,1800 Argyle Street,Halifax,677.0,Canada
+6113003,The Allman Betts Family Revival,805476,The Allman Betts Family Revival,318.0,FL,,,,,,,34236,1736.0,Van Wezel Performing Arts Hall,777 N. Tamiami Trail,Sarasota,1096.0,US
+6143189,Oso Oso,428724,Oso Oso,53.0,MI,,,,,,,,,The Pyramid Scheme,68 Commerce,Grand Rapids,384134.0,US
+6202894,Bobby Weir and Wolf Bros,338,Bob Weir,350.0,NY,338.0,Bob Weir,band,2000000.0,472.0,Classic Rock,10573,1800.0,The Capitol Theatre,149 Westchester Avenue,Port Chester,10406.0,US
+6203545,Nonpoint,1353,Nonpoint,122.0,KY,1353.0,Nonpoint,band,2000000.0,493.0,Rap,40202,900.0,Mercury Ballroom,611 South 4th Street,Louisville,57671.0,US
+5926207,The Carolina Opry,58455,The Carolina Opry,128.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6258826,Bryson Tiller,375017,Bryson Tiller,306.0,MA,375017.0,Bryson Tiller,band,2000000.0,493.0,Rap,,,House of Blues - Boston,15 Lansdowne Street,Boston,517.0,US
+6159684,Travis Scott,146225,Travis Scott,200.0,MI,146225.0,Travis Scott,band,2000000.0,491.0,Hip-Hop,48201,21000.0,Little Caesars Arena,66 Sibley St,Detroit,420444.0,US
+6227530,Gabe Dixon Band,72228,Gabe Dixon Band,105.0,MA,,,,,,,,,City Winery - Boston,1 Canal St,Boston,431585.0,US
+6178670,A Bing Crosby Christmas with Jared Bradshaw,806324,A Bing Crosby Christmas,116.0,IN,,,,,,,,,Eagles Theatre,106 West Market Street,Wabash,200899.0,US
+6284048,Tab Benoit (16+),10629,Tab Benoit,85.0,NY,,,,,,,14203,1200.0,Town Ballroom,681 Main Street,Buffalo,1073.0,US
+6265622,Chuck Lamb Trio,783925,Chuck Lamb Trio,52.0,NY,,,,,,,,,Caffe Lena,47 Phila Street,Saratoga Springs,9539.0,US
+6168239,Craig Owens,10555,Craig Owens,72.0,MI,,,,,,,,,The Loving Touch - Ferndale,22634 Woodward Ave,Ferndale,13646.0,US
+6093523,Dogstar,804918,Dogstar,162.0,MA,,,,,,,02215,650.0,Paradise Rock Club,967 Commonwealth Ave.,Boston,540.0,US
+6236070,"Rachel Bloom: Death, Let Me Do My Show",162726,Rachel Bloom,208.0,NY,,,,,,,10003,347.0,Orpheum Theatre - NY,126 Second Ave,New York,2964.0,US
+6087351,Meshuggah with In Flames and Whitechapel,1232,Meshuggah,129.0,CT,,,,,,,,,Toyota Oakdale Theatre,95 South Turnpike Road,Wallingford,1723.0,US
+6253350,10 Years,8946,10 Years,67.0,GA,,,,,,,30303,1500.0,The Masquerade - Hell,92 Pryor Street SW,Atlanta,425.0,US
+6164499,Yo La Tengo (18+),2043,Yo La Tengo,165.0,NY,,,,,,,10002,575.0,Bowery Ballroom,6 Delancey Street,New York,719.0,US
+6113182,Kenny G,69,Kenny G,128.0,IN,,,,,,,,,Long Center for the Performing Arts,111 N 6th St,Lafayette,1923.0,US
+6205291,"Jingle Ball with Usher, OneRepublic, Jelly Roll, Big Time Rush, Doechii, & more!",79338,	iHeartRadio Jingle Ball,122.0,PA,79338.0,	iHeartRadio Jingle Ball,band,2000000.0,,,,,Wells Fargo Center,3601 South Broad Street,Philadelphia,3148.0,US
+6145926,Karla Bonoff,1025,Karla Bonoff,129.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
+6039728,Neffex,677939,Neffex,81.0,TX,,,,,,,,,Ruins,2653 Commerce Street,Dallas,449521.0,US
+6252490,A Motown Christmas,31590,A Motown Christmas,103.0,PA,,,,,,,,,Mishler Theatre,1208 12th Avenue,Altoona,161473.0,US
+6159469,II Divo,877,Il Divo,236.0,GA,,,,,,,30308,4678.0,Fox Theatre Atlanta,660 Peachtree Street NE,Atlanta,712.0,US
+6008837,Billy Strings,299503,Billy Strings,193.0,PA,299503.0,Billy Strings,band,2000000.0,467.0,Folk,15261,12508.0,Petersen Events Center,3719 Terrace Street,Pittsburgh,1658.0,US
+6282268,Lady A with Kimberly Perry,1082,Lady A,328.0,KY,,,,,,,40507,1000.0,Lexington Opera House,401 W Short St,Lexington,3679.0,US
+6165153,Big Bad Voodoo Daddy,294,Big Bad Voodoo Daddy,83.0,OH,,,,,,,44325,2955.0,EJ Thomas Hall,198 Hill Street,Akron,1199.0,US
+5942402,Natalie MacMaster with Donnell Leahy,1319,Natalie MacMaster,101.0,NY,,,,,,,,,UB Center for the Arts,103 Center For The Arts,Buffalo,724.0,US
+6008835,Billy Strings - 2 Day Pass,299503,Billy Strings,1595.0,PA,299503.0,Billy Strings,band,2000000.0,467.0,Folk,15261,12508.0,Petersen Events Center,3719 Terrace Street,Pittsburgh,1658.0,US
+6048467,Matteo Bocelli,803505,Matteo Bocelli,164.0,MA,,,,,,,,,Chevalier Theatre,30 Forest St,Medford,53811.0,US
+6295526,Majid Jordan (16+),441072,Majid Jordan,103.0,NY,,,,,,,11222,1800.0,Brooklyn Steel,319 Frost Street,Brooklyn,420076.0,US
+6286112,Odie Leigh (16+),802221,Odie Leigh,93.0,NY,,,,,,,11211,550.0,Music Hall of Williamsburg,66 North 6th St.,Brooklyn,399.0,US
+6219952,Zakk Sabbath with The Native Howl,349554,Zakk Sabbath,230.0,CO,,,,,,,,,Mesa Theater and Club,538 Main Street,Grand Junction,6251.0,US
+6108151,Hot Mulligan,405099,Hot Mulligan,211.0,CO,405099.0,Hot Mulligan,band,2000000.0,457.0,Alternative,80202,1000.0,Summit - Denver,1902 Blake St,Denver,2882.0,US
+6024509,Samara Joy,797930,Samara Joy,169.0,MO,,,,,,,,,The Factory STL,17105 North Outer 40 Road,Chesterfield,518878.0,US
+6176174,Hunter Hayes,11264,Hunter Hayes,88.0,TN,,,,,,,,,Walker Theatre Chattanooga,399 McCallie Ave.,Chattanooga,434384.0,US
+5923540,Stephen Sanchez with Stephen Day,797186,Stephen Sanchez,258.0,FL,,,,,,,33312,3100.0,Revolution Live,200 West Broward Blvd,Fort Lauderdale,563.0,US
+6149799,Aqua,111674,Aqua,189.0,IL,,,,,,,60654,1300.0,House of Blues Chicago,329 N Dearborn St,Chicago,515.0,US
+6054047,Lil Darkie,797814,Lil Darkie,98.0,LA,,,,,,,70130,843.0,House of Blues - New Orleans,225 Decatur Street,New Orleans,356.0,US
+6141790,DURRY (18+),798993,DURRY,88.0,IN,,,,,,,,,The Hi-Fi - IN,1043 Virginia Ave,Indianapolis,8998.0,US
+6146275,The Mountain Goats (18+),1289,The Mountain Goats,136.0,GA,,,,,,,30601,1028.0,Georgia Theatre,215 North Lumpkin Street,Athens,5790.0,US
+6226404,Kendra Morris (21+),25826,Kendra Morris,73.0,PA,,,,,,,,,Club Cafe,56 S 12th Street,Pittsburgh,1689.0,US
+6124184,Vitamin String Quartet,246322,Vitamin String Quartet,119.0,NJ,,,,,,,07631,1367.0,Bergen Performing Arts Center,30 North Van Brunt Street,Englewood,438.0,US
+6221714,Squirrel Nut Zippers,1671,Squirrel Nut Zippers,108.0,OH,,,,,,,,,Robins Theatre,160 E Market St,Warren,484599.0,US
+6119174,Postmodern Jukebox,272825,Postmodern Jukebox,95.0,PA,,,,,,,15120,1047.0,Carnegie of Homestead Music Hall - Munhall,510 East 10th Avenue,Munhall,1180.0,US
+6179909,From Ashes To New,278397,From Ashes To New,130.0,WI,,,,,,,53233,400.0,The Rave - Eagles Club,2401 West Wisconsin Avenue,Milwaukee,542.0,US
+6215358,Local H,4179,Local H,98.0,OH,,,,,,,,,Grog Shop,2785 Euclid Heights Blvd,Cleveland,824.0,US
+6061627,Grand Ole Opry,812,Grand Ole Opry,413.0,TN,,,,,,,37214,4400.0,Grand Ole Opry House,600 Opry Mills Drive,Nashville,4706.0,US
+6286822,Hillbilly Casino,17471,Hillbilly Casino,76.0,NC,,,,,,,,,The Ramkat,170 West 9th Street,Winston-Salem,441439.0,US
+6229543,Marie Osmond,8012,Marie Osmond,361.0,FL,,,,,,,,,Seminole Casino Immokalee,506 S 1st St,Immokalee,15647.0,US
+6128438,Sarah Brightman,1588,Sarah Brightman,292.0,FL,,,,,,,33759,2180.0,Ruth Eckerd Hall,1111 McMullen Booth Rd.,Clearwater,294.0,US
+6143539,Lindsay Stirling,27573,Lindsey Stirling,158.0,NY,,,,,,,14202,3700.0,Shea's Performing Arts Center,646 Main Street,Buffalo,987.0,US
+6065631,The Glorious Sons with The Blue Stones,110363,The Glorious Sons,73.0,QC,,,,,,,H3J 1N5,589.0,Beanfield Theatre,2490 Rue Notre,Montreal,6101.0,Canada
+6145967,Macy Gray,5457,Macy Gray,78.0,TX,,,,,,,77002,1500.0,House of Blues Houston,1204 Caroline Street,Houston,405.0,US
+6135877,Croce Plays Croce,684791,Croce Plays Croce,276.0,TX,,,,,,,,,HEB Performance Hall at Tobin Center,100 Auditorium Circle,San Antonio,58148.0,US
+6107264,Mannheim Steamroller Christmas - Sioux City,1184,Mannheim Steamroller,204.0,IA,,,,,,,51101,2600.0,Orpheum Theatre - Sioux City,528 Pierce Street,Sioux City,808.0,US
+6256335,Jim Brickman,951,Jim Brickman,805.0,KS,,,,,,,,,McCain Auditorium,211 McCain Auditorium,Manhattan,4571.0,US
+6065847,Andrew McMahon In The Wilderness,2254,Andrew McMahon In The Wilderness,127.0,CO,,,,,,,80218,11000.0,Fillmore Auditorium - Denver,1510 Clarkson Street,Denver,451.0,US
+6231815,Celtic Angels Christmas,774477,Celtic Angels Christmas,173.0,IA,,,,,,,52401,1693.0,Paramount Theatre - Cedar Rapids,123 3rd Ave SE,Cedar Rapids,13129.0,US
+6065537,Silverstein,1625,Silverstein,107.0,UT,1625.0,Silverstein,band,2000000.0,452.0,Pop,84101,1200.0,The Depot - Salt Lake City,400 West South Temple,Salt Lake City,624.0,US
+6252960,Michael Cavanaugh,6081,Michael Cavanaugh,585.0,WI,,,,,,,,,The Grand Theatre Wausau,401 Fourth Street,Wausau,349.0,US
+6112564,The Maine (18+),2672,The Maine,92.0,TN,2672.0,The Maine,band,2000000.0,458.0,Indie,,,Brooklyn Bowl Nashville,900 3rd Avenue North,Nashville,515120.0,US
+6165079,Cody Canada & The Departed (18+),21789,Cody Canada & The Departed,51.0,MS,,,,,,,,,Duling Hall,622 Duling Ave,Jackson,7066.0,US
+6189198,Steel Panther,4733,Steel Panther,101.0,IL,,,,,,,,,The Forge,22 West Cass Street,Joliet,7413.0,US
+6257479,Jake Shimabukuro,4607,Jake Shimabukuro,114.0,MO,,,,,,,,,City Winery - St. Louis,"3730 Foundry Way, Suite 158",St. Louis,521273.0,US
+6203254,The Oak Ridge Boys,1356,The Oak Ridge Boys,141.0,TN,,,,,,,37219,2362.0,Ryman Auditorium,116 5th Avenue North,Nashville,292.0,US
+6163073,The Dryes (16+),673361,The Dryes,52.0,AL,,,,,,,,,Avondale Brewing Company,201 41st St S,Birmingham,45538.0,US
+6174452,Darren Criss,10412,Darren Criss,174.0,WI,,,,,,,,,Barrymore Theatre - Madison,2090 Atwood Ave.,Madison,1182.0,US
+6246795,Southside Johnny & The Asbury Jukes,1665,Southside Johnny & The Asbury Jukes,195.0,IL,,,,,,,,,City Winery - Chicago,1200 West Randolph Street,Chicago,9520.0,US
+6257095,Dave Koz,549,Dave Koz,175.0,TX,,,,,,,79901,2500.0,Abraham Chavez Theatre,1 Civic Center Plaza,El Paso,1431.0,US
+6199929,Yussef Dayes (18+),796628,Yussef Dayes,94.0,LA,,,,,,,,,Tipitina's,501 Napoleon Ave,New Orleans,1335.0,US
+6139944,bar italia (21+),802684,bar italia,116.0,MN,,,,,,,,,Turf Club - Saint Paul,1601 University Avenue,Saint Paul,4960.0,US
+6233117,Southall (21+),807059,Southall,95.0,UT,,,,,,,,,Urban Lounge - Salt Lake City,241 South 500 East,Salt Lake City,941.0,US
+6184786,Andrew Bird,198,Andrew Bird,155.0,IL,,,,,,,,,Fourth Presbyterian Church,126 East Chestnut Street,Chicago,1586.0,US
+6173559,"Rod Wave with Ari Lennox, Toosii, and G Herbo",782153,Rod Wave,407.0,LA,782153.0,Rod Wave,band,2000000.0,491.0,Hip-Hop,,,Smoothie King Center,1501 Dave Dixon Drive,New Orleans,184.0,US
+6187240,Queens of the Stone Age,7978,Queens Of The Stone Age,195.0,NM,7978.0,Queens Of The Stone Age,band,2000000.0,472.0,Classic Rock,,,Revel Entertainment Center,4720 Alexander Blvd NE,Albuquerque,520566.0,US
+6188535,Big Wreck,14565,Big Wreck,102.0,TX,,,,,,,,,Studio at the Factory,2727 Canton Street,Dallas,519618.0,US
+6272703,Patrick Droney,102028,Patrick Droney,130.0,MO,,,,,,,,,Red Flag Concert Hall,3040 Locust Street,St. Louis,515083.0,US
+6099685,Blue October,330,Blue October,169.0,TX,,,,,,,,,Wagner Noel Performing Arts Center,1310 N FM 1788,Midland,7025.0,US
+6094669,The Jinkx and Dela Holiday Show - Kansas City,292405,Jinkx Monsoon,223.0,MO,,,,,,,64105,3200.0,Midland Theatre - MO,1228 Main St,Kansas City,713.0,US
+6282502,mxmtoon,697419,mxmtoon,80.0,IL,,,,,,,60202,250.0,SPACE - Evanston,1245 Chicago Avenue,Evanston,2109.0,US
+6235802,Billy Raffoul,520887,Billy Raffoul,84.0,IL,,,,,,,,,Beat Kitchen,2100 West Belmont Avenue,Chicago,3320.0,US
+6154933,Daniel Donato (18+),667780,Daniel Donato,87.0,AR,,,,,,,,,George's Majestic Lounge,519 West Dickson Street,Fayetteville,2475.0,US
+6232077,Tower of Power,1930,Tower of Power,124.0,MT,,,,,,,,,Wachholz College Center,777 Grandview Dr,Kalispell,520704.0,US
+6298619,Bryson Tiller (21+),375017,Bryson Tiller,54.0,MA,375017.0,Bryson Tiller,band,2000000.0,493.0,Rap,,,Memoire Boston,1 Broadway,Everett,519013.0,US
+6191941,Patterson Hood (18+),16745,Patterson Hood,68.0,CO,,,,,,,,,Ophelia's Electric Soapbox,1215 20th Street,Denver,80286.0,US
+6220234,Matt Rogers,728876,Matt Rogers,126.0,CO,,,,,,,,,Newman Center - Gates Concert Hall,2344 East Iliff Avenue,Denver,1717.0,US
+5885959,Awakening,79952,Awakening,293.0,NV,,,,,,,,,Awakening Theater at Wynn Las Vegas,3131 Las Vegas Boulevard South,Las Vegas,6206.0,US
+6049662,Skid Row with Buckcherry (16+),1635,Skid Row,88.0,CO,,,,,,,,,Ogden Theatre,935 East Colfax Avenue,Denver,849.0,US
+6295633,Your Neighbors (16+),805263,Your Neighbors,56.0,AZ,,,,,,,85004,250.0,Valley Bar,130 N Central Ave,Phoenix,71620.0,US
+6272077,Blakchyl,807796,Blakchyl,34.0,TX,,,,,,,,,Antone's Nightclub,305 East 5th Street,Austin,982.0,US
+6024106,TV Girls,17098,TV Girl,429.0,CO,17098.0,TV Girl,band,2000000.0,452.0,Pop,,,Mission Ballroom,4242 Wynkoop Street,Denver,467142.0,US
+6282504,Kenya Grace,806898,Kenya Grace,114.0,CA,806898.0,Kenya Grace,band,2000000.0,,,,,El Cid,4212 Sunset Boulevard,Los Angeles,11198.0,US
+6026631,Tommy Emmanuel,1921,Tommy Emmanuel,84.0,CA,,,,,,,,,Palace of Fine Arts Theatre,3301 Lyon Street,San Francisco,1303.0,US
+5956664,Depeche Mode with Young Fathers,589,Depeche Mode,641.0,CA,589.0,Depeche Mode,band,2000000.0,452.0,Pop,,,Kia Forum,3900 W Manchester Blvd.,Inglewood,191.0,US
+6285161,Chris Botti,453,Chris Botti,253.0,NY,,,,,,,,,Blue Note,131 West 3rd Street,New York,1455.0,US
+6180103,Alexandra Kay,732602,Alexandra Kay,213.0,CA,,,,,,,,,Goldfield Roseville,238 Vernon Street,Roseville,519651.0,US
+6218679,Bell Witch (21+),64813,Bell Witch,76.0,CA,,,,,,,,,Felton Music Hall,6275 California 9,Felton,471731.0,US
+6058620,Devendra Banhart,593,Devendra Banhart,95.0,WA,,,,,,,98105,479.0,Neptune Theatre - WA,1303 Northeast 45th Street,Seattle,5805.0,US
+6282494,A December to Remember with The Moss and The Walters,61830,A December To Remember,151.0,OR,,,,,,,97209,1000.0,McMenamins Crystal Ballroom,1332 W. Burnside,Portland,756.0,US
+6286850,Haley Joelle,806631,Haley Joelle,131.0,OR,,,,,,,,,Polaris Hall,635 North Killingsworth Court,Portland,431557.0,US
+6285635,Raja Kumari,700497,Raja Kumari,117.0,CA,,,,,,,,,Cafe du Nord at Swedish American Hall,2174 Market Street,San Francisco,1322.0,US
+5922140,Stevie Nicks (Rescheduled from 3/26/23),4987,Stevie Nicks,420.0,CA,4987.0,Stevie Nicks,band,2000000.0,472.0,Classic Rock,95814,19000.0,Golden 1 Center,500 David J Stern Walk,Sacramento,177304.0,US
+6113517,Paul Cauthen,305734,Paul Cauthen,87.0,OR,305734.0,Paul Cauthen,band,2000000.0,450.0,Country,,,Midtown Ballroom,51 Northwest Greenwood Avenue,Bend,7858.0,US
+5953940,Botch,800372,Botch,51.0,CA,,,,,,,,,The Regency Ballroom,1300 Van Ness Avenue,San Francisco,561.0,US
+6174416,Chris Isaak,457,Chris Isaak,144.0,CA,,,,,,,,,Orpheum Theatre - Los Angeles,842 S. Broadway,Los Angeles,362.0,US
+6073524,Charley Crockett,474029,Charley Crockett,190.0,NV,474029.0,Charley Crockett,band,2000000.0,450.0,Country,,,The Theater at Virgin Hotels,4455 Paradise Road,Las Vegas,161.0,US
+6292970,Automatic,808052,Automatic,94.0,CA,,,,,,,,,The Fonda Theatre,6126 Hollywood Blvd.,Los Angeles,434763.0,US
+5885955,Awakening,79952,Awakening,283.0,NV,,,,,,,,,Awakening Theater at Wynn Las Vegas,3131 Las Vegas Boulevard South,Las Vegas,6206.0,US
+6139515,Rodney Atkins,1553,Rodney Atkins,275.0,NV,,,,,,,,,The Showroom at the Golden Nugget Las Vegas,301 Fremont Street,Las Vegas,4365.0,US
+6301230,Ditch Day PHL with Bow Wow,808198,Ditch Day PHL,174.0,PA,,,,,,,,,The Fillmore Philadelphia,29 E Allen Street,Philadelphia,78730.0,US
+6093004,Here We Are,164833,Here We Are,104.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+6174653,Boney M.,45547,Boney M.,130.0,NB,,,,,,,,,Avenir Centre,1100 Main Street,Moncton,448199.0,Canada
+6179914,From Ashes To New,278397,From Ashes To New,59.0,IL,,,,,,,,,Concord Music Hall,2047 N Milwaukee Ave,Chicago,3738.0,US
+6177976,William Basinski,723448,William Basinski,71.0,DC,,,,,,,,,The Atlantis,2047 9th St NW,Washington,521187.0,US
+6221995,The Weather Station,25146,The Weather Station,85.0,ON,,,,,,,,,The Great Hall,1087 Queen Street West,Toronto,3572.0,Canada
+6224050,Fred Hammond,4131,Fred Hammond,164.0,OH,,,,,,,44114,1200.0,House Of Blues - Cleveland,308 Euclid Ave,Cleveland,360.0,US
+6125579,Real Friends,35046,Real Friends,122.0,ON,,,,,,,M4M 1H1,950.0,The Opera House,735 Queen Street East,Toronto,3362.0,Canada
+6011891,Old Dominion,79728,Old Dominion,99.0,OH,79728.0,Old Dominion,band,2000000.0,450.0,Country,43215,19500.0,Nationwide Arena,200 West Nationwide Boulevard,Columbus,430.0,US
+5926206,The Carolina Opry,58455,The Carolina Opry,120.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6285808,Merry Country Christmas,773028,Merry Country Christmas,126.0,SC,,,,,,,,,Newberry Opera House,1201 McKibben Street,Newberry,1836.0,US
+6199076,Taking Back Sunday,90,Taking Back Sunday,237.0,NY,,,,,,,,,Mulcahy's Pub and Concert Hall,3232 Railroad Avenue,Wantagh,1773.0,US
+6093008,Here We Are,164833,Here We Are,82.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+6263269,LANY,303766,LANY,131.0,KY,303766.0,LANY,band,2000000.0,457.0,Alternative,,,MegaCorp Pavilion,101 West 4th Street,Newport,518983.0,US
+6230885,Kendra Morris,25826,Kendra Morris,30.0,OH,,,,,,,,,Frankies,308 Main Street,Toledo,3855.0,US
+6236069,"Rachel Bloom: Death, Let Me Do My Show",162726,Rachel Bloom,160.0,NY,,,,,,,10003,347.0,Orpheum Theatre - NY,126 Second Ave,New York,2964.0,US
+6202893,Bobby Weir and Wolf Bros,338,Bob Weir,267.0,NY,338.0,Bob Weir,band,2000000.0,472.0,Classic Rock,10573,1800.0,The Capitol Theatre,149 Westchester Avenue,Port Chester,10406.0,US
+6157303,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,160.0,NC,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,27607,19350.0,PNC Arena,1400 Edwards Mill Road,Raleigh,1430.0,US
+5941193,The Bouncing Souls,354,The Bouncing Souls,91.0,MA,,,,,,,,,Royale,279 Tremont Street,Boston,2458.0,US
+6220196,Matt Rogers,728876,Matt Rogers,60.0,ON,,,,,,,M4K 1N2,1500.0,Danforth Music Hall,147 Danforth Ave,Toronto,6378.0,Canada
+6229727,Mustard Plug,7285,Mustard Plug,142.0,OH,,,,,,,,,Rumba Cafe,2507 Summit Street,Columbus,8607.0,US
+6233000,A Celtic Family Christmas,774143,A Celtic Family Christmas,112.0,VT,,,,,,,05401,1453.0,Flynn Center for the Performing Arts,153 Main Street,Burlington,1012.0,US
+6148145,Jake Shimabukuro,4607,Jake Shimabukuro,72.0,KY,,,,,,,,,Bomhard Theater,501 West Main Street,Louisville,3159.0,US
+6144126,Pentatonix,20599,Pentatonix,206.0,FL,20599.0,Pentatonix,band,2000000.0,452.0,Pop,32805,18500.0,Amway Center,400 West Church Street,Orlando,2652.0,US
+6164500,Yo La Tengo (18+),2043,Yo La Tengo,138.0,NY,,,,,,,10002,575.0,Bowery Ballroom,6 Delancey Street,New York,719.0,US
+6113006,The Allman Betts Family Revival,805476,The Allman Betts Family Revival,198.0,FL,,,,,,,32202,1930.0,Florida Theatre Jacksonville,128 East Forsyth Street,Jacksonville,493.0,US
+6008839,Billy Strings,299503,Billy Strings,126.0,PA,299503.0,Billy Strings,band,2000000.0,467.0,Folk,15261,12508.0,Petersen Events Center,3719 Terrace Street,Pittsburgh,1658.0,US
+6107300,Mannheim Steamroller Christmas - Toledo,1184,Mannheim Steamroller,121.0,OH,,,,,,,43614,2424.0,Stranahan Theater,4645 Heatherdowns Blvd.,Toledo,510.0,US
+6214017,Voctave,806844,Voctave,72.0,IN,,,,,,,47306,3581.0,Emens Auditorium,1800 West Riverside Avenue,Muncie,1262.0,US
+6018621,Straight No Chaser,1703,Straight No Chaser,129.0,IN,,,,,,,47405,3154.0,Indiana University Auditorium,1211 East 7th Street,Bloomington,1203.0,US
+6053408,Steve Miller Band,1693,Steve Miller Band,170.0,FL,1693.0,Steve Miller Band,band,2000000.0,472.0,Classic Rock,33928,7128.0,Hertz Arena,11000 Everblades Parkway,Estero,951.0,US
+6289162,A Motown Christmas,31590,A Motown Christmas,107.0,PA,,,,,,,,,Pullo Family Performing Arts Center,1031 Edgecomb Avenue,York,1893.0,US
+6206242,Mariah Carey ,2494,Mariah Carey,222.0,PA,2494.0,Mariah Carey,band,2000000.0,452.0,Pop,,,Wells Fargo Center,3601 South Broad Street,Philadelphia,3148.0,US
+6218180,Squirrel Nut Zippers,1671,Squirrel Nut Zippers,114.0,IL,,,,,,,,,City Winery - Chicago,1200 West Randolph Street,Chicago,9520.0,US
+6174193,Girl Named Tom,796666,Girl Named Tom,119.0,NC,,,,,,,27601,1700.0,Martin Marietta Center for the Performing Arts - Meymandi Concert Hall,2 East South Street,Raleigh,939.0,US
+6196960,Chevy Chase,216881,Chevy Chase,126.0,MN,,,,,,,55904,1084.0,Mayo Civic Center Presentation Hall,30 Civic Center Drive SE,Rochester,1055.0,US
+6049050,Jon McLaughlin,991,Jon McLaughlin,67.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
+6197919,Tab Benoit,10629,Tab Benoit,86.0,OH,,,,,,,44240,642.0,The Kent Stage,175 E Main St,Kent,2443.0,US
+6299396,Olivia Barton,805985,Olivia Barton,36.0,PA,,,,,,,,,PhilaMOCA,118 S 36th St,Philadelphia,8726.0,US
+6129722,Patrick Watson (16+),15107,Patrick Watson,85.0,NY,,,,,,,10003,2500.0,Webster Hall,125 East 11th Street,New York,463.0,US
+5964028,Half Moon Run,31213,Half Moon Run,276.0,QC,,,,,,,H2X 1K5,2200.0,MTELUS,59 Rue Sainte,Montreal,443.0,Canada
+6265160,Boombox Cartel,315195,Boombox Cartel,64.0,TX,,,,,,,,,Rockefellers,3620 Washington Avenue,Houston,419628.0,US
+6288756,Model/Actriz (18+),796782,Model/Actriz,65.0,NY,,,,,,,11211,550.0,Music Hall of Williamsburg,66 North 6th St.,Brooklyn,399.0,US
+6277908,Open Mike Eagle,21809,Open Mike Eagle,67.0,MA,,,,,,,02138,525.0,The Sinclair,52 Church Street,Cambridge,11280.0,US
+6286313,Odie Leigh,802221,Odie Leigh,81.0,DC,,,,,,,,,Union Stage,740 Water Street Southwest,Washington,435166.0,US
+6254607,Blue Rodeo,332,Blue Rodeo,291.0,ON,,,,,,,M5B 1T7,2752.0,Massey Hall,178 Victoria St.,Toronto,418.0,Canada
+6134663,Sarah Brightman,1588,Sarah Brightman,194.0,FL,,,,,,,,,Walt Disney Theater at Dr Phillips Center,445 S Magnolia Ave,Orlando,335644.0,US
+6257977,Holly Cole,7598,Holly Cole,211.0,ON,,,,,,,,,Southam Hall,1125 Colonel By Drive,Ottawa,468607.0,Canada
+6232607,Yussef Dayes,796628,Yussef Dayes,56.0,TX,,,,,,,,,Proof Rooftop Lounge,2600 Travis Street,Houston,77737.0,US
+6054187,The Irish Tenors,889,The Irish Tenors,117.0,NJ,,,,,,,07701,1543.0,Hackensack Meridian Health Theatre at Count Basie Center,99 Monmouth Street,Red Bank,297.0,US
+6191977,Oso Oso,428724,Oso Oso,213.0,IL,,,,,,,,,Cobra Lounge,235 North Ashland Avenue,Chicago,7801.0,US
+6285165,Chris Botti,453,Chris Botti,262.0,NY,,,,,,,,,Blue Note,131 West 3rd Street,New York,1455.0,US
+6143253,II Divo,877,Il Divo,161.0,AL,,,,,,,36104,1200.0,Montgomery Performing Arts Centre,201 Tallapoosa Street,Montgomery,1037.0,US
+6141871,Sam Morrison (21+),509024,Sam Morrison,70.0,PA,,,,,,,,,Pittsburgh Improv,166 East Bridge Street,Homestead,69949.0,US
+6168241,Craig Owens,10555,Craig Owens,75.0,IL,,,,,,,,,Bottom Lounge,1375 W. Lake St,Chicago,981.0,US
+6224118,Bret Michaels,366,Bret Michaels,113.0,NY,,,,,,,11590,2870.0,NYCB Theatre at Westbury,960 Brush Hollow Rd.,Westbury,3356.0,US
+5923582,Stephen Sanchez with Stephen Day,797186,Stephen Sanchez,140.0,FL,,,,,,,33605,720.0,The Orpheum - Tampa,1915 East 7th Avenue,Tampa,3319.0,US
+5996274,Andrea Bocelli,5276,Andrea Bocelli,549.0,NY,5276.0,Andrea Bocelli,band,2000000.0,,,10001,20000.0,Madison Square Garden,4 Pennsylvania Plaza,New York,93.0,US
+6048377,Matteo Bocelli,803505,Matteo Bocelli,264.0,NY,,,,,,,11743,1753.0,Paramount Theatre - Huntington,370 New York Avenue,Huntington,6163.0,US
+6097555,Cirque Musica Holiday Wonderland - Englewood,11701,Cirque Musica,145.0,NJ,,,,,,,07631,1367.0,Bergen Performing Arts Center,30 North Van Brunt Street,Englewood,438.0,US
+6000321,Ginuwine (Rescheduled from 10/25/23),2394,Ginuwine,141.0,MI,2394.0,Ginuwine,band,2000000.0,452.0,Pop,,,Sound Board at MotorCity Casino,2901 Grand River Avenue,Detroit,642.0,US
+6309197,Reb Beach (21+),792316,Reb Beach,41.0,PA,,,,,,,,,Jergel's Rhythm Grille,103 Slade Lane,Warrendale,10521.0,US
+6173561,"Rod Wave with Ari Lennox, Toosii, and G Herbo",782153,Rod Wave,723.0,GA,782153.0,Rod Wave,band,2000000.0,491.0,Hip-Hop,30303,21000.0,State Farm Arena,1 Philips Drive,Atlanta,127.0,US
+6299766,A Wilhelm Scream,22908,A Wilhelm Scream,46.0,OH,,,,,,,,,Grog Shop,2785 Euclid Heights Blvd,Cleveland,824.0,US
+6149803,Aqua,111674,Aqua,179.0,MN,,,,,,,,,Fillmore Minneapolis,617 West Broadway Avenue,Minneapolis,490102.0,US
+6157305,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,172.0,LA,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,,,Smoothie King Center,1501 Dave Dixon Drive,New Orleans,184.0,US
+6205584,National Lampoon's Christmas Vacation,405026,National Lampoon's Christmas Vacation,20.0,AL,,,,,,,,,Alabama Theatre - Birmingham,1817 Third Ave. North,Birmingham,618.0,US
+6253730,Celtic Angels Christmas,774477,Celtic Angels Christmas,80.0,IN,,,,,,,,,Blue Gate Performing Arts Center,760 South Van Buren Street,Shipshewana,515588.0,US
+6199336,Michael W. Smith,1251,Michael W. Smith,357.0,FL,,,,,,,,,Capitol Theatre Outdoor Stage,405 Cleveland Street,Clearwater,430000.0,US
+6215301,Action Bronson,17082,Action Bronson,85.0,KY,17082.0,Action Bronson,band,2000000.0,493.0,Rap,41011,1200.0,Madison Theater,730 Madison Avenue,Covington,1186.0,US
+6119120,Interpol,4939,Interpol,153.0,NY,4939.0,Interpol,band,2000000.0,472.0,Classic Rock,10023,2894.0,Beacon Theatre,2124 Broadway,New York,414.0,US
+6107278,Mannheim Steamroller Christmas - Fargo,1184,Mannheim Steamroller,145.0,ND,,,,,,,,,Scheels Arena,5225 31st Ave South,Fargo,3628.0,US
+6286544,Michael Feinstein and Jean-Yves Thibaudet,1242,Michael Feinstein,83.0,NY,,,,,,,,,Carnegie Hall,152 West 57th Street,New York,774.0,US
+6297360,Sara Evans,1586,Sara Evans,92.0,IL,,,,,,,,,NIU Convocation Center,1525 West Lincoln Highway,Dekalb,1821.0,US
+6143541,Lindsay Stirling,27573,Lindsey Stirling,163.0,NY,,,,,,,,,Landmark Theatre,362 South Salina Street,Syracuse,1200.0,US
+6239386,Scotty McCreery and Walker Hayes,10439,Scotty McCreery,93.0,MD,,,,,,,21202,2000.0,Rams Head Live! - Baltimore,20 Market Place,Baltimore,364.0,US
+6054988,Home Free,75262,Home Free,96.0,OH,,,,,,,,,Andrew J Brady Music Center,25 Race Street,Cincinnati,518869.0,US
+6145035,Roy Woods,78815,Roy Woods,96.0,ON,,,,,,,,,History,1663 Queen Street East,Toronto,519028.0,Canada
+6214094,ALT AZ 93.3 Ugly Sweater with Lovejoy,800384,Lovejoy,245.0,AZ,800384.0,Lovejoy,band,2000000.0,,,85201,4950.0,Mesa Amphitheatre,263 North Center Street,Mesa,639.0,US
+6298992,A Rocky Mountain High Experience,785741,A Rocky Mountain High Experience,123.0,TX,,,,,,,,,Waco Hippodrome Theatre,724 Austin Ave,Waco,72199.0,US
+6271885,Bettye LaVette,290,Bettye LaVette,99.0,NY,,,,,,,,,Iridium Jazz Club,1650 Broadway,New York,5603.0,US
+6276620,Jim Brickman,951,Jim Brickman,110.0,MO,,,,,,,,,Folly Theater,300 West 12th Street,Kansas City,3752.0,US
+6127745,Christmas With Elvis,777236,Christmas With Elvis,87.0,MN,,,,,,,,,Ames Center,12600 Nicollet Avenue,Burnsville,2849.0,US
+6113138,Kenny G,69,Kenny G,317.0,MO,,,,,,,,,The Factory STL,17105 North Outer 40 Road,Chesterfield,518878.0,US
+5925644,Madonna,1173,Madonna,566.0,NY,1173.0,Madonna,band,2000000.0,452.0,Pop,,,Barclays Center,620 Atlantic Avenue,Brooklyn,7546.0,US
+6284187,The Way Down Wanderers,296537,The Way Down Wanderers,85.0,IL,,,,,,,60202,250.0,SPACE - Evanston,1245 Chicago Avenue,Evanston,2109.0,US
+6189196,Steel Panther,4733,Steel Panther,69.0,WI,,,,,,,,,EPIC Event Center,2351 Holmgren Way,Green Bay,518792.0,US
+6221229,Judy Collins,1010,Judy Collins,170.0,IL,,,,,,,,,Arcada Theatre,105 East Main Street,Saint Charles,4131.0,US
+6068777,Doja Cat,297762,Doja Cat,367.0,IL,297762.0,Doja Cat,band,2000000.0,493.0,Rap,,,United Center,1901 West Madison Street,Chicago,136.0,US
+6119491,Dirty Honey,310639,Dirty Honey,75.0,TN,,,,,,,,,Brooklyn Bowl Nashville,900 3rd Avenue North,Nashville,515120.0,US
+6178380,Peter Mayer,35994,Peter Mayer,78.0,MO,,,,,,,63112,750.0,Delmar Hall,6133 Delmar Blvd.,St. Louis,397902.0,US
+6094671,The Jinkx and Dela Holiday Show - Dallas,292405,Jinkx Monsoon,163.0,TX,,,,,,,,,Texas Trust CU Theatre,1001 Performance Place,Grand Prairie,2618.0,US
+6264715,Daniel Donato,667780,Daniel Donato,40.0,TN,,,,,,,,,Railgarten,2166 Central Avenue,Memphis,455817.0,US
+6309121,VIAL,798870,VIAL,47.0,WI,,,,,,,,,X-Ray Arcade,5036 S Packard Ave,Cudahy,466549.0,US
+6184788,Andrew Bird,198,Andrew Bird,167.0,IL,,,,,,,,,Fourth Presbyterian Church,126 East Chestnut Street,Chicago,1586.0,US
+6252895,Joe Sambo (18+),385147,Joe Sambo,57.0,MN,,,,,,,,,7th Street Entry,701 First Avenue North,Minneapolis,562.0,US
+6146269,The Mountain Goats,1289,The Mountain Goats,101.0,FL,,,,,,,,,Vinyl Music Hall,2 S. Palafox St.,Pensacola,6523.0,US
+6127554,Jazz Is Dead,200704,Jazz Is Dead,106.0,TN,,,,,,,38104,1200.0,Minglewood Hall,1555 Madison Avenue,Memphis,1308.0,US
+6026055,bar italia,802684,bar italia,115.0,WI,,,,,,,,,High Noon Saloon,701 E. Washington Ave,Madison,4836.0,US
+6268276,DeeBaby,806671,DeeBaby,79.0,OK,,,,,,,,,Tower Theatre - OK,425 NW 23rd St,Oklahoma City,429454.0,US
+6255918,Macy Gray,5457,Macy Gray,109.0,TX,,,,,,,,,The Factory in Deep Ellum,2713 Canton Street,Dallas,74559.0,US
+6139946,Ariel Posen,704062,Ariel Posen,67.0,MN,,,,,,,,,Turf Club - Saint Paul,1601 University Avenue,Saint Paul,4960.0,US
+6297386,Lagwagon,11695,Lagwagon,56.0,WI,,,,,,,53233,400.0,The Rave - Eagles Club,2401 West Wisconsin Avenue,Milwaukee,542.0,US
+6276516,JD McPherson (18+),10323,JD McPherson,80.0,MN,,,,,,,55401,1800.0,Fine Line Music Cafe,318 First Avenue North,Minneapolis,906.0,US
+6066192,Silverstein with Stray From The Path and Avoid,1625,Silverstein,85.0,CO,1625.0,Silverstein,band,2000000.0,452.0,Pop,,,Ogden Theatre,935 East Colfax Avenue,Denver,849.0,US
+6227475,The Menzingers (16+),15348,The Menzingers,75.0,CO,,,,,,,,,Mission Ballroom,4242 Wynkoop Street,Denver,467142.0,US
+6285896,Patterson Hood (18+),16745,Patterson Hood,72.0,CO,,,,,,,80524,500.0,Aggie Theatre,204 South College Avenue,Fort Collins,3677.0,US
+6259183,Xibalba,22521,Xibalba,48.0,CA,,,,,,,94704,1200.0,Cornerstone,2367 Shattuck Ave,Berkeley,233232.0,US
+6050188,A Chanticleer Christmas,18224,A Chanticleer Christmas,151.0,CA,,,,,,,90012,2265.0,Walt Disney Concert Hall,111 South Grand Avenue,Los Angeles,1274.0,US
+6222968,Bou (18+),806961,Bou,107.0,DC,,,,,,,,,Soundcheck,1420 K Street Northwest,Washington,81756.0,US
+5942023,Opium,142276,Opium,5525.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+6282508,Molly Tuttle ,262331,Molly Tuttle,99.0,CA,,,,,,,90069,500.0,Troubadour,9081 Santa Monica Blvd,West Hollywood,764.0,US
+6286071,Kool Keith,17539,Kool Keith,425.0,CA,,,,,,,90069,500.0,Whisky a Go Go,8901 Sunset Boulevard,West Hollywood,2477.0,US
+6191948,Harbour with Arms Akimbo,56615,Harbour,60.0,CA,,,,,,,90017,600.0,Teragram Ballroom,1234 West 7th Street,Los Angeles,78478.0,US
+6254571,The Midtown Men,7587,The Midtown Men,138.0,WA,,,,,,,,,Kirkland Performance Center,350 Kirkland Avenue,Kirkland,13136.0,US
+6098250,Deafheaven with Touche Amore,17498,Deafheaven,89.0,CO,,,,,,,80202,1000.0,Summit - Denver,1902 Blake St,Denver,2882.0,US
+6016411,Highly Suspect,37338,Highly Suspect,179.0,CA,,,,,,,,,Ace of Spades,1417 R Street,Sacramento,3806.0,US
+6289820,HRLY with BTB,795212,HRLY,37.0,MA,,,,,,,,,The Grand - Boston,58 Seaport Blvd.,Boston,400681.0,US
+6035784,TV Girl,17098,TV Girl,212.0,NM,17098.0,TV Girl,band,2000000.0,452.0,Pop,,,Revel Entertainment Center,4720 Alexander Blvd NE,Albuquerque,520566.0,US
+6063465,Mariachi Sol de Mexico,5111,Mariachi Sol de Mexico,94.0,WA,,,,,,,98101,1420.0,Moore Theatre,1932 2nd Avenue,Seattle,904.0,US
+6146170,Living Legends with Brother Ali,2480,Living Legends,88.0,NV,,,,,,,89109,2000.0,Brooklyn Bowl Las Vegas,3545 South Las Vegas Boulevard,Las Vegas,58672.0,US
+6218179,Squirrel Nut Zippers,1671,Squirrel Nut Zippers,131.0,IL,,,,,,,,,City Winery - Chicago,1200 West Randolph Street,Chicago,9520.0,US
+5973388,Tommy Emmanuel,1921,Tommy Emmanuel,103.0,CA,,,,,,,,,Crest Theatre,1013 K Street,Sacramento,996.0,US
+6285166,Chris Botti,453,Chris Botti,201.0,NY,,,,,,,,,Blue Note,131 West 3rd Street,New York,1455.0,US
+6264124,The Lemon Twigs,364196,The Lemon Twigs,85.0,CA,364196.0,The Lemon Twigs,band,2000000.0,457.0,Alternative,,,Harlow's Restaurant & Nightclub,2708 J Street,Sacramento,1751.0,US
+6286194,Raja Kumari,700497,Raja Kumari,65.0,CA,,,,,,,90069,500.0,The Roxy Theatre,9009 Sunset Boulevard,Los Angeles,973.0,US
+6246524,Cayucas,72358,Cayucas,57.0,OR,,,,,,,,,Volcanic Theatre Pub,70 SW Century Drive,Bend,57899.0,US
+6019794,U2,31,U2,684.0,NV,31.0,U2,band,2000000.0,472.0,Classic Rock,,,MSG Sphere,255 Sands Avenue,Las Vegas,521212.0,US
+6282441,A December To Remember with Fishbone,61830,A December To Remember,73.0,OR,,,,,,,97209,1000.0,McMenamins Crystal Ballroom,1332 W. Burnside,Portland,756.0,US
+5870080,Garth Brooks,2387,Garth Brooks,1270.0,NV,2387.0,Garth Brooks,band,2000000.0,450.0,Country,,,The Colosseum At Caesars Palace,3570 Las Vegas Blvd South,Las Vegas,591.0,US
+6196875,Bea Miller,309969,Bea Miller,44.0,CA,,,,,,,,,The Fillmore - San Francisco,1805 Geary Boulevard,San Francisco,324.0,US
+6256969,Chris Isaak,457,Chris Isaak,222.0,CA,,,,,,,95403,1612.0,Luther Burbank Center for the Arts - Ruth Finley Person Theater,50 Mark West Springs Road,Santa Rosa,412.0,US
+6288275,Dave Hill (21+),57453,Dave Hill,35.0,OR,57453.0,Dave Hill,band,2000000.0,456.0,Rock,97227,1970.0,Mississippi Studios,3939 N. Mississippi,Portland,1666.0,US
+6058668,Devendra Banhart with Hayden Pedigo (19+),593,Devendra Banhart,145.0,BC,,,,,,,,,Commodore Ballroom,868 Granville Street,Vancouver,757.0,Canada
+6052583,Moneybagg Yo (Rescheduled from 9/1/23),607924,MoneyBagg Yo,139.0,CA,607924.0,MoneyBagg Yo,band,2000000.0,491.0,Hip-Hop,90015,2300.0,The Novo,800 W Olympic Blvd,Los Angeles,590.0,US
+6307847,X The Band (21+),301455,X The Band,104.0,OR,,,,,,,97214,850.0,Revolution Hall - Portland,1300 SE Stark Street,Portland,77427.0,US
+6008328,Carrie Underwood,412,Carrie Underwood,482.0,NV,412.0,Carrie Underwood,band,2000000.0,450.0,Country,,,The Theatre at Resorts World Las Vegas,3000 S Las Vegas Blvd,Las Vegas,518959.0,US
+6096656,Dylan Matthew and Caleb Hearn (Moved from August Hall) (Rescheduled from 10/24/23),777269,Dylan Matthew,51.0,CA,,,,,,,94117,500.0,The Independent,628 Divisadero Street,San Francisco,649.0,US
+6035816,Lainey Wilson,703721,Lainey Wilson,216.0,NV,703721.0,Lainey Wilson,band,2000000.0,450.0,Country,,,The Theater at Virgin Hotels,4455 Paradise Road,Las Vegas,161.0,US
+6079355,Hiss Golden Messenger (21+),140552,Hiss Golden Messenger,58.0,CA,,,,,,,,,Mystic Theatre,23 Petaluma Boulevard North,Petaluma,1116.0,US
+5942024,Opium,142276,Opium,5963.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+5862160,Purple Reign - The Prince Tribute Show,20510,Purple Reign - Prince Tribute,174.0,NV,,,,,,,,,Tropicana Hotel Las Vegas,3801 Las Vegas Boulevard,Las Vegas,8284.0,US
+6288436,Iam Tongi,804711,Iam Tongi,183.0,HI,,,,,,,,,Maui Arts & Cultural Center,1 Cameron Way,Kahului,1930.0,US
+6139488,David Lee Murphy with Trea Landon,20421,David Lee Murphy,178.0,NV,20421.0,David Lee Murphy,band,2000000.0,450.0,Country,,,The Showroom at the Golden Nugget Las Vegas,301 Fremont Street,Las Vegas,4365.0,US
+5899127,The Charleston Christmas Special,300347,The Charleston Christmas Special,96.0,SC,,,,,,,29403,935.0,Charleston Music Hall,37 John Street,Charleston,1209.0,US
+6284045,Junius Karr,807968,Junius Karr,37.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+6226382,Kenya Grace (19+),806898,Kenya Grace,66.0,ON,806898.0,Kenya Grace,band,2000000.0,,,,,Velvet Underground,508 Queen Street West,Toronto,30305.0,Canada
+6124302,The Slackers,6109,The Slackers,56.0,DC,,,,,,,20009,700.0,Black Cat,1811 14th St,Washington,1495.0,US
+6165386,The Karina Rykman Experiment,688841,The Karina Rykman Experiment,54.0,DC,,,,,,,,,The Atlantis,2047 9th St NW,Washington,521187.0,US
+6281217,Pam Tillis,1386,Pam Tillis,88.0,IN,1386.0,Pam Tillis,band,2000000.0,450.0,Country,46992,1500.0,Honeywell Center,275 West Market Street,Wabash,1811.0,US
+6146271,The Mountain Goats (18+),1289,The Mountain Goats,73.0,FL,,,,,,,,,The Floridian Social,687 Central Avenue North,St. Petersburg,521012.0,US
+6229183,100 gecs,757434,100 gecs,92.0,NY,757434.0,100 gecs,band,2000000.0,458.0,Indie,11378,5000.0,Knockdown Center,52-19 Flushing Avenue,Queens,34723.0,US
+6263277,LANY,303766,LANY,124.0,PA,303766.0,LANY,band,2000000.0,457.0,Alternative,,,Stage AE,400 North Shore Drive,Pittsburgh,3386.0,US
+6270355,Pink Talking Fish,270766,Pink Talking Fish,57.0,OH,,,,,,,,,Woodlands Tavern,1200 West Third Avenue,Columbus,39078.0,US
+6195948,Taking Back Sunday (18+),90,Taking Back Sunday,666.0,NY,,,,,,,,,Mulcahy's Pub and Concert Hall,3232 Railroad Avenue,Wantagh,1773.0,US
+6231149,Anberlin with Hawthorne Heights,196,Anberlin,83.0,FL,196.0,Anberlin,band,2000000.0,452.0,Pop,33605,2143.0,The Ritz Ybor,1503 E 7th Ave,Tampa,1034.0,US
+6145642,The Bouncing Souls (16+),354,The Bouncing Souls,99.0,NY,,,,,,,10003,2500.0,Webster Hall,125 East 11th Street,New York,463.0,US
+6053412,Steve Miller Band,1693,Steve Miller Band,229.0,FL,1693.0,Steve Miller Band,band,2000000.0,472.0,Classic Rock,,,The Sound at Coachman Park,301 Drew Street,Clearwater,4975.0,US
+6285626,Martina McBride,1200,Martina McBride,127.0,MA,,,,,,,01852,2800.0,Lowell Memorial Auditorium,50 East Merrimack Street,Lowell,935.0,US
+6257600,Collin Raye,2319,Collin Raye,120.0,GA,,,,,,,,,The Eagle at Sugar Hill,5029 West Broad Street Northeast,Sugar Hill,469011.0,US
+6281215,John Tesh,983,John Tesh,99.0,MD,,,,,,,21740,1279.0,The Maryland Theatre,21 S Potomac St,Hagerstown,1853.0,US
+6258806,Zeneth,807472,Zeneth,128.0,MA,,,,,,,02134,476.0,Brighton Music Hall,158 Brighton Avenue,Boston,1446.0,US
+6248374,Todd Dulaney with Fred Hammond,389852,Todd Dulaney,124.0,MD,,,,,,,21201,2443.0,Joseph Meyerhoff Symphony Hall,1212 Cathedral Street,Baltimore,1095.0,US
+6221729,Daniel O'Donnell,538,Daniel O'Donnell,124.0,FL,,,,,,,,,Capitol Theatre Outdoor Stage,405 Cleveland Street,Clearwater,430000.0,US
+6185026,Peter Noone with Herman's Hermits,2555,Peter Noone,121.0,WV,,,,,,,,,Charleston Theater,200 Civic Center Drive,Charleston,520807.0,US
+6093006,Here We Are,164833,Here We Are,112.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+6137624,Duncan Trussell (18+),54078,Duncan Trussell,98.0,NC,,,,,,,,,Comedy Zone Charlotte,900 Seaboard Street,Charlotte,8502.0,US
+6168309,Big Something (18+),17636,Big Something,86.0,MD,,,,,,,,,8X10 Club,10 East Cross Street,Baltimore,464539.0,US
+6203698,Nonpoint,1353,Nonpoint,71.0,IN,1353.0,Nonpoint,band,2000000.0,493.0,Rap,,,The Eclectic Room,310 West Wendell Jacob Avenue,Angola,449959.0,US
+6129741,Knuckle Puck,262036,Knuckle Puck,84.0,PA,262036.0,Knuckle Puck,band,2000000.0,456.0,Rock,,,Mr. Smalls Theatre,400 Lincoln Avenue,Millvale,358.0,US
+6307673,mxmtoon,697419,mxmtoon,212.0,MA,,,,,,,,,Red Room at Cafe 939,939 Boylston Street,Boston,139435.0,US
+6283840,Think Machine,807963,Think Machine,42.0,DE,,,,,,,,,The Queen,500 North Market Street,Wilmington,289673.0,US
+6107272,Mannheim Steamroller Christmas - Duluth,1184,Mannheim Steamroller,118.0,MN,,,,,,,55802,5333.0,DECC Symphony Hall,350 Harbor Drive,Duluth,367.0,US
+6125587,MONOWHALES with Bleeker,798866,MONOWHALES,73.0,ON,,,,,,,M6G 1C4,620.0,The Axis Club,722 College Street,Toronto,681.0,Canada
+6087352,Meshuggah with In Flames and Whitechapel,1232,Meshuggah,108.0,PA,,,,,,,,,Wind Creek Event Center,77 Sands Boulevard,Bethlehem,5746.0,US
+6157309,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,198.0,DC,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,20004,20173.0,Capital One Arena,601 F Street Northwest,Washington,181.0,US
+6011895,Old Dominion,79728,Old Dominion,146.0,KY,79728.0,Old Dominion,band,2000000.0,450.0,Country,40202,17500.0,KFC Yum! Center,1 Arena Plaza,Louisville,4353.0,US
+6286996,Henhouse Prowlers,15346,Henhouse Prowlers,43.0,NY,,,,,,,,,Caffe Lena,47 Phila Street,Saratoga Springs,281820.0,US
+6295659,Mad Tsai,806783,Mad Tsai,120.0,NY,,,,,,,,,Baby's All Right,146 Broadway,Brooklyn,56718.0,US
+5926205,The Carolina Opry,58455,The Carolina Opry,123.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6250589,Kate Berlant,250970,Kate Berlant,74.0,PA,,,,,,,,,The Fillmore Philadelphia,29 E Allen Street,Philadelphia,78730.0,US
+6123014,Judy Collins,1010,Judy Collins,139.0,OH,,,,,,,43215,900.0,Southern Theatre,21 E Main St,Columbus,552.0,US
+6108154,Hot Mulligan (Moved from Varsity Theater - Minneapolis),405099,Hot Mulligan,86.0,MN,405099.0,Hot Mulligan,band,2000000.0,457.0,Alternative,,,Fillmore Minneapolis,617 West Broadway Avenue,Minneapolis,490102.0,US
+6018623,Straight No Chaser,1703,Straight No Chaser,113.0,OH,,,,,,,44308,2592.0,Akron Civic Theatre,182 South Main Street,Akron,1089.0,US
+6164501,Yo La Tengo (18+),2043,Yo La Tengo,239.0,NY,,,,,,,10002,575.0,Bowery Ballroom,6 Delancey Street,New York,719.0,US
+6285790,Vienna Teng,1981,Vienna Teng,60.0,OH,,,,,,,44240,642.0,The Kent Stage,175 E Main St,Kent,2443.0,US
+6119495,Dirty Honey,310639,Dirty Honey,89.0,KY,,,,,,,40202,900.0,Mercury Ballroom,611 South 4th Street,Louisville,57671.0,US
+6225564,A Wilhelm Scream (16+),22908,A Wilhelm Scream,48.0,NY,,,,,,,,,Empire Underground - NY,93 North Pearl Street,Albany,519050.0,US
+6033730,Matt Schofield,27680,Matt Schofield,78.0,NH,,,,,,,,,Jimmys Jazz and Blues Club,135 Congress Street,Portsmouth,519488.0,US
+6226479,Cherry Poppin' Daddies,444,Cherry Poppin' Daddies,112.0,PA,,,,,,,,,Appell Center for the Performing Arts - Strand Theatre,50 North George Street,York,3623.0,US
+6186820,Ricky Skaggs with Kentucky Thunder,1537,Ricky Skaggs,118.0,SC,,,,,,,,,The Riviera Theater,225 King Street,Charleston,520073.0,US
+6132560,Gabe Dixon Band,72228,Gabe Dixon Band,77.0,NJ,,,,,,,,,The Vogel at Count Basie Center for the Arts,99 Monmouth Street,Red Bank,518576.0,US
+6205293,"Jingle Ball with Nicki Minaj, Ice Spice, Sabrina Carpenter, Flo Rida, & more!",79338,	iHeartRadio Jingle Ball,135.0,GA,79338.0,	iHeartRadio Jingle Ball,band,2000000.0,,,30303,21000.0,State Farm Arena,1 Philips Drive,Atlanta,127.0,US
+6286581,A Motown Christmas,31590,A Motown Christmas,74.0,PA,,,,,,,15601,1369.0,"Palace Theatre - Greensburg, PA",21 West Otterman Street,Greensburg,8819.0,US
+6287228,Taj Farrant,807678,Taj Farrant,74.0,VA,,,,,,,,,The Beacon Theatre Hopewell,401 N. Main St,Hopewell,63542.0,US
+6126582,Carbon Leaf,407,Carbon Leaf,203.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
+6107274,Mannheim Steamroller Christmas - East Lansing,1184,Mannheim Steamroller,183.0,MI,,,,,,,,,Wharton Center,750 East Shaw Lane,East Lansing,1155.0,US
+6168243,Craig Owens,10555,Craig Owens,57.0,WI,,,,,,,,,X-Ray Arcade,5036 S Packard Ave,Cudahy,466549.0,US
+6218249,New York Voices,772082,New York Voices,92.0,CT,,,,,,,06877,500.0,The Ridgefield Playhouse,80 East Ridge Road,Ridgefield,957.0,US
+6245025,The Automatic (18+),782722,The Automatic,53.0,NY,,,,,,,11211,550.0,Music Hall of Williamsburg,66 North 6th St.,Brooklyn,399.0,US
+6295820,Finger Eleven,2374,Finger Eleven,35.0,QC,2374.0,Finger Eleven,band,2000000.0,452.0,Pop,,,Petit Campus,57 Prince Arthur East,Montreal,7547.0,Canada
+6260014,Wyatt Flores,805517,Wyatt Flores,118.0,GA,805517.0,Wyatt Flores,band,2000000.0,,,30318,600.0,Terminal West,887 West Marietta St NW,Atlanta,7952.0,US
+6255751,William Basinski,723448,William Basinski,66.0,NY,,,,,,,,,Pioneer Works,159 Pioneer Street,Brooklyn,71344.0,US
+6065595,Tab Benoit,10629,Tab Benoit,97.0,OH,,,,,,,,,Taft Theatre,317 East 5th Street,Cincinnati,1372.0,US
+6119124,Interpol,4939,Interpol,194.0,NY,4939.0,Interpol,band,2000000.0,472.0,Classic Rock,10023,2894.0,Beacon Theatre,2124 Broadway,New York,414.0,US
+6160160,The Allman Betts Family Revival,805476,The Allman Betts Family Revival,119.0,SC,,,,,,,29303,3217.0,Spartanburg Memorial Auditorium,385 North Church Street,Spartanburg,4119.0,US
+6143454,Turnpike Troubadours,15777,Turnpike Troubadours,151.0,SD,15777.0,Turnpike Troubadours,band,2000000.0,450.0,Country,57104,12500.0,Denny Sanford Premier Center,1201 North West Avenue,Sioux Falls,60477.0,US
+6227184,Two Minutes To Late Night (16+),697815,Two Minutes To Late Night,61.0,NY,,,,,,,10010,499.0,Gramercy Theatre,127 East 23rd Street,New York,747.0,US
+5964024,Half Moon Run,31213,Half Moon Run,223.0,QC,,,,,,,H2X 1K5,2200.0,MTELUS,59 Rue Sainte,Montreal,443.0,Canada
+6244112,Sunsquabi,98486,Sunsquabi,52.0,MO,,,,,,,,,Off Broadway,3509 Lemp Avenue,Saint Louis,5714.0,US
+6253729,The Lettermen,1829,The Lettermen,91.0,IN,,,,,,,,,Blue Gate Performing Arts Center,760 South Van Buren Street,Shipshewana,515588.0,US
+6111230,Ashley McBryde with Will Jones,436785,Ashley McBryde,92.0,WV,436785.0,Ashley McBryde,band,2000000.0,450.0,Country,,,Clay Center,1 Clay Square,Charleston,480.0,US
+6233628,Opry Country Christmas Show (21+),807061,Opry Country Christmas Show,303.0,TN,,,,,,,37214,4400.0,Grand Ole Opry House,600 Opry Mills Drive,Nashville,4706.0,US
+6157875,Darlene Love,7080,Darlene Love,103.0,PA,,,,,,,19038,1300.0,Keswick Theatre,291 N Keswick Ave.,Glenside,689.0,US
+6276851,Sunny Sweeney,16118,Sunny Sweeney,59.0,TX,,,,,,,,,04 Center,2701 South Lamar Boulevard,Austin,456683.0,US
+6157311,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,158.0,TN,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,,,FedExForum,191 Beale Street,Memphis,1243.0,US
+6073191,Kevin Gates,20099,Kevin Gates,153.0,FL,20099.0,Kevin Gates,band,2000000.0,493.0,Rap,,,Yuengling Center,4202 East Fowler Ave,Tampa,223.0,US
+6287230,Dexter and The Moonrocks,802991,Dexter and The Moonrocks,49.0,VA,,,,,,,,,The Broadberry,2729 W. Broad Street,Richmond,60434.0,US
+6209478,Majid Jordan (18+),441072,Majid Jordan,108.0,MA,,,,,,,02215,650.0,Paradise Rock Club,967 Commonwealth Ave.,Boston,540.0,US
+6143544,Lindsay Stirling,27573,Lindsey Stirling,494.0,RI,,,,,,,,,Providence Performing Arts Center,220 Weybosset Street,Providence,1060.0,US
+6296601,Glenn Miller Orchestra,794,Glenn Miller Orchestra,66.0,NY,,,,,,,10591,843.0,Tarrytown Music Hall,13 Main Street,Tarrytown,880.0,US
+6130897,Lorie Line,1138,Lorie Line,117.0,IA,,,,,,,,,Hoyt Sherman Place,1501 Woodland Avenue,Des Moines,975.0,US
+6192164,La Goony Chonga (18+),707633,La Goony Chonga,80.0,FL,,,,,,,,,The Ground,34 Northeast 11th Street,Miami,465240.0,US
+6232380,Morgan Evans,102455,Morgan Evans,56.0,MI,,,,,,,,,Elevation at The Intersection,133 Grandville Ave SW,Grand Rapids,440264.0,US
+6276087,Ward Davis,327455,Ward Davis,61.0,IL,,,,,,,,,The Castle Theatre,209 E. Washington St.,Bloomington,5620.0,US
+6144302,Pentatonix,20599,Pentatonix,231.0,FL,20599.0,Pentatonix,band,2000000.0,452.0,Pop,,,Hard Rock Live - Hollywood,1 Seminole Way,Hollywood,427539.0,US
+6065890,The Glorious Sons with The Blue Stones,110363,The Glorious Sons,104.0,ON,,,,,,,,,TD Place Arena - Ottawa,1015 Bank Street,Ottawa,521200.0,Canada
+6127450,Lagwagon,11695,Lagwagon,91.0,ON,,,,,,,,,London Music Hall,178 Dundas Street,London,2503.0,Canada
+6144330,Moon Hooch,18284,Moon Hooch,141.0,CT,,,,,,,,,Infinity Hall Hartford,32 Front Street,Hartford,59680.0,US
+6135193,Grand Funk Railroad,811,Grand Funk Railroad,135.0,OH,,,,,,,,,People's Bank Theatre,222 Putnam St,Marietta,126908.0,US
+6135825,Postmodern Jukebox,272825,Postmodern Jukebox,131.0,MA,,,,,,,,,Cary Hall,1605 Massachusetts Ave,Lexington,58751.0,US
+6288548,Elvis Experience,260958,Elvis Experience,150.0,QC,,,,,,,H2X 3K2,2380.0,St. Denis Theatre,1594 St-Denis Street,Montreal,574.0,Canada
+6091298,For King & Country,57788,For King & Country,89.0,TX,,,,,,,78219,18797.0,Frost Bank Center,1 AT&T Center Parkway,San Antonio,185.0,US
+6283938,Andy Frasco & The U.N.,43173,Andy Frasco & The U.N.,60.0,IN,,,,,,,,,The Vogue Theatre - IN,6259 N College Ave,Indianapolis,8821.0,US
+6028118,Andrea Bocelli,5276,Andrea Bocelli,567.0,NY,5276.0,Andrea Bocelli,band,2000000.0,,,10001,20000.0,Madison Square Garden,4 Pennsylvania Plaza,New York,93.0,US
+6238954,Allan Rayman,412423,Allan Rayman,61.0,QC,,,,,,,H3J 1N5,589.0,Beanfield Theatre,2490 Rue Notre,Montreal,6101.0,Canada
+6232022,Samara Joy,797930,Samara Joy,160.0,NY,,,,,,,,,Apollo Theater,253 West 125th Street,New York,1817.0,US
+6248380,Blue Rodeo,332,Blue Rodeo,493.0,ON,,,,,,,M5B 1T7,2752.0,Massey Hall,178 Victoria St.,Toronto,418.0,Canada
+6233129,The Oak Ridge Boys,1356,The Oak Ridge Boys,87.0,KY,,,,,,,,,Carson Center,100 Kentucky Avenue,Paducah,1197.0,US
+6124354,Jamie Kent with Dan Rodriguez,84610,Jamie Kent,92.0,WI,,,,,,,54911,2100.0,Fox Cities Performing Arts Center,400 W. College Avenue,Appleton,1198.0,US
+6113185,Kenny G,69,Kenny G,214.0,IL,,,,,,,,,Arcada Theatre,105 East Main Street,Saint Charles,4131.0,US
+6068202, Croce Plays Croce,684791,Croce Plays Croce,108.0,TX,,,,,,,,,DeVitt Jones Theater at The Buddy Holly Hall,1300 Mac Davis Lane,Lubbock,518884.0,US
+6112610,The Maine,2672,The Maine,79.0,OK,2672.0,The Maine,band,2000000.0,458.0,Indie,74103,1450.0,Cain's Ballroom,423 North Main Street,Tulsa,421.0,US
+6299108,Sons of Serendip,319904,Sons of Serendip,149.0,MN,,,,,,,55102,2206.0,Ordway Center for the Performing Arts,345 Washington Street,Saint Paul,4321.0,US
+6244249,Eggy,779420,Eggy,66.0,GA,,,,,,,,,Aisle 5,1123 Euclid Avenue Northeast,Atlanta,4971.0,US
+6241468,The Chicago Soul Spectacular,786272,Chicago Soul Spectacular,52.0,IL,,,,,,,60202,250.0,SPACE - Evanston,1245 Chicago Avenue,Evanston,2109.0,US
+6257246,Sara Evans,1586,Sara Evans,99.0,IL,,,,,,,61820,16000.0,State Farm Center,1800 S. First Street,Champaign,921.0,US
+6093524,Dogstar,804918,Dogstar,238.0,PA,,,,,,,19108,650.0,Underground Arts,1200 Callowhill Street,Philadelphia,8679.0,US
+5925625,Madonna,1173,Madonna,631.0,NY,1173.0,Madonna,band,2000000.0,452.0,Pop,,,Barclays Center,620 Atlantic Avenue,Brooklyn,7546.0,US
+6026269,Jim Brickman,951,Jim Brickman,101.0,IL,,,,,,,61101,2310.0,Coronado Performing Arts Center,314 N. Main St.,Rockford,1149.0,US
+6220716,My 00's Playlist with Nelly with Ashanti and Ja Rule,6348,Nelly,293.0,MN,6348.0,Nelly,band,2000000.0,452.0,Pop,55403,25500.0,Target Center,600 First Avenue North,Minneapolis,135.0,US
+6128058,The Menzingers with Microwave,15348,The Menzingers,93.0,KS,,,,,,,66044,1050.0,Liberty Hall,644 Massachusettes,Lawrence,789.0,US
+6271886,Bettye LaVette,290,Bettye LaVette,102.0,NY,,,,,,,,,Iridium Jazz Club,1650 Broadway,New York,5603.0,US
+6048520,Stranger In The Night,803513,Stranger In The Night,150.0,QC,,,,,,,,,Cabaret du Casino de Montreal,1 Avenue du Casino,Montreal,125066.0,Canada
+5981119,Wayne Newton,1997,Wayne Newton,129.0,IL,,,,,,,60432,1966.0,Rialto Square Theatre,102 N Chicago,Joliet,721.0,US
+6266351,elmora (18+),808316,elmora,36.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+6178379,Peter Mayer,35994,Peter Mayer,74.0,MO,,,,,,,63112,750.0,Delmar Hall,6133 Delmar Blvd.,St. Louis,397902.0,US
+6286356,Walker & Royce,161849,Walker & Royce,41.0,FL,,,,,,,,,Myth Nightclub,333 East Bay Street,Jacksonville,241590.0,US
+6094673,The Jinkx and Dela Holiday Show - Austin,292405,Jinkx Monsoon,149.0,TX,,,,,,,,,Bass Concert Hall,2350 Robert Dedman Drive,Austin,420.0,US
+6096708,Parliament Funkadelic featuring George Clinton,16412,Parliament Funkadelic,112.0,TX,,,,,,,,,Austin City Limits Live at The Moody Theater,310 West Willie Nelson Boulevard,Austin,3670.0,US
+6130406,Exodus,711,Exodus,83.0,NE,,,,,,,,,Slowdown,729 North 14th Street,Omaha,942.0,US
+6136213,Jazz Is Dead,200704,Jazz Is Dead,66.0,AL,,,,,,,35233,1300.0,Iron City,513 22nd Street South,Birmingham,38866.0,US
+6231819,We Are Scientists,1999,We Are Scientists,53.0,PA,,,,,,,,,Johnny Brenda's,1201 N. Frankford Ave,Philadelphia,3531.0,US
+6197986,Pink Martini,1442,Pink Martini,131.0,AZ,,,,,,,,,Yavapai College Performance Hall,1100 E. Sheldon,Prescott,1776.0,US
+6117151,Big Wreck,14565,Big Wreck,78.0,CO,,,,,,,80205,1611.0,Marquis Theater - Denver,2009 Larimer Street,Denver,3053.0,US
+6054986,Home Free,75262,Home Free,97.0,MO,,,,,,,,,The Factory STL,17105 North Outer 40 Road,Chesterfield,518878.0,US
+6299807,Avery Anna (21+),799140,Avery Anna,80.0,NE,,,,,,,,,Barnato,225 N 170th St,Omaha,515743.0,US
+6184790,Andrew Bird,198,Andrew Bird,190.0,IL,,,,,,,,,Fourth Presbyterian Church,126 East Chestnut Street,Chicago,1586.0,US
+6177739,Jessica Audiffred (18+),513570,Jessica Audiffred,80.0,TN,,,,,,,,,Exit/In,2208 Elliston Place,Nashville,1082.0,US
+6128217,DJ Matt Bennett (18+),797255,DJ Matt Bennett,74.0,MI,,,,,,,48201,2200.0,The Fillmore Detroit,2115 Woodward,Detroit,442.0,US
+6145864,Living Legends (21+),2480,Living Legends,88.0,UT,,,,,,,84101,1200.0,The Depot - Salt Lake City,400 West South Temple,Salt Lake City,624.0,US
+6287631,Toubab Krewe (21+),2701,Toubab Krewe,40.0,SC,,,,,,,,,Charleston Pour House,1977 Maybank Hwy,Charleston,5083.0,US
+6276767,Zeds Dead (18+)  - 3 Day Show Pass ,9722,Zeds Dead,535.0,IL,9722.0,Zeds Dead,band,2000000.0,452.0,Pop,,,The Salt Shed,1357 North Elston Avenue,Chicago,519998.0,US
+6218162,Yussef Dayes,796628,Yussef Dayes,257.0,TX,,,,,,,,,Empire Control Room & Garage,606 East 7th Street,Austin,13419.0,US
+6162500,Abraham Alexander,770960,Abraham Alexander,231.0,TX,770960.0,Abraham Alexander,band,2000000.0,,,75201,1704.0,Majestic Theatre - Dallas,1925 Elm Street,Dallas,3621.0,US
+6178500,Riot Ten,318688,Riot Ten,104.0,MO,,,,,,,,,The Truman,601 East Truman Road,Kansas City,108238.0,US
+6065683,Andrew McMahon In The Wilderness,2254,Andrew McMahon In The Wilderness,85.0,ID,,,,,,,83702,1000.0,Knitting Factory Concert House - Boise,416 S. 9th Street,Boise,452.0,US
+6200121,Squirrel Nut Zippers,1671,Squirrel Nut Zippers,78.0,WI,,,,,,,,,Turner Hall Ballroom,1034 North 4th Street,Milwaukee,3728.0,US
+6218354,Kenya Grace (19+),806898,Kenya Grace,56.0,ON,806898.0,Kenya Grace,band,2000000.0,,,,,Velvet Underground,508 Queen Street West,Toronto,30305.0,Canada
+6288738,Bravo the Bagchaser,807693,Bravo the Bagchaser,99.0,TX,,,,,,,75226,600.0,Trees - Dallas,2709 Elm Street,Dallas,3534.0,US
+6281399,The Iron Maidens,65029,The Iron Maidens,53.0,TX,,,,,,,75206,1750.0,Granada Theater,3524 Greenville Ave,Dallas,588.0,US
+6283997,Jeffrey Foucault (18+),15379,Jeffrey Foucault,52.0,WI,,,,,,,,,High Noon Saloon,701 E. Washington Ave,Madison,4836.0,US
+6097422,"K-Love Christmas Tour with Danny Gokey, Natalie Grant and Mac Powell",261430,K-Love Christmas Tour,74.0,CO,,,,,,,,,Pueblo Memorial Hall,1 City Hall Place,Pueblo,50497.0,US
+6271720,Cathedral Bells,794376,Cathedral Bells,60.0,UT,,,,,,,,,Kilby Court - Salt Lake City,741 Kilby Court,Salt Lake City,1593.0,US
+6253148,Koji,23717,Koji,78.0,IL,,,,,,,,,Beat Kitchen,2100 West Belmont Avenue,Chicago,3320.0,US
+6200009,Blue October,330,Blue October,126.0,KS,,,,,,,67202,1281.0,Orpheum Theatre - Wichita,200 North Broadway,Wichita,2602.0,US
+6181287,Zeds Dead with TRUTH (18+),9722,Zeds Dead,284.0,IL,9722.0,Zeds Dead,band,2000000.0,452.0,Pop,,,The Salt Shed,1357 North Elston Avenue,Chicago,519998.0,US
+6110975,Dan Deacon,532,Dan Deacon,63.0,TX,,,,,,,78212,450.0,Paper Tiger - San Antonio,2410 North Saint Mary's Street,San Antonio,740.0,US
+6132773,Mersiv with Minnesota (18+),692209,Mersiv,123.0,MA,,,,,,,,,Big Night Live,110 Causeway St,Boston,484264.0,US
+5996107,Randy Rogers Band & Casey Donahew,1494,Randy Rogers Band,34.0,OK,1494.0,Randy Rogers Band,band,2000000.0,450.0,Country,,,Lucas Oil Live at WinStar World Casino and Resort,21806 World Way Dr,Thackerville,1230.0,US
+6129372,Joe Sambo with Joey Harkum,385147,Joe Sambo,45.0,MO,,,,,,,64111,2300.0,Uptown Theater - KC,3700 Broadway,Kansas City,446.0,US
+6025671,Skid Row with Buckcherry,1635,Skid Row,86.0,ID,,,,,,,,,Revolution Concert House & Event Center,4983 North Glenwood Street,Garden City,9119.0,US
+6164355,Swingin Little Christmas,697783,Swingin Little Christmas,126.0,AZ,,,,,,,,,Virginia G. Piper Theater,7380 E. Second Street,Scottsdale,17132.0,US
+6039864,Neffex,677939,Neffex,94.0,AZ,,,,,,,85016,200.0,The Rebel Lounge - Phoenix,2303 E. Indian School Road,Phoenix,78793.0,US
+5973364,The Fab Four,717,The Fab Four - The Ultimate Tribute,132.0,CO,,,,,,,,,Pikes Peak Center,190 South Cascade Avenue,Colorado Springs,655.0,US
+6138760,Piano Man,269261,Piano Man,127.0,NV,,,,,,,89109,5067.0,V Theater at Planet Hollywood Resort and Casino - Las Vegas,3667 Las Vegas Blvd S,Las Vegas,4361.0,US
+6092428,Rick Springfield,66,Rick Springfield,127.0,AZ,,,,,,,85701,1800.0,Rialto Theatre,318 E Congress St,Tucson,159.0,US
+6116341,Jazmin Bean,805657,Jazmin Bean,87.0,AZ,,,,,,,85004,250.0,Valley Bar,130 N Central Ave,Phoenix,71620.0,US
+6092681,Lil Tjay,698868,Lil Tjay,103.0,CA,698868.0,Lil Tjay,band,2000000.0,493.0,Rap,,,Hollywood Palladium,6215 Sunset Boulevard,Los Angeles,465.0,US
+6135219,The Bobby Lees,718687,The Bobby Lees,72.0,CA,,,,,,,,,Constellation Room at The Observatory,3503 S Harbor Blvd,Santa Ana,83585.0,US
+6209482,Yendry,806779,Yendry,65.0,CA,,,,,,,90026,500.0,Echoplex,1154 Glendale Boulevard,Los Angeles,1014.0,US
+6209233,Treaty Oak Revival (21+),800864,Treaty Oak Revival,105.0,AZ,,,,,,,,,191 Toole,191 E Toole Ave,Tucson,58073.0,US
+6251531,"Cody Jinks with Josh Morningstar, Tennessee Jet, and Bryan Martin",87766,Cody Jinks,244.0,TX,87766.0,Cody Jinks,band,2000000.0,450.0,Country,76164,6000.0,Billy Bob's Texas,2520 Rodeo Plaza,Fort Worth,305.0,US
+6180105,Alexandra Kay,732602,Alexandra Kay,80.0,UT,,,,,,,,,The Grand At The Complex,537 W 100 S,Salt Lake City,13185.0,US
+6288607,The Lil Smokies (16+),279315,The Lil Smokies,75.0,CO,,,,,,,80206,400.0,Bluebird Theater,3317 E Colfax Ave,Denver,555.0,US
+6280169,Maxo,179131,Maxo,102.0,CA,,,,,,,90026,500.0,Echoplex,1154 Glendale Boulevard,Los Angeles,1014.0,US
+6307868,Son Little,279387,Son Little,50.0,CO,,,,,,,,,The Armory,314 E. Mountain Ave,Fort Collins,61310.0,US
+6270392,Gabriel & Dresden (21+),7928,Gabriel & Dresden,53.0,TX,,,,,,,,,It'll Do Club,4322 Elm Street,Dallas,41185.0,US
+6255677,Grieves,12134,Grieves,69.0,WA,,,,,,,98121,525.0,The Crocodile,2200 2nd Avenue,Seattle,1156.0,US
+6266383,That Mexican OT,805404,That Mexican OT,87.0,CA,,,,,,,,,Ace of Spades,1417 R Street,Sacramento,3806.0,US
+6254667,Kings of Thrash,802107,Kings of Thrash,94.0,CA,,,,,,,90069,500.0,Whisky a Go Go,8901 Sunset Boulevard,West Hollywood,2477.0,US
+5942025,Opium,142276,Opium,5713.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+6222404,Eem Triplin,806127,Eem Triplin,49.0,NM,,,,,,,87102,920.0,Sunshine Theater,120 Central Ave SW,Albuquerque,786.0,US
+6225434,SoDown (18+),392608,SoDown,118.0,DC,,,,,,,,,Soundcheck,1420 K Street Northwest,Washington,81756.0,US
+6307639,Broadway Rave (18+),800696,Broadway Rave,60.0,MN,,,,,,,55401,1800.0,Fine Line Music Cafe,318 First Avenue North,Minneapolis,906.0,US
+6061003,Oregon Symphony - Kristin Chenoweth,1073,Kristin Chenoweth,147.0,OR,,,,,,,,,Arlene Schnitzer Concert Hall,1037 SW Broadway,Portland,319.0,US
+6252495,Live Wire,25131,Live Wire,54.0,OR,,,,,,,97214,850.0,Revolution Hall - Portland,1300 SE Stark Street,Portland,77427.0,US
+6253626,Eslabon Armado with Deorro,797121,Eslabon Armado,105.0,CA,797121.0,Eslabon Armado,band,2000000.0,504.0,Latin,,,The Torch at LA Coliseum,3911 S. Figueroa Street,Los Angeles,521180.0,US
+6274780,Lit,7045,Lit,26.0,CA,,,,,,,92230,2557.0,Morongo Casino Resort and Spa,49500 Seminole Drive,Cabazon,854.0,US
+6269294,Ozomatli,1383,Ozomatli,72.0,CA,,,,,,,,,Ventura Music Hall,1888 East Thompson Boulevard,Ventura,519849.0,US
+6287957,Hot Chip (21+),4145,Hot Chip,60.0,WA,4145.0,Hot Chip,band,2000000.0,458.0,Indie,98122,578.0,Neumos,925 East Pike Street,Seattle,657.0,US
+6181157,The White Buffalo with Dave Hause,30689,The White Buffalo,119.0,CA,,,,,,,92704,550.0,The Observatory,3503 S. Harbor Blvd.,Santa Ana,1899.0,US
+6285619,Bell Witch,64813,Bell Witch,49.0,OR,,,,,,,,,WOW Hall,291 West 8th Avenue,Eugene,1191.0,US
+6255755,Jeffrey Martin (21+),797798,Jeffrey Martin,41.0,CA,,,,,,,,,The Wayfarer,843 W. 19th St.,Costa Mesa,66564.0,US
+6126734,Hiss Golden Messenger,140552,Hiss Golden Messenger,103.0,CA,,,,,,,,,The Fillmore - San Francisco,1805 Geary Boulevard,San Francisco,324.0,US
+6034727,Chad Daniels,148062,Chad Daniels,77.0,OR,,,,,,,97202,620.0,Aladdin Theater,3017 SE Milwaukie Ave.,Portland,627.0,US
+6307539,Some Girls: Rolling Stones Tribute & Rex Holmes,808303,Some Girls: Rolling Stones Tribute,37.0,CA,,,,,,,,,The Canyon - Montclair,5600 North Montclair Plaza Lane,Montclair,462608.0,US
+6036004,Highly Suspect,37338,Highly Suspect,104.0,CA,,,,,,,,,Great American Music Hall,859 O'Farrell Street,San Francisco,1057.0,US
+6143237,Gilberto Santa Rosa,787,Gilberto Santa Rosa,147.0,CA,,,,,,,95113,1500.0,San Jose Civic,145 West San Carlos Street,San Jose,638.0,US
+6236633,Death From Above 1979,10556,Death from Above 1979,83.0,CA,,,,,,,90069,500.0,The Roxy Theatre,9009 Sunset Boulevard,Los Angeles,973.0,US
+5857046,Tenille Arts (Rescheduled from 1/7/23),704603,Tenille Arts,89.0,AB,,,,,,,T7X 3Y3,1000.0,River Cree Resort & Casino,300 East Lapotac Blvd,Enoch,964.0,Canada
+6244548,The Meteors,1837,The Meteors,94.0,CA,,,,,,,,,Strummer's,833 E Fern Ave,Fresno,1736.0,US
+6286241,Indira Paganotto (18+),803076,Indira Paganotto,69.0,TX,,,,,,,,,The Concourse Project,8509 Burleson Road,Austin,518935.0,US
+6285879,The Nth Power (21+),261894,The Nth Power,59.0,CA,,,,,,,94117,500.0,The Independent,628 Divisadero Street,San Francisco,649.0,US
+6059506,Reggae Gold,114522,Reggae Gold,91.0,IL,,,,,,,60647,400.0,Subterranean,2011 West North Avenue,Chicago,2088.0,US
+6259019,Toby Keith,1912,Toby Keith,462.0,NV,1912.0,Toby Keith,band,2000000.0,450.0,Country,89109,6400.0,Dolby Live at Park MGM,3770 S Las Vegas Blvd,Las Vegas,431354.0,US
+6253326,Raekwon,4203,Raekwon,103.0,CA,,,,,,,90015,2300.0,The Novo,800 W Olympic Blvd,Los Angeles,590.0,US
+5886832,Miranda Lambert,1268,Miranda Lambert,251.0,NV,1268.0,Miranda Lambert,band,2000000.0,450.0,Country,89109,7500.0,Bakkt Theater at Planet Hollywood,3667 Las Vegas Boulevard South,Las Vegas,1535.0,US
+6280755,Zedd,16700,Zedd,175.0,NY,16700.0,Zedd,band,2000000.0,456.0,Rock,10001,600.0,Marquee New York,289 10th Avenue,New York,41977.0,US
+6052825,Parker McCollum,340818,Parker McCollum,180.0,NV,340818.0,Parker McCollum,band,2000000.0,450.0,Country,89109,3200.0,The Cosmopolitan of Las Vegas,3708 South Las Vegas Boulevard,Las Vegas,3846.0,US
+6180338,CRi - Christophe Dube (21+ Events),523251,CRi - Christophe Dube,53.0,UT,,,,,,,,,Soundwell,149 W 200 S,Salt Lake City,447061.0,US
+6113476,Paul Cauthen (21+),305734,Paul Cauthen,162.0,WA,305734.0,Paul Cauthen,band,2000000.0,450.0,Country,98101,1150.0,The Showbox,1426 1st Ave,Seattle,1671.0,US
+6283816,Zay Wilson (21+),801114,Zay Wilson,33.0,MA,,,,,,,,,The Grand - Boston,58 Seaport Blvd.,Boston,400681.0,US
+6035820,Lainey Wilson,703721,Lainey Wilson,207.0,NV,703721.0,Lainey Wilson,band,2000000.0,450.0,Country,,,The Theater at Virgin Hotels,4455 Paradise Road,Las Vegas,161.0,US
+5942026,Opium,142276,Opium,5817.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+6271351,Sammy Johnson,442024,Sammy Johnson,62.0,CA,,,,,,,95060,800.0,The Catalyst,1011 Pacific Avenue,Santa Cruz,890.0,US
+6292834,Vegyn,686572,Vegyn,79.0,CA,,,,,,,,,The Fonda Theatre,6126 Hollywood Blvd.,Los Angeles,434763.0,US
+6049866,Dylan Matthew with Caleb Hearn (Rescheduled from 10/26/23) (Moved from The Bellwether),777269,Dylan Matthew,79.0,CA,,,,,,,90017,600.0,Teragram Ballroom,1234 West 7th Street,Los Angeles,78478.0,US
+6232592,Spencer Brown,298134,Spencer Brown,39.0,UT,,,,,,,,,Sky SLC,149 Pierpont Ave.,Salt Lake City,80809.0,US
+6229563,Winnipeg Folk Festival Concerts: The Funk Hunters,259660,Winnipeg Folk Festival Concerts,55.0,MB,,,,,,,,,The Park Theatre,698 Osborne Street,Winnipeg,10829.0,Canada
+5862159,Purple Reign - The Prince Tribute Show,20510,Purple Reign - Prince Tribute,140.0,NV,,,,,,,,,Tropicana Hotel Las Vegas,3801 Las Vegas Boulevard,Las Vegas,8284.0,US
+6033830,The Bellamy Brothers,6136,The Bellamy Brothers,351.0,NV,,,,,,,,,The Showroom at the Golden Nugget Las Vegas,301 Fremont Street,Las Vegas,4365.0,US
+6129721,Mersiv,692209,Mersiv,79.0,NY,,,,,,,10003,2500.0,Webster Hall,125 East 11th Street,New York,463.0,US
+5926204,The Carolina Opry,58455,The Carolina Opry,122.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6157313,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,168.0,PA,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,17033,12500.0,Giant Center,550 Hersheypark Drive,Hershey,464.0,US
+6309075,Ludacris,1159,Ludacris,143.0,,1159.0,Ludacris,band,2000000.0,452.0,Pop,,,St. Pete Pier,800 Second Avenue N.E.,Saint Petersburg,521790.0,Russian Federation
+6156228,The Crossing,105033,The Crossing,110.0,PA,,,,,,,,,Zellerbach Theatre,3680 Walnut Street,Philadelphia,2720.0,US
+6053322,Wage War with Erra and Zero 9:36,259963,Wage War,208.0,FL,259963.0,Wage War,band,2000000.0,473.0,Hard Rock,,,House of Blues - Orlando,1490 E Buena Vista Dr,Orlando,617.0,US
+6239108,Anberlin,196,Anberlin,80.0,FL,196.0,Anberlin,band,2000000.0,452.0,Pop,33605,2143.0,The Ritz Ybor,1503 E 7th Ave,Tampa,1034.0,US
+6259016,Anime Night (18+),802624,Anime Night,111.0,PA,,,,,,,,,Roxian Theatre,425 Chartiers Ave.,McKees Rocks,460334.0,US
+6295102,ESPN Band of the Year,808126,ESPN Band of the Year,118.0,GA,,,,,,,,,Mercedes-Benz Stadium,35 Northside Dr NW,Atlanta,419590.0,US
+6164113,Lil Darkie,797814,Lil Darkie,100.0,FL,,,,,,,32801,1250.0,The Beacham,46 N Orange Ave,Orlando,4877.0,US
+6296546,Left To Suffer (16+),789058,Left To Suffer,43.0,NY,,,,,,,,,Mohawk Place,47 East Mohawk Street,Buffalo,2416.0,US
+6239368,Boney M. ,45547,Boney M.,101.0,NS,,,,,,,,,Centre 200,481 George Street,Sydney,6106.0,Canada
+6276073,Brass Queens,782239,Brass Queens,36.0,NY,,,,,,,,,Cafe Wha?,115 Macdougal,New York,9864.0,US
+6231900,Lagwagon (Moved from Lee's Palace),11695,Lagwagon,134.0,ON,,,,,,,M4K 1N2,1500.0,Danforth Music Hall,147 Danforth Ave,Toronto,6378.0,Canada
+6168326,Big Something,17636,Big Something,85.0,MD,,,,,,,,,8X10 Club,10 East Cross Street,Baltimore,464539.0,US
+6199105,Gerald Albright,783,Gerald Albright,105.0,OH,,,,,,,44308,2592.0,Akron Civic Theatre,182 South Main Street,Akron,1089.0,US
+6174188,Choir! Choir! Choir!,369175,Choir! Choir! Choir!,94.0,NY,,,,,,,10003,1000.0,Irving Plaza,17 Irving Place,New York,519.0,US
+6230645,Morgan James,86394,Morgan James,107.0,VA,,,,,,,23606,453.0,Ferguson Center for the Arts Concert Hall,1 University Place,Newport News,798.0,US
+6176244,Broken Social Scene (19+),377,Broken Social Scene,71.0,ON,,,,,,,,,The Concert Hall,888 Yonge Street,Toronto,236012.0,Canada
+6145494,The Bouncing Souls,354,The Bouncing Souls,132.0,PA,,,,,,,,,The Fillmore Philadelphia,29 E Allen Street,Philadelphia,78730.0,US
+6274708,Mike's Dead,772746,Mike's Dead,75.0,OH,772746.0,Mike's Dead,band,2000000.0,493.0,Rap,,,The Basement,391 Neil Ave.,Columbus,760.0,US
+6137625,Duncan Trussell (18+),54078,Duncan Trussell,82.0,NC,,,,,,,,,Comedy Zone Charlotte,900 Seaboard Street,Charlotte,8502.0,US
+6128919,The Armed with Model/Actriz,693496,The Armed,63.0,MI,,,,,,,48226,1000.0,Saint Andrews Hall,431 East Congress Street,Detroit,2404.0,US
+6212162,Dogs In A Pile,784669,Dogs In A Pile,90.0,NJ,,,,,,,,,The Stone Pony,913 Ocean Ave,Asbury Park,334.0,US
+6161389,Bone Thugs-N-Harmony,347,Bone Thugs-N-Harmony,116.0,KY,,,,,,,,,MegaCorp Pavilion,101 West 4th Street,Newport,518983.0,US
+6236067,"Rachel Bloom: Death, Let Me Do My Show",162726,Rachel Bloom,167.0,NY,,,,,,,10003,347.0,Orpheum Theatre - NY,126 Second Ave,New York,2964.0,US
+6264411,Latrice Royale,363598,Latrice Royale,105.0,OH,,,,,,,43201,1700.0,Newport Music Hall,1722 North High Street,Columbus,821.0,US
+6262796,Savannah Cristina,724398,Savannah Cristina,64.0,GA,,,,,,,,,The Masquerade - Purgatory,50 Lower Alabama Street,Atlanta,6490.0,US
+5926203,The Carolina Opry,58455,The Carolina Opry,122.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6051716,Moon Hooch with Cloudchord (18+),18284,Moon Hooch,103.0,MA,,,,,,,02215,650.0,Paradise Rock Club,967 Commonwealth Ave.,Boston,540.0,US
+6093010,Here We Are,164833,Here We Are,150.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+6226154,Real Friends,35046,Real Friends,136.0,NY,,,,,,,14203,1200.0,Town Ballroom,681 Main Street,Buffalo,1073.0,US
+6263308,LANY,303766,LANY,128.0,OH,303766.0,LANY,band,2000000.0,457.0,Alternative,,,KEMBA Live!,405 Neil Avenue,Columbus,243.0,US
+6179917,From Ashes To New,278397,From Ashes To New,69.0,NY,,,,,,,,,The Rapids Theatre,1711 Main Street,Niagara Falls,3616.0,US
+6149750,Charles Wesley Godwin,767445,Charles Wesley Godwin,77.0,WV,767445.0,Charles Wesley Godwin,band,2000000.0,,,,,Metropolitan Theatre,369 High Street,Morgantown,3916.0,US
+5988014,Duel of the Decades,606452,Duel of the Decades,69.0,NJ,,,,,,,,,The Wellmont Theater,5 Seymour Street,Montclair,734.0,US
+6087363,Meshuggah with In Flames and Whitechapel,1232,Meshuggah,366.0,ON,,,,,,,,,History,1663 Queen Street East,Toronto,519028.0,Canada
+5899125,The Charleston Christmas Special,300347,The Charleston Christmas Special,96.0,SC,,,,,,,29403,935.0,Charleston Music Hall,37 John Street,Charleston,1209.0,US
+6209648,Atlanta Rhythm Section,10121,Atlanta Rhythm Section,102.0,WV,,,,,,,,,Charleston Theater,200 Civic Center Drive,Charleston,520807.0,US
+6288581,Cherry Poppin' Daddies,444,Cherry Poppin' Daddies,105.0,TN,,,,,,,,,Paramount Center for the Arts Tennessee,518 State Street,Bristol,3922.0,US
+6007387,John Pizzarelli,980,John Pizzarelli,158.0,NH,,,,,,,,,Jimmys Jazz and Blues Club,135 Congress Street,Portsmouth,519488.0,US
+6124437,Darlene Love,7080,Darlene Love,118.0,NJ,,,,,,,07701,1543.0,Hackensack Meridian Health Theatre at Count Basie Center,99 Monmouth Street,Red Bank,297.0,US
+6108156,Hot Mulligan,405099,Hot Mulligan,102.0,IL,405099.0,Hot Mulligan,band,2000000.0,457.0,Alternative,60640,4500.0,Byline Bank Aragon Ballroom,1106 West Lawrence Avenue,Chicago,999.0,US
+6261583,Doug E. Fresh,6019,Doug E. Fresh,87.0,IN,6019.0,Doug E. Fresh,band,2000000.0,493.0,Rap,,,Walker Theater,617 Indiana Avenue,Indianapolis,6307.0,US
+6197132,Taking Back Sunday - Friday,90,Taking Back Sunday,325.0,NJ,,,,,,,08872,2200.0,Starland Ballroom,570 Jernee Mill Road,Sayreville,233.0,US
+6202892,Bobby Weir and Wolf Bros,338,Bob Weir,406.0,NY,338.0,Bob Weir,band,2000000.0,472.0,Classic Rock,10573,1800.0,The Capitol Theatre,149 Westchester Avenue,Port Chester,10406.0,US
+6126699,Samantha Fish,22935,Samantha Fish,81.0,FL,,,,,,,33306,600.0,Culture Room,3045 N Federal Hwy,Fort Lauderdale,741.0,US
+6221215,Driveways,333321,Driveways,50.0,PA,,,,,,,,,First Unitarian Church of Philadelphia,2125 Chestnut Street,Philadelphia,1024.0,US
+6283688,Daniel O'Donnell,538,Daniel O'Donnell,124.0,FL,,,,,,,34236,1736.0,Van Wezel Performing Arts Hall,777 N. Tamiami Trail,Sarasota,1096.0,US
+6157315,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,260.0,PA,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,17033,12500.0,Giant Center,550 Hersheypark Drive,Hershey,464.0,US
+6008841,Billy Strings,299503,Billy Strings,251.0,PA,299503.0,Billy Strings,band,2000000.0,467.0,Folk,18702,8300.0,Mohegan Sun Arena at Casey Plaza,255 Highland Park Blvd,Wilkes Barre,2192.0,US
+6112566,The Maine,2672,The Maine,104.0,TX,2672.0,The Maine,band,2000000.0,458.0,Indie,77002,1500.0,House of Blues Houston,1204 Caroline Street,Houston,405.0,US
+6263552,Anastasia (Band),593266,Anastasia (Band),182.0,NY,,,,,,,,,White Plains Performing Arts Center,11 City Place,White Plains,51801.0,US
+6256394,Jim Brickman,951,Jim Brickman,122.0,OH,,,,,,,43215,900.0,Southern Theatre,21 E Main St,Columbus,552.0,US
+6229568,John Berry,23383,John Berry,75.0,GA,,,,,,,,,Cedartown Performing Arts Center,205 East Avenue,Cedartown,30824.0,US
+6265285,Ingrid Michaelson,885,Ingrid Michaelson,143.0,NY,,,,,,,10003,2500.0,Webster Hall,125 East 11th Street,New York,463.0,US
+6126584,Carbon Leaf,407,Carbon Leaf,129.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
+6276871,Eartheater,807525,Eartheater,262.0,NY,,,,,,,,,Elsewhere - Brooklyn,599 Johnson Avenue,Brooklyn,433695.0,US
+6249806,CHUU,807299,CHUU,194.0,GA,,,,,,,30339,3000.0,Coca-Cola Roxy Theatre,800 Battery Ave SE,Atlanta,420461.0,US
+6133182,Alan Menken,159,Alan Menken,111.0,ON,,,,,,,,,Meridian Theatres at Centerpointe,101 Centrepointe Drive,Ottawa,471743.0,Canada
+6206244,Mariah Carey ,2494,Mariah Carey,340.0,MD,2494.0,Mariah Carey,band,2000000.0,452.0,Pop,,,CFG Bank Arena,201 West Baltimore St.,Baltimore,679.0,US
+6232591,NewSong,96498,NewSong,43.0,MS,,,,,,,,,First Baptist Church,12190 Hwy 605,Pascagoula,81651.0,US
+6196498,Odie Leigh,802221,Odie Leigh,24.0,VA,,,,,,,,,The Southern Cafe and Music Hall,103 S 1st St,Charlottesville,6139.0,US
+6063380,The Irish Tenors,889,The Irish Tenors,237.0,MA,,,,,,,,,Plymouth Memorial Hall,83 Court Street,Plymouth,2583.0,US
+6285805,Edwin McCain,671,Edwin McCain,178.0,SC,671.0,Edwin McCain,band,2000000.0,452.0,Pop,,,Newberry Opera House,1201 McKibben Street,Newberry,1836.0,US
+6283837,Wilson Fairchild,317817,Wilson Fairchild,250.0,TX,,,,,,,,,Old Town Theatre,1023 12th Street,Huntsville,325104.0,US
+6284195,The Doo Wop Project,75256,The Doo Wop Project,91.0,NY,,,,,,,10591,843.0,Tarrytown Music Hall,13 Main Street,Tarrytown,880.0,US
+6125808,The Oak Ridge Boys,1356,The Oak Ridge Boys,224.0,IL,,,,,,,,,Effingham Performance Center,1325 Outer Belt West,Effingham,3263.0,US
+6048234,Matteo Bocelli,803505,Matteo Bocelli,159.0,CT,,,,,,,,,Great Cedar Showroom at Foxwoods Resort Casino,39 Norwich Westerly Road,Mashantucket,56696.0,US
+6157868,Home Free,75262,Home Free,89.0,IN,,,,,,,,,French Lick Resort,8670 West State Road 56,French Lick,2259.0,US
+6287292,Upon A Burning Body,14865,Upon A Burning Body,53.0,TX,,,,,,,,,Vibes Event Center,8111 Meadow Leaf Drive,San Antonio,39299.0,US
+6256739,Sexyy Red,805944,Sexyy Red,97.0,OH,805944.0,Sexyy Red,band,2000000.0,,,44115,1200.0,TempleLive Cleveland Masonic,3615 Euclid Avenue,Cleveland,4005.0,US
+6091301,For King & Country,57788,For King & Country,142.0,TX,,,,,,,76107,13300.0,Dickies Arena,1911 Montgomery Street,Fort Worth,460055.0,US
+6054612,Chevy Chase,216881,Chevy Chase,130.0,NJ,,,,,,,07102,2000.0,New Jersey Performing Arts Center,1 Center Street,Newark,665.0,US
+6245475,Lil Wayne with Lola Brooke,1109,Lil Wayne,292.0,CT,1109.0,Lil Wayne,band,2000000.0,452.0,Pop,,,Total Mortgage Arena,600 Main Street,Bridgeport,1543.0,US
+6166393,New West,57119,New West,126.0,ON,,,,,,,M4M 1H1,950.0,The Opera House,735 Queen Street East,Toronto,3362.0,Canada
+6123871,Vitamin String Quartet,246322,Vitamin String Quartet,143.0,CT,,,,,,,06877,500.0,The Ridgefield Playhouse,80 East Ridge Road,Ridgefield,957.0,US
+6221055,Christmas With Elvis,777236,Christmas With Elvis,66.0,NJ,,,,,,,,,Landis Theater,830 E Landis Avenue,Vineland,13109.0,US
+6284022,Amanda Anne Platt & The Honeycutters,626726,Amanda Anne Platt & The Honeycutters,56.0,NC,,,,,,,28801,300.0,The Grey Eagle,185 Clingman Ave,Asheville,4723.0,US
+6256901,Dexter and The Moonrocks,802991,Dexter and The Moonrocks,54.0,NC,,,,,,,,,Cat's Cradle,300 East Main Street,Carrboro,1076.0,US
+6299824,Bret Michaels (21+),366,Bret Michaels,132.0,NY,,,,,,,,,The Vine at Del Lago Resort and Casino,1133 Route 414,Waterloo,421546.0,US
+6255708,Bill Gaither,297,Bill Gaither,58.0,TN,,,,,,,,,World Outreach Church,1921 New Salem Road,Murfreesboro,104430.0,US
+6091975,Polo G (Rescheduled from 9/9/23),699724,Polo G,143.0,QC,699724.0,Polo G,band,2000000.0,493.0,Rap,,,Place Bell,1950 Rue Claude,Laval,426031.0,Canada
+6124420,Mae,1174,Mae,91.0,GA,,,,,,,30309,800.0,The Loft at Center Stage,1374 West Peachtree Street,Atlanta,1019.0,US
+6194858,Peekaboo,671108,Peekaboo,90.0,MI,,,,,,,48342,1100.0,The Crofoot Ballroom,1 S. Saginaw,Pontiac,1010.0,US
+6138336,A John Waters Christmas,18513,A John Waters Christmas,243.0,PA,,,,,,,19123,1200.0,Union Transfer - Philadelphia,1026 Spring Garden Street,Philadelphia,6153.0,US
+6159686,Travis Scott,146225,Travis Scott,473.0,IL,146225.0,Travis Scott,band,2000000.0,491.0,Hip-Hop,,,United Center,1901 West Madison Street,Chicago,136.0,US
+6061628,Grand Ole Opry,812,Grand Ole Opry,265.0,TN,,,,,,,37214,4400.0,Grand Ole Opry House,600 Opry Mills Drive,Nashville,4706.0,US
+6113863,Stephen Sanchez,797186,Stephen Sanchez,131.0,LA,,,,,,,,,The Joy Theater - New Orleans,1200 Canal Street,New Orleans,7059.0,US
+6185760,Brett Eldredge,19960,Brett Eldredge,120.0,MI,,,,,,,48201,5048.0,Fox Theatre Detroit,2211 Woodward Ave,Detroit,1195.0,US
+6011897,Old Dominion,79728,Old Dominion,120.0,TN,79728.0,Old Dominion,band,2000000.0,450.0,Country,37203,19712.0,Bridgestone Arena,501 Broadway,Nashville,2195.0,US
+5868262,Anita Baker,205,Anita Baker,263.0,TX,205.0,Anita Baker,band,2000000.0,468.0,Jazz,77002,19300.0,Toyota Center,1510 Polk Street,Houston,129.0,US
+6294035,Lounge Fly - Stone Temple Pilots Tribute,662660,Queen Tribute,55.0,DE,,,,,,,,,The Queen,500 North Market Street,Wilmington,289673.0,US
+6164127,Nefesh Mountain,710243,Nefesh Mountain,86.0,NJ,,,,,,,,,South Orange Performing Arts Center,1 SOPAC Way,South Orange,3562.0,US
+6124296,Black Eyes,244696,Black Eyes,57.0,DC,,,,,,,20009,700.0,Black Cat,1811 14th St,Washington,1495.0,US
+6137673,Darlingside,56321,Darlingside,59.0,MA,,,,,,,01060,800.0,Academy of Music Theatre - Northampton,274 Main Street,Northampton,73660.0,US
+6284224,Rockin Elvis Christmas,58550,Rockin Elvis Christmas,55.0,MB,,,,,,,,,Club Regent Casino,1425 Regent Avenue West,Winnipeg,3736.0,Canada
+6160101,Pink Talking Fish,270766,Pink Talking Fish,55.0,KY,,,,,,,41011,1200.0,Madison Theater,730 Madison Avenue,Covington,1186.0,US
+6246492,Mike DelGuidice,347370,Mike DelGuidice,94.0,CT,,,,,,,,,Wall Street Theater,71 Wall Street,Norwalk,143642.0,US
+6287166,Asleep at the Wheel,230,Asleep at the Wheel,78.0,TX,230.0,Asleep at the Wheel,band,2000000.0,450.0,Country,,,Corsicana Palace Theatre,112 West 6th Avenue,Corsicana,81940.0,US
+6309443,Bask,148798,Bask,32.0,NC,,,,,,,,,Local 506,506 West Franklin Street,Chapel Hill,4080.0,US
+6256032,The Vegabonds,88052,The Vegabonds,58.0,GA,,,,,,,30318,600.0,Terminal West,887 West Marietta St NW,Atlanta,7952.0,US
+6134142,Sal Valentinetti (21+),599621,Sal Valentinetti,78.0,NJ,,,,,,,,,Kathedral Event Center,499 South Egg Harbor Road,Hammonton,421042.0,US
+6186674,Luke Grimes,806438,Luke Grimes,29.0,DC,,,,,,,,,9:30 Club,815 V St. NW,Washington,538.0,US
+6111232,Ashley McBryde with Will Jones,436785,Ashley McBryde,108.0,NC,436785.0,Ashley McBryde,band,2000000.0,450.0,Country,28206,2000.0,The Fillmore - Charlotte,820 Hamilton Street,Charlotte,568.0,US
+6130514,We Are Scientists (18+),1999,We Are Scientists,74.0,NY,,,,,,,10002,575.0,Bowery Ballroom,6 Delancey Street,New York,719.0,US
+6026072,Postmodern Jukebox,272825,Postmodern Jukebox,90.0,NY,,,,,,,,,Kodak Center,200 Ridge Rd W,Rochester,8225.0,US
+6133414,Raul Malo,1503,Raul Malo,358.0,PA,,,,,,,,,New Hope Winery,6123 Lower York Road,New Hope,464759.0,US
+6266757,38 Special,114,38 Special,106.0,WI,,,,,,,,,EPIC Event Center,2351 Holmgren Way,Green Bay,518792.0,US
+6288550,Elvis Experience,260958,Elvis Experience,127.0,QC,,,,,,,H2X 3K2,2380.0,St. Denis Theatre,1594 St-Denis Street,Montreal,574.0,Canada
+6133594,Jazz Is Dead,200704,Jazz Is Dead,47.0,SC,,,,,,,,,"The Senate - Columbia, SC",1022 Senate Street,Columbia,449242.0,US
+6132766,Stayin Alive,8005,Stayin' Alive (Tribute to The Bee Gees),88.0,OH,,,,,,,,,Robins Theatre,160 E Market St,Warren,484599.0,US
+6280075,ELVIS CHRISTMAS,383155,ELVIS CHRISTMAS,129.0,AL,,,,,,,,,Druid City Music Hall,1307 University Blvd,Tuscaloosa,2364.0,US
+6073208,Kevin Gates,20099,Kevin Gates,126.0,GA,20099.0,Kevin Gates,band,2000000.0,493.0,Rap,,,James Brown Arena,601 7th Street,Augusta,1297.0,US
+6125903,Corey Smith,501,Corey Smith,91.0,GA,,,,,,,30305,2500.0,Buckhead Theatre,3110 Roswell Road,Atlanta,3045.0,US
+6200101,The Polyphonic Spree,1453,The Polyphonic Spree,114.0,TX,,,,,,,75201,1704.0,Majestic Theatre - Dallas,1925 Elm Street,Dallas,3621.0,US
+6093527,Dogstar,804918,Dogstar,61.0,DC,,,,,,,20001,1242.0,The Howard Theatre,620 T Street Northwest,Washington,433042.0,US
+6226253,Almost Queen,4463,Almost Queen,81.0,NY,,,,,,,,,Landmark Theatre,362 South Salina Street,Syracuse,1200.0,US
+6232023,Samara Joy,797930,Samara Joy,181.0,NY,,,,,,,,,Apollo Theater,253 West 125th Street,New York,1817.0,US
+6083354,Jon McLaughlin,991,Jon McLaughlin,86.0,MD,,,,,,,,,Rams Head On Stage - Annapolis,33 West Street,Annapolis,995.0,US
+6049151,Marc Martel,306098,Marc Martel,165.0,FL,,,,,,,33131,4000.0,James L Knight Center,400 SE 2nd Ave,Miami,940.0,US
+6099428,Straight No Chaser,1703,Straight No Chaser,154.0,NY,,,,,,,14202,3700.0,Shea's Performing Arts Center,646 Main Street,Buffalo,987.0,US
+6173563,"Rod Wave with Ari Lennox, Toosii, and G Herbo",782153,Rod Wave,709.0,FL,782153.0,Rod Wave,band,2000000.0,491.0,Hip-Hop,32805,18500.0,Amway Center,400 West Church Street,Orlando,2652.0,US
+6245512,The Connells,18027,The Connells,234.0,NC,,,,,,,27601,350.0,Lincoln Theatre - NC,126 East Cabarrus Street,Raleigh,3259.0,US
+5971317,Bleu Jeans Bleu,778140,Bleu Jeans Bleu,76.0,QC,,,,,,,,,L`Etoile Banque Nationale,6000 Boulevard Rome,Brossard,49396.0,Canada
+6162764,Scotty Austin,796762,Scotty Austin,46.0,NH,,,,,,,,,Bank of New Hampshire Stage,16 South Main Street,Concord,515396.0,US
+6183144,Girl Named Tom,796666,Girl Named Tom,135.0,OH,,,,,,,,,People's Bank Theatre,222 Putnam St,Marietta,126908.0,US
+6252535,Tomaseen Foley,295740,Tomaseen Foley,110.0,TX,,,,,,,,,Rockbox Theater,109 N Llano St,Fredericksburg,44491.0,US
+6088668,Engelbert Humperdinck,691,Engelbert Humperdinck,215.0,NJ,,,,,,,,,Sound Waves at Hard Rock Hotel & Casino Atlantic City,1000 Boardwalk,Atlantic City,447957.0,US
+6129405,The Four Horsemen - The Ultimate Tribute to Metallica,527739,The Four Horsemen (Metallica Tribute),96.0,PA,,,,,,,18229,1800.0,Penns Peak,325 Maury Road,Jim Thorpe,602.0,US
+6143545,Lindsay Stirling,27573,Lindsey Stirling,388.0,NJ,,,,,,,,,Caesars Atlantic City,2100 Pacific Ave,Atlantic City,1094.0,US
+6283863,Killing Time,780556,Killing Time,60.0,CT,,,,,,,,,Space Ballroom,295 Treadwell Street,Hamden,145802.0,US
+6283343,mxmtoon,697419,mxmtoon,53.0,NY,,,,,,,,,Roulette,509 Atlantic Avenue,Brooklyn,47478.0,US
+6146091,Pigeons Playing Ping Pong (21+),14980,Pigeons Playing Ping Pong,77.0,PA,,,,,,,,,Brooklyn Bowl Philadelphia,1009 Canal Street,Philadelphia,519644.0,US
+6145790,Macy Gray (21+),5457,Macy Gray,81.0,IN,,,,,,,,,The Vogue Theatre - IN,6259 N College Ave,Indianapolis,8821.0,US
+6092436,Classic Albums Live - Led Zeppelin,4282,Classic Albums Live,96.0,ON,,,,,,,M5B 1T7,2752.0,Massey Hall,178 Victoria St.,Toronto,418.0,Canada
+6257724,Trace Adkins (21+),1931,Trace Adkins,233.0,FL,,,,,,,,,Seminole Hard Rock Tampa,5223 N Orient Road,Tampa,350990.0,US
+5956818,Yacht Rock Revue,15356,Yacht Rock Revue,86.0,SC,,,,,,,29201,3500.0,Township Auditorium,1703 Taylor Street,Columbia,2506.0,US
+6209430,Majid Jordan,441072,Majid Jordan,72.0,QC,,,,,,,H2X 1K5,2200.0,MTELUS,59 Rue Sainte,Montreal,443.0,Canada
+6255980,MONOWHALES,798866,MONOWHALES,58.0,ON,,,,,,,,,Club Saw,67 Nicholas Street,Ottawa,10820.0,Canada
+5981061,Wayne Newton,1997,Wayne Newton,174.0,IA,,,,,,,52801,2400.0,Adler Theatre,136 E. 3rd Street,Davenport,470.0,US
+6129076,Lorrie Morgan,1139,Lorrie Morgan,136.0,IA,,,,,,,52001,5200.0,Five Flags Center,405 Main Street,Dubuque,599.0,US
+6288534,Chris Barron,19501,Chris Barron,61.0,NY,,,,,,,,,Iridium Jazz Club,1650 Broadway,New York,5603.0,US
+6156229,The Crossing,105033,The Crossing,118.0,PA,,,,,,,,,Zellerbach Theatre,3680 Walnut Street,Philadelphia,2720.0,US
+6048519,Stranger In The Night,803513,Stranger In The Night,161.0,QC,,,,,,,,,Cabaret du Casino de Montreal,1 Avenue du Casino,Montreal,125066.0,Canada
+6288740,The Flatliners,15330,The Flatliners,44.0,OH,,,,,,,,,Grog Shop,2785 Euclid Heights Blvd,Cleveland,824.0,US
+6232305,The Wizards Of Winter,63340,The Wizards Of Winter,78.0,WI,,,,,,,,,Pablo Center at the Confluence,124 Graham Avenue,Eau Claire,451284.0,US
+6143739,Pam Tillis,1386,Pam Tillis,104.0,IL,1386.0,Pam Tillis,band,2000000.0,450.0,Country,,,Bloomington Center for the Performing Arts,600 N. East St,Bloomington,878.0,US
+6189326,I Love the 90's Tour: I Love The 90s Tour,29725,I Love the 90's Tour,99.0,IL,,,,,,,61701,7200.0,Grossinger Motors Arena,101 South Madison St.,Bloomington,3579.0,US
+6157317,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,146.0,OK,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,74103,19199.0,BOK Center,200 South Denver,Tulsa,85.0,US
+6270330,Eli Young Band,4127,Eli Young Band,102.0,OH,,,,,,,,,Thirsty Cowboy,2743 Medina Rd,Medina,47164.0,US
+6066194,Silverstein with Stray From The Path and Avoid,1625,Silverstein,113.0,IA,1625.0,Silverstein,band,2000000.0,452.0,Pop,50309,700.0,Wooly's,504 E. Locust,Des Moines,7697.0,US
+6264156,Craig Owens,10555,Craig Owens,77.0,MN,,,,,,,55401,1800.0,Fine Line Music Cafe,318 First Avenue North,Minneapolis,906.0,US
+6299805,Lab Group,667206,Lab Group,82.0,GA,,,,,,,,,The Eastern - Atlanta,777 Memorial Drive Southeast,Atlanta,518875.0,US
+6129104,Mindforce,691663,Mindforce,202.0,CO,,,,,,,80205,1611.0,Marquis Theater - Denver,2009 Larimer Street,Denver,3053.0,US
+6048029,Herman's Hermits,853,Herman's Hermits,244.0,OH,,,,,,,,,Live at the Ludlow Garage,342 Ludlow Ave,Cincinnati,79468.0,US
+6285367,Hallelujah the Hills,789257,Hallelujah the Hills,72.0,MA,,,,,,,02138,525.0,The Sinclair,52 Church Street,Cambridge,11280.0,US
+6286100,Pearl Gem,25927,Pearl Gem,58.0,TX,,,,,,,75226,600.0,Trees - Dallas,2709 Elm Street,Dallas,3534.0,US
+6300239,G Herbo,378098,G Herbo,98.0,IL,378098.0,G Herbo,band,2000000.0,491.0,Hip-Hop,,,The Forge,22 West Cass Street,Joliet,7413.0,US
+6107310,Mannheim Steamroller Christmas - Minneapolis,1184,Mannheim Steamroller,149.0,MN,,,,,,,55403,2579.0,Orpheum Theatre - Minneapolis,910 Hennepin Avenue,Minneapolis,3632.0,US
+6287007,Face the Music (21+),734246,Face the Music,34.0,IL,,,,,,,60018,2000.0,Joe's Live Rosemont,5441 Park Place,Rosemont,222655.0,US
+6119499,Dirty Honey,310639,Dirty Honey,66.0,MO,,,,,,,,,The Hawthorn - St Louis,,St. Louis,521208.0,US
+6244117,Eggy (21+),779420,Eggy,42.0,SC,,,,,,,,,Charleston Pour House,1977 Maybank Hwy,Charleston,5083.0,US
+6257456,Jon Wayne And The Pain (18+),18666,Jon Wayne And The Pain,42.0,CO,,,,,,,80909,450.0,Black Sheep,2106 East Platte Avenue,Colorado Springs,763.0,US
+6202643,Johnny Reid,989,Johnny Reid,92.0,NB,,,,,,,,,Casino New Brunswick,21 Casino Dr,Moncton,5670.0,Canada
+6284174,Start Making Sense - Talking Heads Tribute,55876,Start Making Sense: Talking Heads Tribute,48.0,RI,,,,,,,,,The Met,1005 Main Street,Pawtucket,4010.0,US
+6291030,Chris Tomlin,458,Chris Tomlin,72.0,NM,,,,,,,,,Calvary Church - Albuquerque,4001 Osuna Road NE,Albuquerque,522051.0,US
+6203648,Rock Show NOLA - Tribute to Styx & Foreigner,122095,Rock,73.0,MS,,,,,,,39530,1400.0,Hard Rock Hotel & Casino - Biloxi,777 Beach Blvd.,Biloxi,314.0,US
+6295528,Action Bronson (18+),17082,Action Bronson,90.0,MN,17082.0,Action Bronson,band,2000000.0,493.0,Rap,55102,2500.0,Palace Theatre St. Paul,17 W. Seventh Place,St. Paul,419701.0,US
+6117146,Nathaniel Rateliff,291820,Nathaniel Rateliff & The Night Sweats,146.0,CO,291820.0,Nathaniel Rateliff & The Night Sweats,band,2000000.0,456.0,Rock,80204,21000.0,Ball Arena,1000 Chopper Circle,Denver,187.0,US
+6215309,Local H,4179,Local H,202.0,MO,,,,,,,,,Blueberry Hill,6504 Delmar,St. Louis,1575.0,US
+6177876,Andy Frasco & The U.N. with Maggie Rose,43173,Andy Frasco & The U.N.,124.0,MO,,,,,,,63112,2000.0,The Pageant,6161 Delmar Blvd,St. Louis,440.0,US
+6113221,The Lone Bellow (18+),61894,The Lone Bellow,92.0,TN,,,,,,,,,The Basement East,917 Woodland St,Nashville,77961.0,US
+6301610,Four Tet,4129,Four Tet,330.0,NY,4129.0,Four Tet,band,2000000.0,452.0,Pop,11222,1000.0,Warsaw,261 Driggs Ave,Brooklyn,8257.0,US
+6246580,DMVU with Toadface,502487,DMVU,59.0,PA,,,,,,,,,Harrisburg Midtown Arts Center,1110 North 3rd Street,Harrisburg,18020.0,US
+6290457,Delta Heavy,23773,Delta Heavy,66.0,MD,,,,,,,,,Baltimore Soundstage,124 Market Place,Baltimore,6260.0,US
+6284189,Dan Rodriguez,259399,Dan Rodriguez,54.0,IL,,,,,,,60202,250.0,SPACE - Evanston,1245 Chicago Avenue,Evanston,2109.0,US
+6112166,Cattle Decapitation,12924,Cattle Decapitation,73.0,CA,,,,,,,90015,1000.0,The Belasco - Los Angeles,1050 South Hill Street,Los Angeles,30920.0,US
+6181285,Zeds Dead with Friction (18+),9722,Zeds Dead,210.0,IL,9722.0,Zeds Dead,band,2000000.0,452.0,Pop,,,The Salt Shed,1357 North Elston Avenue,Chicago,519998.0,US
+5236237,Lee Brice **Rescheduled**,6068,Lee Brice,65.0,OK,,,,,,,,,Riverwind Casino,1544 OK-9,Norman,895.0,US
+6112994,The Allman Betts Family Revival,805476,The Allman Betts Family Revival,125.0,TN,,,,,,,37219,2362.0,Ryman Auditorium,116 5th Avenue North,Nashville,292.0,US
+6065448,The Glorious Sons,110363,The Glorious Sons,113.0,ON,,,,,,,,,Casino Rama,5899 Rama Road,Rama,301.0,Canada
+6161799,TVBOO,697037,TVBOO,69.0,NE,,,,,,,68104,750.0,The Waiting Room,6212 Maple St.,Omaha,1290.0,US
+6286678,Kevin Garrett,290776,Kevin Garrett,50.0,TN,,,,,,,,,Riverside Revival Nashville,1600 Riverside Drive,Nashville,521188.0,US
+6177243,Diamond Rio,600,Diamond Rio,102.0,WI,,,,,,,53965,2000.0,Crystal Grand Music Theatre,430 W Munroe Ave,Wisconsin Dells,1831.0,US
+6284142,The Big Wu (18+),63971,The Big Wu,67.0,MN,,,,,,,55403,750.0,First Avenue - Minneapolis,701 First Avenue North,Minneapolis,370.0,US
+6184137,Andrew Bird,198,Andrew Bird,119.0,IL,,,,,,,,,Fourth Presbyterian Church,126 East Chestnut Street,Chicago,1586.0,US
+6231813,Agent Orange,7311,Agent Orange,311.0,CA,,,,,,,90069,500.0,Whisky a Go Go,8901 Sunset Boulevard,West Hollywood,2477.0,US
+6097424,"K-Love Christmas Tour with Danny Gokey, Natalie Grant and Mac Powell",261430,K-Love Christmas Tour,63.0,CO,,,,,,,80538,5300.0,Blue Arena at The Ranch Events Complex,5290 Arena Circle,Loveland,508.0,US
+6288618,Smells Like Nirvana Tribute,348580,Smells Like Nirvana,50.0,MD,,,,,,,21202,2000.0,Rams Head Live! - Baltimore,20 Market Place,Baltimore,364.0,US
+6095200,Yussef Dayes,796628,Yussef Dayes,78.0,TX,,,,,,,,,Studio at the Factory,2727 Canton Street,Dallas,519618.0,US
+6239664,Paula Poundstone,5181,Paula Poundstone,126.0,OK,,,,,,,,,Tower Theatre - OK,425 NW 23rd St,Oklahoma City,429454.0,US
+6255748,Joe Sambo,385147,Joe Sambo,30.0,NE,,,,,,,,,Reverb Lounge,6121 Military Avenue,Omaha,72595.0,US
+6189194,Steel Panther,4733,Steel Panther,118.0,WI,,,,,,,,,The Sylvee,25 S. Livingston Street,Madison,448545.0,US
+6230611,Morgan Evans (21+),102455,Morgan Evans,60.0,IL,,,,,,,,,Joe's on Weed St.,940 West Weed Street,Chicago,914.0,US
+6110977,Dan Deacon,532,Dan Deacon,46.0,TX,,,,,,,,,Club Dada,2720 Elm St,Dallas,9504.0,US
+6230666,Ray Volpe,639083,Ray Volpe,137.0,ON,639083.0,Ray Volpe,band,2000000.0,477.0,Electronic,M6G 1C4,620.0,The Axis Club,722 College Street,Toronto,681.0,Canada
+6135995,Parliament Funkadelic with George Clinton,16412,Parliament Funkadelic,144.0,TX,,,,,,,,,Aztec Theatre,104 N Saint Marys,San Antonio,57432.0,US
+6203629,Brandon Bennett (21+),14485,Brandon Bennett,69.0,MS,,,,,,,,,IP Casino Resort and Spa,850 Bayview Avenue,Biloxi,646.0,US
+6265167,Funky Butt Brass Band,17954,Funky Butt Brass Band,58.0,MO,,,,,,,63112,750.0,Delmar Hall,6133 Delmar Blvd.,St. Louis,397902.0,US
+6245581,Sunsquabi,98486,Sunsquabi,52.0,OK,,,,,,,,,Beer City Music Hall,1141 Northwest 2nd Street,Oklahoma City,519851.0,US
+6307888,La Maquinaria Nortena,253529,La Maquinaria Nortena,101.0,TX,,,,,,,,,La Hacienda Event Center,12600 State Highway 191,Midland,52485.0,US
+6164425,Aaron Watson,138,Aaron Watson,91.0,OK,,,,,,,,,Stage 271 - Choctaw Event Center - Grant,1516 US HWY 271,Grant,5843.0,US
+6237037,Fred Hammond (21+),4131,Fred Hammond,134.0,IN,,,,,,,46320,3000.0,The Venue at Horseshoe Casino,777 Casino Center Dr.,Hammond,682.0,US
+6164125,Todd Barry,15511,Todd Barry,59.0,TX,,,,,,,78212,450.0,Paper Tiger - San Antonio,2410 North Saint Mary's Street,San Antonio,740.0,US
+6048117,Muscadine Bloodline,476260,Muscadine Bloodline,111.0,AL,,,,,,,35233,1300.0,Iron City,513 22nd Street South,Birmingham,38866.0,US
+6047124,El Alfa,610164,El Alfa,330.0,IL,610164.0,El Alfa,band,2000000.0,504.0,Latin,,,Rosemont Theatre,5400 North River Road,Rosemont,715.0,US
+6253331,Sixteen Candles,21627,Sixteen Candles,54.0,WI,,,,,,,53703,600.0,Majestic Theatre - WI,115 King Street,Madison,3515.0,US
+6283869,DJ Cribb,795364,DJ Cribb,98.0,CT,,,,,,,,,Shrine at Foxwoods Resort & Casino,240 MGM Grand Drive,Mashantucket,452032.0,US
+6259057,Emo Nite,392432,Emo Nite,50.0,ON,392432.0,Emo Nite,band,2000000.0,,,,,Velvet Underground,508 Queen Street West,Toronto,30305.0,Canada
+6244340,Kid Smoko,807210,Kid Smoko,45.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+6123423,Walker Lukens,252930,Walker Lukens,84.0,TX,,,,,,,,,Paramount Theatre Austin,713 Congress Ave,Austin,907.0,US
+6233719,Zedd,16700,Zedd,338.0,DC,16700.0,Zedd,band,2000000.0,456.0,Rock,20018,5000.0,Echostage,2135 Queens Chapel Road Northeast,Washington,16077.0,US
+6149804,Aqua,111674,Aqua,126.0,CO,,,,,,,80202,1000.0,Summit - Denver,1902 Blake St,Denver,2882.0,US
+6235912,Explosions In The Sky,714,Explosions in the Sky,91.0,TX,,,,,,,,,Austin City Limits Live at The Moody Theater,310 West Willie Nelson Boulevard,Austin,3670.0,US
+6091750,Sonic Symphony,804399,Sonic Symphony,239.0,TX,,,,,,,78205,2264.0,Majestic Theatre San Antonio,226 E Houston St,San Antonio,912.0,US
+6183936,Papadosio (16+),10359,Papadosio,106.0,CO,,,,,,,,,Mission Ballroom,4242 Wynkoop Street,Denver,467142.0,US
+6205521,Sam Feldt (21+),296884,Sam Feldt,48.0,MA,296884.0,Sam Feldt,band,2000000.0,477.0,Electronic,,,The Grand - Boston,58 Seaport Blvd.,Boston,400681.0,US
+6002957,Pink Martini,1442,Pink Martini,134.0,AZ,,,,,,,85225,1500.0,Chandler Center for the Arts,250 North Arizona Avenue,Chandler,1147.0,US
+6126487,DJ Matt Bennett (18+),797255,DJ Matt Bennett,42.0,OH,,,,,,,45219,1464.0,Bogarts,2621 Vine Street,Cincinnati,549.0,US
+6138759,Piano Man,269261,Piano Man,128.0,NV,,,,,,,89109,5067.0,V Theater at Planet Hollywood Resort and Casino - Las Vegas,3667 Las Vegas Blvd S,Las Vegas,4361.0,US
+6283788,hello world (21+),448956,hello world,44.0,CA,,,,,,,,,Moroccan Lounge,901 E 1st St,Los Angeles,432202.0,US
+6270058,Rumours - Fleetwood Mac Tribute,101831,Rumours,98.0,TX,,,,,,,,,3TEN Austin City Limits Live,310 Willie Nelson Blvd,Austin,267124.0,US
+6130735,Creed Fisher,786604,Creed Fisher,70.0,OK,,,,,,,73149,1200.0,Diamond Ballroom,8001 S Eastern Ave,Oklahoma City,891.0,US
+5973354,Paramount Theatre Club Seating: The Fab Four,717,The Fab Four - The Ultimate Tribute,129.0,CO,,,,,,,80202,1870.0,Paramount Theatre - CO,1621 Glenarm,Denver,717.0,US
+6271836,Grady Spencer & The Work,407658,Grady Spencer & The Work,44.0,TX,,,,,,,,,John T. Floore Country Store,14492 Old Bandera Rd.,Helotes,5629.0,US
+6231412,Mariachi Christmas,17610,Mariachi Christmas,98.0,NM,,,,,,,87131,1985.0,Popejoy Hall,1 University of New Mexico,Albuquerque,1204.0,US
+6285265,Pardyalone (16+),807689,Pardyalone,37.0,AZ,,,,,,,85004,250.0,Valley Bar,130 N Central Ave,Phoenix,71620.0,US
+6147930,Rick Springfield,66,Rick Springfield,128.0,AZ,,,,,,,85008,2651.0,Celebrity Theatre - Phoenix,440 North 32nd Street,Phoenix,160.0,US
+6137626,Duncan Trussell (18+),54078,Duncan Trussell,83.0,NC,,,,,,,,,Comedy Zone Charlotte,900 Seaboard Street,Charlotte,8502.0,US
+6024787,Skid Row with Buckcherry,1635,Skid Row,145.0,NV,,,,,,,,,Nugget Casino Resort,1100 Nugget Avenue,Sparks,88453.0,US
+6125776,Gary Hoey,6184,Gary Hoey,120.0,CA,,,,,,,,,Ramona Mainstage,626 Main Street,Ramona,3500.0,US
+6124272,The Bellamy Brothers (18+),6136,The Bellamy Brothers,57.0,CO,,,,,,,,,Grizzly Rose,5450 N Valley Hwy,Denver,1318.0,US
+6191970,Mick Adams and the Stones,285881,Mick Adams and the Stones,69.0,AZ,,,,,,,85226,1400.0,Gila River Hotels & Casinos - Wild Horse Pass,5040 Wild Horse Pass Blvd,Chandler,8901.0,US
+6095800,Flatbush Zombies,39162,Flatbush Zombies,130.0,CA,39162.0,Flatbush Zombies,band,2000000.0,493.0,Rap,92802,1000.0,House of Blues - Anaheim,400 Disney Way,Anaheim,544.0,US
+6072413,Andrew McMahon in the Wilderness,2254,Andrew McMahon In The Wilderness,89.0,OR,,,,,,,97209,1550.0,Roseland Theater,10 Northwest 6th Ave.,Portland,543.0,US
+6130382,Hiss Golden Messenger,140552,Hiss Golden Messenger,60.0,CA,,,,,,,90069,500.0,Troubadour,9081 Santa Monica Blvd,West Hollywood,764.0,US
+6035318,Jeff Rosenstock with Small Crush,170360,Jeff Rosenstock,92.0,CA,,,,,,,,,The Regency Ballroom,1300 Van Ness Avenue,San Francisco,561.0,US
+6177300,Riot Ten (18+),318688,Riot Ten,77.0,MO,,,,,,,,,Old Rock House,1200 South 7th Street,St. Louis,2173.0,US
+6173671,Marauda (18+),782769,Marauda,76.0,TX,,,,,,,,,9PM Music Venue,,Houston,521677.0,US
+6244222,G-Space,787364,G-Space,65.0,WI,,,,,,,,,Miramar Theatre,2844 N Oakland Ave,Milwaukee,1547.0,US
+5922138,Stevie Nicks (Rescheduled from 3/23/23),4987,Stevie Nicks,705.0,CA,4987.0,Stevie Nicks,band,2000000.0,472.0,Classic Rock,94158,18064.0,Chase Center,300 16th Street,San Francisco,467029.0,US
+6144728,The Story So Far,17747,The Story So Far,285.0,CA,,,,,,,94117,500.0,The Independent,628 Divisadero Street,San Francisco,649.0,US
+6250568,Gimme Gimme Disco (18+),765601,Gimme Gimme Disco,41.0,TX,,,,,,,,,White Oak Music Hall - Houston,2915 North Main Street,Houston,216061.0,US
+6203547,Luann de Lesseps,686989,Luann de Lesseps,70.0,AB,,,,,,,,,Grey Eagle Event Centre,3777 Grey Eagle Dr,Calgary,69202.0,Canada
+6187242,Queens of the Stone Age,7978,Queens Of The Stone Age,132.0,CA,7978.0,Queens Of The Stone Age,band,2000000.0,472.0,Classic Rock,92182,12210.0,Viejas Arena at Aztec Bowl,5500 Canyon Crest Dr,San Diego,1328.0,US
+6276753,Boombox Cartel (21+),315195,Boombox Cartel,96.0,NY,,,,,,,,,Musica NYC,637 W 50th St,New York City,521530.0,US
+6292393,Fayuca,58547,Fayuca,38.0,AZ,,,,,,,,,Yucca Tap Room,29 W. Southern Ave,Tempe,7701.0,US
+6214760,Zakk Sabbath with The Native Howl,349554,Zakk Sabbath,103.0,ID,,,,,,,,,Revolution Concert House & Event Center,4983 North Glenwood Street,Garden City,9119.0,US
+6248570,Anuhea,16186,Anuhea,78.0,NV,,,,,,,,,South Shore Room at Harrah's Lake Tahoe,15 U.S. 50,Stateline,1402.0,US
+6259135,Doble R Entertainment (18+),807478,Doble R Entertainment,131.0,CA,,,,,,,,,Ace of Spades,1417 R Street,Sacramento,3806.0,US
+6146708,Living Legends with Brother Ali (16+),2480,Living Legends,80.0,CO,,,,,,,,,Cervantes' Masterpiece,2637 Welton Street,Denver,1537.0,US
+6144121,Gilberto Santa Rosa,787,Gilberto Santa Rosa,240.0,CA,,,,,,,,,The Wiltern,3790 Wilshire Blvd.,Los Angeles,456.0,US
+6116290,Jazmin Bean,805657,Jazmin Bean,103.0,CA,,,,,,,92802,1000.0,House of Blues - Anaheim,400 Disney Way,Anaheim,544.0,US
+6218139,Lady Faith (18+),303659,Lady Faith,92.0,DC,303659.0,Lady Faith,band,2000000.0,,,,,Soundcheck,1420 K Street Northwest,Washington,81756.0,US
+5942027,Opium,142276,Opium,5600.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+5926899,Awakening,79952,Awakening,254.0,NV,,,,,,,,,Awakening Theater at Wynn Las Vegas,3131 Las Vegas Boulevard South,Las Vegas,6206.0,US
+6309213,Treaty Oak Revival,800864,Treaty Oak Revival,65.0,TX,,,,,,,79902,750.0,Lowbrow Palace,111 E Robinson Ave,El Paso,14657.0,US
+6286206,Walker & Royce (18+),161849,Walker & Royce,67.0,FL,,,,,,,,,The Vanguard,578 North Orange Avenue,Orlando,1579.0,US
+6168599,Eptic (18+),93521,Eptic,50.0,FL,,,,,,,33605,2143.0,The Ritz Ybor,1503 E 7th Ave,Tampa,1034.0,US
+6035786,TV Girl,17098,TV Girl,2278.0,AZ,17098.0,TV Girl,band,2000000.0,452.0,Pop,,,The Van Buren,401 West Van Buren Street,Phoenix,429111.0,US
+6177582,Thou,246812,Thou,101.0,CA,,,,,,,90026,500.0,Echoplex,1154 Glendale Boulevard,Los Angeles,1014.0,US
+6231442,The Midtown Men,7587,The Midtown Men,92.0,WA,,,,,,,,,Admiral Theatre,515 Pacific Avenue,Bremerton,3326.0,US
+6258605, Laila Biali - Wintersongs,14999,Laila Biali,70.0,BC,,,,,,,,,McPherson Playhouse,2657 Quadra Street,Victoria,84095.0,Canada
+6002312,Erika Jayne (18+),39199,Erika Jayne,174.0,NV,,,,,,,,,House of Blues - Las Vegas,3950 South Las Vegas Boulevard,Las Vegas,626.0,US
+6263417,Jersey Nights,16396,Jersey Nights,108.0,CA,,,,,,,,,Empress Theatre,330 Virginia Street,Vallejo,48585.0,US
+6221223,James Garner - Tribute To Johnny Cash,280724,James Garner's Tribute To Johnny Cash,77.0,CA,,,,,,,,,Crest Theatre,1013 K Street,Sacramento,996.0,US
+6289800,Trey Songz (21+),1944,Trey Songz,117.0,MA,,,,,,,,,Big Night Live,110 Causeway St,Boston,484264.0,US
+5946520,Depeche Mode,589,Depeche Mode,745.0,CA,589.0,Depeche Mode,band,2000000.0,452.0,Pop,90015,20000.0,Crypto.com Arena,1111 South Figueroa Street,Los Angeles,134.0,US
+6068321,Jessica Audiffred (21+),513570,Jessica Audiffred,74.0,UT,,,,,,,84101,1200.0,The Depot - Salt Lake City,400 West South Temple,Salt Lake City,624.0,US
+6232476,Habstrakt (18+),130517,Habstrakt,57.0,TX,,,,,,,,,Stereo Live Dallas,2711 Storey LN,Dallas,303305.0,US
+6221316,Dave Koz,549,Dave Koz,173.0,CA,,,,,,,90703,1700.0,Cerritos Center,12700 Center Court Drive,Cerritos,576.0,US
+6245867,Cayucas,72358,Cayucas,63.0,OR,,,,,,,,,Polaris Hall,635 North Killingsworth Court,Portland,431557.0,US
+6202840,Emo Night Brooklyn (21+),340962,Emo Night,42.0,IL,,,,,,,60654,1300.0,House of Blues Chicago,329 N Dearborn St,Chicago,515.0,US
+6270770,Kompany (18+),698979,Kompany,42.0,TX,,,,,,,,,Stereo Live Houston,6400 Richmond Avenue,Houston,5765.0,US
+5870082,Garth Brooks,2387,Garth Brooks,924.0,NV,2387.0,Garth Brooks,band,2000000.0,450.0,Country,,,The Colosseum At Caesars Palace,3570 Las Vegas Blvd South,Las Vegas,591.0,US
+6218678,Patterson Hood (21+),16745,Patterson Hood,62.0,CA,,,,,,,,,Felton Music Hall,6275 California 9,Felton,471731.0,US
+6285905,DJ Quik,621,DJ Quik,82.0,CA,,,,,,,90015,2300.0,The Novo,800 W Olympic Blvd,Los Angeles,590.0,US
+6008330,Carrie Underwood,412,Carrie Underwood,444.0,NV,412.0,Carrie Underwood,band,2000000.0,450.0,Country,,,The Theatre at Resorts World Las Vegas,3000 S Las Vegas Blvd,Las Vegas,518959.0,US
+6296659,Twisted Gypsy - Tribute to Fleetwood Mac (21+ Event),657104,Twisted Gypsy - Fleetwood Mac Tribute	,55.0,CA,,,,,,,,,Pala Casino Spa & Resort,11154 California 76,Pala,944.0,US
+6309509,Jim Campilongo,720608,Jim Campilongo,76.0,CA,,,,,,,,,Freight & Salvage,2020 Addison Street,Berkeley,2239.0,US
+6190781,Grieves,12134,Grieves,68.0,OR,,,,,,,,,McMenamins Mission Theater,1624 Northwest Glisan Street,Portland,3833.0,US
+6092683,Lil Tjay,698868,Lil Tjay,163.0,CA,698868.0,Lil Tjay,band,2000000.0,493.0,Rap,,,The Midway,900 Marin Street,San Francisco,78766.0,US
+6147481,The Lemon Twigs,364196,The Lemon Twigs,57.0,CA,364196.0,The Lemon Twigs,band,2000000.0,457.0,Alternative,,,The Glass House,200 W. Second St,Pomona,720.0,US
+6124147,Linda Eder,1113,Linda Eder,168.0,CA,,,,,,,,,Irvine Barclay Theatre,4242 Campus Drive,Irvine,1726.0,US
+6285529,Vandelux (21+),803533,Vandelux,68.0,WA,,,,,,,98122,578.0,Neumos,925 East Pike Street,Seattle,657.0,US
+6202586,Jimkata (18+),17647,Jimkata,57.0,CO,,,,,,,,,Ophelia's Electric Soapbox,1215 20th Street,Denver,80286.0,US
+6172560,A Peter White Christmas with Mindi Abair (21+),257762,A Peter White Christmas,106.0,NV,,,,,,,,,Aliante Casino,7300 Aliante Parkway,North Las Vegas,732.0,US
+6287496,Zepparella,5232,Zepparella (Female Led Zeppelin Tribute)	,73.0,CA,,,,,,,,,Tower Theatre,815 East Olive Avenue,Fresno,8017.0,US
+6118565,Berner's Cookies Christmas,778763,Berner Cookies Christmas,197.0,CA,778763.0,Berner Cookies Christmas,band,2000000.0,,,94102,2250.0,The Warfield,982 Market Street,San Francisco,524.0,US
+6113519,Paul Cauthen,305734,Paul Cauthen,114.0,WA,305734.0,Paul Cauthen,band,2000000.0,450.0,Country,99201,1500.0,Knitting Factory Spokane,919 West Sprague Avenue,Spokane,755.0,US
+6052827,Parker McCollum,340818,Parker McCollum,198.0,NV,340818.0,Parker McCollum,band,2000000.0,450.0,Country,89109,3200.0,The Cosmopolitan of Las Vegas,3708 South Las Vegas Boulevard,Las Vegas,3846.0,US
+6174417,Chris Isaak,457,Chris Isaak,134.0,NV,,,,,,,,,Grand Sierra Theatre - Grand Sierra Resort,2500 East Second Street,Reno,423.0,US
+6174169,Ginger Root,697873,Ginger Root,99.0,WA,,,,,,,98105,479.0,Neptune Theatre - WA,1303 Northeast 45th Street,Seattle,5805.0,US
+6232048,CRi - Christophe Dube (21+),523251,CRi - Christophe Dube,52.0,AZ,,,,,,,,,Darkstar,526 South Mill Avenue,Tempe,521640.0,US
+6271900,MUST DIE! (18+),265687,MUST DIE!,53.0,CO,,,,,,,80524,500.0,Aggie Theatre,204 South College Avenue,Fort Collins,3677.0,US
+6299303,Disco Tehran,719762,Disco Tehran,89.0,CA,,,,,,,90017,600.0,Teragram Ballroom,1234 West 7th Street,Los Angeles,78478.0,US
+6140300,The Manhattan Transfer,1182,The Manhattan Transfer,214.0,CA,,,,,,,90012,2265.0,Walt Disney Concert Hall,111 South Grand Avenue,Los Angeles,1274.0,US
+6249604,Peso Pluma Night (18+),803433,Peso Pluma Night,54.0,CA,,,,,,,94704,1200.0,Cornerstone,2367 Shattuck Ave,Berkeley,233232.0,US
+6019796,U2,31,U2,729.0,NV,31.0,U2,band,2000000.0,472.0,Classic Rock,,,MSG Sphere,255 Sands Avenue,Las Vegas,521212.0,US
+6267537,Phil Lesh & Friends,1434,Phil Lesh & Friends,297.0,CA,,,,,,,,,The Fillmore - San Francisco,1805 Geary Boulevard,San Francisco,324.0,US
+6231870,Level Up (16+),736933,Level Up,84.0,CO,,,,,,,,,Ogden Theatre,935 East Colfax Avenue,Denver,849.0,US
+6270173,Kasablanca (18+),800688,Kasablanca,62.0,TX,,,,,,,,,Proof Rooftop Lounge,2600 Travis Street,Houston,77737.0,US
+6128649,veggi (18+),805744,veggi,114.0,CA,,,,,,,90026,500.0,Echoplex,1154 Glendale Boulevard,Los Angeles,1014.0,US
+6186650,Yaima (21+),740821,Yaima,47.0,WA,,,,,,,,,Nectar Lounge,412 North 36th Street,Seattle,3530.0,US
+6255166,DirtySnatcha (18+),778578,DirtySnatcha,98.0,CA,,,,,,,95928,1000.0,Senator Theatre,517 Main Street,Chico,795.0,US
+6127530,Tower of Power,1930,Tower of Power,156.0,CA,,,,,,,94612,3800.0,Fox Theater - Oakland,1807 Telegraph Avenue,Oakland,454.0,US
+6288608,The Lil Smokies (16+),279315,The Lil Smokies,85.0,CO,,,,,,,80206,400.0,Bluebird Theater,3317 E Colfax Ave,Denver,555.0,US
+6230865,The Funk Hunters (18+),36163,The Funk Hunters,70.0,AB,,,,,,,,,Union Hall,6240 99 Street Northwest,Edmonton,2625.0,Canada
+6204117,Flatland Cavalry,383263,Flatland Cavalry,142.0,TX,383263.0,Flatland Cavalry,band,2000000.0,450.0,Country,76164,6000.0,Billy Bob's Texas,2520 Rodeo Plaza,Fort Worth,305.0,US
+6190621,Grateful Shred,627659,Grateful Shred,87.0,CA,,,,,,,92104,550.0,The Observatory North Park,2891 University Avenue,San Diego,7974.0,US
+6197145,Bea Miller,309969,Bea Miller,34.0,CA,,,,,,,90036,771.0,El Rey Theatre,5515 Wilshire Boulevard,Los Angeles,959.0,US
+6035756,Lainey Wilson,703721,Lainey Wilson,236.0,NV,703721.0,Lainey Wilson,band,2000000.0,450.0,Country,,,The Theater at Virgin Hotels,4455 Paradise Road,Las Vegas,161.0,US
+6168602,LeAnn Rimes,16156,LeAnn Rimes,176.0,NV,,,,,,,,,Venetian Theatre at the Venetian Resort,3355 South Las Vegas Boulevard,Las Vegas,4358.0,US
+6199503,Ambrosia (18+),8977,Ambrosia,72.0,CA,,,,,,,,,The Canyon - Agoura Hills,28912 Roadside Drive,Agoura Hills,7646.0,US
+6285441,Bell Witch (21+),64813,Bell Witch,70.0,OR,,,,,,,,,Star Theater - Portland,13 NW Sixth Avenue,Portland,6524.0,US
+6285030,James Blake,7999,James Blake,101.0,CA,,,,,,,,,The Bellwether,333 S. Boylston St.,Los Angeles,521352.0,US
+6276712,The Highwayman Show (21+),774827,The Highwayman Show,66.0,CA,,,,,,,92075,1000.0,Belly Up Tavern,143 South Cedros Avenue,Solana Beach,1188.0,US
+6183671,Banda Los Sebastianes,674522,Banda Los Sebastianes,131.0,CA,674522.0,Banda Los Sebastianes,band,2000000.0,504.0,Latin,92230,2557.0,Morongo Casino Resort and Spa,49500 Seminole Drive,Cabazon,854.0,US
+6275971,TroyBoi (21+),313775,TroyBoi,197.0,OR,,,,,,,,,The North Warehouse,723 North Tillamook Street,Portland,30663.0,US
+6282231,Feels So Close (18+),802536,Feels So Close,63.0,CA,,,,,,,,,House of Blues - San Diego,1055 Fifth Avenue,San Diego,554.0,US
+6236876,Koe Wetzel with Red Shahan,571455,Koe Wetzel,192.0,NV,571455.0,Koe Wetzel,band,2000000.0,450.0,Country,89109,2000.0,Brooklyn Bowl Las Vegas,3545 South Las Vegas Boulevard,Las Vegas,58672.0,US
+6299371,The Nth Power (21+),261894,The Nth Power,56.0,CA,,,,,,,,,Moe's Alley,1535 Commercial Way,Santa Cruz,11528.0,US
+5942028,Opium,142276,Opium,5887.0,NV,,,,,,,,,Opium Theatre at the Cosmopolitan of Las Vegas,3660 North Las Vegas Boulevard,Las Vegas,479961.0,US
+6257631,Queen Nation (18+),15048,Queen Nation,81.0,CA,,,,,,,,,The Canyon - Montclair,5600 North Montclair Plaza Lane,Montclair,462608.0,US
+6233654,Missus Jones,778752,Missus Jones,45.0,CA,,,,,,,,,The Peppermint Club,8713 Beverly Boulevard,West Hollywood,425972.0,US
+5862157,Purple Reign - The Prince Tribute Show,20510,Purple Reign - Prince Tribute,145.0,NV,,,,,,,,,Tropicana Hotel Las Vegas,3801 Las Vegas Boulevard,Las Vegas,8284.0,US
+6119253,Kylie Minogue,1076,Kylie Minogue,820.0,NV,,,,,,,,,Voltaire,3355 Las Vegas Blvd. South,Las Vegas,521556.0,US
+5926884,Awakening,79952,Awakening,261.0,NV,,,,,,,,,Awakening Theater at Wynn Las Vegas,3131 Las Vegas Boulevard South,Las Vegas,6206.0,US
+6246348,A Hundred Drums,784752,A Hundred Drums,56.0,NC,,,,,,,,,Blackbox Theater,,Charlotte,284564.0,US
+6139525,Eddie Montgomery,780865,Eddie Montgomery,195.0,NV,,,,,,,,,The Showroom at the Golden Nugget Las Vegas,301 Fremont Street,Las Vegas,4365.0,US
+6301674,James Kennedy (21+),722046,James Kennedy,40.0,CA,,,,,,,90014,1500.0,Exchange LA,618 S. Spring Street,Los Angeles,7336.0,US
+6291028,Kaskade Christmas (21+),1026,Kaskade,105.0,NV,,,,,,,,,Zouk Nightclub Las Vegas,3000 South Las Vegas Boulevard,Las Vegas,519349.0,US
+6190953,Heidi Lawden: Honey Dijon Presents Transmutation (21+),561430,Heidi Lawden,176.0,CA,,,,,,,,,Hollywood Palladium,6215 Sunset Boulevard,Los Angeles,465.0,US
+6299283,Barely Alive (18+),306391,Barely Alive,65.0,HI,,,,,,,,,HB Social Club,1680 Kapiolani Boulevard,Honolulu,461920.0,US
+6272838,"Harry Connick, Jr.",837,"Harry Connick, Jr.",132.0,NY,,,,,,,,,The Argyle Theatre at Babylon Village,34 West Main Street,Babylon,467627.0,US
+6244704,The Rock and Roll Playhouse,366593,The Rock and Roll Playhouse,47.0,MA,,,,,,,02134,476.0,Brighton Music Hall,158 Brighton Avenue,Boston,1446.0,US
+6248248,H2O with Madball,4322,H2O,108.0,PA,,,,,,,,,Reverb - PA,1402 N. 9th St.,Reading,7084.0,US
+6288209,The Little Mermen,473122,The Little Mermen,108.0,NH,473122.0,The Little Mermen,band,2000000.0,452.0,Pop,,,Tupelo Music Hall,2 Young Road,Londonderry,4791.0,US
+6093012,Here We Are,164833,Here We Are,135.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+5926202,The Carolina Opry,58455,The Carolina Opry,115.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+5899124,The Charleston Christmas Special,300347,The Charleston Christmas Special,106.0,SC,,,,,,,29403,935.0,Charleston Music Hall,37 John Street,Charleston,1209.0,US
+6132553,Chris Pinnella,799493,Chris Pinnella,84.0,NJ,,,,,,,,,The Vogel at Count Basie Center for the Arts,99 Monmouth Street,Red Bank,518576.0,US
+6157319,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,216.0,PA,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,15219,14536.0,PPG Paints Arena,1001 Fifth Avenue,Pittsburgh,2265.0,US
+6275924,Cherish The Ladies,8557,Cherish The Ladies,101.0,NY,,,,,,,,,The Suffolk Theater,118 East Main Street,Riverhead,42008.0,US
+6308789,Jesse Garron - A Tribute to Elvis,147403,Jesse Garron,76.0,NJ,,,,,,,,,Levoy Theatre,500 N. Market st.,Millville,13155.0,US
+6157321,Trans-Siberian Orchestra,1938,Trans-Siberian Orchestra,202.0,MO,1938.0,Trans-Siberian Orchestra,band,2000000.0,456.0,Rock,64106,19252.0,T-Mobile Center,1407 Grand Blvd.,Kansas City,84.0,US
+5926988,The Oak Ridge Boys,1356,The Oak Ridge Boys,162.0,WI,,,,,,,53965,2000.0,Crystal Grand Music Theatre,430 W Munroe Ave,Wisconsin Dells,1831.0,US
+6307708,Annie Moses Band,130684,Annie Moses Band,61.0,KY,,,,,,,,,Carson Center,100 Kentucky Avenue,Paducah,1197.0,US
+6178602,Doug Church,112753,Doug Church,80.0,VA,,,,,,,,,The Beacon Theatre Hopewell,401 N. Main St,Hopewell,63542.0,US
+6304920,Let's Sing Taylor: A Live Band Experience,805380,Taylor Swift Tribute,52.0,NY,,,,,,,14203,1200.0,Town Ballroom,681 Main Street,Buffalo,1073.0,US
+6006473,Amy Grant & Vince Gill,191,Amy Grant,567.0,TN,,,,,,,37219,2362.0,Ryman Auditorium,116 5th Avenue North,Nashville,292.0,US
+6244927,Christmas With CoroRio,774897,Christmas With CoroRio,64.0,TN,,,,,,,,,Cannon Center For The Performing Arts,255 North Main Street,Memphis,1577.0,US
+6236066,"Rachel Bloom: Death, Let Me Do My Show",162726,Rachel Bloom,170.0,NY,,,,,,,10003,347.0,Orpheum Theatre - NY,126 Second Ave,New York,2964.0,US
+6144119,Yacht Lobsters (16+ Event),805904,Yacht Lobsters,66.0,NY,,,,,,,10010,499.0,Gramercy Theatre,127 East 23rd Street,New York,747.0,US
+6299463,Lucky Boys Confusion,1157,Lucky Boys Confusion,69.0,IL,,,,,,,,,Concord Music Hall,2047 N Milwaukee Ave,Chicago,3738.0,US
+6124972,Wage War with Erra,259963,Wage War,187.0,FL,259963.0,Wage War,band,2000000.0,473.0,Hard Rock,,,House of Blues - Orlando,1490 E Buena Vista Dr,Orlando,617.0,US
+6131338,Gaither Vocal Band,16710,Gaither Vocal Band,76.0,NC,,,,,,,27105,14407.0,Lawrence Joel Veterans Memorial Coliseum,2825 University Pkwy.,Winston-Salem,1515.0,US
+6261916,Head North: Super American ( Event) (16+),276704,Head North,46.0,NY,,,,,,,,,Rec Room - Buffalo,79 W Chippewa,Buffalo,451145.0,US
+6145496,The Bouncing Souls,354,The Bouncing Souls,81.0,PA,,,,,,,,,Mr. Smalls Theatre,400 Lincoln Avenue,Millvale,358.0,US
+6137633,Duncan Trussell (18+),54078,Duncan Trussell,76.0,NC,,,,,,,,,Comedy Zone Charlotte,900 Seaboard Street,Charlotte,8502.0,US
+6187065,Point Break (21+),725277,Point Break,64.0,NY,,,,,,,10002,250.0,Mercury Lounge,217 East Houston Street,New York,327.0,US
+6203605,Muck And The Mires with Vapors of Morphine,22340,Muck And The Mires,61.0,MA,,,,,,,,,Somerville Theatre,55 Davis Square,Somerville,1602.0,US
+6128120,The Menzingers,15348,The Menzingers,125.0,MI,,,,,,,48067,2000.0,Royal Oak Music Theatre,318 West 4th St.,Royal Oak,204.0,US
+6131698,The Crystal Casino Band with Divine Sweater,800747,The Crystal Casino Band,132.0,DC,,,,,,,,,The Atlantis,2047 9th St NW,Washington,521187.0,US
+6087365,Meshuggah with In Flames and Whitechapel,1232,Meshuggah,145.0,QC,,,,,,,,,Place Bell,1950 Rue Claude,Laval,426031.0,Canada
+6244506,Gary U.S. Bonds (21+),9914,Gary U.S. Bonds,96.0,NJ,,,,,,,,,Wonder Bar,1213 Ocean Avenue,Asbury Park,3403.0,US
+6192080,Tim Baker,142330,Tim Baker,87.0,NB,,,,,,,,,Fredericton Playhouse,686 Queen Street,Fredericton,3574.0,Canada
+6234184,Charles Wesley Godwin,767445,Charles Wesley Godwin,111.0,WV,767445.0,Charles Wesley Godwin,band,2000000.0,,,,,Metropolitan Theatre,369 High Street,Morgantown,3916.0,US
+6212163,Dogs In A Pile,784669,Dogs In A Pile,83.0,NJ,,,,,,,,,The Stone Pony,913 Ocean Ave,Asbury Park,334.0,US
+6205227,Spread Eagle,781797,Spread Eagle,59.0,NJ,,,,,,,,,Dingbatz,620 Van Houten Avenue,Clifton,3809.0,US
+6232756,Zach Williams,2048,Zach Williams,122.0,SC,,,,,,,,,Beach Church,557 George Bishop Pkwy,Myrtle Beach,17794.0,US
+6171844,Ryan Montbleau (18+),6265,Ryan Montbleau,82.0,MA,,,,,,,02134,476.0,Brighton Music Hall,158 Brighton Avenue,Boston,1446.0,US
+6078628,Justin Quiles,356186,Justin Quiles,119.0,MA,,,,,,,,,House of Blues - Boston,15 Lansdowne Street,Boston,517.0,US
+6093014,Here We Are,164833,Here We Are,213.0,NY,,,,,,,,,The Theater at The Shed,545 West 30th Street,New York,464928.0,US
+6172575,Interpol,4939,Interpol,143.0,DC,4939.0,Interpol,band,2000000.0,472.0,Classic Rock,,,9:30 Club,815 V St. NW,Washington,538.0,US
+5987231,Kat Edmonson,21875,Kat Edmonson,53.0,NH,,,,,,,,,Jimmys Jazz and Blues Club,135 Congress Street,Portsmouth,519488.0,US
+6132555,Chris Pinnella,799493,Chris Pinnella,86.0,NJ,,,,,,,,,The Vogel at Count Basie Center for the Arts,99 Monmouth Street,Red Bank,518576.0,US
+5899121,The Charleston Christmas Special,300347,The Charleston Christmas Special,90.0,SC,,,,,,,29403,935.0,Charleston Music Hall,37 John Street,Charleston,1209.0,US
+6054413,Lil Darkie with Kxllswxtch,797814,Lil Darkie,103.0,FL,,,,,,,33312,3100.0,Revolution Live,200 West Broward Blvd,Fort Lauderdale,563.0,US
+6171363,Z-Ro with Lil Flip,79812,Z-Ro,192.0,TX,,,,,,,,,White Oak Music Hall - Houston,2915 North Main Street,Houston,216061.0,US
+6199181,Sara Evans,1586,Sara Evans,77.0,NY,,,,,,,,,Seneca Allegany Casino and Hotel,777 Seneca Allegany Blvd,Salamanca,263.0,US
+6180277,Four Year Strong,749,Four Year Strong,172.0,MA,749.0,Four Year Strong,band,2000000.0,452.0,Pop,,,The Palladium,261 Main Street,Worcester,3672.0,US
+6255963,Pam Tillis,1386,Pam Tillis,96.0,KY,1386.0,Pam Tillis,band,2000000.0,450.0,Country,,,New Barn Theatre,2380 Richmond Street,Renfro Valley,15654.0,US
+6252550,Jack Russell's Great White,22956,Jack Russell's Great White,82.0,VA,,,,,,,,,Tally Ho,19 West Market Street,Leesburg,39314.0,US
+6277910,Broken Social Scene (19+),377,Broken Social Scene,103.0,ON,,,,,,,,,The Concert Hall,888 Yonge Street,Toronto,236012.0,Canada
+6172839,Holiday Doo Wop,58743,Holiday Doo Wop,92.0,NY,,,,,,,11590,2870.0,NYCB Theatre at Westbury,960 Brush Hollow Rd.,Westbury,3356.0,US
+5890107,The Carolina Opry,58455,The Carolina Opry,117.0,SC,,,,,,,,,The Carolina Opry,8901 N Kings Hwy,Myrtle Beach,9730.0,US
+6062675,The Wizards Of Winter,63340,The Wizards Of Winter,84.0,IN,,,,,,,46992,1500.0,Honeywell Center,275 West Market Street,Wabash,1811.0,US
+6233984,An American Celtic Christmas,755263,An American Celtic Christmas,117.0,PA,,,,,,,19038,1300.0,Keswick Theatre,291 N Keswick Ave.,Glenside,689.0,US
+6161484,Macy Gray,5457,Macy Gray,133.0,OH,,,,,,,44240,642.0,The Kent Stage,175 E Main St,Kent,2443.0,US
+6190814,Motherfolk with Foxing,303473,Motherfolk,58.0,OH,303473.0,Motherfolk,band,2000000.0,456.0,Rock,45219,1464.0,Bogarts,2621 Vine Street,Cincinnati,549.0,US
+6202891,Bobby Weir and Wolf Bros,338,Bob Weir,646.0,NY,338.0,Bob Weir,band,2000000.0,472.0,Classic Rock,10573,1800.0,The Capitol Theatre,149 Westchester Avenue,Port Chester,10406.0,US
+5972478,John Berry,23383,John Berry,108.0,GA,,,,,,,,,Grand Opera House at Mercer University,651 Mulberry Street,Macon,2433.0,US
+6286204,Yarn,15907,Yarn,46.0,NC,,,,,,,27601,350.0,Lincoln Theatre - NC,126 East Cabarrus Street,Raleigh,3259.0,US
+6108157,Hot Mulligan,405099,Hot Mulligan,142.0,IL,405099.0,Hot Mulligan,band,2000000.0,457.0,Alternative,60654,1300.0,House of Blues Chicago,329 N Dearborn St,Chicago,515.0,US
+6178455,From Ashes To New with The Word Alive,278397,From Ashes To New,111.0,PA,,,,,,,,,The Capitol Room,1110 N. 3rd Street,Harrisburg,171849.0,US
+6008843,Billy Strings,299503,Billy Strings,582.0,NY,299503.0,Billy Strings,band,2000000.0,467.0,Folk,13202,8000.0,Upstate Medical University Arena at The Oncenter War Memorial,515 Montgomery St.,Syracuse,3510.0,US
+6187142,Ricky Skaggs,1537,Ricky Skaggs,109.0,TN,,,,,,,37902,2000.0,Tennessee Theatre,604 S. Gay Street,Knoxville,615.0,US
+6144130,Pentatonix,20599,Pentatonix,241.0,TN,20599.0,Pentatonix,band,2000000.0,452.0,Pop,37996,21000.0,Thompson-Boling Arena at Food City Center,1600 Phillip Fulmer Way,Knoxville,461.0,US
+6205232,A Celtic Christmas,4825,A Celtic Christmas,87.0,NY,,,,,,,12601,944.0,Bardavon Opera House,35 Market St,Poughkeepsie,1279.0,US
+6126583,Pieces Of A Dream,21185,Pieces Of A Dream,110.0,VA,,,,,,,22305,500.0,Birchmere Music Hall,3701 Mt. Vernon Avenue,Alexandria,595.0,US
