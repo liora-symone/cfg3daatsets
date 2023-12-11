@@ -1,0 +1,109 @@
+name,type,id,venue_names,date,time,currency,price_min,price_max
+Legends In Concert,event,G5vZZ9sLCJdrm,The Avalon Theatre At Niagara Fallsview Casino Resort,10/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5efZ9mn2WOnt,The Palms at Crown,11/01/2024,08:30:00,AUD,71.93,89.9
+Legends In Concert,event,G5vZZ9sLCJNrY,The Avalon Theatre At Niagara Fallsview Casino Resort,12/01/2024,01:30:00,CAD,33.9,62.15
+Legends In Concert,event,G5vZZ9sLCJSrw,The Avalon Theatre At Niagara Fallsview Casino Resort,11/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5efZ9mnJL8UA,The Palms at Crown,12/01/2024,08:30:00,AUD,91.6,101.8
+Legends In Concert,event,G5vZZ9sLCEKrU,The Avalon Theatre At Niagara Fallsview Casino Resort,13/01/2024,02:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5efZ9mnJL8UF,The Palms at Crown,13/01/2024,08:30:00,AUD,91.6,101.8
+Legends In Concert,event,G5efZ9mnPu8gC,The Palms at Crown,14/01/2024,08:30:00,AUD,71.93,89.9
+Legends In Concert,event,G5efZ9mnPu8gG,The Palms at Crown,14/01/2024,03:00:00,AUD,71.93,89.9
+Legends In Concert,event,G5vZZ9sLCESrz,The Avalon Theatre At Niagara Fallsview Casino Resort,15/01/2024,00:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5vZZ9sLCIdrW,The Avalon Theatre At Niagara Fallsview Casino Resort,14/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5vZZ9sLCINLv,The Avalon Theatre At Niagara Fallsview Casino Resort,15/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5vZZ9sLCtdLk,The Avalon Theatre At Niagara Fallsview Casino Resort,16/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5efZ9mnl6OM-,The Palms at Crown,17/01/2024,08:30:00,AUD,76.31,76.31
+Legends In Concert,event,G5vZZ9sLCndL1,The Avalon Theatre At Niagara Fallsview Casino Resort,17/01/2024,20:00:00,CAD,33.9,62.15
+Legends In Concert,event,G5vZZ9sLCtNLF,The Avalon Theatre At Niagara Fallsview Casino Resort,18/01/2024,01:30:00,CAD,33.9,62.15
+Legends In Concert,event,G5efZ9mnPu8gp,The Palms at Crown,18/01/2024,08:30:00,AUD,71.93,89.9
+Legends In Concert,event,G5efZ9mnJL8UG,The Palms at Crown,19/01/2024,08:30:00,AUD,91.6,101.8
+Legends In Concert,event,G5efZ9mnJLOUf,The Palms at Crown,20/01/2024,08:30:00,AUD,91.6,101.8
+Legends In Concert,event,G5efZ9mnJLOUp,The Palms at Crown,20/01/2024,03:00:00,AUD,91.6,101.8
+Legends In Concert,event,G5efZ9mnPuOgQ,The Palms at Crown,21/01/2024,03:00:00,AUD,71.93,89.9
+Legends In Concert,event,G5efZ9mnPuOgj,The Palms at Crown,21/01/2024,08:30:00,AUD,71.93,89.9
+Legends In Concert,event,G5efZ9mnl6YMl,The Palms at Crown,24/01/2024,08:30:00,AUD,76.31,76.31
+Legends In Concert,event,G5efZ9mnPuOgx,The Palms at Crown,25/01/2024,08:30:00,AUD,71.93,89.9
+Legends In Concert,event,G5efZ9mnJLOU_,The Palms at Crown,26/01/2024,08:30:00,AUD,91.6,101.8
+Legends In Concert,event,G5efZ9mnJLOUq,The Palms at Crown,27/01/2024,08:30:00,AUD,91.6,101.8
+"""BUSTIN LOOSE"" Concert",event,vvG1YZ9RXVUwfl,Clarence Muse Cafe Theater,03/02/2024,03:00:00,USD,15,15
+Pre-Valentine Concert,event,rZ7HnEZ1AKaNCd,Haven City Market,11/02/2024,03:30:00,USD,50,50
+GIGANTIC GOSPEL CONCERT,event,rZ7HnEZ1AKj6_z,Friendship West Baptist Church,13/04/2024,21:00:00,USD,40,60
+GIGANTIC GOSPEL CONCERT,event,rZ7HnEZ1AKj6jb,Fountain of Praise,14/04/2024,22:00:00,USD,40,60
+Coffee Concert III,event,vvG17Z9UDU9g95,Sandler Center For The Performing Arts,05/06/2024,14:30:00,USD,25,25
+John Mulaney in Concert,event,vvG18Z9SpCnou-,Rosemont Theatre,22/12/2023,01:00:00,USD,77.5,197.5
+John Mulaney in Concert,event,G5v0Z9SJy8-uZ,Arizona Financial Theatre,01/01/2024,02:00:00,USD,79.5,169.5
+John Mulaney in Concert,event,vvG18Z9SQRDwFz,Rosemont Theatre,23/12/2023,01:00:00,USD,77.5,197.5
+Jenny Greene & the Rte Concert Orchestra,event,G5vOZ9sE3u3Uj,Gleneagle INEC Arena,09/12/2023,19:30:00,EUR,49.9,49.9
+The Gathering Festival - Friday Night Concert,event,G5vOZ9Mmf9_zb,Gleneagle INEC Arena,01/03/2024,19:00:00,EUR,30,30
+The Gathering Festival - Saturday Night Concert,event,G5vOZ9Mm-vn7D,Gleneagle INEC Arena,02/03/2024,19:00:00,EUR,30,30
+The Gathering Festival - Saturday Afternoon Concert,event,G5vOZ9MmPyBav,Gleneagle INEC Arena,02/03/2024,14:00:00,EUR,19.95,19.95
+The Gathering Festival - Sunday Night Concert,event,G5vOZ9MRv9nfZ,Gleneagle INEC Arena,03/03/2024,19:00:00,EUR,30,30
+The Gathering Festival - Sunday Afternoon Concert,event,G5vOZ9MmnS153,Gleneagle INEC Arena,03/03/2024,14:00:00,EUR,19.95,19.95
+Take That - Premium Package - Concert Goer,event,G5vHZ9SE14kvY,First Direct Arena,17/04/2024,17:00:00,GBP,165,165
+The Kingdom Choir - 30th Anniversary Concert,event,G5dfZ9Mp_C0Kk,Barbican Hall,27/05/2024,18:00:00,GBP,33.75,47.8
+Girls Aloud - Concert Goer - Premium Package,event,G5vHZ9Mwoh3Qe,First Direct Arena,15/06/2024,17:00:00,GBP,155.9,155.9
+T. REXTASY 47TH COMMEMORATIVE ANNIVERSARY CONCERT,event,G5dzZ9gLRzwIE,O2 Academy Islington,14/09/2024,17:00:00,GBP,20,20
+The Wolfe Tones - 60th Anniversary Concert,event,G5vOZ9wS8EVTG,3Arena,11/10/2024,17:00:00,EUR,44.2,54.85
+The Wolfe Tones - 60th Anniversary Concert,event,G5vOZ9wp9boWw,3Arena,12/10/2024,17:00:00,EUR,44.2,54.85
+Showaddywaddy Live In Concert - Suite Experience,event,G5dbZ9VQpFvud,"Playhouse, Whitley Bay",18/10/2024,18:30:00,GBP,53,53
+John Mulaney in Concert,event,vvG1VZ9Sf9veP0,Hard Rock Live,16/12/2023,01:00:00,USD,108,238
+Johnny Mathis Christmas Concert,event,vvG18Z92302sxz,Rosemont Theatre,10/12/2023,02:00:00,USD,29,125
+Boston Pops Holiday Concert,event,vvG17Z9RJNtetb,SNHU Arena,10/12/2023,00:30:00,USD,55,90
+John Mulaney in Concert,event,G5eVZ9VUvesQx,Ovens Auditorium,17/12/2023,00:30:00,USD,62,102
+John Mulaney in Concert,event,G5viZ9Sh8hJ0I,Mahalia Jackson Theater for the Performing Arts,10/12/2023,01:00:00,USD,49.5,169.5
+Disney Princess: The Concert,event,vvG18Z9wDeegb7,Rosemont Theatre,10/03/2024,19:00:00,USD,37.5,77.5
+"""Batman"" Live in Concert",event,G5vfZ9wbfPJdm,Warner Theatre,20/01/2024,01:00:00,USD,45,115
+John Mulaney in Concert,event,vvG1VZ9S90f-B-,Seminole Hard Rock Tampa Event Center,15/12/2023,01:00:00,USD,178,253
+Dirty Dancing in Concert,event,G5viZ9n1YQ7-m,Orpheum Theater,11/12/2023,01:00:00,USD,50,95
+"El Chacal, Live Concert.",event,k7vGF9E7ZdMLP,Ritz Theatre,17/12/2023,01:00:00,USD,50,150
+Jacquees Live in Concert ,event,G5vYZ9YrKzvsx,Ace of Spades,06/01/2024,03:00:00,USD,45,45
+John Mulaney in Concert,event,G5eVZ9VUvdoQP,Ovens Auditorium,17/12/2023,03:00:00,USD,42,82
+Disney Princess: The Concert,event,vvG1HZ9S3xzAFH,McCaw Hall,29/03/2024,02:00:00,USD,39.5,79.5
+Dirty Dancing in Concert,event,vvG1zZ9iQE03g3,Macon City Auditorium,10/12/2023,01:00:00,USD,42,92
+Disney Princess: The Concert,event,vvG10Z9wxLre_0,City National Grove of Anaheim,23/03/2024,02:00:00,USD,45,79.5
+Disney Princess: The Concert,event,k7vGF9SJUG-O2,Sheas Performing Arts Center,20/04/2024,23:30:00,USD,36.5,76.5
+Disney Princess: The Concert,event,vvG1iZ9Spg5-li,Terrace Theater - Long Beach Convention and Entertainment Center,24/03/2024,22:00:00,USD,32,72
+Disney Princess: The Concert,event,G5vYZ9wHJPI6_,San Jose Civic,22/03/2024,02:00:00,USD,45,75
+Disney Princess: The Concert,event,G5vbZ9S3kY-dm,Taft Theatre,09/03/2024,00:30:00,USD,37.5,67.5
+Disney Princess: The Concert,event,G5eVZ9S53X0LA,Ovens Auditorium,12/04/2024,23:30:00,USD,39.5,79.5
+Home Alone In Concert,event,vvG1bZ9ceNzdD7,Stifel Theatre,10/12/2023,01:00:00,USD,49.5,82.5
+Disney Princess: The Concert,event,G5eVZ9S9DFMg7,DPAC - Durham Performing Arts Center,14/04/2024,18:00:00,USD,39.5,79.5
+Disney Princess: The Concert,event,vvG1VZ9ShZ136K,Au-Rene Theater at the Broward Center,07/04/2024,18:00:00,USD,35,210
+"""BATMAN"" Live in Concert",event,vvG1bZ9sgSdYTl,Music Hall Kansas City,28/04/2024,01:00:00,USD,43,93
+Home Alone In Concert,event,vvG1bZ9ceEufef,Stifel Theatre,10/12/2023,20:00:00,USD,49.5,82.5
+T.I. - Live In Concert!,event,vvG1YZpUiJBPLB,Bruton Theatre,14/12/2023,02:30:00,USD,85,95
+Disney Princess: The Concert,event,vvG1OZ9S5A3ebz,Fox Theatre Detroit,13/03/2024,23:00:00,USD,39.5,79.5
+An Irish Christmas Concert,event,vvG1IZ9mh3UNla,Balboa Theatre,17/12/2023,03:30:00,USD,28,75
+Merry Achi Christmas Concert,event,vvG1YZ9Rpgpfev,Majestic Theatre Dallas,23/12/2023,01:00:00,USD,34.5,49.5
+Disney Princess: The Concert,event,G5vzZ9wTjpPjf,Morrison Center for the Performing Arts,30/03/2024,01:30:00,USD,39.5,194.5
+Disney Princess: The Concert,event,G5eVZ9S2u7VTw,Steven Tanger Center for the Performing Arts,10/04/2024,23:00:00,USD,20.5,70.5
+Harry Potter In Concert,event,G5eVZ9lxSY093,Steven Tanger Center for the Performing Arts,08/06/2024,23:00:00,USD,35,80
+Disney Princess: The Concert,event,G5viZ9wQGX-im,The Orpheum Theatre Memphis,06/03/2024,01:00:00,USD,29.5,204.5
+Disney Princess: The Concert,event,G5vVZ9wwz8-6H,Hackensack Meridian Health Theatre at the Count Basie Center ,17/04/2024,23:00:00,USD,35,89
+Batman: Live In Concert,event,vvG1IZ9gD2we12,San Diego Civic Theatre,27/07/2024,03:00:00,USD,45,110
+Disney Princess: The Concert,event,vvG1fZ9SK91dsG,Clowes Memorial Hall,14/03/2024,23:00:00,USD,35,75
+Disney Princess: The Concert,event,k7vGF9S3g2No0,Kodak Center,19/04/2024,23:30:00,USD,50.5,75.3
+Disney Princess: The Concert,event,vvG1fZ9S1DDw7T,Embassy Theatre,12/03/2024,23:00:00,USD,36,66
+Disney Princess: The Concert,event,G5eZZ9wmCelLY,BJCC Concert Hall,06/04/2024,00:30:00,USD,35.5,75.5
+Armenchik Live in Concert,event,vvG1IZ9MZPu0f0,YouTube Theater,25/03/2024,02:00:00,USD,60,250
+Jim Denny Celebration Concert,event,vvG1fZ9Mb4KA2L,8 Seconds Saloon,16/12/2023,01:45:00,USD,20,40
+Maysa Live in Concert,event,vvG1OZ9s7J86jJ,Sound Board at MotorCity Casino Hotel,01/03/2024,01:00:00,USD,45,57
+Harry Potter In Concert,event,G5eVZ9lxygVqH,Steven Tanger Center for the Performing Arts,09/06/2024,19:00:00,USD,35,80
+Concert With The Stars,event,G5vbZ9mY8mI10,Lexington Opera House,07/01/2024,01:00:00,USD,32,67
+Home Alone In Concert - Premium Package - Suites,event,G5vHZ9mh5JFiW,First Direct Arena,16/12/2023,19:30:00,GBP,43.15,43.15
+Biggest 90's/00's Disco & Concert,event,G5vOZ9YciCZOy,Gleneagle INEC Arena,16/12/2023,18:00:00,EUR,28.1,69.55
+Edinburgh's Hogmanay Concert In the Gardens - Pulp,event,G5dbZ9SnzMeEx,West Princes Street Gardens,31/12/2023,20:00:00,GBP,74.25,90.75
+Scarborough Spa Orchestra - New Year's Day Concert,event,G5dfZ9S5-9KXh,Scarborough Spa Grand Hall,01/01/2024,15:00:00,GBP,15,15
+Ballet Tucson Winter Concert,event,G5v0Z9lQomofF,TCC Leo Rich Theatre - Tucson,11/02/2024,21:00:00,USD,4,50
+Ballet Tucson Winter Concert,event,G5v0Z9lQotsKy,TCC Leo Rich Theatre - Tucson,10/02/2024,02:00:00,USD,4,50
+Ballet Tucson Winter Concert,event,G5v0Z9lQolsKX,TCC Leo Rich Theatre - Tucson,10/02/2024,21:00:00,USD,4,50
+Ballet Tucson Spring Concert,event,G5v0Z9lQKu-4T,TCC Leo Rich Theatre - Tucson,24/03/2024,21:00:00,USD,4,50
+Ballet Tucson Spring Concert,event,G5v0Z9lQK5v4s,TCC Leo Rich Theatre - Tucson,23/03/2024,21:00:00,USD,4,50
+Ballet Tucson Winter Concert,event,G5v0Z9lQocvfe,TCC Leo Rich Theatre - Tucson,11/02/2024,02:00:00,USD,4,50
+Ballet Tucson Spring Concert,event,G5v0Z9lQKa-4R,TCC Leo Rich Theatre - Tucson,23/03/2024,02:00:00,USD,4,50
+Ballet Tucson Spring Concert,event,G5v0Z9lQKGo4D,TCC Leo Rich Theatre - Tucson,24/03/2024,02:00:00,USD,4,50
+"""MOTHER 2 SON"" Concert ",event,vvG1YZ9mMKaS1e,Clarence Muse Cafe Theater,16/12/2023,03:00:00,USD,10,10
+"""MOTHER 2 SON"" Concert ",event,vvG1YZ9mMK1K17,Clarence Muse Cafe Theater,17/12/2023,03:00:00,USD,10,10
+30th Riverdale Share Concert,event,G5vZZ9gmDX3Or,The Danforth Music Hall,10/12/2023,19:30:00,CAD,25,25
+Karsu - Live in Concert,event,Z698xZbpZ171abt,PHIL,09/12/2023,19:00:00,EUR,28.5,28.5
+BrownstoneJAZZ FEST CONCERT SERIES,event,rZ7HnEZ1AK3ebF,BrownstoneJAZZ,10/12/2023,02:30:00,USD,35,35

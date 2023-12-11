@@ -1,0 +1,407 @@
+artist,date,city,country,showVenue,supportAct,revenue,tourName,ticketsSold,ticketsAvailable,source,soldOut
+Taylor Swift,23 April 2009,Evansville,United States,Roberts Municipal Stadium,Gloriana Kellie Pickler,360617,Fearless Tour,7463,7463,TS Kaggle,TRUE
+Taylor Swift,24 April 2009,Jonesboro,United States,Convocation Center,Gloriana Kellie Pickler,340328,Fearless Tour,7822,7822,TS Kaggle,TRUE
+Taylor Swift,25 April 2009,St. Louis,United States,Scottrade Center,Gloriana Kellie Pickler,650420,Fearless Tour,13764,13764,TS Kaggle,TRUE
+Taylor Swift,30 April 2009,North Charleston,United States,North Charleston Coliseum,Gloriana Kellie Pickler,398154,Fearless Tour,8751,8751,TS Kaggle,TRUE
+Taylor Swift,01 May 2009,Jacksonville,United States,Jacksonville Veterans Memorial Arena,Gloriana Kellie Pickler,507012,Fearless Tour,11072,11072,TS Kaggle,TRUE
+Taylor Swift,02 May 2009,Biloxi,United States,Mississippi Coast Coliseum,Gloriana Kellie Pickler,437313,Fearless Tour,9436,9436,TS Kaggle,TRUE
+Taylor Swift,06 May 2009,London,England,Shepherd's Bush Empire,None,401328,Fearless Tour,6789,6789,TS Kaggle,TRUE
+Taylor Swift,07 May 2009,London,England,Shepherd's Bush Empire,None,401328,Fearless Tour,6789,6789,TS Kaggle,TRUE
+Taylor Swift,14 May 2009,Spokane,United States,Spokane Arena,Gloriana Kellie Pickler,482146,Fearless Tour,10798,10798,TS Kaggle,TRUE
+Taylor Swift,15 May 2009,Seattle,United States,KeyArena,Gloriana Kellie Pickler,528637,Fearless Tour,12061,12061,TS Kaggle,TRUE
+Taylor Swift,16 May 2009,Portland,United States,Rose Garden Arena,Gloriana Kellie Pickler,613284,Fearless Tour,13226,13226,TS Kaggle,TRUE
+Taylor Swift,17 May 2009,Nampa,United States,Ford Arena,Gloriana Kellie Pickler,413622,Fearless Tour,8970,8970,TS Kaggle,TRUE
+Taylor Swift,21 May 2009,Glendale,United States,Jobing.com Arena,Gloriana Kellie Pickler,647923,Fearless Tour,13052,13052,TS Kaggle,TRUE
+Taylor Swift,22 May 2009,Los Angeles,United States,Staples Center,Gloriana Kellie Pickler,720940,Fearless Tour,13648,13648,TS Kaggle,TRUE
+Taylor Swift,23 May 2009,Paradise,United States,Mandalay Bay Events Center,Gloriana Kellie Pickler,551051,Fearless Tour,8311,8311,TS Kaggle,TRUE
+Taylor Swift,24 May 2009,San Diego,United States,Valley View Casino Center,Gloriana Kellie Pickler,502689,Fearless Tour,10174,10174,TS Kaggle,TRUE
+Taylor Swift,26 May 2009,Salt Lake City,United States,EnergySolutions Arena,Gloriana Kellie Pickler,555207,Fearless Tour,13042,13042,TS Kaggle,TRUE
+Taylor Swift,11 June 2009,Columbia,United States,Merriweather Post Pavilion,Gloriana Kellie Pickler,608438,Fearless Tour,17619,17619,TS Kaggle,TRUE
+Taylor Swift,12 June 2009,Greensboro,United States,Greensboro Coliseum,Gloriana Kellie Pickler,690959,Fearless Tour,14641,14641,TS Kaggle,TRUE
+Taylor Swift,09 June 2009,Edmonton,Canada,Commonwealth Stadium,None,2540906,Fearless Tour,33910,44500,TS Kaggle,FALSE
+Taylor Swift,11 July 2009,Winnipeg,Canada,MTS Centre,Gloriana Kellie Pickler,512487,Fearless Tour,11369,11369,TS Kaggle,TRUE
+Taylor Swift,27 August 2009,New York City,United States,Madison Square Garden,Gloriana Kellie Pickler,976062,Fearless Tour,13597,13597,TS Kaggle,TRUE
+Taylor Swift,28 August 2009,Montville,United States,Mohegan Sun Arena,Gloriana Kellie Pickler,296306,Fearless Tour,7507,7507,TS Kaggle,TRUE
+Taylor Swift,12 September 2009,Nashville,United States,Bridgestone Arena,Gloriana Kellie Pickler,642387,Fearless Tour,14269,14269,TS Kaggle,TRUE
+Taylor Swift,25 September 2009,Dallas,United States,American Airlines Center,Gloriana Kellie Pickler,628062,Fearless Tour,13794,13794,TS Kaggle,TRUE
+Taylor Swift,26 September 2009,North Little Rock,United States,Verizon Arena,Gloriana Kellie Pickler,654089,Fearless Tour,13978,13978,TS Kaggle,TRUE
+Taylor Swift,03 October 2009,Cleveland,United States,Quicken Loans Arena,Gloriana Kellie Pickler,743492,Fearless Tour,15524,15524,TS Kaggle,TRUE
+Taylor Swift,08 October 2009,Indianapolis,United States,Conseco Fieldhouse,Gloriana Kellie Pickler,634876,Fearless Tour,13373,13373,TS Kaggle,TRUE
+Taylor Swift,09 October 2009,Rosemont,United States,Allstate Arena,Gloriana Kellie Pickler,1150896,Fearless Tour,26265,26265,TS Kaggle,TRUE
+Taylor Swift,10 October 2009,Rosemont,United States,Allstate Arena,Gloriana Kellie Pickler,1150896,Fearless Tour,26265,26265,TS Kaggle,TRUE
+Taylor Swift,11 October 2009,Minneapolis,United States,Target Center,Gloriana Kellie Pickler,623975,Fearless Tour,13563,13563,TS Kaggle,TRUE
+Taylor Swift,04 February 2010,Brisbane,Australia,Brisbane Entertainment Centre,Gloriana Kellie Pickler,956505,Fearless Tour,11334,11334,TS Kaggle,TRUE
+Taylor Swift,06 February 2010,Sydney,Australia,Acer Arena,Gloriana Kellie Pickler,2030640,Fearless Tour,27030,27030,TS Kaggle,TRUE
+Taylor Swift,07 February 2010,Sydney,Australia,Acer Arena,Gloriana Kellie Pickler,2030640,Fearless Tour,27030,27030,TS Kaggle,TRUE
+Taylor Swift,08 February 2010,Newcastle,Australia,Newcastle Entertainment Centre,Gloriana Kellie Pickler,555396,Fearless Tour,7180,7180,TS Kaggle,TRUE
+Taylor Swift,10 February 2010,Melbourne,Australia,Rod Laver Arena,Gloriana Kellie Pickler,1627510,Fearless Tour,23493,23493,TS Kaggle,TRUE
+Taylor Swift,11 February 2010,Melbourne,Australia,Rod Laver Arena,Gloriana Kellie Pickler,1627510,Fearless Tour,23493,23493,TS Kaggle,TRUE
+Taylor Swift,12 February 2010,Adelaide,Australia,Adelaide Entertainment Centre,Gloriana Kellie Pickler,585352,Fearless Tour,9066,9066,TS Kaggle,TRUE
+Taylor Swift,04 March 2010,Tampa,United States,St. Pete Times Forum,Gloriana Kellie Pickler,793049,Fearless Tour,13861,13861,TS Kaggle,TRUE
+Taylor Swift,05 March 2010,Orlando,United States,Amway Arena,Gloriana Kellie Pickler,598581,Fearless Tour,11101,11101,TS Kaggle,TRUE
+Taylor Swift,07 March 2010,Sunrise,United States,BankAtlantic Center,Gloriana Kellie Pickler,777442,Fearless Tour,13453,13453,TS Kaggle,TRUE
+Taylor Swift,10 March 2010,Austin,United States,Frank Erwin Center,Gloriana Kellie Pickler,642705,Fearless Tour,11928,11928,TS Kaggle,TRUE
+Taylor Swift,11 March 2010,Dallas,United States,American Airlines Center,Gloriana Kellie Pickler,742954,Fearless Tour,14022,14022,TS Kaggle,TRUE
+Taylor Swift,12 March 2010,Corpus Christi,United States,American Bank Center Arena,Gloriana Kellie Pickler,501169,Fearless Tour,8423,8423,TS Kaggle,TRUE
+Taylor Swift,18 March 2010,Philadelphia,United States,Wells Fargo Center,Gloriana Kellie Pickler,2002321,Fearless Tour,30360,30360,TS Kaggle,TRUE
+Taylor Swift,19 March 2010,Philadelphia,United States,Wells Fargo Center,Gloriana Kellie Pickler,2002321,Fearless Tour,30360,30360,TS Kaggle,TRUE
+Taylor Swift,20 March 2010,Charlottesville,United States,John Paul Jones Arena,Gloriana Kellie Pickler,664305,Fearless Tour,11858,11858,TS Kaggle,TRUE
+Taylor Swift,26 March 2010,Auburn Hills,United States,The Palace of Auburn Hills,Gloriana Kellie Pickler,1711591,Fearless Tour,29125,29125,TS Kaggle,TRUE
+Taylor Swift,27 March 2010,Auburn Hills,United States,The Palace of Auburn Hills,Gloriana Kellie Pickler,1711591,Fearless Tour,29125,29125,TS Kaggle,TRUE
+Taylor Swift,28 March 2010,Cincinnati,United States,U.S. Bank Arena,Gloriana Kellie Pickler,645592,Fearless Tour,11208,11208,TS Kaggle,TRUE
+Taylor Swift,31 March 2010,Oklahoma City,United States,Ford Center,Gloriana Kellie Pickler,675184,Fearless Tour,11795,11795,TS Kaggle,TRUE
+Taylor Swift,01 April 2010,Wichita,United States,Intrust Bank Arena,Gloriana Kellie Pickler,610801,Fearless Tour,11208,11208,TS Kaggle,TRUE
+Taylor Swift,02 April 2010,Kansas City,United States,Sprint Center,Gloriana Kellie Pickler,761110,Fearless Tour,13781,13781,TS Kaggle,TRUE
+Taylor Swift,06 April 2010,Denver,United States,Pepsi Center,Gloriana Kellie Pickler,1497135,Fearless Tour,25991,25991,TS Kaggle,TRUE
+Taylor Swift,07 April 2010,Denver,United States,Pepsi Center,Gloriana Kellie Pickler,1497135,Fearless Tour,25991,25991,TS Kaggle,TRUE
+Taylor Swift,10 April 2010,Fresno,United States,Save Mart Center,Gloriana Kellie Pickler,649488,Fearless Tour,11706,11706,TS Kaggle,TRUE
+Taylor Swift,11 April 2010,San Jose,United States,HP Pavilion,Gloriana Kellie Pickler,716726,Fearless Tour,12744,12744,TS Kaggle,TRUE
+Taylor Swift,15 April 2010,Los Angeles,United States,Staples Center,Gloriana Kellie Pickler,1736197,Fearless Tour,27518,27518,TS Kaggle,TRUE
+Taylor Swift,16 April 2010,Los Angeles,United States,Staples Center,Gloriana Kellie Pickler,1736197,Fearless Tour,27518,27518,TS Kaggle,TRUE
+Taylor Swift,29 April 2010,Lexington,United States,Rupp Arena,Gloriana Kellie Pickler,1024223,Fearless Tour,17966,17966,TS Kaggle,TRUE
+Taylor Swift,30 April 2010,Columbia,United States,Colonial Life Arena,Gloriana Kellie Pickler,755475,Fearless Tour,13429,13429,TS Kaggle,TRUE
+Taylor Swift,01 May 2010,Raleigh,United States,RBC Center,Gloriana Kellie Pickler,752303,Fearless Tour,13895,13895,TS Kaggle,TRUE
+Taylor Swift,06 May 2010,Des Moines,United States,Wells Fargo Arena,Gloriana Kellie Pickler,738280,Fearless Tour,13264,13264,TS Kaggle,TRUE
+Taylor Swift,07 May 2010,Saint Paul,United States,Xcel Energy Center,Gloriana Kellie Pickler,846111,Fearless Tour,14914,14914,TS Kaggle,TRUE
+Taylor Swift,08 May 2010,Moline,United States,iWireless Center,Gloriana Kellie Pickler,610668,Fearless Tour,10641,10641,TS Kaggle,TRUE
+Taylor Swift,12 May 2010,Newark,United States,Prudential Center,Gloriana Kellie Pickler,1742669,Fearless Tour,26065,26065,TS Kaggle,TRUE
+Taylor Swift,13 May 2010,Newark,United States,Prudential Center,Gloriana Kellie Pickler,1742669,Fearless Tour,26065,26065,TS Kaggle,TRUE
+Taylor Swift,14 May 2010,Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana Kellie Pickler,1713529,Fearless Tour,25831,25831,TS Kaggle,TRUE
+Taylor Swift,15 May 2010,Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana Kellie Pickler,1713529,Fearless Tour,25831,25831,TS Kaggle,TRUE
+Taylor Swift,20 May 2010,Ottawa,Canada,Scotiabank Place,Gloriana Kellie Pickler,873206,Fearless Tour,13376,13376,TS Kaggle,TRUE
+Taylor Swift,21 May 2010,Toronto,Canada,Air Canada Centre,Gloriana Kellie Pickler,2497690,Fearless Tour,30458,30458,TS Kaggle,TRUE
+Taylor Swift,22 May 2010,Toronto,Canada,Air Canada Centre,Gloriana Kellie Pickler,2497690,Fearless Tour,30458,30458,TS Kaggle,TRUE
+Taylor Swift,25 May 2010,Houston,United States,Toyota Center,Gloriana Kellie Pickler,1290926,Fearless Tour,23493,23493,TS Kaggle,TRUE
+Taylor Swift,26 May 2010,Houston,United States,Toyota Center,Gloriana Kellie Pickler,1290926,Fearless Tour,23493,23493,TS Kaggle,TRUE
+Taylor Swift,01 June 2010,Washington,United States,Verizon Center,Gloriana Kellie Pickler,1824743,Fearless Tour,27290,27290,TS Kaggle,TRUE
+Taylor Swift,02 June 2010,Washington,United States,Verizon Center,Gloriana Kellie Pickler,1824743,Fearless Tour,27290,27290,TS Kaggle,TRUE
+Taylor Swift,05 June 2010,Foxborough,United States,Gillette Stadium,Gloriana Kellie Pickler Justin Bieber ,3726157,Fearless Tour,56868,56868,TS Kaggle,TRUE
+Taylor Swift,10 July 2010,Cavendish,Canada,Cavendish Beach Festival Grounds,None,,Fearless Tour,35000,35000,TS Kaggle,TRUE
+Taylor Swift,09 February 2011,Singapore,Singapore,Singapore Indoor Stadium,Sezairi Sezali,916850,Speak Now World Tour,8964,8964,TS Kaggle,TRUE
+Taylor Swift,11 February 2011,Seoul,South Korea,Olympic Gymnastics Arena,None,385374,Speak Now World Tour,4725,4725,TS Kaggle,TRUE
+Taylor Swift,13 February 2011,Osaka,Japan,Osaka-Jo Hall,None,758113,Speak Now World Tour,6953,6953,TS Kaggle,TRUE
+Taylor Swift,16 February 2011,Tokyo,Japan,Nippon Budokan,None,1738227,Speak Now World Tour,15955,15955,TS Kaggle,TRUE
+Taylor Swift,17 February 2011,Tokyo,Japan,Nippon Budokan,None,1738227,Speak Now World Tour,15955,15955,TS Kaggle,TRUE
+Taylor Swift,19 February 2011,Quezon City,Philippines,Smart Araneta Coliseum,Sam Concepcion,859037,Speak Now World Tour,12667,12667,TS Kaggle,TRUE
+Taylor Swift,21 February 2011,Hong Kong,Hong Kong,AsiaWorldArena,Saito Johnny,1030633,Speak Now World Tour,12573,12573,TS Kaggle,TRUE
+Taylor Swift,06 March 2011,Brussels,Belgium,Forest National,Tom Dice,219212,Speak Now World Tour,4622,4622,TS Kaggle,TRUE
+Taylor Swift,07 March 2011,Rotterdam,Netherlands,Sportpaleis van Ahoy,Tom Dice,248314,Speak Now World Tour,4799,4799,TS Kaggle,TRUE
+Taylor Swift,09 March 2011,Oslo,Norway,Oslo Spektrum,None,815246,Speak Now World Tour,8650,8650,TS Kaggle,TRUE
+Taylor Swift,12 March 2011,Oberhausen,Germany,König Pilsener Arena,Martin & James,370028,Speak Now World Tour,6082,6082,TS Kaggle,TRUE
+Taylor Swift,15 April 2011,Milan,Italy,Mediolanum Forum,Emma Marrone,153303,Speak Now World Tour,3421,5585,TS Kaggle,FALSE
+Taylor Swift,17 April 2011,Paris,France,Zénith de Paris,None,201781,Speak Now World Tour,3598,8500,TS Kaggle,FALSE
+Taylor Swift,19 April 2011,Madrid,Spain,Palacio de los Deportes,The Bright,251864,Speak Now World Tour,3962,3962,TS Kaggle,TRUE
+Taylor Swift,22 April 2011,Birmingham,England,LG Arena,Martin & James,508854,Speak Now World Tour,9339,9339,TS Kaggle,TRUE
+Taylor Swift,25 March 2011,Belfast,Northern Ireland,Odyssey Arena,Ryan Sheridan,379001,Speak Now World Tour,8058,8058,TS Kaggle,TRUE
+Taylor Swift,27 April 2011,Dublin,Ireland,The O2,Ryan Sheridan,419806,Speak Now World Tour,8681,8681,TS Kaggle,TRUE
+Taylor Swift,29 March 2011,Manchester,England,Manchester Evening News Arena,Martin & James,580558,Speak Now World Tour,10488,11622,TS Kaggle,FALSE
+Taylor Swift,30 March 2011,London,England,The O2 Arena,Martin & James,891152,Speak Now World Tour,15265,15681,TS Kaggle,FALSE
+Taylor Swift,27 May 2011,Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104,Speak Now World Tour,26992,26992,TS Kaggle,TRUE
+Taylor Swift,28 May 2011,Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104,Speak Now World Tour,26992,26992,TS Kaggle,TRUE
+Taylor Swift,29 May 2011,Des Moines,United States,Wells Fargo Arena,Needtobreathe,862771,Speak Now World Tour,13149,13149,TS Kaggle,TRUE
+Taylor Swift,02 June 2011,Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951,Speak Now World Tour,24077,24077,TS Kaggle,TRUE
+Taylor Swift,03 June 2011,Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951,Speak Now World Tour,24077,24077,TS Kaggle,TRUE
+Taylor Swift,04 June 2011,Orlando,United States,Amway Center,Needtobreathe,791980,Speak Now World Tour,12262,12262,TS Kaggle,TRUE
+Taylor Swift,07 June 2011,Columbus,United States,Nationwide Arena,Needtobreathe,955259,Speak Now World Tour,14817,14817,TS Kaggle,TRUE
+Taylor Swift,08 June 2011,Milwaukee,United States,Bradley Center,Needtobreathe,897042,Speak Now World Tour,13748,13748,TS Kaggle,TRUE
+Taylor Swift,11 June 2011,Detroit,United States,Ford Field,Needtobreathe,3453549,Speak Now World Tour,47992,47992,TS Kaggle,TRUE
+Taylor Swift,14 June 2011,Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737,Speak Now World Tour,28977,28977,TS Kaggle,TRUE
+Taylor Swift,15 June 2011,Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737,Speak Now World Tour,28977,28977,TS Kaggle,TRUE
+Taylor Swift,18 June 2011,Pittsburgh,United States,Heinz Field,Needtobreathe,4009118,Speak Now World Tour,52009,52009,TS Kaggle,TRUE
+Taylor Swift,21 June 2011,Buffalo,United States,First Niagara Center,Needtobreathe,966749,Speak Now World Tour,14487,14487,TS Kaggle,TRUE
+Taylor Swift,22 June 2011,Hartford,United States,XL Center,Needtobreathe,810165,Speak Now World Tour,12436,12436,TS Kaggle,TRUE
+Taylor Swift,25 June 2011,Foxborough,United States,Gillette Stadium,Needtobreathe,8026350,Speak Now World Tour,110800,110800,TS Kaggle,TRUE
+Taylor Swift,26 June 2011,Foxborough,United States,Gillette Stadium,Needtobreathe,8026350,Speak Now World Tour,110800,110800,TS Kaggle,TRUE
+Taylor Swift,30 June 2011,Greensboro,United States,Greensboro Coliseum,Needtobreathe,990701,Speak Now World Tour,14789,14789,TS Kaggle,TRUE
+Taylor Swift,01 July 2011,Knoxville,United States,ThompsonBoling Arena,Needtobreathe,903875,Speak Now World Tour,13754,13754,TS Kaggle,TRUE
+Taylor Swift,14 July 2011,Montreal,Canada,Bell Centre,Needtobreathe,1254230,Speak Now World Tour,13439,13439,TS Kaggle,TRUE
+Taylor Swift,15 July 2011,Toronto,Canada,Air Canada Centre,Needtobreathe,3036000,Speak Now World Tour,30144,30144,TS Kaggle,TRUE
+Taylor Swift,16 July 2011,Toronto,Canada,Air Canada Centre,Needtobreathe,3036000,Speak Now World Tour,30144,30144,TS Kaggle,TRUE
+Taylor Swift,19 July 2011,Newark,United States,Prudential Center,Needtobreathe,3875463,Speak Now World Tour,51487,51487,TS Kaggle,TRUE
+Taylor Swift,20 July 2011,Newark,United States,Prudential Center,Needtobreathe,3875463,Speak Now World Tour,51487,51487,TS Kaggle,TRUE
+Taylor Swift,23 July 2011,Newark,United States,Prudential Center,Needtobreathe,3875463,Speak Now World Tour,51487,51487,TS Kaggle,TRUE
+Taylor Swift,24 July 2011,Newark,United States,Prudential Center,Needtobreathe,3875463,Speak Now World Tour,51487,51487,TS Kaggle,TRUE
+Taylor Swift,28 July 2011,Grand Rapids,United States,Van Andel Arena,Needtobreathe,724854,Speak Now World Tour,11012,11012,TS Kaggle,TRUE
+Taylor Swift,29 July 2011,Indianapolis,United States,Conseco Fieldhouse,Needtobreathe,877175,Speak Now World Tour,13329,13329,TS Kaggle,TRUE
+Taylor Swift,30 July 2011,Cleveland,United States,Quicken Loans Arena,Needtobreathe,976954,Speak Now World Tour,14873,14873,TS Kaggle,TRUE
+Taylor Swift,02 August 2011,Washington,United States,Verizon Center,Needtobreathe,2068789,Speak Now World Tour,29303,29303,TS Kaggle,TRUE
+Taylor Swift,03 August 2011,Washington,United States,Verizon Center,Needtobreathe,2068789,Speak Now World Tour,29303,29303,TS Kaggle,TRUE
+Taylor Swift,06 August 2011,Philadelphia,United States,Lincoln Financial Field,Needtobreathe,4268678,Speak Now World Tour,51395,51395,TS Kaggle,TRUE
+Taylor Swift,09 August 2011,Rosemont,United States,Allstate Arena,Needtobreathe,1909603,Speak Now World Tour,26112,26112,TS Kaggle,TRUE
+Taylor Swift,10 August 2011,Rosemont,United States,Allstate Arena,Needtobreathe,1909603,Speak Now World Tour,26112,26112,TS Kaggle,TRUE
+Taylor Swift,13 August 2011,St. Louis,United States,Scottrade Center,Needtobreathe,1850159,Speak Now World Tour,27965,27965,TS Kaggle,TRUE
+Taylor Swift,14 August 2011,St. Louis,United States,Scottrade Center,Needtobreathe,1850159,Speak Now World Tour,27965,27965,TS Kaggle,TRUE
+Taylor Swift,18 August 2011,Edmonton,Canada,Rexall Place,Needtobreathe,2136270,Speak Now World Tour,25336,25336,TS Kaggle,TRUE
+Taylor Swift,19 August 2011,Edmonton,Canada,Rexall Place,Needtobreathe,2136270,Speak Now World Tour,25336,25336,TS Kaggle,TRUE
+Taylor Swift,23 August 2011,Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak Now World Tour,54900,54900,TS Kaggle,TRUE
+Taylor Swift,24 August 2011,Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak Now World Tour,54900,54900,TS Kaggle,TRUE
+Taylor Swift,27 August 2011,Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak Now World Tour,54900,54900,TS Kaggle,TRUE
+Taylor Swift,28 August 2011,Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak Now World Tour,54900,54900,TS Kaggle,TRUE
+Taylor Swift,01 September 2011,San Jose,United States,HP Pavilion,Needtobreathe,1825448,Speak Now World Tour,24827,24827,TS Kaggle,TRUE
+Taylor Swift,02 September 2011,San Jose,United States,HP Pavilion,Needtobreathe,1825448,Speak Now World Tour,24827,24827,TS Kaggle,TRUE
+Taylor Swift,03 September 2011,Sacramento,United States,Power Balance Pavilion,Needtobreathe,934326,Speak Now World Tour,12432,12432,TS Kaggle,TRUE
+Taylor Swift,06 September 2011,Portland,United States,Rose Garden Arena,Needtobreathe,903445,Speak Now World Tour,13610,13610,TS Kaggle,TRUE
+Taylor Swift,07 September 2011,Tacoma,United States,Tacoma Dome,Needtobreathe,1289430,Speak Now World Tour,19904,19904,TS Kaggle,TRUE
+Taylor Swift,10 September 2011,Vancouver,Canada,Rogers Arena,Needtobreathe,2190680,Speak Now World Tour,26030,26030,TS Kaggle,TRUE
+Taylor Swift,11 September 2011,Vancouver,Canada,Rogers Arena,Needtobreathe,2190680,Speak Now World Tour,26030,26030,TS Kaggle,TRUE
+Taylor Swift,16 September 2011,Nashville,United States,Bridgestone Arena,Needtobreathe,1841134,Speak Now World Tour,28178,28178,TS Kaggle,TRUE
+Taylor Swift,17 September 2011,Nashville,United States,Bridgestone Arena,Needtobreathe,1841134,Speak Now World Tour,28178,28178,TS Kaggle,TRUE
+Taylor Swift,20 September 2011,Bossier City,United States,CenturyLink Center,Needtobreathe,728546,Speak Now World Tour,11510,11510,TS Kaggle,TRUE
+Taylor Swift,21 September 2011,Tulsa,United States,BOK Center,Needtobreathe,907573,Speak Now World Tour,12546,12546,TS Kaggle,TRUE
+Taylor Swift,24 September 2011,Kansas City,United States,Arrowhead Stadium,Needtobreathe,3148046,Speak Now World Tour,48562,48562,TS Kaggle,TRUE
+Taylor Swift,27 September 2011,Denver,United States,Pepsi Center,Needtobreathe,834916,Speak Now World Tour,12908,12908,TS Kaggle,TRUE
+Taylor Swift,28 September 2011,Salt Lake City,United States,EnergySolutions Arena,Needtobreathe,896946,Speak Now World Tour,13720,13720,TS Kaggle,TRUE
+Taylor Swift,01 October 2011,Atlanta,United States,Philips Arena,Needtobreathe,1726661,Speak Now World Tour,26244,26244,TS Kaggle,TRUE
+Taylor Swift,02 October 2011,Atlanta,United States,Philips Arena,Needtobreathe,1726661,Speak Now World Tour,26244,26244,TS Kaggle,TRUE
+Taylor Swift,04 October 2011,North Little Rock,United States,Verizon Arena,Needtobreathe,856123,Speak Now World Tour,13566,13566,TS Kaggle,TRUE
+Taylor Swift,05 October 2011,New Orleans,United States,New Orleans Arena,Needtobreathe,830289,Speak Now World Tour,12943,12943,TS Kaggle,TRUE
+Taylor Swift,08 October 2011,Arlington,United States,Cowboys Stadium,Needtobreathe,4337062,Speak Now World Tour,55451,55451,TS Kaggle,TRUE
+Taylor Swift,11 October 2011,Louisville,United States,KFC Yum! Center,Needtobreathe,1003828,Speak Now World Tour,14848,14848,TS Kaggle,TRUE
+Taylor Swift,14 October 2011,Lubbock,United States,United Spirit Arena,Needtobreathe,710426,Speak Now World Tour,10419,10419,TS Kaggle,TRUE
+Taylor Swift,15 October 2011,Oklahoma City,United States,Chesapeake Energy Arena,Needtobreathe,758364,Speak Now World Tour,11592,11592,TS Kaggle,TRUE
+Taylor Swift,20 October 2011,San Diego,United States,Valley View Casino Center,Needtobreathe,792634,Speak Now World Tour,10834,10834,TS Kaggle,TRUE
+Taylor Swift,21 October 2011,Glendale,United States,Jobing.com Arena,Needtobreathe,1826025,Speak Now World Tour,27029,27029,TS Kaggle,TRUE
+Taylor Swift,22 October 2011,Glendale,United States,Jobing.com Arena,Needtobreathe,1826025,Speak Now World Tour,27029,27029,TS Kaggle,TRUE
+Taylor Swift,25 October 2011,San Antonio,United States,AT&T Center,Needtobreathe,901535,Speak Now World Tour,13851,13851,TS Kaggle,TRUE
+Taylor Swift,26 October 2011,Austin,United States,Frank Erwin Center,Needtobreathe,752078,Speak Now World Tour,11999,11999,TS Kaggle,TRUE
+Taylor Swift,29 October 2011,Lexington,United States,Rupp Arena,Needtobreathe,1041935,Speak Now World Tour,16237,16237,TS Kaggle,TRUE
+Taylor Swift,30 October 2011,Memphis,United States,FedExForum,Needtobreathe,820036,Speak Now World Tour,12604,12604,TS Kaggle,TRUE
+Taylor Swift,05 November 2011,Houston,United States,Minute Maid Park,Needtobreathe,3435756,Speak Now World Tour,42095,42095,TS Kaggle,TRUE
+Taylor Swift,11 November 2011,Jacksonville,United States,Jacksonville Veterans Memorial Arena,Needtobreathe,749099,Speak Now World Tour,11785,11785,TS Kaggle,TRUE
+Taylor Swift,12 November 2011,Tampa,United States,St. Pete Times Forum,Needtobreathe,914300,Speak Now World Tour,13695,13695,TS Kaggle,TRUE
+Taylor Swift,13 November 2011,Miami,United States,American Airlines Arena,Needtobreathe,786904,Speak Now World Tour,12153,12153,TS Kaggle,TRUE
+Taylor Swift,16 November 2011,Charlotte,United States,Time Warner Cable Arena,Needtobreathe,920903,Speak Now World Tour,14272,14272,TS Kaggle,TRUE
+Taylor Swift,17 November 2011,Raleigh,United States,RBC Center,Needtobreathe,866056,Speak Now World Tour,13567,13567,TS Kaggle,TRUE
+Taylor Swift,18 November 2011,Columbia,United States,Colonial Life Arena,Needtobreathe,828231,Speak Now World Tour,12807,12807,TS Kaggle,TRUE
+Taylor Swift,21 November 2011,New York,United States,Madison Square Garden,Needtobreathe,1988411,Speak Now World Tour,26652,26652,TS Kaggle,TRUE
+Taylor Swift,22 November 2011,New York,United States,Madison Square Garden,Needtobreathe,1988411,Speak Now World Tour,26652,26652,TS Kaggle,TRUE
+Taylor Swift,02 April 2012,Perth,Australia,Burswood Dome,Hot Chelle Rae,1878530,Speak Now World Tour,15142,15142,TS Kaggle,TRUE
+Taylor Swift,04 April 2012,Adelaide,Australia,Adelaide Entertainment Centre,Hot Chelle Rae,1075370,Speak Now World Tour,8589,8589,TS Kaggle,TRUE
+Taylor Swift,06 April 2012,Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030,Speak Now World Tour,19870,19870,TS Kaggle,TRUE
+Taylor Swift,07 April 2012,Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030,Speak Now World Tour,19870,19870,TS Kaggle,TRUE
+Taylor Swift,09 April 2012,Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360,Speak Now World Tour,27900,27900,TS Kaggle,TRUE
+Taylor Swift,10 April 2012,Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360,Speak Now World Tour,27900,27900,TS Kaggle,TRUE
+Taylor Swift,12 April 2012,Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak Now World Tour,33793,33793,TS Kaggle,TRUE
+Taylor Swift,13 April 2012,Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak Now World Tour,33793,33793,TS Kaggle,TRUE
+Taylor Swift,14 April 2012,Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak Now World Tour,33793,33793,TS Kaggle,TRUE
+Taylor Swift,16 April 2012,Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak Now World Tour,32585,32585,TS Kaggle,TRUE
+Taylor Swift,17 April 2012,Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak Now World Tour,32585,32585,TS Kaggle,TRUE
+Taylor Swift,18 April 2012,Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak Now World Tour,32585,32585,TS Kaggle,TRUE
+Taylor Swift,13 March 2013,Omaha,United States,CenturyLink Center Omaha,Ed Sheeran Brett Eldredge,2243164,The Red Tour,27877,27877,TS Kaggle,TRUE
+Taylor Swift,14 March 2013,Omaha,United States,CenturyLink Center Omaha,Ed Sheeran Brett Eldredge,2243164,The Red Tour,27877,27877,TS Kaggle,TRUE
+Taylor Swift,18 March 2013,St. Louis,United States,Scottrade Center,Ed Sheeran Brett Eldredge,2346203,The Red Tour,28582,28582,TS Kaggle,TRUE
+Taylor Swift,19 March 2013,St. Louis,United States,Scottrade Center,Ed Sheeran Brett Eldredge,2346203,The Red Tour,28582,28582,TS Kaggle,TRUE
+Taylor Swift,22 March 2013,Charlotte,United States,Time Warner Cable Arena,Ed Sheeran Brett Eldredge,1162733,The Red Tour,14686,14686,TS Kaggle,TRUE
+Taylor Swift,23 March 2013,Columbia,United States,Colonial Life Arena,Ed Sheeran Brett Eldredge,996114,The Red Tour,12490,12490,TS Kaggle,TRUE
+Taylor Swift,27 March 2013,Newark,United States,Prudential Center,Ed Sheeran Florida Georgia Line,3565317,The Red Tour,38065,38065,TS Kaggle,TRUE
+Taylor Swift,28 March 2013,Newark,United States,Prudential Center,Ed Sheeran Florida Georgia Line,3565317,The Red Tour,38065,38065,TS Kaggle,TRUE
+Taylor Swift,29 March 2013,Newark,United States,Prudential Center,Ed Sheeran Florida Georgia Line,3565317,The Red Tour,38065,38065,TS Kaggle,TRUE
+Taylor Swift,10 April 2013,Miami,United States,American Airlines Arena,Ed Sheeran Brett Eldredge,1010175,The Red Tour,12808,12808,TS Kaggle,TRUE
+Taylor Swift,11 April 2013,Orlando,United States,Amway Center,Ed Sheeran Brett Eldredge,2054128,The Red Tour,25617,25617,TS Kaggle,TRUE
+Taylor Swift,12 April 2013,Orlando,United States,Amway Center,Ed Sheeran Brett Eldredge,2054128,The Red Tour,25617,25617,TS Kaggle,TRUE
+Taylor Swift,18 April 2013,Atlanta,United States,Philips Arena,Ed Sheeran Brett Eldredge,2048023,The Red Tour,25471,25471,TS Kaggle,TRUE
+Taylor Swift,19 April 2013,Atlanta,United States,Philips Arena,Ed Sheeran Brett Eldredge,2048023,The Red Tour,25471,25471,TS Kaggle,TRUE
+Taylor Swift,20 April 2013,Tampa,United States,Tampa Bay Times Forum,Ed Sheeran Brett Eldredge,1132095,The Red Tour,14080,14080,TS Kaggle,TRUE
+Taylor Swift,25 April 2013,Cleveland,United States,Quicken Loans Arena,Ed Sheeran Brett Eldredge,1247605,The Red Tour,15336,15336,TS Kaggle,TRUE
+Taylor Swift,26 April 2013,Indianapolis,United States,Bankers Life Fieldhouse,Ed Sheeran Brett Eldredge,1082042,The Red Tour,13573,13573,TS Kaggle,TRUE
+Taylor Swift,27 April 2013,Lexington,United States,Rupp Arena,Ed Sheeran Brett Eldredge,1342699,The Red Tour,17003,17003,TS Kaggle,TRUE
+Taylor Swift,04 May 2013,Detroit,United States,Ford Field,Ed Sheeran Austin Mahone Brett Eldredge,3969059,The Red Tour,48265,48265,TS Kaggle,TRUE
+Taylor Swift,07 May 2013,Louisville,United States,KFC Yum! Center,Ed Sheeran Florida Georgia Line,1246491,The Red Tour,15135,15135,TS Kaggle,TRUE
+Taylor Swift,08 May 2013,Columbus,United States,Nationwide Arena,Ed Sheeran Florida Georgia Line,1155170,The Red Tour,14267,14267,TS Kaggle,TRUE
+Taylor Swift,11 May 2013,Washington,United States,Verizon Center,Ed Sheeran Brett Eldredge,2489205,The Red Tour,27619,27619,TS Kaggle,TRUE
+Taylor Swift,12 May 2013,Washington,United States,Verizon Center,Ed Sheeran Brett Eldredge,2489205,The Red Tour,27619,27619,TS Kaggle,TRUE
+Taylor Swift,16 May 2013,Houston,United States,Toyota Center,Ed Sheeran Brett Eldredge,961422,The Red Tour,12467,12467,TS Kaggle,TRUE
+Taylor Swift,21 May 2013,Austin,United States,Frank Erwin Center,Ed Sheeran Florida Georgia Line,935631,The Red Tour,11916,11916,TS Kaggle,TRUE
+Taylor Swift,22 May 2013,San Antonio,United States,AT&T Center,Ed Sheeran Florida Georgia Line,1105253,The Red Tour,13974,13974,TS Kaggle,TRUE
+Taylor Swift,25 May 2013,Arlington,United States,Cowboys Stadium,Ed Sheeran Austin Mahone Florida Georgia Line,4589266,The Red Tour,53020,53020,TS Kaggle,TRUE
+Taylor Swift,28 May 2013,Glendale,United States,Jobing.com Arena,Ed Sheeran Joel Crouse,2239370,The Red Tour,26705,26705,TS Kaggle,TRUE
+Taylor Swift,29 May 2013,Glendale,United States,Jobing.com Arena,Ed Sheeran Joel Crouse,2239370,The Red Tour,26705,26705,TS Kaggle,TRUE
+Taylor Swift,01 June 2013,Salt Lake City,United States,EnergySolutions Arena,Ed Sheeran Joel Crouse,1139360,The Red Tour,14007,14007,TS Kaggle,TRUE
+Taylor Swift,02 June 2013,Denver,United States,Pepsi Center,Ed Sheeran Joel Crouse,1076069,The Red Tour,13489,13489,TS Kaggle,TRUE
+Taylor Swift,14 June 2013,Toronto,Canada,Rogers Centre,Ed Sheeran Austin Mahone Joel Crouse,7863310,The Red Tour,87627,87627,TS Kaggle,TRUE
+Taylor Swift,15 June 2013,Toronto,Canada,Rogers Centre,Ed Sheeran Austin Mahone Joel Crouse,7863310,The Red Tour,87627,87627,TS Kaggle,TRUE
+Taylor Swift,22 June 2013,Winnipeg,Canada,Investors Group Field,Ed Sheeran Austin Mahone Joel Crouse,3175430,The Red Tour,33061,33061,TS Kaggle,TRUE
+Taylor Swift,25 June 2013,Edmonton,Canada,Rexall Place,Ed Sheeran Joel Crouse,2379870,The Red Tour,25663,25663,TS Kaggle,TRUE
+Taylor Swift,26 June 2013,Edmonton,Canada,Rexall Place,Ed Sheeran Joel Crouse,2379870,The Red Tour,25663,25663,TS Kaggle,TRUE
+Taylor Swift,29 June 2013,Vancouver,Canada,BC Place Stadium,Ed Sheeran Austin Mahone Joel Crouse,3974410,The Red Tour,41142,41142,TS Kaggle,TRUE
+Taylor Swift,06 July 2013,Pittsburgh,United States,Heinz Field,Ed Sheeran Austin Mahone Joel Crouse,4718518,The Red Tour,56047,56047,TS Kaggle,TRUE
+Taylor Swift,13 July 2013,East Rutherford,United States,MetLife Stadium,Ed Sheeran Austin Mahone Joel Crouse,4670011,The Red Tour,52399,52399,TS Kaggle,TRUE
+Taylor Swift,19 July 2013,Philadelphia,United States,Lincoln Financial Field,Ed Sheeran Austin Mahone Joel Crouse,8822335,The Red Tour,101277,101277,TS Kaggle,TRUE
+Taylor Swift,20 July 2013,Philadelphia,United States,Lincoln Financial Field,Ed Sheeran Austin Mahone Joel Crouse,8822335,The Red Tour,101277,101277,TS Kaggle,TRUE
+Taylor Swift,26 July 2013,Foxborough,United States,Gillette Stadium,Ed Sheeran Austin Mahone Joel Crouse,9464063,The Red Tour,110712,110712,TS Kaggle,TRUE
+Taylor Swift,27 July 2013,Foxborough,United States,Gillette Stadium,Ed Sheeran Austin Mahone Joel Crouse,9464063,The Red Tour,110712,110712,TS Kaggle,TRUE
+Taylor Swift,01 August 2013,Des Moines,United States,Wells Fargo Arena,Ed Sheeran Florida Georgia Line,1075576,The Red Tour,13368,13368,TS Kaggle,TRUE
+Taylor Swift,02 August 2013,Kansas City,United States,Sprint Center,Ed Sheeran Florida Georgia Line,2093172,The Red Tour,26412,26412,TS Kaggle,TRUE
+Taylor Swift,03 August 2013,Kansas City,United States,Sprint Center,Ed Sheeran Florida Georgia Line,2093172,The Red Tour,26412,26412,TS Kaggle,TRUE
+Taylor Swift,06 August 2013,Wichita,United States,Intrust Bank Arena,Ed Sheeran Casey James,983882,The Red Tour,12231,12231,TS Kaggle,TRUE
+Taylor Swift,07 August 2013,Tulsa,United States,BOK Center,Ed Sheeran Casey James,868955,The Red Tour,10949,10949,TS Kaggle,TRUE
+Taylor Swift,10 August 2013,Chicago,United States,Soldier Field,Ed Sheeran Austin Mahone Casey James,4149148,The Red Tour,50809,50809,TS Kaggle,TRUE
+Taylor Swift,15 August 2013,San Diego,United States,Valley View Casino Center,Ed Sheeran Casey James,948541,The Red Tour,10872,10872,TS Kaggle,TRUE
+Taylor Swift,19 August 2013,Los Angeles,United States,Staples Center,Ed Sheeran Casey James,4734463,The Red Tour,55829,55829,TS Kaggle,TRUE
+Taylor Swift,20 August 2013,Los Angeles,United States,Staples Center,Ed Sheeran Casey James,4734463,The Red Tour,55829,55829,TS Kaggle,TRUE
+Taylor Swift,23 August 2013,Los Angeles,United States,Staples Center,Ed Sheeran Casey James,4734463,The Red Tour,55829,55829,TS Kaggle,TRUE
+Taylor Swift,24 August 2013,Los Angeles,United States,Staples Center,Ed Sheeran Casey James,4734463,The Red Tour,55829,55829,TS Kaggle,TRUE
+Taylor Swift,27 August 2013,Sacramento,United States,Sleep Train Arena,Ed Sheeran Casey James,1138103,The Red Tour,12795,12795,TS Kaggle,TRUE
+Taylor Swift,30 August 2013,Portland,United States,Moda Center,Ed Sheeran Casey James,1084760,The Red Tour,13952,13952,TS Kaggle,TRUE
+Taylor Swift,31 August 2013,Tacoma,United States,Tacoma Dome,Ed Sheeran Casey James,1584049,The Red Tour,20348,20348,TS Kaggle,TRUE
+Taylor Swift,06 September 2013,Fargo,United States,Fargodome,Ed Sheeran Casey James,1661578,The Red Tour,21073,21073,TS Kaggle,TRUE
+Taylor Swift,07 September 2013,Saint Paul,United States,Xcel Energy Center,Ed Sheeran Casey James,2320937,The Red Tour,28920,28920,TS Kaggle,TRUE
+Taylor Swift,08 September 2013,Saint Paul,United States,Xcel Energy Center,Ed Sheeran Casey James,2320937,The Red Tour,28920,28920,TS Kaggle,TRUE
+Taylor Swift,12 September 2013,Greensboro,United States,Greensboro Coliseum,Ed Sheeran Casey James,1109253,The Red Tour,13650,13650,TS Kaggle,TRUE
+Taylor Swift,13 September 2013,Raleigh,United States,PNC Arena,Ed Sheeran Casey James,1088612,The Red Tour,13941,13941,TS Kaggle,TRUE
+Taylor Swift,14 September 2013,Charlottesville,United States,John Paul Jones Arena,Ed Sheeran Casey James,997216,The Red Tour,12689,12689,TS Kaggle,TRUE
+Taylor Swift,19 September 2013,Nashville,United States,Bridgestone Arena,Ed Sheeran Casey James,3336545,The Red Tour,41292,41292,TS Kaggle,TRUE
+Taylor Swift,20 September 2013,Nashville,United States,Bridgestone Arena,Ed Sheeran Casey James,3336545,The Red Tour,41292,41292,TS Kaggle,TRUE
+Taylor Swift,21 September 2013,Nashville,United States,Bridgestone Arena,Ed Sheeran Casey James,3336545,The Red Tour,41292,41292,TS Kaggle,TRUE
+Taylor Swift,29 November 2013,Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The Red Tour,30799,30799,TS Kaggle,TRUE
+Taylor Swift,30 November 2013,Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The Red Tour,30799,30799,TS Kaggle,TRUE
+Taylor Swift,01 December 2013,Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The Red Tour,30799,30799,TS Kaggle,TRUE
+Taylor Swift,04 December 2013,Sydney,Australia,Allianz Stadium,Guy Sebastian Neon Trees,4096060,The Red Tour,40930,40930,TS Kaggle,TRUE
+Taylor Swift,07 December 2013,Brisbane,Australia,Suncorp Stadium,Guy Sebastian Neon Trees,3895810,The Red Tour,38907,38907,TS Kaggle,TRUE
+Taylor Swift,11 December 2013,Perth,Australia,Perth Rectangular Stadium,Guy Sebastian Neon Trees,2364080,The Red Tour,21827,21827,TS Kaggle,TRUE
+Taylor Swift,14 December 2013,Melbourne,Australia,Etihad Stadium,Guy Sebastian Neon Trees,4547250,The Red Tour,47257,47257,TS Kaggle,TRUE
+Taylor Swift,01 February 2014,London,England,The O2 Arena,The Vamps,5829240,The Red Tour,74740,74740,TS Kaggle,TRUE
+Taylor Swift,02 February 2014,London,England,The O2 Arena,The Vamps,5829240,The Red Tour,74740,74740,TS Kaggle,TRUE
+Taylor Swift,04 February 2014,London,England,The O2 Arena,The Vamps,5829240,The Red Tour,74740,74740,TS Kaggle,TRUE
+Taylor Swift,07 February 2014,Berlin,Germany,O2 World,Andreas Bourani,755006,The Red Tour,10350,10350,TS Kaggle,TRUE
+Taylor Swift,01 June 2014,Saitama,Japan,Saitama Super Arena,CTS,1837147,The Red Tour,20046,20046,TS Kaggle,TRUE
+Taylor Swift,04 June 2014,Jakarta,Indonesia,MEIS Ancol,Nicole Zefanya,1481473,The Red Tour,8130,8130,TS Kaggle,TRUE
+Taylor Swift,06 June 2014,Pasay,Philippines,Mall of Asia Arena,Meg Bucsit,1511662,The Red Tour,9775,9775,TS Kaggle,TRUE
+Taylor Swift,09 June 2014,Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,2524080,The Red Tour,16344,16344,TS Kaggle,TRUE
+Taylor Swift,11 June 2014,Kuala Lumpur,Malaysia,Putra Indoor Stadium,IamNeeta,998608,The Red Tour,7525,7525,TS Kaggle,TRUE
+Taylor Swift,05 May 2015,Tokyo,Japan,Tokyo Dome,None,10586828,The 1989 World Tour,100320,100320,TS Kaggle,TRUE
+Taylor Swift,06 May 2015,Tokyo,Japan,Tokyo Dome,None,10586828,The 1989 World Tour,100320,100320,TS Kaggle,TRUE
+Taylor Swift,20 May 2015,Bossier City,United States,CenturyLink Center,Vance Joy,1458197,The 1989 World Tour,12459,12459,TS Kaggle,TRUE
+Taylor Swift,22 May 2015,Baton Rouge,United States,LSU Tiger Stadium,Vance Joy Shawn Mendes,4119670,The 1989 World Tour,50227,50227,TS Kaggle,TRUE
+Taylor Swift,30 May 2015,Detroit,United States,Ford Field,Vance Joy Shawn Mendes,5999690,The 1989 World Tour,50703,50703,TS Kaggle,TRUE
+Taylor Swift,02 June 2015,Louisville,United States,KFC Yum! Center,Vance Joy,1863281,The 1989 World Tour,16242,16242,TS Kaggle,TRUE
+Taylor Swift,03 June 2015,Cleveland,United States,Quicken Loans Arena,Vance Joy,1732041,The 1989 World Tour,15503,15503,TS Kaggle,TRUE
+Taylor Swift,06 June 2015,Pittsburgh,United States,Heinz Field,Vance Joy Shawn Mendes,5836926,The 1989 World Tour,54801,54801,TS Kaggle,TRUE
+Taylor Swift,08 June 2015,Charlotte,United States,Time Warner Cable Arena,Vance Joy,1627798,The 1989 World Tour,15024,15024,TS Kaggle,TRUE
+Taylor Swift,09 June 2015,Raleigh,United States,PNC Arena,Vance Joy,1653762,The 1989 World Tour,13886,13886,TS Kaggle,TRUE
+Taylor Swift,12 June 2015,Philadelphia,United States,Lincoln Financial Field,Vance Joy Shawn Mendes,11987816,The 1989 World Tour,101052,101052,TS Kaggle,TRUE
+Taylor Swift,13 June 2015,Philadelphia,United States,Lincoln Financial Field,Vance Joy Shawn Mendes,11987816,The 1989 World Tour,101052,101052,TS Kaggle,TRUE
+Taylor Swift,19 June 2015,Cologne,Germany,Lanxess Arena,James Bay,2054690,The 1989 World Tour,29020,29020,TS Kaggle,TRUE
+Taylor Swift,20 June 2015,Cologne,Germany,Lanxess Arena,James Bay,2054690,The 1989 World Tour,29020,29020,TS Kaggle,TRUE
+Taylor Swift,21 June 2015,Amsterdam,Netherlands,Ziggo Dome,James Bay,800829,The 1989 World Tour,11166,11166,TS Kaggle,TRUE
+Taylor Swift,23 June 2015,Glasgow,Scotland,SSE Hydro,Vance Joy,1119300,The 1989 World Tour,11021,11021,TS Kaggle,TRUE
+Taylor Swift,24 June 2015,Manchester,England,Manchester Arena,Vance Joy,1478760,The 1989 World Tour,14773,14773,TS Kaggle,TRUE
+Taylor Swift,27 June 2015,Dublin,Ireland,3Arena,Vance Joy,1975510,The 1989 World Tour,25188,25188,TS Kaggle,TRUE
+Taylor Swift,29 June 2015,Dublin,Ireland,3Arena,Vance Joy,1975510,The 1989 World Tour,25188,25188,TS Kaggle,TRUE
+Taylor Swift,30 June 2015,Ottawa,Canada,Canadian Tire Centre,Vance Joy,1325480,The 1989 World Tour,13480,13480,TS Kaggle,TRUE
+Taylor Swift,06 July 2015,Montreal,Canada,Bell Centre,Vance Joy,1499040,The 1989 World Tour,14770,14770,TS Kaggle,TRUE
+Taylor Swift,07 July 2015,East Rutherford,United States,MetLife Stadium,Vance Joy Shawn Mendes Haim,13423858,The 1989 World Tour,110105,110105,TS Kaggle,TRUE
+Taylor Swift,10 July 2015,East Rutherford,United States,MetLife Stadium,Vance Joy Shawn Mendes Haim,13423858,The 1989 World Tour,110105,110105,TS Kaggle,TRUE
+Taylor Swift,11 July 2015,Washington,United States,Nationals Park,Vance Joy Shawn Mendes Haim,9730596,The 1989 World Tour,85014,85014,TS Kaggle,TRUE
+Taylor Swift,13 July 2015,Washington,United States,Nationals Park,Vance Joy Shawn Mendes Haim,9730596,The 1989 World Tour,85014,85014,TS Kaggle,TRUE
+Taylor Swift,14 July 2015,Chicago,United States,Soldier Field,Vance Joy Shawn Mendes Haim,11469887,The 1989 World Tour,110109,110109,TS Kaggle,TRUE
+Taylor Swift,18 July 2015,Chicago,United States,Soldier Field,Vance Joy Shawn Mendes Haim,11469887,The 1989 World Tour,110109,110109,TS Kaggle,TRUE
+Taylor Swift,19 July 2015,Foxborough,United States,Gillette Stadium,Vance Joy Shawn Mendes Haim,12533166,The 1989 World Tour,116849,116849,TS Kaggle,TRUE
+Taylor Swift,24 July 2015,Foxborough,United States,Gillette Stadium,Vance Joy Shawn Mendes Haim,12533166,The 1989 World Tour,116849,116849,TS Kaggle,TRUE
+Taylor Swift,25 July 2015,Vancouver,Canada,BC Place,Vance Joy Shawn Mendes,4081820,The 1989 World Tour,41463,41463,TS Kaggle,TRUE
+Taylor Swift,01 August 2015,Edmonton,Canada,Rexall Place,Vance Joy,2387080,The 1989 World Tour,26534,26534,TS Kaggle,TRUE
+Taylor Swift,04 August 2015,Edmonton,Canada,Rexall Place,Vance Joy,2387080,The 1989 World Tour,26534,26534,TS Kaggle,TRUE
+Taylor Swift,05 August 2015,Seattle,United States,CenturyLink Field,Vance Joy Shawn Mendes,6050643,The 1989 World Tour,55711,55711,TS Kaggle,TRUE
+Taylor Swift,08 August 2015,Santa Clara,United States,Levi's Stadium,Vance Joy Shawn Mendes,13031146,The 1989 World Tour,102139,102139,TS Kaggle,TRUE
+Taylor Swift,14 August 2015,Santa Clara,United States,Levi's Stadium,Vance Joy Shawn Mendes,13031146,The 1989 World Tour,102139,102139,TS Kaggle,TRUE
+Taylor Swift,15 August 2015,Glendale,United States,Gila River Arena,Vance Joy,3029628,The 1989 World Tour,26520,26520,TS Kaggle,TRUE
+Taylor Swift,17 August 2015,Glendale,United States,Gila River Arena,Vance Joy,3029628,The 1989 World Tour,26520,26520,TS Kaggle,TRUE
+Taylor Swift,18 August 2015,Los Angeles,United States,Staples Center,Vance Joy Haim,8961681,The 1989 World Tour,70563,70563,TS Kaggle,TRUE
+Taylor Swift,21 August 2015,Los Angeles,United States,Staples Center,Vance Joy Haim,8961681,The 1989 World Tour,70563,70563,TS Kaggle,TRUE
+Taylor Swift,22 August 2015,Los Angeles,United States,Staples Center,Vance Joy Haim,8961681,The 1989 World Tour,70563,70563,TS Kaggle,TRUE
+Taylor Swift,24 August 2015,Los Angeles,United States,Staples Center,Vance Joy Haim,8961681,The 1989 World Tour,70563,70563,TS Kaggle,TRUE
+Taylor Swift,25 August 2015,Los Angeles,United States,Staples Center,Vance Joy Haim,8961681,The 1989 World Tour,70563,70563,TS Kaggle,TRUE
+Taylor Swift,26 August 2015,San Diego,United States,Petco Park,Vance Joy Shawn Mendes,5475237,The 1989 World Tour,44710,44710,TS Kaggle,TRUE
+Taylor Swift,29 August 2015,Salt Lake City,United States,EnergySolutions Arena,Vance Joy,1589686,The 1989 World Tour,14131,14131,TS Kaggle,TRUE
+Taylor Swift,04 September 2015,Denver,United States,Pepsi Center,Vance Joy,2868991,The 1989 World Tour,27126,27126,TS Kaggle,TRUE
+Taylor Swift,05 September 2015,Denver,United States,Pepsi Center,Vance Joy,2868991,The 1989 World Tour,27126,27126,TS Kaggle,TRUE
+Taylor Swift,06 September 2015,Houston,United States,Minute Maid Park,Vance Joy Shawn Mendes,5202196,The 1989 World Tour,40122,40122,TS Kaggle,TRUE
+Taylor Swift,09 September 2015,Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The 1989 World Tour,45126,45126,TS Kaggle,TRUE
+Taylor Swift,11 September 2015,Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The 1989 World Tour,45126,45126,TS Kaggle,TRUE
+Taylor Swift,12 September 2015,Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The 1989 World Tour,45126,45126,TS Kaggle,TRUE
+Taylor Swift,13 September 2015,Indianapolis,United States,Bankers Life Fieldhouse,Vance Joy,1550268,The 1989 World Tour,14010,14010,TS Kaggle,TRUE
+Taylor Swift,17 September 2015,Columbus,United States,Nationwide Arena,Vance Joy,3369693,The 1989 World Tour,29936,29936,TS Kaggle,TRUE
+Taylor Swift,18 September 2015,Columbus,United States,Nationwide Arena,Vance Joy,3369693,The 1989 World Tour,29936,29936,TS Kaggle,TRUE
+Taylor Swift,21 September 2015,Kansas City,United States,Sprint Center,Vance Joy,2967558,The 1989 World Tour,27857,27857,TS Kaggle,TRUE
+Taylor Swift,22 September 2015,Kansas City,United States,Sprint Center,Vance Joy,2967558,The 1989 World Tour,27857,27857,TS Kaggle,TRUE
+Taylor Swift,25 September 2015,Nashville,United States,Bridgestone Arena,Vance Joy Haim,3354844,The 1989 World Tour,28917,28917,TS Kaggle,TRUE
+Taylor Swift,26 September 2015,Nashville,United States,Bridgestone Arena,Vance Joy Haim,3354844,The 1989 World Tour,28917,28917,TS Kaggle,TRUE
+Taylor Swift,28 September 2015,St. Louis,United States,Scottrade Center,Vance Joy Haim,3452940,The 1989 World Tour,29688,29688,TS Kaggle,TRUE
+Taylor Swift,29 September 2015,St. Louis,United States,Scottrade Center,Vance Joy Haim,3452940,The 1989 World Tour,29688,29688,TS Kaggle,TRUE
+Taylor Swift,02 October 2015,Toronto,Canada,Rogers Centre,Vance Joy Shawn Mendes,8670990,The 1989 World Tour,99283,99283,TS Kaggle,TRUE
+Taylor Swift,03 October 2015,Toronto,Canada,Rogers Centre,Vance Joy Shawn Mendes,8670990,The 1989 World Tour,99283,99283,TS Kaggle,TRUE
+Taylor Swift,08 October 2015,Des Moines,United States,Wells Fargo Arena,Vance Joy,1566321,The 1989 World Tour,13969,13969,TS Kaggle,TRUE
+Taylor Swift,09 October 2015,Omaha,United States,CenturyLink Center Omaha,Vance Joy,3121421,The 1989 World Tour,29622,29622,TS Kaggle,TRUE
+Taylor Swift,10 October 2015,Omaha,United States,CenturyLink Center Omaha,Vance Joy,3121421,The 1989 World Tour,29622,29622,TS Kaggle,TRUE
+Taylor Swift,12 October 2015,Fargo,United States,Fargodome,Vance Joy,2219188,The 1989 World Tour,21067,21067,TS Kaggle,TRUE
+Taylor Swift,17 October 2015,Arlington,United States,AT&T Stadium,Vance Joy Shawn Mendes,7396733,The 1989 World Tour,62630,62630,TS Kaggle,TRUE
+Taylor Swift,20 October 2015,Lexington,United States,Rupp Arena,Vance Joy,1870471,The 1989 World Tour,17084,17084,TS Kaggle,TRUE
+Taylor Swift,21 October 2015,Greensboro,United States,Greensboro Coliseum,Vance Joy,1662171,The 1989 World Tour,15079,15079,TS Kaggle,TRUE
+Taylor Swift,24 October 2015,Atlanta,United States,Georgia Dome,Vance Joy Shawn Mendes,6034846,The 1989 World Tour,56046,56046,TS Kaggle,TRUE
+Taylor Swift,27 October 2015,Miami,United States,American Airlines Arena,Vance Joy,1527919,The 1989 World Tour,14044,14044,TS Kaggle,TRUE
+Taylor Swift,31 October 2015,Tampa,United States,Raymond James Stadium,Vance Joy Shawn Mendes,6202515,The 1989 World Tour,56987,56987,TS Kaggle,TRUE
+Taylor Swift,07 November 2015,Singapore,Singapore,Singapore Indoor Stadium,None,3217569,The 1989 World Tour,17726,17726,TS Kaggle,TRUE
+Taylor Swift,08 November 2015,Singapore,Singapore,Singapore Indoor Stadium,None,3217569,The 1989 World Tour,17726,17726,TS Kaggle,TRUE
+Taylor Swift,10 November 2015,Shanghai,China,Mercedes-Benz Arena,None,5917348,The 1989 World Tour,37758,37758,TS Kaggle,TRUE
+Taylor Swift,11 November 2015,Shanghai,China,Mercedes-Benz Arena,None,5917348,The 1989 World Tour,37758,37758,TS Kaggle,TRUE
+Taylor Swift,12 November 2015,Shanghai,China,Mercedes-Benz Arena,None,5917348,The 1989 World Tour,37758,37758,TS Kaggle,TRUE
+Taylor Swift,28 November 2015,Sydney,Australia,ANZ Stadium,Vance Joy,6571683,The 1989 World Tour,75980,75980,TS Kaggle,TRUE
+Taylor Swift,05 December 2015,Brisbane,Australia,Suncorp Stadium,Vance Joy,4759471,The 1989 World Tour,46881,46881,TS Kaggle,TRUE
+Taylor Swift,07 December 2015,Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499,The 1989 World Tour,20090,20090,TS Kaggle,TRUE
+Taylor Swift,08 December 2015,Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499,The 1989 World Tour,20090,20090,TS Kaggle,TRUE
+Taylor Swift,10 December 2015,Melbourne,Australia,AAMI Park,Vance Joy,10421553,The 1989 World Tour,98136,98136,TS Kaggle,TRUE
+Taylor Swift,11 December 2015,Melbourne,Australia,AAMI Park,Vance Joy,10421553,The 1989 World Tour,98136,98136,TS Kaggle,TRUE
+Taylor Swift,12 December 2015,Melbourne,Australia,AAMI Park,Vance Joy,10421553,The 1989 World Tour,98136,98136,TS Kaggle,TRUE
+Taylor Swift,08 May 2018,Glendale,United States,University of Phoenix Stadium,Camila Cabello Charli XCX,7214478,Reputation Stadium Tour,59157,59157,TS Kaggle,TRUE
+Taylor Swift,11 May 2018,Santa Clara,United States,Levi's Stadium,Camila Cabello Charli XCX,14006963,Reputation Stadium Tour,107550,107550,TS Kaggle,TRUE
+Taylor Swift,12 May 2018,Santa Clara,United States,Levi's Stadium,Camila Cabello Charli XCX,14006963,Reputation Stadium Tour,107550,107550,TS Kaggle,TRUE
+Taylor Swift,18 May 2018,Pasadena,United States,Rose Bowl,Camila Cabello Charli XCX,16251980,Reputation Stadium Tour,118084,118084,TS Kaggle,TRUE
+Taylor Swift,19 May 2018,Pasadena,United States,Rose Bowl,Camila Cabello Charli XCX,16251980,Reputation Stadium Tour,118084,118084,TS Kaggle,TRUE
+Taylor Swift,22 May 2018,Seattle,United States,CenturyLink Field,Charli XCX,8672219,Reputation Stadium Tour,56021,56021,TS Kaggle,TRUE
+Taylor Swift,25 May 2018,Denver,United States,Sports Authority Field at Mile High,Camila Cabello Charli XCX,7926366,Reputation Stadium Tour,57140,57140,TS Kaggle,TRUE
+Taylor Swift,01 June 2018,Chicago,United States,Soldier Field,Camila Cabello Charli XCX,14576697,Reputation Stadium Tour,105208,105208,TS Kaggle,TRUE
+Taylor Swift,02 June 2018,Chicago,United States,Soldier Field,Camila Cabello Charli XCX,14576697,Reputation Stadium Tour,105208,105208,TS Kaggle,TRUE
+Taylor Swift,08 June 2018,Manchester,England,Etihad Stadium,Camila Cabello Charli XCX,6169724,Reputation Stadium Tour,77258,77258,TS Kaggle,TRUE
+Taylor Swift,09 June 2018,Manchester,England,Etihad Stadium,Camila Cabello Charli XCX,6169724,Reputation Stadium Tour,77258,77258,TS Kaggle,TRUE
+Taylor Swift,15 June 2015,Dublin,Ireland,Croke Park,Camila Cabello Charli XCX,8567769,Reputation Stadium Tour,133034,133034,TS Kaggle,TRUE
+Taylor Swift,16 June 2015,Dublin,Ireland,Croke Park,Camila Cabello Charli XCX,8567769,Reputation Stadium Tour,133034,133034,TS Kaggle,TRUE
+Taylor Swift,22 June 2015,London,England,Wembley Stadium,Camila Cabello Charli XCX,12214933,Reputation Stadium Tour,143427,143427,TS Kaggle,TRUE
+Taylor Swift,23 June 2015,London,England,Wembley Stadium,Camila Cabello Charli XCX,12214933,Reputation Stadium Tour,143427,143427,TS Kaggle,TRUE
+Taylor Swift,30 June 2015,Louisville,United States,Cardinal Stadium,Camila Cabello Charli XCX,4928219,Reputation Stadium Tour,52138,52138,TS Kaggle,TRUE
+Taylor Swift,07 July 2018,Columbus,United States,Ohio Stadium,Camila Cabello Charli XCX,6606529,Reputation Stadium Tour,62897,62897,TS Kaggle,TRUE
+Taylor Swift,10 July 2018,Landover,United States,FedExField,Camila Cabello Charli XCX,11396004,Reputation Stadium Tour,95672,95672,TS Kaggle,TRUE
+Taylor Swift,11 July 2018,Landover,United States,FedExField,Camila Cabello Charli XCX,11396004,Reputation Stadium Tour,95672,95672,TS Kaggle,TRUE
+Taylor Swift,13 July 2018,Philadelphia,United States,Lincoln Financial Field,Camila Cabello Charli XCX,11951047,Reputation Stadium Tour,107378,107378,TS Kaggle,TRUE
+Taylor Swift,14 July 2018,Philadelphia,United States,Lincoln Financial Field,Camila Cabello Charli XCX,11951047,Reputation Stadium Tour,107378,107378,TS Kaggle,TRUE
+Taylor Swift,17 July 2018,Cleveland,United States,FirstEnergy Stadium,Camila Cabello Charli XCX,5148757,Reputation Stadium Tour,51323,51323,TS Kaggle,TRUE
+Taylor Swift,20 July 2018,East Rutherford,United States,MetLife Stadium,Camila Cabello Charli XCX,22031386,Reputation Stadium Tour,165654,165654,TS Kaggle,TRUE
+Taylor Swift,21 July 2018,East Rutherford,United States,MetLife Stadium,Camila Cabello Charli XCX,22031386,Reputation Stadium Tour,165654,165654,TS Kaggle,TRUE
+Taylor Swift,22 July 2018,East Rutherford,United States,MetLife Stadium,Camila Cabello Charli XCX,22031386,Reputation Stadium Tour,165654,165654,TS Kaggle,TRUE
+Taylor Swift,26 July 2018,Foxborough,United States,Gillette Stadium,Camila Cabello Charli XCX,21779846,Reputation Stadium Tour,174764,174764,TS Kaggle,TRUE
+Taylor Swift,27 July 2018,Foxborough,United States,Gillette Stadium,Camila Cabello Charli XCX,21779846,Reputation Stadium Tour,174764,174764,TS Kaggle,TRUE
+Taylor Swift,28 July 2018,Foxborough,United States,Gillette Stadium,Camila Cabello Charli XCX,21779846,Reputation Stadium Tour,174764,174764,TS Kaggle,TRUE
+Taylor Swift,03 August 2018,Toronto,Canada,Rogers Centre,Camila Cabello Charli XCX,11177000,Reputation Stadium Tour,100310,100310,TS Kaggle,TRUE
+Taylor Swift,04 August 2018,Toronto,Canada,Rogers Centre,Camila Cabello Charli XCX,11177000,Reputation Stadium Tour,100310,100310,TS Kaggle,TRUE
+Taylor Swift,07 August 2018,Pittsburgh,United States,Heinz Field,Camila Cabello Charli XCX,6230876,Reputation Stadium Tour,56445,56445,TS Kaggle,TRUE
+Taylor Swift,10 August 2018,Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello Charli XCX,18089415,Reputation Stadium Tour,116746,116746,TS Kaggle,TRUE
+Taylor Swift,11 August 2018,Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello Charli XCX,18089415,Reputation Stadium Tour,116746,116746,TS Kaggle,TRUE
+Taylor Swift,14 August 2018,Tampa,United States,Raymond James Stadium,Camila Cabello Charli XCX,7244264,Reputation Stadium Tour,55909,55909,TS Kaggle,TRUE
+Taylor Swift,18 August 2018,Miami Gardens,United States,Hard Rock Stadium,Camila Cabello Charli XCX,7072164,Reputation Stadium Tour,47818,47818,TS Kaggle,TRUE
+Taylor Swift,25 August 2018,Nashville,United States,Nissan Stadium,Camila Cabello Charli XCX,9007179,Reputation Stadium Tour,56112,56112,TS Kaggle,TRUE
+Taylor Swift,28 August 2018,Detroit,United States,Ford Field,Camila Cabello Charli XCX,6597852,Reputation Stadium Tour,49464,49464,TS Kaggle,TRUE
+Taylor Swift,31 August 2018,Minneapolis,United States,U.S. Bank Stadium,Camila Cabello Charli XCX,10242024,Reputation Stadium Tour,98774,98774,TS Kaggle,TRUE
+Taylor Swift,01 September 2018,Minneapolis,United States,U.S. Bank Stadium,Camila Cabello Charli XCX,10242024,Reputation Stadium Tour,98774,98774,TS Kaggle,TRUE
+Taylor Swift,08 September 2018,Kansas City,United States,Arrowhead Stadium,Camila Cabello Charli XCX,6730138,Reputation Stadium Tour,58611,58611,TS Kaggle,TRUE
+Taylor Swift,15 September 2018,Indianapolis,United States,Lucas Oil Stadium,Camila Cabello Charli XCX,6531245,Reputation Stadium Tour,55729,55729,TS Kaggle,TRUE
+Taylor Swift,18 September 2018,St. Louis,United States,The Dome at America's Center,Camila Cabello Charli XCX,4884054,Reputation Stadium Tour,47831,47831,TS Kaggle,TRUE
+Taylor Swift,22 September 2018,New Orleans,United States,Mercedes-Benz Superdome,Camila Cabello Charli XCX,6491546,Reputation Stadium Tour,53172,53172,TS Kaggle,TRUE
+Taylor Swift,29 September 2018,Houston,United States,NRG Stadium,Camila Cabello Charli XCX,9350275,Reputation Stadium Tour,53800,53800,TS Kaggle,TRUE
+Taylor Swift,05 October 2018,Arlington,United States,AT&T Stadium,Camila Cabello Charli XCX,15006157,Reputation Stadium Tour,105002,105002,TS Kaggle,TRUE
+Taylor Swift,06 October 2018,Arlington,United States,AT&T Stadium,Camila Cabello Charli XCX,15006157,Reputation Stadium Tour,105002,105002,TS Kaggle,TRUE
+Taylor Swift,19 October 2018,Perth,Australia,Optus Stadium,Charli XCX Broods,4153658,Reputation Stadium Tour,50891,50891,TS Kaggle,TRUE
+Taylor Swift,26 October 2018,Melbourne,Australia,Marvel Stadium,Charli XCX Broods,6755570,Reputation Stadium Tour,63027,63027,TS Kaggle,TRUE
+Taylor Swift,02 November 2018,Sydney,Australia,ANZ Stadium,Charli XCX Broods,7686564,Reputation Stadium Tour,72805,72805,TS Kaggle,TRUE
+Taylor Swift,06 November 2018,Brisbane,Australia,The Gabba,Charli XCX Broods,4338127,Reputation Stadium Tour,43907,43907,TS Kaggle,TRUE
+Taylor Swift,09 November 2018,Auckland,New Zealand,Mount Smart Stadium,Charli XCX Broods,3617593,Reputation Stadium Tour,35749,35749,TS Kaggle,TRUE
+Taylor Swift,20 November 2018,Tokyo,Japan,Tokyo Dome,Charli XCX,14859847,Reputation Stadium Tour,100109,100109,TS Kaggle,TRUE
+Taylor Swift,21 November 2018,Tokyo,Japan,Tokyo Dome,Charli XCX,14859847,Reputation Stadium Tour,100109,100109,TS Kaggle,TRUE

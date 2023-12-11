@@ -1,0 +1,981 @@
+name,city,state,country,postalCode,address,timezone,upcomingEvents,accessibleSeatingDetail
+Arizona Financial Theatre,Phoenix,Arizona,United States Of America,85003,400 West Washington Street,America/Phoenix,57,yes
+Prudential Center,Newark,New Jersey,United States Of America,07102,25 Lafayette Street,America/New_York,85,yes
+SoFi Stadium,Inglewood,California,United States Of America,90301,1001 S. Stadium Dr,America/Los_Angeles,20,
+American Airlines Center,Dallas,Texas,United States Of America,75219,2500 Victory Avenue,America/Chicago,82,
+Barclays Center,Brooklyn,New York,United States Of America,11217,620 Atlantic Ave,America/New_York,116,yes
+The Chicago Theatre,Chicago,Illinois,United States Of America,60601,175 N State St,America/Chicago,78,yes
+Climate Pledge Arena,Seattle,Washington,United States Of America,98109,334 1st Ave N,America/Los_Angeles,78,yes
+Frost Bank Center,San Antonio,Texas,United States Of America,78219,1 Frost Bank Center Drive,America/Chicago,91,yes
+MGM Music Hall at Fenway,Boston,Massachusetts,United States Of America,02215,2 Lansdowne St.,America/New_York,55,
+Hard Rock Live,Hollywood,Florida,United States Of America,33314,1 Seminole Way,America/New_York,59,yes
+Dodger Stadium,Los Angeles,California,United States Of America,90012,1000 Elysian Park Ave,America/Los_Angeles,84,
+Footprint Center,Phoenix,Arizona,United States Of America,85004,201 East Jefferson Street,America/Phoenix,68,yes
+Gainbridge Fieldhouse,Indianapolis,Indiana,United States Of America,46204,125 S. Pennsylvania St.,America/Indianapolis,92,yes
+Honda Center,Anaheim,California,United States Of America,92806,2695 E. Katella,America/Los_Angeles,68,yes
+Moody Center ATX,Austin,Texas,United States Of America,78712,2001 Robert Dedman Drive,America/Chicago,84,
+Lincoln Financial Field,Philadelphia,Pennsylvania,United States Of America,19148,One Lincoln Financial Way,America/New_York,12,yes
+Crypto.com Arena,Los Angeles,California,United States Of America,90015,1111 S. Figueroa St,America/Los_Angeles,123,
+Ameris Bank Amphitheatre,Alpharetta,Georgia,United States Of America,30009,2200 Encore Parkway,America/New_York,22,yes
+Allstate Arena,Rosemont,Illinois,United States Of America,60018,6920 North Mannheim Road,America/Chicago,81,
+Coastal Credit Union Music Park at Walnut Creek,Raleigh,North Carolina,United States Of America,27610,3801 Rock Quarry Road,America/New_York,15,yes
+House of Blues Myrtle Beach,North Myrtle Beach,South Carolina,United States Of America,29582,4640 Highway 17 South,America/New_York,35,yes
+Beacon Theatre,New York,New York,United States Of America,10023,2124 Broadway @ 74th St,America/New_York,74,yes
+Golden 1 Center,Sacramento,California,United States Of America,95814,500 David J Stern Walk,America/Los_Angeles,78,yes
+The Masonic,San Francisco,California,United States Of America,94108,1111 California St,America/Los_Angeles,35,
+Mercedes-Benz Stadium,Atlanta,Georgia,United States Of America,30313,1 AMB Drive NW,America/New_York,9,
+Kaseya Center,Miami,Florida,United States Of America,33132,601 Biscayne Blvd,America/New_York,59,yes
+Raymond James Stadium,Tampa,Florida,United States Of America,33607,4201 North Dale Mabry Highway,America/New_York,12,yes
+Veterans United Home Loans Amphitheater at Virginia Beach,Virginia Beach,Virginia,United States Of America,23456,3550 Cellar Door Way,America/New_York,15,yes
+Enterprise Center,St Louis,Missouri,United States Of America,63103,1401 Clark Ave,America/Chicago,64,yes
+Fiserv Forum,Milwaukee,Wisconsin,United States Of America,53203,1111 Vel R. Phillips Ave,America/Chicago,122,yes
+CFG Bank Arena,Baltimore,Maryland,United States Of America,21201,201 W Baltimore St,America/New_York,62,yes
+Xcel Energy Center,Saint Paul,Minnesota,United States Of America,55102,199 Kellogg Blvd,America/Chicago,75,yes
+Mohegan Sun Arena,Uncasville,Connecticut,United States Of America,06382,1 Mohegan Sun Blvd,America/New_York,33,yes
+Spectrum Center ,Charlotte,North Carolina,United States Of America,28202,333 East Trade Street,America/New_York,67,yes
+The Met Philadelphia,Philadelphia,Pennsylvania,United States Of America,19130,858 N Broad St,America/New_York,36,yes
+Paramount Theatre,Seattle,Washington,United States Of America,98101,911 Pine St,America/Los_Angeles,102,
+Levi's® Stadium,Santa Clara,California,United States Of America,95054,4900 Marie P. DeBartolo Way,America/Los_Angeles,7,yes
+DPAC - Durham Performing Arts Center,Durham,North Carolina,United States Of America,27701,123 Vivian St,America/New_York,134,
+MVP Arena,Albany,New York,United States Of America,12207,51 South Pearl Street,America/New_York,56,yes
+Caesars Superdome ,New Orleans,Louisiana,United States Of America,70112,1500 Poydras St,America/Chicago,11,yes
+CHI Health Center Omaha,Omaha,Nebraska,United States Of America,68102,455 N. 10th Street,America/Chicago,60,yes
+Dickies Arena,Fort Worth,Texas,United States Of America,76107,1911 Montgomery Street,America/Chicago,100,yes
+Nationwide Arena,Columbus,Ohio,United States Of America,43215,200 West Nationwide Blvd.,America/New_York,97,yes
+Soldier Field,Chicago,Illinois,United States Of America,60605,1410 S. Museum Campus Drive,America/Chicago,23,yes
+Dolby Live,Las Vegas,Nevada,United States Of America,89109,3770 S. Las Vegas Blvd,America/Los_Angeles,29,yes
+Allegiant Stadium,Las Vegas ,Nevada,United States Of America,89118,3333 Al Davis Way,America/Los_Angeles,31,yes
+Gillette Stadium,Foxborough,Massachusetts,United States Of America,02035,1 Patriot Place,America/New_York,15,yes
+Paycom Center,Oklahoma City,Oklahoma,United States Of America,73102,100 West Reno,America/Chicago,77,yes
+Food City Center,Knoxville,Tennessee,United States Of America,37996,1600 Phillip Fulmer Way,America/New_York,61,yes
+Legacy Arena at The BJCC ,Birmingham,Alabama,United States Of America,35203,1001 19th Street N,America/Chicago,50,yes
+Boch Center Wang Theatre,Boston,Massachusetts,United States Of America,02116,270 Tremont Street,America/New_York,61,
+Ruoff Music Center,Noblesville,Indiana,United States Of America,46060,12880 E. 146th St.,America/Indianapolis,15,yes
+Empower Field At Mile High,Denver,Colorado,United States Of America,80204,1701 Bryant St.,America/Denver,14,yes
+KeyBank Center,Buffalo,New York,United States Of America,14203,One Seymour H. Knox III Plaza,America/New_York,71,yes
+SAP Center at San Jose,San Jose,California,United States Of America,95113,525 W Santa Clara,America/Los_Angeles,57,yes
+USANA Amphitheatre,West Valley City,Utah,United States Of America,84118,5150 South 6055 West,America/Denver,15,
+Blossom Music Center,Cuyahoga Falls,Ohio,United States Of America,44223,1145 W Steels Corners Rd.,America/New_York,16,yes
+Riverbend Music Center,Cincinnati,Ohio,United States Of America,45230,6295 Kellogg Avenue,America/New_York,9,yes
+MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,Tampa,Florida,United States Of America,33610,4802 US Highway 301 North,America/New_York,15,yes
+The Anthem,Washington,District of Columbia,United States Of America,20024,901 Wharf St SW,America/New_York,24,
+UBS Arena,Belmont Park - Long Island,New York,United States Of America,11003,2400 Hempstead Turnpike,America/New_York,68,yes
+U.S. Bank Stadium,Minneapolis,Minnesota,United States Of America,55415,401 Chicago Avenue,America/Chicago,22,yes
+GEHA Field at Arrowhead Stadium,Kansas City,Missouri,United States Of America,64129,1 Arrowhead Dr,America/Chicago,11,
+Lumen Field,Seattle,Washington,United States Of America,98134,800 Occidental Ave S,America/Los_Angeles,8,yes
+Acrisure Arena at Greater Palm Springs,Palm Desert,California,United States Of America,92211,75702 Varner Rd.,America/Los_Angeles,49,
+Ford Field,Detroit,Michigan,United States Of America,48226,2000 Brush St.,America/New_York,11,yes
+Smoothie King Center,New Orleans,Louisiana,United States Of America,70113,1501 Dave Dixon Drive,America/Chicago,52,yes
+Bon Secours Wellness Arena ,Greenville,South Carolina,United States Of America,29601,650 North Academy Street,America/New_York,67,yes
+Warner Theatre,Washington,District of Columbia,United States Of America,20004,513 13th St NW,America/New_York,70,yes
+Petco Park,San Diego,California,United States Of America,92101,100 Park Blvd,America/Los_Angeles,517,yes
+Bank of America Stadium,Charlotte,North Carolina,United States Of America,28202,800 South Mint Street,America/New_York,12,yes
+Heritage Bank Center,Cincinnati,Ohio,United States Of America,45202,100 Broadway,America/New_York,62,yes
+T-Mobile Center,Kansas City,Missouri,United States Of America,64106,1407 Grand Blvd,America/Chicago,34,yes
+Rupp Arena,Lexington,Kentucky,United States Of America,40507,432 W Vine St,America/New_York,69,yes
+Lucas Oil Stadium,Indianapolis,Indiana,United States Of America,46225,500 S. Capitol Ave.,America/New_York,26,yes
+The Colosseum at Caesars Palace,Las Vegas,Nevada,United States Of America,89109,3570 S Las Vegas Blvd,America/Los_Angeles,88,yes
+"Hollywood Casino Amphitheatre - St. Louis, MO",Maryland Heights,Missouri,United States Of America,63043,14141 Riverport Dr,America/Chicago,15,yes
+Isleta Amphitheater,Albuquerque,New Mexico,United States Of America,87105,5601 University Blvd. SE,America/Denver,4,yes
+Van Andel Arena,Grand Rapids,Michigan,United States Of America,49503,130 Fulton West,America/New_York,73,yes
+The Pavilion at Star Lake,Burgettstown,Pennsylvania,United States Of America,15021,665 Route 18,America/New_York,11,yes
+Greensboro Coliseum Complex,Greensboro,North Carolina,United States Of America,27403,1921 West Gate City Blvd.,America/New_York,73,yes
+The Van Buren,Phoenix,Arizona,United States Of America,85003,Van Buren,America/Phoenix,66,yes
+Tabernacle,Atlanta,Georgia,United States Of America,30303,152 Luckie Street,America/New_York,35,yes
+Chaifetz Arena,St. Louis,Missouri,United States Of America,63103,1 South Compton Ave.,America/Chicago,29,yes
+BOK Center,Tulsa,Oklahoma,United States Of America,74103,200 S. Denver ,America/Chicago,58,yes
+Gorge Amphitheatre,George,Washington,United States Of America,98848,754 Silica Road NW,America/Los_Angeles,10,yes
+Hard Rock Stadium,Miami,Florida,United States Of America,33056,347 Don Shula Drive,America/New_York,36,yes
+Pine Knob Music Theatre,Clarkston,Michigan,United States Of America,48348,33 Bob Seger Drive,America/New_York,15,yes
+T-Mobile Park,Seattle,Washington,United States Of America,981341216,1250 1st Ave S.,America/Los_Angeles,167,
+The Theater at MSG,New York,New York,United States Of America,10001,7th Ave & 32nd Street,America/New_York,46,yes
+Petersen Events Center,Pittsburgh,Pennsylvania,United States Of America,15261,3719 Terrace Street,America/New_York,18,yes
+Paramount Theatre,Denver,Colorado,United States Of America,80202,1621 Glenarm,America/Denver,119,yes
+Shea's Performing Arts Center,Buffalo,New York,United States Of America,14202,646 Main Street,America/New_York,85,
+iTHINK Financial Amphitheatre ,West Palm Beach,Florida,United States Of America,33411,601-7 Sansburys Way,America/New_York,14,yes
+713 Music Hall,Houston,Texas,United States Of America,77201,401 Franklin Street,America/Chicago,19,yes
+FedExForum,Memphis,Tennessee,United States Of America,38103,191 Beale Street,America/Chicago,61,yes
+Yankee Stadium,Bronx,New York,United States Of America,10451,1 East 161st Street,America/New_York,997,
+San Jose Civic,San Jose,California,United States Of America,95113,135 San Carlos St.,America/Los_Angeles,40,yes
+YouTube Theater,Inglewood,California,United States Of America,90301,1011 S. Stadium Dr,America/Los_Angeles,18,
+The Fillmore Philadelphia,Philadelphia,Pennsylvania,United States Of America,19123,29 E Allen Street,America/New_York,49,
+Credit One Stadium ,Charleston,South Carolina,United States Of America,29492,161 Seven Farms Drive,America/New_York,21,yes
+GIANT Center,Hershey,Pennsylvania,United States Of America,17033,550 West Hersheypark Drive,America/New_York,52,yes
+Acrisure Stadium,Pittsburgh,Pennsylvania,United States Of America,15212,100 Art Rooney Avenue,America/New_York,2,
+Tacoma Dome,Tacoma,Washington,United States Of America,98421,2727 East D St,America/Los_Angeles,21,yes
+Hersheypark Stadium,Hershey,Pennsylvania,United States Of America,17033,100 W Hersheypark Dr,America/New_York,9,yes
+Old National Centre,Indianapolis,Indiana,United States Of America,46204,502 N. New Jersey,America/New_York,105,yes
+Hollywood Palladium,Hollywood,California,United States Of America,90028,6215 Sunset Blvd,America/Los_Angeles,32,yes
+Hollywood Pantages Theatre,Los Angeles,California,United States Of America,90028,6233 Hollywood Blvd.,America/Los_Angeles,121,yes
+The Venue at Thunder Valley Casino Resort,Lincoln,California,United States Of America,95648,1200 Athens Avenue,America/Los_Angeles,37,
+San Diego Civic Theatre,San Diego,California,United States Of America,92101,3rd & B St.,America/Los_Angeles,86,yes
+Rosemont Theatre,Rosemont,Illinois,United States Of America,60018,5400 North River Road,America/Chicago,44,yes
+EverBank Stadium ,Jacksonville,Florida,United States Of America,32202,1 EverBank Stadium Drive,America/New_York,12,yes
+Highmark Stadium,Orchard Park,New York,United States Of America,14127,1 Bills Drive,America/New_York,5,yes
+Hertz Arena,Estero,Florida,United States Of America,33928,11000 Everblades Parkway,America/New_York,54,yes
+Amica Mutual Pavilion,Providence,Rhode Island,United States Of America,02903,1 Lasalle SQ,America/New_York,73,yes
+James M. Nederlander Theatre,Chicago,Illinois,United States Of America,60601,24 W Randolph,America/Chicago,180,yes
+Camping World Stadium,Orlando,Florida,United States Of America,32805,1 Citrus Bowl Place,America/New_York,9,yes
+Dos Equis Pavilion,Dallas,Texas,United States Of America,75210,3839 S Fitzhugh,America/Chicago,14,yes
+Simmons Bank Arena,North Little Rock,Arkansas,United States Of America,72114,One Simmons Bank Arena Drive,America/Chicago,34,yes
+Desert Diamond Arena,Glendale,Arizona,United States Of America,85305,9400 West Maryland,America/Phoenix,17,yes
+RV Inn Style Resorts Amphitheater ,Ridgefield,Washington,United States Of America,98642,17200 NE Delfel Road,America/Los_Angeles,16,yes
+Hard Rock Live at Etess Arena,Atlantic City,New Jersey,United States Of America,08401,1000 Boardwalk,America/New_York,24,yes
+Darien Lake Amphitheater,Darien Center,New York,United States Of America,14040,9993 Alleghany Road,America/New_York,8,yes
+Paycor Stadium,Cincinnati,Ohio,United States Of America,45202,One Paycor Stadium,America/New_York,6,yes
+DeVos Performance Hall,Grand Rapids,Michigan,United States Of America,49503,303 Monroe NW,America/New_York,81,yes
+VyStar Veterans Memorial Arena,Jacksonville,Florida,United States Of America,32202,300 A. Philip Randolph Blvd,America/New_York,59,yes
+The Fillmore Detroit,Detroit,Michigan,United States Of America,48201,2115 Woodward (Next To the Fox),America/New_York,37,yes
+BankNH Pavilion,Gilford,New Hampshire,United States Of America,03249,72 Meadowbrook LN,America/New_York,16,yes
+Rose Bowl,Pasadena,California,United States Of America,91103,1001 Rose Bowl Drive,America/Los_Angeles,8,
+Angel Stadium of Anaheim,Anaheim,California,United States Of America,92806,2000 Gene Autry Way,America/Los_Angeles,96,yes
+Capital One City Parks Foundation SummerStage,New York,New York,United States Of America,10019,69th St At 5th Ave Entrance/Rumsey Field,America/New_York,2,yes
+Harrah's Cherokee Center - Asheville,Asheville,North Carolina,United States Of America,28801,87 Haywood Street,America/New_York,29,yes
+Toyota Arena,Ontario,California,United States Of America,91764,4000 E. Ontario Center Parkway,America/Los_Angeles,79,yes
+Colonial Life Arena,Columbia,South Carolina,United States Of America,29208,801 Lincoln St.,America/New_York,54,yes
+Alamodome,San Antonio,Texas,United States Of America,78203,100 Montana St,America/Chicago,15,yes
+ASU Gammage,Tempe,Arizona,United States Of America,85287,1200 South Forest Ave,America/Phoenix,89,yes
+AT&T Stadium,Arlington,Texas,United States Of America,76011,One AT&T Way,America/Chicago,23,yes
+Bakkt Theater at Planet Hollywood,Las Vegas,Nevada,United States Of America,89109,3667 S Las Vegas Blvd,America/Los_Angeles,69,yes
+Broadview Stage at SPAC,Saratoga Springs,New York,United States Of America,12866,108 Avenue of the Pines,America/New_York,14,yes
+Fox Theatre Detroit,Detroit,Michigan,United States Of America,48201,2211 Woodward Ave,America/New_York,46,yes
+KFC Yum! Center,Louisville,Kentucky,United States Of America,40202,1 Arena Plaza,America/New_York,46,yes
+NRG Stadium,Houston,Texas,United States Of America,77054,One NRG Park,America/Chicago,40,
+The Pageant,St Louis,Missouri,United States Of America,63112,6161 Delmar,America/Chicago,56,yes
+The Wilbur,Boston,Massachusetts,United States Of America,02116,246 Tremont St.,America/New_York,106,yes
+9:30 CLUB,Washington,District of Columbia,United States Of America,20001,815 V Street N.W. ,America/New_York,86,
+Save Mart Center,Fresno,California,United States Of America,93710,2650 East Shaw Ave.,America/Los_Angeles,32,yes
+The Fillmore Silver Spring,Silver Spring,Maryland,United States Of America,20910,8656 Colesville Road,America/New_York,55,
+Armory, Minneapolis,Minnesota,United States Of America,55415,500 South 6th St,America/Chicago,24,
+The Wiltern,Los Angeles,California,United States Of America,90010,3790 Wilshire Blvd.,America/Los_Angeles,48,yes
+Byline Bank Aragon Ballroom,Chicago,Illinois,United States Of America,60640,1106 W Lawrence,America/Chicago,13,
+House of Blues Dallas ,Dallas,Texas,United States Of America,75202,2200 N Lamar St,America/Chicago,41,yes
+Cleveland Browns Stadium,Cleveland,Ohio,United States Of America,44114,100 Alfred Lerner Way,America/New_York,8,yes
+Idaho Central Arena,Boise,Idaho,United States Of America,83702,233 S Capitol Blvd,America/Denver,28,
+Orpheum Theatre,Minneapolis,Minnesota,United States Of America,55403,910 Hennepin Avenue,America/Chicago,85,yes
+Minute Maid Park,Houston,Texas,United States Of America,77002,501 Crawford,America/Chicago,84,
+Jiffy Lube Live,Bristow,Virginia,United States Of America,20136,7800 Cellar Door Drive,America/New_York,12,yes
+The Palace Theatre Albany,Albany,New York,United States Of America,12207,19 Clinton Ave,America/New_York,16,
+Terrace Theater - Long Beach Convention and Entertainment Center,Long Beach,California,United States Of America,90802,300 E Ocean BL,America/Los_Angeles,25,
+Ohio Stadium,Columbus,Ohio,United States Of America,43210,411 Woody Hayes Dr.,America/New_York,2,yes
+New Amsterdam Theatre,New York,New York,United States Of America,10036,214 West 42nd Street,America/New_York,220,yes
+Gas South Arena,Duluth,Georgia,United States Of America,30097,6400 Sugarloaf Parkway,America/New_York,69,yes
+Gershwin Theatre,New York,New York,United States Of America,10019,222 West 51st Street,America/New_York,311,
+The Rooftop at Pier 17,New York,New York,United States Of America,10038,89 South Street,America/New_York,5,yes
+Allen County War Memorial Coliseum,Fort Wayne,Indiana,United States Of America,46805,4000 Parnell Ave.,America/Indianapolis,67,yes
+Chase Field,Phoenix,Arizona,United States Of America,85004,401 E. Jefferson,America/Phoenix,6,yes
+Citi Field,Queens,New York,United States Of America,11368,41 Seaver Way,America/New_York,86,
+PNC Bank Arts Center,Holmdel,New Jersey,United States Of America,07733,"Exit 116, Garden State Pkwy",America/New_York,11,yes
+High Roller Wheel at The LINQ Promenade,Las Vegas,Nevada,United States Of America,89109,3545 Las Vegas Blvd S,America/Los_Angeles,414,
+Toyota Oakdale Theatre,Wallingford,Connecticut,United States Of America,06492,95 South Turnpike Road,America/New_York,30,yes
+The Louisville Palace,Louisville,Kentucky,United States Of America,40202,625 S. 4th Street,America/New_York,26,yes
+Lower.com Field,Columbus,Ohio,United States Of America,43215,96 Columbus Crew Way,America/New_York,2,
+Martin Marietta Center for the Performing Arts (fka Duke Energy),Raleigh,North Carolina,United States Of America,27601,2 E. South St.,America/New_York,229,yes
+The Wellmont Theater,Montclair,New Jersey,United States Of America,07042,5 Seymour Street,America/New_York,27,
+EagleBank Arena,Fairfax,Virginia,United States Of America,22030,4500 Patriot Circle,America/New_York,60,yes
+Lawrence Joel Veterans Memorial Coliseum,Winston Salem,North Carolina,United States Of America,27105,2825 University Parkway,America/New_York,33,yes
+The Paramount,Huntington,New York,United States Of America,11743,370 New York Ave,America/New_York,73,yes
+Citizens Bank Park,Philadelphia,Pennsylvania,United States Of America,19148,One Citizens Bank Way,America/Detroit,85,
+Town Hall,New York,New York,United States Of America,10036,123 West 43rd Street,America/New_York,64,yes
+Music Hall At Fair Park,Dallas,Texas,United States Of America,75210,909 1st Ave,America/Chicago,84,yes
+Toyota Amphitheatre,Wheatland,California,United States Of America,95692,2677 Forty Mile Road,America/Los_Angeles,6,yes
+BMO Stadium,Los Angeles,California,United States Of America,90037,3939 S. Figueroa St,America/Los_Angeles,5,yes
+Propst Arena at the Von Braun Center,Huntsville,Alabama,United States Of America,35801,700 Monroe Street SW,America/Chicago,50,yes
+Talking Stick Resort Amphitheatre,Phoenix,Arizona,United States Of America,85035,2121 N 83rd Ave,America/Phoenix,12,yes
+Bryce Jordan Center,University Park,Pennsylvania,United States Of America,16802,127 Bryce Jordan Center,America/New_York,41,yes
+Moore Theatre,Seattle,Washington,United States Of America,98101,1932 2nd Ave,America/Los_Angeles,63,
+House of Blues Anaheim,Anaheim,California,United States Of America,92802,"400 W Disney Way, #337",America/Los_Angeles,43,
+Ovens Auditorium,Charlotte,North Carolina,United States Of America,28205,2900 E Independence Boulevard,America/New_York,48,yes
+Atlanta Symphony Hall,Atlanta,Georgia,United States Of America,30309,1280 Peachtree St,America/New_York,99,yes
+Ace of Spades,Sacramento,California,United States Of America,95811,1417 R St.,America/Los_Angeles,52,yes
+Neal S Blaisdell Arena,Honolulu,Hawaii,United States Of America,96814,777 Ward Avenue,Pacific/Honolulu,12,yes
+Los Angeles Memorial Coliseum,Los Angeles,California,United States Of America,90037,3911 S. Figueroa St,America/Los_Angeles,38,
+Enmarket Arena,Savannah,Georgia,United States Of America,31401,620 Stiles Avenue,America/New_York,59,
+The Cynthia Woods Mitchell Pavilion presented by Huntsman,Woodlands,Texas,United States Of America,77380,2005 Lake Robbins Dr,America/Chicago,12,yes
+Encore Theater at Wynn Las Vegas,Las Vegas,Nevada,United States Of America,89109,3131 Las Vegas Boulevard South,America/Los_Angeles,72,yes
+Citizens House of Blues Boston,Boston,Massachusetts,United States Of America,02215,15 Lansdowne St.,America/New_York,33,yes
+Steven Tanger Center for the Performing Arts,Greensboro,North Carolina,United States Of America,27401,300 North Elm Street,America/New_York,147,
+Saint Paul RiverCentre,St Paul,Minnesota,United States Of America,55102,175 West Kellogg Blvd,America/Chicago,4,yes
+M&T Bank Stadium,Baltimore,Maryland,United States Of America,21230,1101 Russell St,America/New_York,3,yes
+The Fillmore Charlotte,Charlotte,North Carolina,United States Of America,28206,820 Hamilton Street,America/New_York,44,yes
+Cadillac Palace,Chicago,Illinois,United States Of America,60602,151 W Randolph Street,America/Chicago,75,yes
+Soldiers and Sailors Memorial Auditorium,Chattanooga,Tennessee,United States Of America,37402,399 McCallie Avenue,America/New_York,46,
+Aztec Theatre ,San Antonio,Texas,United States Of America,78205,104 North St. Mary's Street,America/Chicago,26,
+Hayden Homes Amphitheater,Bend,Oregon,United States Of America,97702,344 SW Shevlin-Hixon Drive,America/Los_Angeles,10,yes
+PNC Music Pavilion,Charlotte,North Carolina,United States Of America,28262,707 Pavilion Boulevard,America/New_York,18,yes
+The Orpheum Theatre Memphis,Memphis,Tennessee,United States Of America,38103,203 S. Main St.,America/Chicago,81,yes
+Xfinity Center,Mansfield,Massachusetts,United States Of America,02048,885 S Main St,America/New_York,12,
+The Theater at MGM National Harbor,National Harbor ,Maryland,United States Of America,20745,101 MGM National Ave,America/New_York,22,yes
+Northwell Health at Jones Beach Theater,Wantagh,New York,United States Of America,11793,895 Bay Parkway,America/New_York,10,yes
+Denny Sanford PREMIER Center,Sioux Falls,South Dakota,United States Of America,57104,1201 North West Avenue,America/Chicago,35,yes
+Target Center,Minneapolis,Minnesota,United States Of America,55403,600 1st Avenue North,America/Chicago,7,yes
+Minskoff Theatre,New York,New York,United States Of America,10036,200 West 45th Street,America/New_York,223,
+Hippodrome at France-Merrick Performing Arts Center,Baltimore,Maryland,United States Of America,21201,12 N Eutaw St,America/New_York,82,yes
+Total Mortgage Arena,Bridgeport,Connecticut,United States Of America,06604,600 Main Street,America/New_York,60,yes
+Beaver Stadium,University Park,Pennsylvania,United States Of America,16802,University Drive & Park Ave,America/New_York,1,yes
+American Family Insurance Amphitheater - Summerfest Grounds,Milwaukee,Wisconsin,United States Of America,53202,639 E Summerfest Place,America/Chicago,17,yes
+Mississippi Coast Coliseum,Biloxi,Mississippi,United States Of America,39531,2350 Beach Blvd,America/Chicago,58,yes
+Cobb Energy Performing Arts Centre,Atlanta,Georgia,United States Of America,30339,2800 Cobb Galleria Parkway,America/New_York,66,yes
+The Factory,St. Louis,Missouri,United States Of America,63141,17105 North Outer 40 Road,America/Chicago,34,
+Peoria Civic Center,Peoria,Illinois,United States Of America,61602,201 SW Jefferson St.,America/Chicago,89,yes
+Balboa Theatre,San Diego,California,United States Of America,92101,868 Fourth Avenue,America/Los_Angeles,66,yes
+Fox Theater - Oakland,Oakland,California,United States Of America,94612,1807 Telegraph Ave,America/Los_Angeles,35,yes
+H-E-B Center at Cedar Park,Cedar Park,Texas,United States Of America,78613,2100 Avenue of the Stars,America/Chicago,67,yes
+Raising Canes River Center Arena,Baton Rouge,Louisiana,United States Of America,70802,275 South River Road,America/Chicago,43,yes
+SNHU Arena,Manchester,New Hampshire,United States Of America,03101,555 Elm St,America/New_York,18,yes
+Covelli Centre,Youngstown,Ohio,United States Of America,44503,229 East Front Street,America/New_York,45,yes
+Oakland Arena,Oakland,California,United States Of America,94621,7000 Coliseum Way,America/Los_Angeles,20,yes
+The Pasadena Civic,Pasadena,California,United States Of America,91101,300 E Green St.,America/Los_Angeles,6,
+Rice-Eccles Stadium,Salt Lake City,Utah,United States Of America,84112,451 South 1400 East,America/Denver,5,
+Hobby Center,Houston,Texas,United States Of America,77002,800 Bagby,America/Chicago,62,
+Hackensack Meridian Health Theatre at the Count Basie Center ,Red Bank,New Jersey,United States Of America,07701,99 Monmouth St,America/New_York,102,yes
+The Salt Shed Indoors (Shed),Chicago,Illinois,United States Of America,60642,1357 N Elston Ave,America/Chicago,27,
+Chrysler Hall,Norfolk,Virginia,United States Of America,23514,201 Brambleton Ave,America/New_York,74,yes
+Cross Insurance Arena ,Portland,Maine,United States Of America,04101,1 Civic Center SQ,America/New_York,61,yes
+House of Blues Orlando,Orlando,Florida,United States Of America,32830,1490 East Lake Buena Vista Dr,America/New_York,39,yes
+F&M Bank Arena,Clarksville,Tennessee,United States Of America,37040,101 Main St.,America/Chicago,26,yes
+The Ritz,Raleigh,North Carolina,United States Of America,27609,2820 Industrial Drive,America/New_York,30,
+North Charleston Performing Arts Center,North Charleston,South Carolina,United States Of America,29418,5001 Coliseum Drive,America/New_York,64,yes
+Au-Rene Theater at the Broward Center,Ft Lauderdale,Florida,United States Of America,33312,201 SW 5th Avenue,America/New_York,110,yes
+Lunt-Fontanne Theatre,New York,New York,United States Of America,10036,205 West 46th Street,America/New_York,151,
+DAR Constitution Hall,Washington,District of Columbia,United States Of America,20006,18th & C Streets N.W.,America/New_York,23,yes
+XL CENTER,Hartford,Connecticut,United States Of America,06103,One Civic Center Plaza,America/New_York,58,yes
+Tennessee Theatre,Knoxville,Tennessee,United States Of America,37902,604 S. Gay St.,America/New_York,82,yes
+Neil Simon Theatre,New York,New York,United States Of America,10019,250 West 52nd Street,America/New_York,195,
+The Observatory,Santa Ana,California,United States Of America,92704,3503 S. Harbor Blvd.,America/Los_Angeles,56,
+Vibrant Arena at the Mark (formerly Taxslayer Center),Moline,Illinois,United States Of America,61265,1201 River Dr,America/Chicago,31,yes
+Globe Life Field,Arlington,Texas,United States Of America,76011,734 Stadium Drive,America/Chicago,96,
+Maverik Center,West Valley City,Utah,United States Of America,84119,3200 South Decker Lake Drive,America/Denver,55,
+The St. Augustine Amphitheatre,St Augustine,Florida,United States Of America,32084,1340C A1A South ,America/New_York,13,yes
+House of Blues Houston,Houston,Texas,United States Of America,77002,1204 Caroline Street,America/Chicago,57,yes
+Blue Cross Arena,Rochester,New York,United States Of America,14614,One War Memorial Square,America/New_York,47,yes
+Citizens Bank Opera House,Boston,Massachusetts,United States Of America,02111,539 Washington Street,America/New_York,97,yes
+Mohegan Sun Arena at Casey Plz,Wilkes-Barre,Pennsylvania,United States Of America,18702,255 Highland Park Boulevard,America/New_York,54,yes
+Huntington Center,Toledo,Ohio,United States Of America,43604,500 Jefferson Ave,America/New_York,32,
+Morrison Center for the Performing Arts,Boise,Idaho,United States Of America,83725,2201 W Cesar Chavez Lane,America/Denver,84,yes
+Scope Arena,Norfolk,Virginia,United States Of America,23510,201 E. Brambleton Ave,America/New_York,76,yes
+Agganis Arena,Boston,Massachusetts,United States Of America,02215,925 Commonwealth Ave,America/New_York,41,yes
+Hollywood Bowl,Hollywood,California,United States Of America,90068,2301 N Highland Ave,America/Los_Angeles,4,
+Stubb's Waller Creek Amphitheater,Austin ,Texas,United States Of America,78701,801 Red River,America/Chicago,19,
+The Dome at America's Center,St Louis,Missouri,United States Of America,63101,701 Convention Plaza,America/Chicago,9,yes
+Viejas Arena at Aztec Bowl San Diego State University,San Diego,California,United States Of America,92182,SDSU,America/Los_Angeles,27,yes
+Freedom Mortgage Pavilion ,Camden,New Jersey,United States Of America,08103,1 Harbour Blvd,America/New_York,10,yes
+Premier Theater at Foxwoods Resort Casino,Mashantucket,Connecticut,United States Of America,06355,39 Norwich Westerly Road,America/New_York,15,yes
+Brooklyn Bowl Nashville,Nashville,Tennessee,United States Of America,37201,925 3rd Ave N,America/Chicago,118,
+The Fillmore,San Francisco,California,United States Of America,94115,1805 Geary Boulevard,America/Los_Angeles,69,yes
+Hartford HealthCare Amphitheater,Bridgeport,Connecticut,United States Of America,06604,500 Broad Street,America/New_York,14,yes
+Alabama Theatre,Birmingham,Alabama,United States Of America,35203,1817 3rd Ave. North,America/Chicago,36,yes
+The Grounds,Mobile,Alabama,United States Of America,36608,1035 Cody Road,America/Chicago,1,
+Neptune Theatre,Seattle,Washington,United States Of America,98105,1303 NE 45th Street,America/Los_Angeles,83,
+JMA Wireless Dome ,Syracuse,New York,United States Of America,13244,900 Irving Avenue,America/New_York,24,
+Richard Rodgers Theatre,New York,New York,United States Of America,10036,226 West 46th Street,America/New_York,199,
+loanDepot park,Miami,Florida,United States Of America,33125,501 Marlins Way,America/New_York,109,yes
+Delta Center,Salt Lake City,Utah,United States Of America,84101,301 West South Temple,America/Denver,71,
+State Theatre,Minneapolis,Minnesota,United States Of America,55402,805 Hennepin Avenue,America/Chicago,40,yes
+Everwise Amphitheater at White River State Park,Indianapolis,Indiana,United States Of America,46204,801 W. Washington St.,America/New_York,13,
+Grand Sierra Resort and Casino,Reno,Nevada,United States Of America,89595,2500 East Second Street,America/Los_Angeles,36,yes
+Irving Plaza Powered By Verizon 5G,New York,New York,United States Of America,10003,17 Irving Place,America/New_York,42,yes
+Hard Rock Live Orlando,Orlando,Florida,United States Of America,32819,6050 Universal Blvd,America/New_York,28,yes
+Township Auditorium,Columbia,South Carolina,United States Of America,29201,1703 Taylor Street,America/New_York,14,yes
+FAMU Bragg Memorial Stadium,Tallahassee,Florida,United States Of America,32307,1500 Wahnish Way,America/New_York,6,yes
+Charleston Coliseum,Charleston,West Virginia,United States Of America,25301,200 Civic Center Drive,America/New_York,29,
+Brooklyn Paramount,Brooklyn,New York,United States Of America,11201,385 Flatbush Ave. Extension,America/New_York,15,
+Rio Rancho Events Center,Rio Rancho,New Mexico,United States Of America,87144,3001 Civic Center Circle,America/Denver,26,
+New Jersey Performing Arts Center,Newark,New Jersey,United States Of America,07102,1 Center Street,America/New_York,78,yes
+Ascend Amphitheater,Nashville,Tennessee,United States Of America,37203,First Street and Demonbreun,America/Chicago,12,
+Bill Graham Civic Auditorium,San Francisco,California,United States Of America,94102,99 Grove Street,America/Los_Angeles,11,yes
+Oracle Park,San Francisco,California,United States Of America,94107,24 Willie Mays Plaza,America/Los_Angeles,86,yes
+Topeka Performing Arts Center,Topeka,Kansas,United States Of America,66603,214 SE 8th,America/Chicago,13,yes
+White Oak Music Hall - Downstairs,Houston,Texas,United States Of America,77009,2915 N Main St,America/Chicago,47,
+Macon Amphitheater,Macon,Georgia,United States Of America,31206,3657 Eisenhower Parkway,America/New_York,4,yes
+Landmark Theatre,Syracuse,New York,United States Of America,13202,362 South Salina Street,America/New_York,55,yes
+Paramount Theatre-Oakland,Oakland,California,United States Of America,94612,2025 Broadway,America/Los_Angeles,19,yes
+Alerus Center,Grand Forks,North Dakota,United States Of America,58201,1200 42nd Street South,America/Chicago,15,yes
+Hershey Theatre,Hershey,Pennsylvania,United States Of America,17033,15 E. Caracas Ave,America/New_York,42,yes
+The Venetian Theatre at The Venetian Resort,Las Vegas,Nevada,United States Of America,89109,3355 S Las Vegas Blvd ,America/Los_Angeles,72,
+Independence Stadium,Shreveport,Louisiana,United States Of America,71109,3301 Pershing Blvd,America/Chicago,1,yes
+Las Vegas Festival Grounds,Las Vegas,Nevada,United States Of America,89109,2594 South Las Vegas Blvd,America/Los_Angeles,3,
+The Echo Lounge & Music Hall,Dallas,Texas,United States Of America,75207,1323 N. Stemmons Fwy. ,America/Chicago,21,
+DCU Center,Worcester,Massachusetts,United States Of America,01608,50 Foster Street,America/New_York,48,
+Mullett Arena ,Tempe,Arizona,United States Of America,85281,411 S. Packard Dr. ,America/Phoenix,53,
+American Bank Center Arena,Corpus Christi,Texas,United States Of America,78401,1901 North Shoreline,America/Chicago,43,
+ExtraMile Arena,Boise,Idaho,United States Of America,83725,1401 Bronco Lane,America/Denver,36,yes
+Rialto Theatre-Tucson,Tucson,Arizona,United States Of America,85701,318 Congress St,America/Phoenix,73,yes
+The Santander Arena ,Reading,Pennsylvania,United States Of America,19602,700 Penn Street,America/New_York,62,yes
+Brookshire Grocery Arena,Bossier City,Louisiana,United States Of America,71112,2000 Brookshire Arena Drive,America/Chicago,13,yes
+Credit Union 1 Amphitheatre,Tinley Park,Illinois,United States Of America,60477,19100 S Ridgeland,America/Chicago,8,yes
+North Island Credit Union Amphitheatre,Chula Vista,California,United States Of America,91911,2050 Entertainment Circle,America/Los_Angeles,8,yes
+House of Blues Cleveland,Cleveland,Ohio,United States Of America,44114,308 Euclid Avenue,America/New_York,49,yes
+Gateway Center Arena,College Park,Georgia,United States Of America,30337,2000 Convention Center Concourse,America/New_York,22,
+The Observatory North Park,San Diego,California,United States Of America,92104,2891 University Ave,America/Los_Angeles,43,yes
+Lambeau Field,Green Bay,Wisconsin,United States Of America,54304,1265 Lombardi Avenue,America/Chicago,2,yes
+The Sylvee,Madison,Wisconsin,United States Of America,53703,25 S. Livingston Street,America/Chicago,27,yes
+Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,New York,United States Of America,13209,490 Restoration Way,America/New_York,9,yes
+Lena Horne Theatre,New York,New York,United States Of America,10036,256 West 47th Street,America/New_York,493,
+Nationals Park,Washington,District of Columbia,United States Of America,20003,"1500 South Capitol Street, SE",America/New_York,83,
+Truist Park,Atlanta,Georgia,United States Of America,30339,755 Battery Avenue,America/New_York,179,yes
+Knoxville Civic Auditorium,Knoxville,Tennessee,United States Of America,37915,500 Howard Baker Jr Drive,America/New_York,26,yes
+Don Haskins Center,El Paso,Texas,United States Of America,79968,2801 N Mesa ,America/Denver,22,
+Red Hat Amphitheater,Raleigh,North Carolina,United States Of America,27601,500 South McDowell Street,America/New_York,101,yes
+The Pavilion at Toyota Music Factory,Irving,Texas,United States Of America,75039,300 W Las Colinas Blvd,America/Chicago,23,yes
+The Plaza Theatre Performing Arts Center,El Paso,Texas,United States Of America,79901,125 Pioneer Plaza,America/Denver,55,
+Hard Rock Live Northern Indiana,Gary,Indiana,United States Of America,46406,5400 West 29th Avenue,America/Chicago,19,
+Payne Arena,Hidalgo,Texas,United States Of America,78557,2600 N. 10th Street (Hwy 336),America/Chicago,32,yes
+Fillmore Auditorium (Denver),Denver,Colorado,United States Of America,80218,1510 Clarkson,America/Denver,21,yes
+The Santander Performing Arts Center ,Reading,Pennsylvania,United States Of America,19601,136 North 6th Street,America/New_York,31,yes
+The Charleston Music Hall,Charleston,South Carolina,United States Of America,29403,37 John St.,America/New_York,65,yes
+The Union,Salt Lake City,Utah,United States Of America,84116,235 N 500 W,America/Denver,18,yes
+Buckhead Theatre,Atlanta,Georgia,United States Of America,30305,3110 Roswell Rd,America/New_York,57,yes
+Maine Savings Amphitheater,Bangor,Maine,United States Of America,04401,1 Railroad St,America/New_York,10,yes
+The Lyric,Baltimore,Maryland,United States Of America,21201,140 W Mount Royal Ave,America/New_York,32,yes
+SAFE Credit Union Performing Arts Center,Sacramento,California,United States Of America,95814,1301 L St.,America/Los_Angeles,73,
+The Cosmopolitan of Las Vegas,Las Vegas,Nevada,United States Of America,89109,3708 Las Vegas Boulevard South ,America/Los_Angeles,143,yes
+The Wind Creek Event Center ,Bethlehem,Pennsylvania,United States Of America,18015,77 Sands Blvd.,America/New_York,37,yes
+Daily's Place,Jacksonville,Florida,United States Of America,32202,1 Daily's Place,America/New_York,9,yes
+Target Field,Minneapolis,Minnesota,United States Of America,55403,353 N 5th St,America/Chicago,83,yes
+Bridgestone Arena Nashville Predators,Nashville,Tennessee,United States Of America,37203,501 Broadway,America/Chicago,26,yes
+The Capitol Theatre,Port Chester,New York,United States Of America,10573,149 Westchester Ave,America/New_York,36,
+Hero Arena at the Mountain America Center,Idaho Falls,Idaho,United States Of America,83402,1690 Event Center Dr,America/Denver,39,
+BJCC Concert Hall,Birmingham,Alabama,United States Of America,35203,2100 Richard Arrington Boulevard,America/Chicago,52,yes
+The Underground,Charlotte,North Carolina,United States Of America,28206,820 Hamilton St,America/New_York,46,yes
+Merriweather Post Pavilion,Columbia,Maryland,United States Of America,21044,10475 Little Patuxent Parkway,America/New_York,7,yes
+The Andrew J Brady Music Center,Cincinnati,Ohio,United States Of America,45202,25 Race Street,America/New_York,16,yes
+Nederlander Theatre,New York,New York,United States Of America,10036,208 West 41st Street,America/New_York,341,
+Ford Center,Evansville,Indiana,United States Of America,47708,1 Martin Luther King Jr Blvd,America/Chicago,53,yes
+Orpheum Theater,Madison,Wisconsin,United States Of America,53703,216 State Street,America/Chicago,19,yes
+Rialto Square Theatre,Joliet,Illinois,United States Of America,60432,102 N Chicago,America/Chicago,27,
+Echostage,Washington,District of Columbia,United States Of America,20018,2135 Queens Chapel Road NE,America/New_York,31,
+Paradise Rock Club presented by Citizens,Boston,Massachusetts,United States Of America,02215,967 Commonwealth Avenue,America/New_York,62,yes
+Jannus Live,St Petersburg,Florida,United States Of America,33701,16 2nd Street North,America/New_York,20,yes
+The Event Center at Turning Stone Resort Casino,Verona,New York,United States Of America,13478,5218 Patrick Road,America/New_York,7,yes
+Angel Of The Winds Arena,Everett,Washington,United States Of America,98201,2000 Hewitt Ave.,America/Los_Angeles,57,
+Pensacola Saenger Theatre,Pensacola,Florida,United States Of America,32501,118 S Palafox,America/Chicago,48,
+Pearl Concert Theater at Palms Casino Resort,Las Vegas,Nevada,United States Of America,89103,4321 West Flamingo Road,America/Los_Angeles,23,
+Mystic Lake Casino Hotel,Prior Lake,Minnesota,United States Of America,55372,2400 Mystic Lake Blvd,America/Chicago,19,yes
+The Atlantis,Washington,District of Columbia,United States Of America,20001,2047 9th St NW,America/New_York,81,
+ISU Cyclones - MidAmerican Energy Field at Jack Trice Stadium,Ames,Iowa,United States Of America,50011,1732 Jack Trice Way,America/Chicago,1,
+Lila Cockrell Theatre,San Antonio,Texas,United States Of America,78205,200 E. Market,America/Chicago,5,
+North Charleston Coliseum,North Charleston,South Carolina,United States Of America,29418,5001 Coliseum Drive,America/New_York,53,yes
+Lafayette Cajundome,Lafayette,Louisiana,United States Of America,70506,444 Cajundome,America/Chicago,17,yes
+Great American Ball Park,Cincinnati,Ohio,United States Of America,45202,100 Joe Nuxhall Way,America/New_York,83,yes
+Uptown Theater,Kansas City,Missouri,United States Of America,64111,3700 Broadway,America/Chicago,32,yes
+Genesee Theatre,Waukegan,Illinois,United States Of America,60085,203 N. Genesee St.,America/Chicago,35,yes
+Brown County Music Center,Nashville,Indiana,United States Of America,47448,200 Maple Leaf Boulevard,America/New_York,25,yes
+The Fillmore Miami Beach at Jackie Gleason Theater,Miami Beach,Florida,United States Of America,33139,1700 Washington Ave,America/New_York,32,yes
+House of Blues Chicago,Chicago,Illinois,United States Of America,60654,329 N Dearborn St,America/Chicago,45,yes
+Chevalier Theatre,Medford,Massachusetts,United States Of America,02115,30 Forest Street,America/New_York,24,yes
+Palladium Times Square ,New York City,New York,United States Of America,10036,1515 Broadway,America/New_York,24,
+Mark C. Smith Concert Hall at the Von Braun Center ,Huntsville,Alabama,United States Of America,35801,700 Monroe Street,America/Chicago,49,yes
+Majestic Theatre Dallas,Dallas,Texas,United States Of America,75201,1925 Elm Street,America/Chicago,27,yes
+Indiana Farmers Coliseum,Indianapolis,Indiana,United States Of America,46205,1202 E. 38th St.,America/Indianapolis,43,yes
+Kalamazoo State Theatre,Kalamazoo,Michigan,United States Of America,49002,404 South Burdick,America/New_York,18,yes
+Embassy Theatre,Fort Wayne,Indiana,United States Of America,46802,125 West Jefferson Blvd.,America/Indianapolis,27,yes
+Columbia County Performing Arts Center,Evans,Georgia,United States Of America,30809,1000 Market Street,America/New_York,25,
+Capital One Hall,Tysons,Virginia,United States Of America,22102,7750 Capital One Tower Road,America/New_York,50,yes
+Iowa State Cyclones - Hilton Coliseum,Ames,Iowa,United States Of America,50011,Iowa State Center,America/Chicago,30,yes
+BMO Center,Rockford,Illinois,United States Of America,61101,300 Elm St.,America/Chicago,47,yes
+Cobb's Comedy Club,San Francisco,California,United States Of America,94133,915 Columbus Avenue ,America/Los_Angeles,108,yes
+Saint Andrew's Hall,Detroit,Michigan,United States Of America,48226,431 E Congress St,America/New_York,45,yes
+Greek Theatre,Los Angeles,California,United States Of America,90027,2700 N. Vermont Ave,America/Los_Angeles,7,yes
+Pinnacle Bank Arena,Lincoln,Nebraska,United States Of America,68508,400 Pinnacle Arena Drive,America/Chicago,31,
+Lillian S. Wells Hall at The Parker,Ft Lauderdale,Florida,United States Of America,33304,707 NE 8th Street,America/New_York,78,yes
+Azura Amphitheater,Bonner Springs,Kansas,United States Of America,66012,633 North 130th Street,America/Chicago,5,
+Warsaw,Brooklyn,New York,United States Of America,11222,261 Driggs Ave ,America/New_York,33,
+Ulster Performing Arts Center,Kingston,New York,United States Of America,12401,601 Broadway,America/New_York,10,yes
+Clowes Memorial Hall,Indianapolis,Indiana,United States Of America,46208,4602 Sunset Avenue,America/Indianapolis,66,yes
+Live Oak Bank Pavilion,Wilmington,North Carolina,United States Of America,28401,10 Cowan Street,America/New_York,8,
+Sound Board at MotorCity Casino Hotel,Detroit,Michigan,United States Of America,48201,2901 Grand River,America/New_York,40,yes
+Wright State University Nutter Center,Dayton,Ohio,United States Of America,45435,3640 Colonel Glenn Highway,America/New_York,41,yes
+Duke Energy Center for the Arts - Mahaffey Theater,St Petersburg,Florida,United States Of America,33701,400 1st Street S,America/New_York,58,yes
+Walnut Street Theatre,Philadelphia,Pennsylvania,United States Of America,19107,825 Walnut Street,America/New_York,164,yes
+Coca-Cola Roxy,Atlanta,Georgia,United States Of America,30339,800 Battery Ave SE #500,America/New_York,15,
+Stifel Theatre,St. Louis,Missouri,United States Of America,63103,1400 Market Street,America/Chicago,56,yes
+House of Blues San Diego,San Diego,California,United States Of America,92101,1055 5th Avenue,America/Los_Angeles,43,yes
+Awakening Theater at Wynn Las Vegas,Las Vegas,Nevada,United States Of America,89109,3131 Las Vegas Blvd,America/Los_Angeles,425,yes
+Shoreline Amphitheatre,Mountain View,California,United States Of America,94043,One Amphitheatre Parkway,America/Los_Angeles,7,yes
+Peabody Auditorium,Daytona Beach,Florida,United States Of America,32118,600 Auditorium Blvd.,America/New_York,37,yes
+Matthew Knight Arena,Eugene,Oregon,United States Of America,97403,1776 E. 13th Ave,America/Los_Angeles,38,
+The Belasco,Los Angeles,California,United States Of America,90015,1050 South Hill Street,America/Los_Angeles,47,
+San Jose Center for the Performing Arts,San Jose,California,United States Of America,95113,255 Almaden Blvd.,America/Los_Angeles,25,yes
+Hampton Coliseum,Hampton,Virginia,United States Of America,23666,1000 Coliseum Drive ,America/New_York,20,yes
+Bogart's,Cincinnati,Ohio,United States Of America,45219,2621 Short Vine Street,America/New_York,41,yes
+Choctaw Grand Theater,Durant,Oklahoma,United States Of America,74701,4418 US-69,America/Chicago,16,yes
+NYCB Theatre at Westbury,Westbury,New York,United States Of America,11590,960 Brush Hollow Road,America/New_York,22,yes
+Summit,Denver,Colorado,United States Of America,80202,1902 Blake St,America/Denver,36,
+Littlejohn Coliseum,Clemson,South Carolina,United States Of America,29634,1 Avenue of Champions,America/New_York,17,yes
+The National Theatre,Washington,District of Columbia,United States Of America,20004,1321 Pennsylvania Avenue NW  ,America/New_York,80,yes
+The Rady Shell at Jacobs Park,San Diego,California,United States Of America,92101,200 Marina Park Way,America/Los_Angeles,10,
+South Side Ballroom,Dallas,Texas,United States Of America,75215,1135 Botham Jean Blvd,America/Chicago,12,yes
+Protective Stadium,Birmingham,Alabama,United States Of America,35203,1020 24TH Street North,America/Chicago,3,
+Brandon Amphitheater,Brandon,Mississippi,United States Of America,39042,8190 Rock Way,America/Chicago,11,
+Akron Civic Theatre,Akron,Ohio,United States Of America,44308,182 South Main Street,America/New_York,42,yes
+Orpheum Theatre,Los Angeles,California,United States Of America,90014,842 S. Broadway ,America/Los_Angeles,26,yes
+Crown Coliseum,Fayetteville,North Carolina,United States Of America,28306,1960 Coliseum Drive,America/New_York,38,yes
+GLC Live at 20 Monroe,Grand Rapids,Michigan,United States Of America,49503,11 Ottawa Avenue Northwest,America/New_York,25,yes
+Mercury Lounge,New York,New York,United States Of America,10002,217 East Houston St.,America/New_York,92,yes
+William Saroyan Theatre Fresno Convention & Entertainment Center,Fresno,California,United States Of America,93721,700 M Street,America/Los_Angeles,35,yes
+Taft Theatre,Cincinnati,Ohio,United States Of America,45202,317 East 5th Street,America/New_York,29,yes
+House of Blues Las Vegas ,Las Vegas,Nevada,United States Of America,89119,3950 Las Vegas Blvd,America/Los_Angeles,48,yes
+Greek Theatre-U.C. Berkeley,Berkeley,California,United States Of America,94720,2001 Gayley Road,America/Los_Angeles,5,yes
+Long Beach Arena- Long Beach Convention and Entertainment Center,Long Beach,California,United States Of America,90802,300 E. Ocean Blvd.,America/Los_Angeles,19,yes
+Linda Ronstadt Music Hall,Tucson,Arizona,United States Of America,85701,260 South Church Avenue,America/Phoenix,39,
+St. George Theatre,Staten Island,New York,United States Of America,10301,35 Hyatt Street,America/New_York,30,yes
+Fenway Park,Boston,Massachusetts,United States Of America,02215,4 Jersey Street,America/New_York,103,yes
+Centennial Hall,Tucson,Arizona,United States Of America,85724,1020 East University Boulevard,America/Phoenix,41,
+Upstate Medical University Arena at The Oncenter War Memorial,Syracuse,New York,United States Of America,13202,515 Montgomery St.,America/New_York,44,yes
+Big Night Live,Boston,Massachusetts,United States Of America,02114,110 Causeway Street ,America/New_York,46,yes
+Briar Street Theatre,Chicago,Illinois,United States Of America,60657,3133 N Halsted,America/Chicago,507,yes
+Alpine Valley Music Theatre,East Troy,Wisconsin,United States Of America,53120,2699 County Road D,America/Chicago,4,
+Auditorium Theatre,Chicago,Illinois,United States Of America,60605,50 E Ida B. Wells Drive,America/Chicago,18,yes
+The Magnolia,El Cajon,California,United States Of America,92020,210 E Main Street,America/Los_Angeles,25,
+Seminole Hard Rock Tampa Event Center,Tampa,Florida,United States Of America,33611,5223 N. Orient Road,America/New_York,24,yes
+City National Grove of Anaheim,Anaheim,California,United States Of America,92806,2200 East Katella Ave.,America/Los_Angeles,28,yes
+Coors Field,Denver,Colorado,United States Of America,80205,2001 Blake St.,America/Denver,7,yes
+Fillmore Minneapolis presented by Affinity Plus,Minneapolis,Minnesota,United States Of America,55401,525 5th Street North,America/Chicago,26,yes
+Harrah's Cherokee Resort Event Center,Cherokee,North Carolina,United States Of America,28719,777 Casino Drive,America/New_York,14,yes
+The Corbin Arena,Corbin,Kentucky,United States Of America,40701,500 Arena Drive,America/New_York,9,yes
+Bergen Performing Arts Center,Englewood,New Jersey,United States Of America,07631,30 N. Van Brunt Street,America/New_York,49,yes
+Toyota Pavilion at Concord,Concord,California,United States Of America,94521,2000 Kirker Pass Road,America/Los_Angeles,9,yes
+Oriole Park At Camden Yards,Baltimore,Maryland,United States Of America,21201,333 West Camden Street,America/New_York,82,yes
+DECC Symphony Hall,Duluth,Minnesota,United States Of America,55802,350 Harbor Drive,America/Chicago,22,yes
+"Fred Kavli Theatre- B of A Performing Arts Center,Thousand Oaks",Thousand Oaks,California,United States Of America,91362,2100 E. Thousand Oaks,America/Los_Angeles,88,yes
+Charles Playhouse,Boston,Massachusetts,United States Of America,02116,74 Warrenton St,America/New_York,474,yes
+Dolby Theatre,Hollywood,California,United States Of America,90028,6801 Hollywood Blvd.,America/Los_Angeles,20,yes
+Savannah Civic Center - Johnny Mercer Theatre,Savannah,Georgia,United States Of America,31401,301 West Oglethorpe Avenue,America/New_York,22,
+State Farm Stadium,Glendale,Arizona,United States Of America,85305,1 Cardinals Drive,America/Phoenix,11,
+Detroit Opera House,Detroit,Michigan,United States Of America,48226,1526 Broadway,America/New_York,14,yes
+Steelhouse Omaha,Omaha,Nebraska,United States Of America,68102,1100 Dodge St,America/Chicago,20,
+Leader Bank Pavilion,Boston,Massachusetts,United States Of America,02210,290 Northern Ave,America/New_York,6,yes
+DeVos Place,Grand Rapids,Michigan,United States Of America,49503,303 Monroe NW,America/New_York,3,yes
+Kodak Center,Rochester,New York,United States Of America,14604,200 West Ridge Rd.,America/New_York,32,yes
+Hoyt Sherman Place,Des Moines,Iowa,United States Of America,50309,1501 Woodland Avenue,America/Chicago,35,yes
+State Theatre,Portland,Maine,United States Of America,04101,609 Congress St,America/New_York,39,yes
+Palace of Fine Arts,San Francisco,California,United States Of America,94123,3301 Lyon Street,America/Los_Angeles,50,yes
+White River Amphitheatre,Auburn,Washington,United States Of America,98092,40601 Auburn Enumclaw Road,America/Los_Angeles,11,yes
+Hard Rock Live Sacramento,Wheatland,California,United States Of America,95962,3317 Forty Mile Road,America/Los_Angeles,20,yes
+Snapdragon Stadium,San Diego,California,United States Of America,92108,2101 Stadium Way,America/Tijuana,28,
+Cable Dahmer Arena,Independence,Missouri,United States Of America,64055,19100 E. Valley View Parkway,America/Chicago,44,yes
+Birchmere,Alexandria,Virginia,United States Of America,22305,3701 Mt. Vernon Ave,America/New_York,72,yes
+Oak Mountain Amphitheatre,Birmingham,Alabama,United States Of America,35124,1000 Amphitheatre Drive,America/Chicago,7,yes
+Gramercy Theatre,New York,New York,United States Of America,10010,127 East 23rd Street,America/New_York,62,yes
+Pechanga Resort Casino,Temecula,California,United States Of America,92592,45000 Pechanga Parkway,America/Los_Angeles,42,yes
+The Depot,Salt Lake City,Utah,United States Of America,84101,13 North 400 West,America/Denver,44,yes
+The Joy Theater,New Orleans,Louisiana,United States Of America,70112,1200 Canal Street,America/Chicago,16,
+Bayou Music Center,Houston,Texas,United States Of America,77002,520 Texas Ave.,America/Chicago,15,yes
+Adler Theatre,Davenport,Iowa,United States Of America,52801,136 E 3rd St,America/Chicago,25,yes
+Westchester County Center,White Plains,New York,United States Of America,10607,198 Central Ave,America/New_York,25,
+F.M. Kirby Center ,Wilkes-Barre,Pennsylvania,United States Of America,18701,71 Public Square,America/New_York,44,yes
+JAMES BROWN ARENA,Augusta,Georgia,United States Of America,30901,601 7th Street,America/New_York,10,yes
+DRV PNK Stadium,Fort Lauderdale,Florida,United States Of America,33309,5201 NW 12th Avenue,America/New_York,2,
+Robinson Center,Little Rock,Arkansas,United States Of America,72201,426 West Markham,America/Chicago,33,yes
+Bethel Woods Center for the Arts,Bethel,New York,United States Of America,12720,200 Hurd Road ,America/New_York,39,yes
+Boch Center Shubert Theatre,Boston,Massachusetts,United States Of America,02116,265 Tremont Street,America/New_York,20,
+Roxian Theatre,Pittsburgh,Pennsylvania,United States Of America,15136,425 Chartiers Ave,America/New_York,43,
+Brooklyn Bowl Las Vegas,Las Vegas,Nevada,United States Of America,89109,3545 S Las Vegas Boulevard,America/Los_Angeles,44,
+Voltaire,Las Vegas,Nevada,United States Of America,89109,3355 Las Vegas Blvd. South,America/Los_Angeles,46,
+Ludlow Garage Cincinnati,Cincinnati,Ohio,United States Of America,45220,342 Ludlow Ave.,America/New_York,56,
+Ohio Theatre,Columbus,Ohio,United States Of America,43215,39 E State St,America/New_York,48,yes
+John Paul Jones Arena,Charlottesville,Virginia,United States Of America,22903,295 Massie Rd.,America/New_York,29,yes
+Orange County Convention Center,Orlando,Florida,United States Of America,32819,9800 International Dr,America/New_York,1,yes
+Freedom Hall,Louisville,Kentucky,United States Of America,40209,937 Phillips Ln. @ Freedom Way,America/New_York,27,yes
+Family Arena,Saint Charles,Missouri,United States Of America,63303,2002 Arena Parkway,America/Chicago,13,yes
+Essentia Health Plaza at The Lights,West Fargo,North Dakota,United States Of America,58078,300 32nd Ave West,America/Chicago,3,
+Center Stage Theater,Atlanta,Georgia,United States Of America,30309,1374 W Peachtree St. NW,America/New_York,35,yes
+Moody Amphitheater,Austin,Texas,United States Of America,78701,1401 North Trinity Street,America/Chicago,9,
+Astor Place Theatre,New York,New York,United States Of America,10003,434 Lafayette Street,America/New_York,637,yes
+Tucson Arena,Tucson,Arizona,United States Of America,85701,260 South Church Street,America/Phoenix,47,yes
+Sandler Center For The Performing Arts,Virginia Beach,Virginia,United States Of America,23462,201 Market Street at Town Center,America/New_York,39,yes
+Cross Insurance Center,Bangor,Maine,United States Of America,04401,515 Main Street,America/New_York,20,yes
+Lexington Opera House,Lexington,Kentucky,United States Of America,40507,401 W Short St,America/New_York,54,yes
+Emo's Austin,Austin,Texas,United States Of America,78741,2015 E Riverside Dr.,America/Chicago,31,
+Florence Center,Florence,South Carolina,United States Of America,29501,3300 West Radio Drive,America/New_York,18,yes
+MGM Northfield Park - Center Stage,Northfield,Ohio,United States Of America,44067,10777 Northfield Rd,America/New_York,22,
+Historic Crew Stadium,Columbus,Ohio,United States Of America,43211,One Black & Gold Boulevard,America/New_York,4,yes
+CIBC Theatre,Chicago,Illinois,United States Of America,60602,18 West Monroe,America/Chicago,69,yes
+Coronado Performing Arts Center,Rockford,Illinois,United States Of America,61101,314 N. Main Street,America/Chicago,30,yes
+Baton Rouge River Center Theater,Baton Rouge,Louisiana,United States Of America,70802,220 St. Louis Street,America/Chicago,29,yes
+The Wharf Amphitheater,Orange Beach,Alabama,United States Of America,36561,23101 Canal Road,America/Chicago,6,yes
+The Mirage Theatre,Las Vegas,Nevada,United States Of America,89109,3400 Las Vegas Blvd South,America/Los_Angeles,148,yes
+Music Hall Kansas City,Kansas City,Missouri,United States Of America,64105,301 West 13th St.,America/Chicago,45,
+The Salt Shed Outdoors (Fairgrounds),Chicago,Illinois,United States Of America,60642,1357 N Elston Ave,America/Chicago,2,
+West Herr Auditorium Theatre at West Herr Performing Arts Center,Rochester,New York,United States Of America,14605,885 East Main Street,America/New_York,50,yes
+Theatre of Living Arts,Philadelphia,Pennsylvania,United States Of America,19147,334 South St,America/New_York,33,yes
+Donald L. Tucker Civic Center,Tallahassee,Florida,United States Of America,32301,505 W Pensacola Street,America/New_York,49,yes
+Nissan Stadium,Nashville,Tennessee,United States Of America,37213,One Titans Way,America/Chicago,14,yes
+8 Seconds Saloon,Indianapolis,Indiana,United States Of America,46224,111 N Lynhurst Dr,America/Indianapolis,16,
+Mayo Clinic Health System Event Center,Mankato,Minnesota,United States Of America,56001,1 Civic Center Plaza,America/Chicago,33,
+Thalia Hall,Chicago,Illinois,United States Of America,60608,1807 South Allport Street,America/Chicago,94,yes
+Yuengling Center,Tampa,Florida,United States Of America,33620,4202 East Fowler Ave,America/New_York,33,yes
+Bowery Ballroom,New York,New York,United States Of America,10002,6 Delancey St.,America/New_York,54,yes
+TD Pavilion at the Mann,Philadelphia,Pennsylvania,United States Of America,19131,52nd and Parkside,America/New_York,4,yes
+The Venue at Horseshoe Casino,Hammond,Indiana,United States Of America,46320,777 Casino Center Drive,America/Chicago,9,yes
+Beau Rivage Theatre,Biloxi,Mississippi,United States Of America,39530,875 Beach Blvd,America/Chicago,40,yes
+Margot and Bill Winspear Opera House,Dallas,Texas,United States Of America,75201,2403 Flora Street,America/Chicago,102,
+XFINITY Theatre,Hartford,Connecticut,United States Of America,06120,61 Savitt Way,America/New_York,7,yes
+Broadway Playhouse at Water Tower Place,Chicago,Illinois,United States Of America,60611,175 E. Chestnut St,America/Chicago,72,yes
+Hollywood Casino at Charles Town Races,Charles Town,West Virginia,United States Of America,25414,750 Hollywood Drive,America/New_York,23,yes
+Saenger Theatre Mobile,Mobile,Alabama,United States Of America,36602,6 South Joachim St.,America/Chicago,25,
+Fox Cities PAC,Appleton,Wisconsin,United States Of America,54911,400 W. College Avenue,America/Chicago,58,yes
+Mercury Ballroom,Louisville,Kentucky,United States Of America,40202,611 S 4th Street,America/New_York,38,yes
+Knoxville Civic Coliseum,Knoxville,Tennessee,United States Of America,37915,500 Howard Baker Jr. Drive,America/New_York,29,
+Addition Financial Arena,Orlando,Florida,United States Of America,32816,12777 Gemini Blvd,America/New_York,44,yes
+Fox Performing Arts Center,Riverside,California,United States Of America,92501,3801 Mission Inn Avenue,America/Los_Angeles,33,yes
+White Oak Music Hall - Pulse Power Stage on the Lawn,Houston,Texas,United States Of America,77009,2915 N Main Street,America/Chicago,9,
+Amerant Bank Arena ,Sunrise,Florida,United States Of America,33323,1 Panther Parkway,America/New_York,70,yes
+Oakland-Alameda County Coliseum,Oakland,California,United States Of America,94621,7000 Coliseum Way,America/Los_Angeles,83,yes
+NRG Center,Houston,Texas,United States Of America,77054,One NRG Park,America/Chicago,1,
+Veterans Memorial Coliseum,Portland,Oregon,United States Of America,97227,300 Winning Way,America/Los_Angeles,29,
+Orpheum Theater,New Orleans,Louisiana,United States Of America,70112,129 Roosevelt Way,America/Chicago,23,
+Revolution Live,Ft Lauderdale,Florida,United States Of America,33312,100 SW 3rd Ave,America/New_York,24,yes
+Flamingo Showroom at Flamingo Las Vegas,Las Vegas,Nevada,United States Of America,89109,3555 Las Vegas Blvd,America/Los_Angeles,190,yes
+Germania Insurance Amphitheater,Austin,Texas,United States Of America,78617,9201 Circuit of the Americas Blvd.,America/Chicago,4,
+McAllen Performing Arts Center,McAllen,Texas,United States Of America,78501,801 Convention Center Blvd.,America/Chicago,38,
+George Steinbrenner Field,Tampa,Florida,United States Of America,33607,3802 Dr Martin Luther King Jr Blvd,America/New_York,48,yes
+Tahoe Blue Event Center,Stateline,Nevada,United States Of America,98449,75 US Highway 50,America/Los_Angeles,21,
+Ting Pavilion,Charlottesville,Virginia,United States Of America,22902,700 E Main St.,America/New_York,2,
+Knitting Factory - Spokane,Spokane,Washington,United States Of America,99201,919 W Sprague Ave,America/Los_Angeles,38,
+Iron City,Birmingham,Alabama,United States Of America,35233,513 22nd Street South,America/Chicago,32,
+Fargodome,Fargo,North Dakota,United States Of America,58102,1800 N University Drive,America/Chicago,13,
+TQL Stadium,Cincinnati,Ohio,United States Of America,45214,1501 Central Pkwy,America/New_York,1,
+CURE Insurance Arena,Trenton,New Jersey,United States Of America,08611,81 Hamilton Ave,America/New_York,27,
+The Foundry,Philadelphia,Pennsylvania,United States Of America,19123,29 E Allen Street,America/New_York,54,
+The Bronze Peacock at House of Blues Houston,Houston,Texas,United States Of America,77002,1204 Caroline Street,America/Chicago,46,
+Sames Auto Arena,Laredo,Texas,United States Of America,78041,6700 Arena Blvd.,America/Chicago,15,yes
+Pensacola Bay Center,Pensacola,Florida,United States Of America,32502,201 E Gregory St,America/Chicago,81,yes
+Dow Event Center,Saginaw,Michigan,United States Of America,48607,303 Johnson,America/New_York,37,yes
+Apollo's Historic Theater,New York,New York,United States Of America,10027,253 West 125th Street,America/New_York,35,yes
+Brighton Music Hall presented by Citizens,Boston,Massachusetts,United States Of America,02134,158 Brighton Avenue,America/New_York,60,yes
+Teragram Ballroom,Los Angeles,California,United States Of America,90017,1234 West 7th Street,America/Los_Angeles,49,
+UNO Lakefront Arena,New Orleans,Louisiana,United States Of America,70122,6801 Franklin Ave,America/Chicago,14,yes
+Great Cedar Showroom at Foxwoods Resort Casino,Mashantucket,Connecticut,United States Of America,06355,39 Norwich Westerly Road,America/New_York,25,yes
+Humphreys Concerts By the Bay,San Diego,California,United States Of America,92106,2241 Shelter Island Dr.,America/Los_Angeles,7,yes
+WAMU Theater,Seattle,Washington,United States Of America,98134,800 Occidental Ave S,America/Los_Angeles,8,
+James L Knight Center,Miami,Florida,United States Of America,33131,400 SE 2nd Ave,America/New_York,14,yes
+Varsity Theater,Minneapolis,Minnesota,United States Of America,55414,1308 SE 4th Street,America/Chicago,29,
+Heymann Performing Arts Center,Lafayette,Louisiana,United States Of America,70503,1373 S. College RD,America/Chicago,1,
+The Senate,Columbia,South Carolina,United States Of America,29201,1022 Senate Street,America/New_York,22,
+Old National Events Plaza,Evansville,Indiana,United States Of America,47708,715 Locust St.,America/Chicago,13,yes
+1st SUMMIT ARENA at Cambria County War Memorial,Johnstown,Pennsylvania,United States Of America,15901,326 Napoleon Street,America/New_York,32,yes
+Montgomery Performing Arts Centre,Montgomery,Alabama,United States Of America,36104,201 Tallapoosa Street,America/Chicago,31,yes
+Ames Center,Burnsville,Minnesota,United States Of America,55337,12600 Nicollet Avenue,America/Chicago,63,
+Boardwalk Hall,Atlantic City,New Jersey,United States Of America,08401,2301 Boardwalk,America/New_York,14,yes
+McAllen Convention Center,McAllen,Texas,United States Of America,78501,700 Convention Center Blvd.,America/Chicago,11,yes
+Bijou Theatre,Knoxville,Tennessee,United States Of America,37902,803 S. Gay St.,America/New_York,39,yes
+Constellation Room,Santa Ana,California,United States Of America,92704,3503 South Harbor Boulevard,America/Los_Angeles,47,
+Ovation Hall at Ocean Casino Resort ,Atlantic City,New Jersey,United States Of America,08401,500 Boardwalk,America/New_York,13,yes
+The Cambridge Room at House Of Blues,Dallas,Texas,United States Of America,75202,2200 N Lamar St,America/Chicago,30,yes
+Spartanburg Memorial Auditorium,Spartanburg,South Carolina,United States Of America,29304,385 North Church Street,America/New_York,21,yes
+American Bank Center Selena Auditorium,Corpus Christi,Texas,United States Of America,78401,1901 N. Shoreline,America/Chicago,16,
+Exactech Arena at the Stephen C. O'Connell Center,Gainesville,Florida,United States Of America,32611,Gale Lemerand Dr. and University Ave,America/New_York,26,yes
+Baltimore Soundstage,Baltimore,Maryland,United States Of America,21202,124 Market Place,America/New_York,43,
+Amsterdam Bar & Hall,St Paul,Minnesota,United States Of America,55102,6 W 6th St,America/Chicago,9,
+Nassau Veterans Memorial Coliseum,Uniondale,New York,United States Of America,11553,1255 Hempstead Turnpike,America/New_York,42,yes
+Reno Events Center,Reno,Nevada,United States Of America,89501,400 University Way,America/Los_Angeles,12,yes
+Coliseum at Alliant Energy Center,Madison,Wisconsin,United States Of America,53713,1919 Alliant Energy Center Way ,America/Chicago,12,yes
+Pennsylvania Convention Center,Philadelphia,Pennsylvania,United States Of America,19107,1101 Arch St,America/New_York,1,yes
+Kiva Auditorium at the Albuquerque Convention Center,Albuquerque,New Mexico,United States Of America,87102,401 2ND STREET NW,America/Denver,19,yes
+Majestic Theatre San Antonio,San Antonio,Texas,United States Of America,78205,226 East Houston Street,America/Chicago,8,yes
+The Regent Theater,Los Angeles,California,United States Of America,90013,448 S. Main St.,America/Los_Angeles,53,
+UW - Milwaukee Panther Arena ,Milwaukee,Wisconsin,United States Of America,53203,400 West Kilbourn,America/Chicago,52,yes
+Cadence Bank Arena,Tupelo,Mississippi,United States Of America,38804,375 East Main Street,America/Chicago,11,yes
+The Masquerade - Heaven,Atlanta,Georgia,United States Of America,30303,Kenny's Alley @ Underground Atlanta,America/New_York,33,yes
+OU Credit Union O'rena,Rochester,Michigan,United States Of America,48309,Walton at Squirrel Road,America/New_York,24,yes
+Toyota Center Kennewick,Kennewick,Washington,United States Of America,99336,7000 W. Grandridge Blvd,America/Los_Angeles,28,
+Findlay Toyota Center,Prescott Valley,Arizona,United States Of America,86314,3201 N. Main Street,America/Phoenix,27,yes
+Meadow Brook Theatre,Rochester,Michigan,United States Of America,48309,"207 Wilson Hall, Oakland University",America/New_York,154,yes
+Abraham Chavez Theatre,El Paso,Texas,United States Of America,79901,1 Civic Center Plaza,America/Denver,15,
+Delmar Hall,Saint Louis,Missouri,United States Of America,63112,6133 Delmar Blvd.,America/Chicago,38,yes
+Bojangles Coliseum,Charlotte,North Carolina,United States Of America,28205,2700 E Independence Boulevard,America/New_York,31,yes
+Winston-Salem Fairgrounds,Winston-Salem,North Carolina,United States Of America,27105,300 Deacon Blvd.,America/New_York,23,yes
+Antone's Nightclub,Austin,Texas,United States Of America,78701,305 E 5th Street,America/Chicago,76,yes
+The Torch at LA Coliseum,Los Angeles,California,United States Of America,90037,3911 S. Figueroa Street,America/Los_Angeles,2,
+Vibrant Music Hall,Waukee,Iowa,United States Of America,50263,2938 Grand Prairie Pkwy,America/Chicago,13,
+Chesapeake Employers Insurance Arena,Baltimore,Maryland,United States Of America,21250,1000 Hilltop Circle,America/New_York,34,
+BankPlus Amphitheater at Snowden Grove,Southaven,Mississippi,United States Of America,38672,6275 Snowden Lane,America/Chicago,3,yes
+Westgate Las Vegas Resort & Casino,Las Vegas,Nevada,United States Of America,89109,3000 Paradise,America/Los_Angeles,576,yes
+The Echo,Los Angeles,California,United States Of America,90026,1822 W Sunset Blvd,America/Los_Angeles,45,
+The Bellwether,Los Angeles,California,United States Of America,90025,333 S. Boylston St.,America/Los_Angeles,20,
+Brooklyn Bowl Philadelphia,Philadelphia,Pennsylvania,United States Of America,19123,1009 Canal Street,America/New_York,67,
+Grossinger Motors Arena,Bloomington,Illinois,United States Of America,61701,101 S. Madison Street,America/Chicago,19,yes
+NMSU Pan American Center,Las Cruces,New Mexico,United States Of America,88003,1810 E. University,America/Denver,23,
+The Plantation Course At Kapalua,Lahaina,Hawaii,United States Of America,96761,2000 Plantation Club Drive,Pacific/Honolulu,1,yes
+Alliant Energy PowerHouse,Cedar Rapids,Iowa,United States Of America,52401,370 1st Avenue NE,America/Chicago,21,
+NOW Arena,Hoffman Estates,Illinois,United States Of America,60192,5333 Prairie Stone Parkway,America/Chicago,34,yes
+Arena Theatre,Houston,Texas,United States Of America,77074,"7326 Southwest Fwy,",America/Chicago,17,yes
+Uihlein Hall Marcus Center,Milwaukee,Wisconsin,United States Of America,53202,929 North Water Street,America/Chicago,46,yes
+Lincoln Theatre,Washington,District of Columbia,United States Of America,20009,1215 U St NW,America/New_York,23,yes
+Lynn Auditorium,Lynn,Massachusetts,United States Of America,01901,3 City Hall Sq.,America/New_York,19,yes
+Voodoo Room at the House of Blues San Diego,San Diego,California,United States Of America,92101,1055 5th Avenue,America/Los_Angeles,48,
+Punch Line Comedy Club - Sacramento,Sacramento,California,United States Of America,95825,2100 Arden Way,America/Los_Angeles,150,yes
+Ozarks Amphitheater,Camdenton,Missouri,United States Of America,65020,2629 North Business Route 5,America/Chicago,11,
+Michigan Lottery Amphitheatre at Freedom Hill,Sterling Heights,Michigan,United States Of America,48312,14900 Metropolitan Parkway,America/New_York,6,yes
+Ralph Engelstad Arena,Grand Forks,North Dakota,United States Of America,58202,One Ralph Engelstad Arena Drive,America/Chicago,15,yes
+Cal Coast Credit Union Open Air Theatre at SDSU,San Diego,California,United States Of America,92182,5500 Campanile Dr,America/Los_Angeles,7,yes
+Effingham Performance Center,Effingham,Illinois,United States Of America,62401,1325 Outer Belt West,America/Chicago,24,
+The Liacouras Center,Philadelphia,Pennsylvania,United States Of America,19122,1776 N. Broad St.,America/New_York,23,yes
+Penn's Peak,Jim Thorpe,Pennsylvania,United States Of America,18229,325 Maury Road,America/New_York,28,yes
+Rapides Coliseum,Alexandria,Louisiana,United States Of America,71301,5600 Coliseum Blvd,America/Chicago,5,yes
+The Vogel at Count Basie Center for the Arts,Red Bank,New Jersey,United States Of America,07701,99 Monmouth Street,America/New_York,66,
+UB Center for the Arts - Mainstage Theatre,Buffalo,New York,United States Of America,14260,103 Center For The Arts,America/New_York,10,
+The Sound,Del Mar,California,United States Of America,92014,2260 Jimmy Durante Blvd,America/Los_Angeles,19,
+The Bluestone,Columbus,Ohio,United States Of America,43215,583 E. Broad St.,America/New_York,23,
+Pompano Beach Amphitheater,Pompano Beach,Florida,United States Of America,33060,1801 NE 6th Street,America/New_York,6,yes
+Mat Franco Theater at The Linq,Las Vegas,Nevada,United States Of America,89109,3535 South Las Vegas Boulevard,America/Los_Angeles,182,yes
+Treasure Island Resort & Casino,Welch,Minnesota,United States Of America,55089,5734 Sturgeon Lake Road,America/Chicago,14,
+TPC Sawgrass,Ponte Vedra Beach,Florida,United States Of America,32082,110 Championship Way,America/New_York,13,yes
+Mississippi Coliseum,Jackson,Mississippi,United States Of America,39202,1207 Mississippi St,America/Chicago,11,yes
+Adventist Health Arena,Stockton,California,United States Of America,95203,248 W Fremont St.,America/Los_Angeles,31,yes
+Manhattan Center Hammerstein Ballroom,New York,New York,United States Of America,10001,311 West 34th Street,America/New_York,7,yes
+Ford Wyoming Center,Casper,Wyoming,United States Of America,82601,1 Events Drive,America/Denver,13,yes
+Somerville Theatre,Somerville,Massachusetts,United States Of America,02144,55 Davis Square,America/New_York,19,
+Charles F. Dodge City Center Pembroke Pines,Pembroke Pines,Florida,United States Of America,33025,601 City Center Blvd,America/New_York,7,yes
+PNC Park,Pittsburgh,Pennsylvania,United States Of America,15212,115 Federal Street,America/New_York,82,
+Gas South Theater,Duluth,Georgia,United States Of America,30097,6400 Sugarloaf Parkway,America/New_York,32,yes
+Knitting Factory - Boise,Boise,Idaho,United States Of America,83702,416 S 9th St,America/Denver,51,
+The Moroccan Lounge,Los Angeles,California,United States Of America,90012,901 E 1st Street,America/Los_Angeles,71,
+The Masquerade - Hell,Atlanta,Georgia,United States Of America,30303,92 Pryor Street SW,America/New_York,47,yes
+Stockton BallPark,Stockton,California,United States Of America,95203,404 W Freemont St,America/Los_Angeles,39,
+Chandler Center for the Arts,Chandler,Arizona,United States Of America,85224,250 North Arizona Avenue,America/Phoenix,40,
+Saenger Theatre New Orleans,New Orleans,Louisiana,United States Of America,70112,1111 Canal St.,America/Chicago,28,
+Harrah's Resort SoCal - The Events Center,Valley Center,California,United States Of America,92082,777  Harrah's Rincon Way,America/Los_Angeles,10,yes
+Bardavon 1869 Opera House,Poughkeepsie,New York,United States Of America,12601,35 Market Street,America/New_York,17,yes
+Tannahill's Tavern and Music Hall,Fort Worth,Texas,United States Of America,76164,122 E. Exchange Suite 200,America/Chicago,21,
+FivePoint Amphitheatre,Irvine,California,United States Of America,92618,14800 Chinon,America/Los_Angeles,1,
+Glen Helen Raceway,San Bernardino,California,United States Of America,92407,18585 Verdemont Ranch Rd,America/Los_Angeles,3,yes
+Echoplex,Los Angeles,California,United States Of America,90026,1154 Glendale Blvd,America/Los_Angeles,34,
+SACRAMENTO MEMORIAL AUDITORIUM,Sacramento,California,United States Of America,95814,15th and J Streets,America/Los_Angeles,12,
+Hartman Arena,Park City,Kansas,United States Of America,67147,8151 N. Hartman Arena Drive,America/Chicago,25,yes
+TD Ballpark,Dunedin,Florida,United States Of America,34698,373 Douglas Avenue,America/New_York,15,yes
+Avondale Brewing Co.,Birmingham,Alabama,United States Of America,35222,201 41st St S,America/Chicago,19,
+Amaturo Theater at Broward Center,Ft Lauderdale,Florida,United States Of America,33312,201 SW 5th Avenue,America/New_York,99,yes
+UPMC Events Center,Moon Township,Pennsylvania,United States Of America,15108,6001 University Blvd,America/New_York,31,
+House of Blues New Orleans ,New Orleans,Louisiana,United States Of America,70130,225 Decatur Street,America/Chicago,33,yes
+The Oncenter Crouse Hinds Theater,Syracuse,New York,United States Of America,13202,411 Montgomery Street,America/New_York,11,
+The Castro Theatre,San Francisco,California,United States Of America,94114,429 Castro Street,America/Los_Angeles,19,
+Virginia Beach Oceanfront Boardwalk,Virginia Beach,Virginia,United States Of America,23451,Atlantic Avenue and 2nd Street,America/New_York,24,
+Music Farm,Charleston,South Carolina,United States Of America,29403,32 Ann Street,America/New_York,39,yes
+Music Hall Center,Detroit,Michigan,United States Of America,48226,350 Madison,America/New_York,23,yes
+Bank of Springfield Center,Springfield,Illinois,United States Of America,62701,1 Convention Center Plaza,America/Chicago,2,
+Selland Arena at Fresno Convention & Entertainment Center,Fresno,California,United States Of America,93721,700 M Street,America/Los_Angeles,9,yes
+Ponte Vedra Concert Hall,Ponte Vedra Beach,Florida,United States Of America,32082,1050 A1A North,America/New_York,38,yes
+Hampton Beach Casino Ballroom,Hampton Beach,New Hampshire,United States Of America,03842,169 Ocean Blvd,America/New_York,12,yes
+The Stanley,Utica,New York,United States Of America,13501,259 Genesee Street,America/New_York,24,yes
+Skyla Credit Union Amphitheatre,Charlotte,North Carolina,United States Of America,28206,1000 NC Music Factory Blvd,America/New_York,7,yes
+American Family Field ,Milwaukee,Wisconsin,United States Of America,53214,One Brewers Way,America/Chicago,86,
+Michigan Theater,Ann Arbor,Michigan,United States Of America,48104,603 East Liberty,America/New_York,5,yes
+The Great Saltair,Magna,Utah,United States Of America,84044,12408 W Saltair Drive,America/Denver,6,yes
+Tilles Center Concert Hall,Brookville,New York,United States Of America,11548,720 Northern Boulevard,America/New_York,21,
+Shreveport Municipal Memorial Auditorium,Shreveport,Louisiana,United States Of America,71101,705 Elvis Presley Blvd.,America/Chicago,8,yes
+Mountain Health Arena,Huntington,West Virginia,United States Of America,25701,1 Civic Center Plaza,America/New_York,12,yes
+Silver Spurs Arena At OHP,Kissimmee,Florida,United States Of America,34744,1875 Silver Spur Lane,America/New_York,47,yes
+Columbus Civic Center,Columbus,Georgia,United States Of America,31901,"400 4th Street (Also Known As Victory Dr, US 280)",America/New_York,30,yes
+Fontainebleau,Las Vegas,Nevada,United States Of America,89109,2777 S Las Vegas Blvd,America/Los_Angeles,2,
+The Walker Theatre,Chattanooga,Tennessee,United States Of America,37402, 399 McCallie Avenue,America/New_York,37,
+Dome at Toyota Oakdale Theatre,Wallingford,Connecticut,United States Of America,06492,95 South Turnpike Road,America/New_York,2,
+The Lyric Theatre,Birmingham,Alabama,United States Of America,35203,1800 3rd Ave N,America/Chicago,21,yes
+FirstBank Amphitheater,Franklin,Tennessee,United States Of America,37064,4525 Graystone Quarry Lane,America/Chicago,5,yes
+Salem Civic Center,Salem,Virginia,United States Of America,24153,1001 Roanoke Boulevard,America/New_York,12,yes
+Gila River Resorts & Casinos - Wild Horse Pass,Chandler ,Arizona,United States Of America,85226,5040 Wild Horse Pass Blvd,America/Phoenix,19,yes
+Appalachian Wireless Arena (Formerly Eastern Kentucky Expo Ctr),Pikeville,Kentucky,United States Of America,41501,126 Main Street,America/New_York,18,yes
+McCaw Hall,Seattle,Washington,United States Of America,98109,321 Mercer Street,America/Los_Angeles,10,yes
+Pantages Theater,Tacoma,Washington,United States Of America,98402,901 Broadway,America/Los_Angeles,17,
+Comerica Park,Detroit,Michigan,United States Of America,48216,2100 Woodward Ave,America/New_York,83,yes
+Indiana University Auditorium,Bloomington,Indiana,United States Of America,47405,Indiana University 1211 East 7th Street,America/Indianapolis,16,yes
+Mercedes-Benz Amphitheater,Tuscaloosa,Alabama,United States Of America,35406,2710 Jack Warner Parkway,America/Chicago,3,yes
+Madison Center for the Arts,Phoenix,Arizona,United States Of America,85016,5601 North 16th Street,America/Phoenix,15,
+The Maryland Theatre,Hagerstown,Maryland,United States Of America,21740,21 South Potomac Street,America/New_York,25,yes
+Orpheum Theatre presented by Citizens,Boston,Massachusetts,United States Of America,02108,1 Hamilton PL,America/New_York,10,yes
+Mars Music Hall,Huntsville,Alabama,United States Of America,35801,700 Monroe St. SW,America/Chicago,19,yes
+Jacksonville Center for the Performing Arts - Moran Theater,Jacksonville,Florida,United States Of America,32202,300 West Water Street,America/New_York,33,yes
+America First Field,Sandy,Utah,United States Of America,84070,9256 State St,America/Denver,1,
+Macon City Auditorium,Macon,Georgia,United States Of America,31201,415 1st Street,America/New_York,18,yes
+Laughlin Event Center,Laughlin,Nevada,United States Of America,89029,500 E. Bruce Woodbury,America/Los_Angeles,2,
+Marquis,Denver,Colorado,United States Of America,80205,2009 Larimer St,America/Denver,42,yes
+Saint Louis Music Park,Maryland Heights,Missouri,United States Of America,63043,750 Casino Center Dr,America/Chicago,10,
+Bloomington Center for the Performing Arts,Bloomington,Illinois,United States Of America,61701,600 N. East Street,America/Chicago,32,yes
+Wintrust Arena,Chicago,Illinois,United States Of America,60616,200 E Cermak Road,America/Chicago,29,yes
+191 Toole,Tucson,Arizona,United States Of America,85701,191 E Toole Ave,America/Phoenix,40,yes
+Toyota Field,San Antonio,Texas,United States Of America,78233,5106 David Edwards Drive,America/Chicago,4,yes
+Apollo Theater,Chicago,Illinois,United States Of America,60614,2550 N Lincoln Ave,America/Chicago,112,yes
+Simmons Bank Liberty Stadium,Memphis,Tennessee,United States Of America,38104,335 South Hollywood St,America/Chicago,1,yes
+Fisher Theatre,Detroit,Michigan,United States Of America,48202,3011 W. Grand Blvd ,America/New_York,45,
+ Revolution Live at the Backyard,Ft Lauderdale,Florida,United States Of America,33312,100 SW 3rd Avenue,America/New_York,4,
+Treasure Island Amphitheater,Welch,Minnesota,United States Of America,55089,5734 Sturgeon Lake Road,America/Chicago,2,
+Huntington Bank Pavilion at Northerly Island,Chicago,Illinois,United States Of America,60605,1300 S. Linn White Drive,America/Chicago,8,yes
+Will Rogers Auditorium,Fort Worth,Texas,United States Of America,76107,3401 W. Lancaster Ave.,America/Chicago,12,
+RiverPark Center,Owensboro,Kentucky,United States Of America,42303,101 Daviess Street,America/Chicago,20,
+Jimmy’s Jazz and Blues Club,Portsmouth,New Hampshire,United States Of America,03801,135 Congress Street,America/New_York,84,
+Miami International Autodrome,Miami Gardens,Florida,United States Of America,33056,347 Don Shula Drive,America/New_York,6,
+Sound Waves at Hard Rock Hotel & Casino Atlantic City,Atlantic City,New Jersey,United States Of America,08401,1000 Boardwalk,America/New_York,17,yes
+Punch Line Philly,Philadelphia,Pennsylvania,United States Of America,19123,33 E. Laurel Street,America/New_York,118,
+Vina Robles Amphitheatre,Paso Robles,California,United States Of America,93446,3800 Mill Road,America/Los_Angeles,3,yes
+Resorts Atlantic City,Atlantic City,New Jersey,United States Of America,08404,1133 Boardwalk (At North Carolina),America/New_York,12,yes
+Arie Crown Theater,Chicago,Illinois,United States Of America,60616,2301 Lake Shore Dr At McCormick PL,America/Chicago,7,yes
+CCNB Amphitheatre at Heritage Park,Simpsonville,South Carolina,United States Of America,29681,861 SE Main St,America/New_York,2,
+Crown Theatre,Fayetteville,North Carolina,United States Of America,28306,1960 Coliseum Drive,America/New_York,13,yes
+Wexner Center Mershon Auditorium,Columbus,Ohio,United States Of America,43210,1871 N High St,America/New_York,8,yes
+Stephens Auditorium,Ames,Iowa,United States Of America,50011,Iowa State Center,America/Chicago,18,
+Comedy Cellar at Rio Las Vegas,Las Vegas,Nevada,United States Of America,89103,3700 W Flamingo Rd,America/Los_Angeles,411,yes
+Nashville Municipal Auditorium,Nashville,Tennessee,United States Of America,37201,417 4th Avenue North,America/Chicago,3,yes
+Tropicana Las Vegas,Las Vegas,Nevada,United States Of America,89119,3801 S Las Vegas Blvd,America/Los_Angeles,281,yes
+El Paso County Coliseum,El Paso,Texas,United States Of America,79905,4100 East Paisano Street,America/Denver,7,
+Emens Auditorium,Muncie,Indiana,United States Of America,47306,Ball State University,America/Indianapolis,12,yes
+Constellation Brands–Marvin Sands Performing Arts Center: CMAC,Canandaigua,New York,United States Of America,14424,3355 Marvin Sands Drive,America/New_York,3,yes
+NRG Arena,Houston,Texas,United States Of America,77054,One NRG Park,America/Chicago,5,
+Victory Theatre,Evansville,Indiana,United States Of America,47708,600 Main St,America/Chicago,14,
+Lake Tahoe Outdoor Arena at Harveys,Stateline,Nevada,United States Of America,89449,Highway 50 and Stateline Ave,America/Los_Angeles,3,yes
+Albany Civic Center,Albany,Georgia,United States Of America,31701,100 W Ogelthorpe Blvd,America/New_York,10,yes
+Avalon Theatre,Grand Junction,Colorado,United States Of America,81501,645 Main St,America/Denver,24,yes
+Alex Theatre,Glendale,California,United States Of America,91203,216 North Brand Boulevard,America/Los_Angeles,24,
+Blue Ocean Music Hall,Salisbury,Massachusetts,United States Of America,01952,4 Oceanfront North,America/New_York,30,yes
+The Queen,Wilmington,Delaware,United States Of America,19801,500 North Market Street,America/New_York,35,yes
+California Theatre,San Jose,California,United States Of America,95113,345 South First Street,America/Los_Angeles,32,
+Jefferson Theater,Charlottesville,Virginia,United States Of America,22902,110 E. Main St.,America/New_York,31,
+Macon Coliseum,Macon,Georgia,United States Of America,31217,200 Coliseum Drive,America/New_York,62,yes
+'O' Theatre at Bellagio Las Vegas,Las Vegas,Nevada,United States Of America,89109,3600 Las Vegas Blvd South,America/Los_Angeles,506,yes
+Scheels Arena,Fargo,North Dakota,United States Of America,58104,5225 31st Ave South,America/Chicago,27,yes
+Aura,Portland,Maine,United States Of America,04101,121 Center Street,America/New_York,17,yes
+Center Theatre at North Shore Center for the Performing Arts,Skokie,Illinois,United States Of America,60077,9501 Skokie Blvd,America/Chicago,33,yes
+Pelham Civic Complex,Pelham,Alabama,United States Of America,35124,500 Amphitheatre Road,America/Chicago,23,yes
+Borgata Event Center,Atlantic City,New Jersey,United States Of America,08401,One Borgata Way,America/New_York,3,
+Scranton Cultural Center,Scranton,Pennsylvania,United States Of America,18503,420 N. Washington Ave.,America/New_York,34,yes
+Credit Union 1 Arena at UIC,Chicago,Illinois,United States Of America,60607,525 South Racine,America/Chicago,29,
+California Theatre of the Performing Arts,San Bernardino,California,United States Of America,92401,562 W. 4th St,America/Los_Angeles,20,yes
+Landers Center ,Southaven,Mississippi,United States Of America,38671,4560 Venture Dr,America/Chicago,36,yes
+Cone Denim Entertainment Center,Greensboro,North Carolina,United States Of America,27401,117 S ELM STREET,America/New_York,3,yes
+Bud Walton Arena,Fayetteville,Arkansas,United States Of America,72701,1270 Nolan Richardson Dr,America/Chicago,21,
+Uptown Theatre Napa,Napa,California,United States Of America,94559,1350 3rd St,America/Los_Angeles,14,yes
+Revolution Concert House & Event Center,Garden City,Idaho,United States Of America,83714,4983 North Glenwood Street,America/Denver,9,
+Rio Showroom at Rio Las Vegas,Las Vegas,Nevada,United States Of America,89103,3700 W Flamingo RD,America/Los_Angeles,120,yes
+Niagara University Gallagher Center,Niagara University,New York,United States Of America,14109,University Dr,America/New_York,20,yes
+E.J. Thomas Hall - The University of Akron,Akron,Ohio,United States Of America,44325,198 Hill St,America/New_York,22,
+Ford Park,Beaumont,Texas,United States Of America,77705,5115 Ih-10 South,America/Chicago,16,yes
+The Sound at Coachman Park,Clearwater,Florida,United States Of America,33756,301 Drew Street,America/New_York,6,yes
+GEODIS Park,Nashville,Tennessee,United States Of America,37204,501 S. Benton Ave,America/Chicago,1,
+Harrah's Ak-Chin Casino,Maricopa,Arizona,United States Of America,85239,15406 Maricopa Road,America/Phoenix,5,
+Atlanta Motor Speedway,Hampton,Georgia,United States Of America,30228,1500 Hwy 19/41,America/New_York,6,yes
+Riverfront Park,Harrisburg,Pennsylvania,United States Of America,17104,200 South Front Street,America/New_York,1,
+Freedom Hall / Lancaster Convention Center,Lancaster,Pennsylvania,United States Of America,17603,25 S. Queen Street,America/New_York,4,
+First National Bank Arena,Jonesboro,Arkansas,United States Of America,72401,217 Olympic Drive,America/Chicago,30,
+XL Live,Harrisburg,Pennsylvania,United States Of America,17104,801 S 10th Street,America/New_York,29,
+United Palace,New York,New York,United States Of America,10033,"4140 Broadway, Corner of 175th St.",America/New_York,11,yes
+Monroe Civic Center,Monroe,Louisiana,United States Of America,71210,401 Lee Joyner Expressway,America/Chicago,2,yes
+Mountain America Stadium,Tempe,Arizona,United States Of America,85287,500 E. Veterans Way,America/Phoenix,1,
+Breese Stevens Field,Madison,Wisconsin,United States Of America,53703,917 E Mifflin St.,America/Chicago,1,
+The Spiegeltent at Caesars Palace,Las Vegas,Nevada,United States Of America,89109,3570 Las Vegas Blvd South,America/Los_Angeles,472,
+The Blue Note,Columbia,Missouri,United States Of America,65201,17 N 9th St,America/Chicago,35,
+Comerica Center,Frisco,Texas,United States Of America,75034,2601 Avenue of the Stars,America/Chicago,35,yes
+Music Box at the Borgata,Atlantic City,New Jersey,United States Of America,08401,One Borgata Way,America/New_York,25,
+Orpheum Theatre Sioux City,Sioux City,Iowa,United States Of America,51101,528 Pierce Street,America/Chicago,17,
+Fillmore New Orleans,New Orleans,Louisiana,United States Of America,70130,6 Canal St,America/Chicago,14,yes
+Rhode Island Convention Center,Providence,Rhode Island,United States Of America,02903,1 Sabin St,America/New_York,4,
+Morongo Casino Resort and Spa,Cabazon,California,United States Of America,92230,49500 Seminole Dr,America/Los_Angeles,14,yes
+The Love Theatre at The Mirage Hotel and Casino,Las Vegas,Nevada,United States Of America,89109,3400 Las Vegas Blvd South,America/Los_Angeles,264,yes
+Tyson Events Center,Sioux City,Iowa,United States Of America,51101,401 Gordon Dr.,America/Chicago,34,
+Toyota Stadium,Frisco,Texas,United States Of America,75033,9200 World Cup Way,America/Chicago,1,yes
+TempleLive Cleveland Masonic,Cleveland,Ohio,United States Of America,44115,3615 Euclid Avenue,America/New_York,13,
+The Event at Graton Resort & Casino,Rohnert Park,California,United States Of America,94928,630 Park Court,America/Los_Angeles,9,
+Criss Angel Theater at Planet Hollywood,Las Vegas,Nevada,United States Of America,89109,3667 Las Vegas Blvd S.,America/Los_Angeles,55,yes
+The Stone Pony,Asbury Park,New Jersey,United States Of America,07712,913 Ocean Ave,America/New_York,23,yes
+University of Dayton Arena,Dayton,Ohio,United States Of America,45401,1801 Edwin Moses Blvd.,America/New_York,27,
+Minglewood Hall,Memphis,Tennessee,United States Of America,38104,1555 Madison Ave.,America/Chicago,17,
+Pantages Theatre,Minneapolis,Minnesota,United States Of America,55403,710 Hennepin Avenue,America/Chicago,16,yes
+Jubilee Theater at Horseshoe Las Vegas,Las Vegas,Nevada,United States Of America,89109, 3645 Las Vegas Blvd. South,America/Los_Angeles,36,
+Harrison Opera House,Norfolk,Virginia,United States Of America,23510,160 E Virginia Beach Blvd.,America/New_York,12,yes
+FBC Mortgage Stadium,Orlando,Florida,United States Of America,32816,4465 Knights Victory Way,America/New_York,2,yes
+FedExField,Landover,Maryland,United States Of America,20785,1600 FedEx Way,America/New_York,6,yes
+Cadence Bank Amphitheatre at Chastain Park,Atlanta,Georgia,United States Of America,30327,4469 Stella Drive,America/New_York,4,yes
+Elevation 27,Virginia Beach,Virginia,United States Of America,23451,600 Nevan Rd,America/New_York,53,
+Sun Bowl Stadium,El Paso,Texas,United States Of America,79902,2501 Sun Bowl Drive,America/Denver,3,
+Five Flags Center,Dubuque,Iowa,United States Of America,52001,405 Main Street,America/Chicago,27,yes
+First Arena,Elmira,New York,United States Of America,14901,155 N. Main Street,America/New_York,19,yes
+Hill Field House,Baltimore ,Maryland,United States Of America,21251,1700 E Cold Spring Lane,America/New_York,14,yes
+Soundcheck,Washington,District of Columbia,United States Of America,20005,1420 K St NW,America/New_York,36,
+Crystal Ballroom at Somerville Theatre,Somerville,Massachusetts,United States Of America,02144,55 Davis Square,America/New_York,45,
+Eiffel Tower Viewing Deck at Paris Las Vegas,Las Vegas,Nevada,United States Of America,89109,3655 Las Vegas Blvd South,America/Los_Angeles,392,
+Saenger Theater Hattiesburg,Hattiesburg,Mississippi,United States Of America,39401,201 Forrest St,America/Chicago,9,
+The Masquerade - Purgatory,Atlanta,Georgia,United States Of America,30303,92 Pryor Street SW,America/New_York,46,yes
+MJ Nesheiwat Convention Center,Poughkeepsie,New York,United States Of America,12601,14 Civic Center Plaza,America/New_York,11,yes
+Radians Amphitheater,Memphis,Tennessee,United States Of America,38117,750 Cherry Road,America/Chicago,6,yes
+Jimmy Kimmel's Comedy Club,Las Vegas,Nevada,United States Of America,89109,3545 S Las Vegas Blvd,America/Los_Angeles,101,
+Truist Arena,Highland Heights,Kentucky,United States Of America,41099,500 Nunn Drive,America/New_York,23,yes
+Piedmont Hall,Greensboro,North Carolina,United States Of America,27403,2411 West Gate City Blvd,America/New_York,5,yes
+Harrah's Resort Atlantic City,Atlantic City,New Jersey,United States Of America,08401,777 Harrah's Boulevard,America/New_York,10,yes
+Chester Fritz Auditorium,Grand Forks,North Dakota,United States Of America,58202,3475 University Avenue,America/Chicago,8,yes
+Simon Skjodt Assembly Hall,Bloomington,Indiana,United States Of America,47405,17th Street ,America/Indianapolis,24,yes
+Hall des Lumières,New York ,New York,United States Of America,10007,49 Chambers Street,America/New_York,23,yes
+Hard Rock Cincinnati Ballroom,Cincinnati,Ohio,United States Of America,45202,1000 Broadway St,America/New_York,8,
+Portland Expo,Portland,Maine,United States Of America,04102,239 Park Avenue,America/New_York,20,yes
+Caribe Royale Orlando,Orlando,Florida,United States Of America,32821,8101 World Center Drive,America/New_York,2,
+Blue Man Theater at Luxor,Las Vegas,Nevada,United States Of America,89119,3900 S Las Vegas Blvd,America/Los_Angeles,795,
+Glen Helen Amphitheater,San Bernardino,California,United States Of America,92407,2575 Glen Helen Parkway,America/Los_Angeles,3,
+Desert Financial Arena,Tempe,Arizona,United States Of America,85287,634 E Veterans Way,America/Phoenix,26,
+Packard Music Hall,Warren,Ohio,United States Of America,44483,1703 Mahoning Ave NW,America/New_York,14,
+Broome County Forum Theatre,Binghamton,New York,United States Of America,13901,236 Washington Street,America/New_York,13,yes
+Bally's Event Center,Lincoln,Rhode Island,United States Of America,02865,100 Twin River Rd,America/New_York,6,yes
+Mahalia Jackson Theater for the Performing Arts,New Orleans,Louisiana,United States Of America,70116,1419 Basin Street,America/Chicago,6,yes
+Talking Stick Resort,Scottsdale ,Arizona,United States Of America,85256,9800 E. Talking Stick Way,America/Phoenix,5,
+Bridge View Center,Ottumwa,Iowa,United States Of America,52501,102 Church Street,America/Chicago,10,yes
+David Copperfield Theater at MGM Grand Hotel and Casino,Las Vegas,Nevada,United States Of America,89109,3799 Las Vegas Blvd South Las Vegas,America/Los_Angeles,647,
+The Astro,La Vista,Nebraska,United States Of America,68128,8302 City Centre Dr,America/Chicago,12,
+The Sanford Center,Bemidji,Minnesota,United States Of America,56601,1111 Event Center Drive NE,America/Chicago,24,
+Harrisburg Midtown Arts Center (HMAC) Capitol Room,Harrisburg,Pennsylvania,United States Of America,17102,1110 N 3rd Street,America/New_York,19,
+Penn & Teller Theater at Rio Las Vegas,Las Vegas,Nevada,United States Of America,89103,3700 W Flamingo RD,America/Los_Angeles,79,yes
+Buffalo RiverWorks,Buffalo,New York,United States Of America,14203,359 Ganson St,America/New_York,8,
+Punch Line Comedy Club - San Francisco,San Francisco,California,United States Of America,94111,444 Battery Street,America/Los_Angeles,119,
+William a Egan Civic and Convention Center,Anchorage,Alaska,United States Of America,99501,555 W 5th Avenue,America/Anchorage,16,
+Harrah's Showroom at Harrah's Las Vegas,Las Vegas,Nevada,United States Of America,89109,3475 Las Vegas Blvd S,America/Los_Angeles,82,yes
+Mobile Civic Center Arena,Mobile,Alabama,United States Of America,36602,401 Civic Center Dr.,America/Chicago,5,yes
+Koessler Athletic Center At Canisius University,Buffalo,New York,United States Of America,14208,2001 Main Street,America/New_York,19,yes
+Madrid Theatre,Kansas City,Missouri,United States Of America,64111,3810 Main Street,America/Chicago,15,yes
+Paramount Theatre,Anderson,Indiana,United States Of America,46015,1124 Meridian Plaza,America/Indianapolis,11,yes
+Canton Civic Center,Canton,Ohio,United States Of America,44702,1101 Market Ave. N.,America/New_York,5,
+The Rose Music Center at The Heights,Huber Heights,Ohio,United States Of America,45424,6800 Executive Blvd.,America/New_York,1,
+Deadwood Mountain Grand,Deadwood,South Dakota,United States Of America,57732,1906 Deadwood Mountain Drive,America/Denver,11,
+Majestic Theatre,Madison,Wisconsin,United States Of America,53703,115 King St.,America/Chicago,39,
+CH Mayo Presentation Hall at Mayo Civic Center,Rochester,Minnesota,United States Of America,55904,30 Civic Center Drive SE,America/Chicago,13,yes
+Baxter Arena,Omaha,Nebraska,United States Of America,68106,2425 S. 67th St,America/Chicago,37,yes
+Skyline Stage at the Mann,Philadelphia,Pennsylvania,United States Of America,19131,Top of the hill - 5201 Parkside Avenue ,America/New_York,1,yes
+Chateau Ste Michelle Winery,Woodinville,Washington,United States Of America,98072,14111 NE 145th Street,America/Los_Angeles,2,yes
+Charleston Municipal Auditorium,Charleston,West Virginia,United States Of America,25301,200 Civic Center Drive,America/New_York,4,yes
+Visions Veterans Memorial Arena,Binghamton,New York,United States Of America,13901,1 Stuart Street,America/New_York,23,yes
+White Oak Music Hall - Upstairs ,Houston,Texas,United States Of America,77009,"2915 N Main St,",America/Chicago,54,
+Civic Theatre,New Orleans,Louisiana,United States Of America,70113,510 O'Keefe St.,America/Chicago,9,
+Uptown Theater Minneapolis,Minneapolis,Minnesota,United States Of America,55408,2900 Hennepin Ave,America/Chicago,7,yes
+Southeast Christian Church,Louisville,Kentucky,United States Of America,40243, 920 Blankenbaker Pkwy,America/New_York,1,
+L'Auberge Casino & Hotel Baton Rouge ,Baton Rouge,Louisiana,United States Of America,70820,777 L'Auberge Avenue,America/Chicago,16,
+Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel,Council Bluffs,Iowa,United States Of America,51501,One Harrah's Blvd,America/Chicago,3,yes
+Aventura Arts & Cultural Center,Aventura,Florida,United States Of America,33180,3385 NE 188th Street,America/New_York,66,yes
+Pegula Ice Arena,University Park,Pennsylvania,United States Of America,16802,250 University Drive,America/New_York,9,yes
+The Shelter,Detroit,Michigan,United States Of America,48226,431 E Congress St.,America/New_York,20,yes
+Aloha Stadium,Honolulu,Hawaii,United States Of America,96820,99-500 Salt Lake Blvd.,Pacific/Honolulu,2,
+Seneca Niagara Resort & Casino Event Center,Niagara Falls,New York,United States Of America,14303,310 4th Street,America/New_York,4,yes
+Ameristar Casino and Hotel,Kansas City,Missouri,United States Of America,64161,3200 Ameristar Dr,America/Chicago,10,yes
+CoolToday Park,North Port,Florida,United States Of America,34293,18800 S. West Villages Parkway,America/New_York,50,yes
+Chippendales Theater at Rio Las Vegas,Las Vegas,Nevada,United States Of America,89103,3700 W Flamingo RD,America/Los_Angeles,148,yes
+"Scherr Forum- B of A Performing Arts Center, Thousand Oaks",Thousand Oaks,California,United States Of America,91362,2100 E. Thousand Oaks Blvd,America/Los_Angeles,43,yes
+The Loft,Atlanta,Georgia,United States Of America,30309,1374 West Peachtree St.,America/New_York,21,
+Jacobs Pavilion at Nautica,Cleveland,Ohio,United States Of America,44113,2014 Sycamore,America/New_York,1,yes
+Stormont Vail Events Center,Topeka,Kansas,United States Of America,66612,One Expocentre Drive,America/Chicago,4,yes
+Indiana Convention Center,Indianapolis,Indiana,United States Of America,46225,200 South Capitol Avenue,America/Indianapolis,5,yes
+Bugsy's Cabaret at Flamingo,Las Vegas,Nevada,United States Of America,89109,3555 Las Vegas Blvd,America/Los_Angeles,540,yes
+Arvest Bank Theatre at the Midland,Kansas City,Missouri,United States Of America,64105,1228 Main,America/Chicago,17,
+Imagine Showroom at Horseshoe Las Vegas,Las Vegas,Nevada,United States Of America,89109,3645 Las Vegas Blvd. South,America/Los_Angeles,689,
+MGM Grand Garden Arena,Las Vegas,Nevada,United States Of America,89109,3799 Las Vegas Blvd South,America/Los_Angeles,19,yes
+Minetta Lane Theatre,New York,New York,United States Of America,10012,18 Minetta Lane,America/New_York,15,yes
+BattleBots Arena Behind Horseshoe Las Vegas,Las Vegas,Nevada,United States Of America,89109,4165 Koval Ln,America/Los_Angeles,177,
+Sanford Pentagon,Sioux Falls,South Dakota,United States Of America,57107,2210 W. Pentagon Place,America/Chicago,28,
+Carl Perkins Civic Center,Jackson,Tennessee,United States Of America,38301,400 South Highland Avenue,America/Chicago,1,
+Allianz Field,St. Paul,Minnesota,United States Of America,55104,400 Snelling Ave. N,America/Chicago,1,
+Hinkle Fieldhouse,Indianapolis,Indiana,United States Of America,46208,510 W. 49th St.,America/Indianapolis,12,yes
+Garrett Coliseum,Montgomery,Alabama,United States Of America,36107,1555 Federal Drive,America/Chicago,9,yes
+Seneca Allegany Resort & Casino Event Center,Salamanca,New York,United States Of America,14779,777 Seneca Allegany Blvd,America/New_York,3,yes
+Scoot Inn,Austin,Texas,United States Of America,78702,1308 E 4th St,America/Chicago,17,
+Goodyear Theater,Akron,Ohio,United States Of America,44305,1201 East Market Street,America/New_York,16,
+Empire Live,Albany,New York,United States Of America,12207,93 N Pearl St,America/New_York,17,
+Liberty Hall,Lawrence,Kansas,United States Of America,66044,644 Massachusettes,America/Chicago,12,
+Harrah's Cabaret at Harrah's Las Vegas,Las Vegas,Nevada,United States Of America,89109,3475 Las Vegas Blvd S,America/Los_Angeles,688,yes
+Old Forester's Paristown Hall,Louisville,Kentucky,United States Of America,40204,724 Brent St,America/New_York,3,yes
+AMSOIL Arena,Duluth,Minnesota,United States Of America,55802,350 Harbor Drive,America/Chicago,19,
+Flagstar Strand Theatre for the Performing Arts,Pontiac,Michigan,United States Of America,48342,12 N. Saginaw St.,America/New_York,10,yes
+Ilani Cowlitz Ballroom,Ridgefield,Washington,United States Of America,98642,1 Cowlitz Way,America/Los_Angeles,2,
+South Shore Room at Harrah's Lake Tahoe,Stateline,Nevada,United States Of America,89449,15 Hwy 50,America/Los_Angeles,12,yes
+High Noon Saloon,Madison,Wisconsin,United States Of America,53703,701 East Washington Avenue,America/Chicago,49,
+Cool Insuring Arena ,Glens Falls,New York,United States Of America,12801,1 Civic Center Plaza,America/New_York,27,
+The Grand (Boston),Boston,Massachusetts,United States Of America,02210,58 Seaport Blvd #300,America/New_York,24,
+The Astro Amphitheater,La Vista,Nebraska,United States Of America,68102,8302 City Centre Dr,America/Chicago,5,
+"Clarence Brown Theatre, Univ of Tennessee",Knoxville,Tennessee,United States Of America,37996,1714 Andy Holt Ave,America/New_York,39,
+Nugget Event Center,Sparks,Nevada,United States Of America,89431,1100 Nugget Ave,America/Los_Angeles,2,
+Progressive Field,Cleveland,Ohio,United States Of America,44115,2401 Ontario Street,America/New_York,82,
+The Exhibition Hall at French Lick Resort,French Lick,Indiana,United States Of America,47432,8670 West State Road 56,America/New_York,4,yes
+Springfield Symphony Hall,Springfield,Massachusetts,United States Of America,01103,34 Court Street,America/New_York,2,yes
+Indiana University Memorial Stadium,Bloomington,Indiana,United States Of America,47405,1001 East 17th Street,America/New_York,1,yes
+Vinyl,Atlanta,Georgia,United States Of America,30309,1374 West Peachtree St,America/New_York,39,yes
+Spotlight 29 Casino,Coachella,California,United States Of America,92236,46-200 Harrison Place,America/Los_Angeles,7,yes
+Highland Festival Grounds at KY Expo Center,Louisville,Kentucky,United States Of America,40209,1016 Phillips Ln.,America/New_York,3,
+Covelli Center Columbus,Columbus,Ohio,United States Of America,43210,2640 Fred Taylor Dr.,America/New_York,11,yes
+Atlantic City Convention Center,Atlantic City,New Jersey,United States Of America,08401,One Convention Center Blvd,America/New_York,5,yes
+Fly LINQ Zipline at The LINQ Promenade,Las Vegas,Nevada,United States Of America,89109,3545 S Las Vegas Blvd,America/Los_Angeles,390,
+Thalia Mara Hall,Jackson,Mississippi,United States Of America,39216,255 E Pascagoula St,America/Chicago,10,yes
+The Ritz Ybor,Tampa,Florida,United States Of America,33675,1503 E 7th Ave,America/New_York,15,yes
+IP Casino Resort and Spa,Biloxi,Mississippi,United States Of America,39530,850 Bayview Ave,America/Chicago,9,yes
+Jo Long Theatre,San Antonio,Texas,United States Of America,78202,226 N Hackberry,America/Chicago,17,
+Madison Theater,Covington,Kentucky,United States Of America,41011,730 Madison Avenue,America/New_York,13,
+Tropicana Showroom at Tropicana Atlantic City,Atlantic City,New Jersey,United States Of America,08401,2831 Boardwalk Ave,America/New_York,15,yes
+Pappy + Harriet's Pioneertown Palace,Pioneertown,California,United States Of America,92268,53688 Pioneertown Rd.,America/Los_Angeles,7,
+Muckleshoot Casino Events Center,Auburn,Washington,United States Of America,98002,2402 Auburn Way S,America/Los_Angeles,7,
+Kohl Center,Madison,Wisconsin,United States Of America,53711,601 West Dayton Street,America/Chicago,34,yes
+Showroom at Casino Arizona,Scottsdale,Arizona,United States Of America,85271,101 and McKellips,America/Phoenix,21,
+The Summit Showroom at The Venetian Resort,Las Vegas,Nevada,United States Of America,89109,3355 South Las Vegas Boulevard  ,America/Los_Angeles,8,
+recordBar,Kansas City,Missouri,United States Of America,64108,1520 Grand Blvd.,America/Chicago,10,
+Michael Jackson ONE Theatre at Mandalay Bay Resort and Casino,Las Vegas,Nevada,United States Of America,89109,3950 Las Vegas Blvd South,America/Los_Angeles,494,
+The Ellis Theater,Philadelphia,Mississippi,United States Of America,39350,311 Byrd Avenue,America/Chicago,14,
+Templelive Fort Smith,Fort Smith,Arkansas,United States Of America,72901,200 N. 11th Street,America/Chicago,14,
+Emerald Queen Casino,Tacoma,Washington,United States Of America,98404,2920 East R Street,America/Los_Angeles,8,
+Silver Creek Event Center at Four Winds New Buffalo,New Buffalo,Michigan,United States Of America,49117,11111 Wilson Road,America/New_York,9,yes
+Mayo Civic Center Arena,Rochester,Minnesota,United States Of America,55904,30 Civic Ctr Dr SE,America/Chicago,3,yes
+Legends Casino Event Center,Toppenish,Washington,United States Of America,98948,580 Fort Road,America/Los_Angeles,7,yes
+Jackson Convention Complex,Jackson,Mississippi,United States Of America,39207,105 East Pascagoula Street,America/Chicago,2,yes
+The Wonder Bar,Asbury Park,New Jersey,United States Of America,07712,1213 Ocean Ave,America/New_York,22,
+Chartway Arena,Norfolk,Virginia,United States Of America,23529,4320 Hampton Boulevard,America/New_York,16,yes
+Ritz Theatre,Elizabeth,New Jersey,United States Of America,07201,1148 East Jersey St.,America/New_York,9,yes
+Jefferson Theatre,Beaumont,Texas,United States Of America,77701,345 Fannin Street,America/Chicago,13,
+Wrigley Field,Chicago,Illinois,United States Of America,60613,1060 West Addison,America/Chicago,84,
+The Saban,Beverly Hills,California,United States Of America,90211,8440 Wilshire Blvd,America/Los_Angeles,21,yes
+The Aretha Franklin Amphitheatre,Detroit,Michigan,United States Of America,48207,2600 E Atwater,America/New_York,16,yes
+Masonic Temple,Detroit,Michigan,United States Of America,48201,500 Temple,America/New_York,2,
+Royal Oak Music Theatre,Royal Oak,Michigan,United States Of America,48067,318 West Fourth St.,America/New_York,39,
+Seminole Center Outdoors,Immokalee,Florida,United States Of America,34142,506 1st Street,America/New_York,6,
+FAU Stadium,Boca Raton,Florida,United States Of America,33431,777 Glades Rd,America/New_York,1,yes
+Elliott Hall of Music,West Lafayette,Indiana,United States Of America,47907,Purdue University,America/Indianapolis,5,yes
+Tech CU Arena,San Jose,California,United States Of America,95192,1500 S Tenth Street,America/Los_Angeles,30,
+Brooklyn Made,Brooklyn ,New York,United States Of America,11237,428 Troutman St,America/New_York,12,
+Seminole Center,Immokalee,Florida,United States Of America,34142,506 1st Street,America/New_York,13,yes
+Harrah's Hoosier Park Terrace Showroom,Anderson,Indiana,United States Of America,46013,4500 Dan Patch Circle,America/New_York,2,
+Orpheum Theatre,New York,New York,United States Of America,10003,126 Second Ave.,America/New_York,30,yes
+Luckman Fine Arts Complex,Los Angeles,California,United States Of America,90032,5151 State University Drive,America/Los_Angeles,17,
+The Parish at House of Blues Anaheim,Anaheim,California,United States Of America,92802,"400 W Disney Way, #337",America/Los_Angeles,23,
+Memorial Auditorium,Wichita Falls,Texas,United States Of America,76301,1300 7th,America/Chicago,3,
+Lake Charles Civic Ctr Rosa Hart Theatre,Lake Charles,Louisiana,United States Of America,70611,900 Lakeshore Dr.,America/Chicago,4,
+Crest Theatre,Sacramento,California,United States Of America,95814,1013 K Street,America/Los_Angeles,52,yes
+Wally's,Hampton,New Hampshire,United States Of America,03842,144 Ashworth Avenue,America/New_York,8,
+The Showroom at the Golden Nugget,Las Vegas,Nevada,United States Of America,89101,129 E Fremont St,America/Los_Angeles,46,
+Laugh Factory Las Vegas,Las Vegas,Nevada,United States Of America,89109,3801 S Las Vegas Blvd,America/Los_Angeles,432,
+Orleans Arena,Las Vegas,Nevada,United States Of America,89103,4500 W. Tropicana Avenue,America/Los_Angeles,8,
+Eldorado Showroom at Eldorado Casino Reno,Reno,Nevada,United States Of America,89501,345 N Virginia St,America/Los_Angeles,28,
+KA Theatre at MGM Grand Hotel and Casino,Las Vegas,Nevada,United States Of America,89109,3799 Las Vegas Blvd South,America/Los_Angeles,510,
+Star Of The Desert Arena at Primm Valley Resorts,Primm,Nevada,United States Of America,89019,31700 S Las Vegas Blvd,America/Los_Angeles,7,
+Mizzou Arena,Columbia,Missouri,United States Of America,65211,Stadium Blvd,America/Chicago,11,yes
+The Southern Cafe & Music Hall,Charlottesville,Virginia,United States Of America,22902,103 South 1st St.,America/New_York,28,
+Churchill Downs,Louisville,Kentucky,United States Of America,40208,700 Central Ave,America/New_York,9,yes
+Tally Ho Theater,Leesburg,Virginia,United States Of America,20176,19 West Market St,America/New_York,37,
+Freeman Coliseum,San Antonio,Texas,United States Of America,78219,3201 E Houston St,America/Chicago,4,
+Fort Mose State Park,St. Augustine,Florida,United States Of America,32080,15 Fort Mose Trail,America/New_York,5,
+Liberty First Credit Union Arena,Ralston,Nebraska,United States Of America,68127,7300 Q Street,America/Chicago,24,
+Radius,Chicago,Illinois,United States Of America,60616,640 West Cermak Road,America/Chicago,2,
+La Crosse Center,La Crosse,Wisconsin,United States Of America,54601,300 Harborview Plaza,America/Chicago,10,yes
+Carnesecca Arena,Queens,New York,United States Of America,11439,8000 Utopia Parkway,America/New_York,2,
+Ophelia's Electric Soapbox,Denver,Colorado,United States Of America,80202,1215 20th St,America/Denver,24,
+Bob Hope Theatre,Stockton,California,United States Of America,95202,242 E Main St.,America/Los_Angeles,9,yes
+Thompson's Point,Portland,Maine,United States Of America,04102,1 Thompson’s Point,America/New_York,1,yes
+Benaroya Hall - S. Mark Taper Auditorium,Seattle,Washington,United States Of America,98111,200 University Street,America/Los_Angeles,25,
+Mystic Amphitheater,Prior Lake,Minnesota,United States Of America,55372,2400 Mystic Lake Blvd,America/Chicago,1,yes
+Braden Auditorium,Normal,Illinois,United States Of America,61761,University Street & College Avenue,America/Chicago,8,
+Scottish Rite Auditorium,Collingswood,New Jersey,United States Of America,08108,315 White Horse Pike,America/New_York,7,yes
+Blueberry Hill Duck Room,St Louis,Missouri,United States Of America,63130,6504 Delmar Blvd.,America/Chicago,17,yes
+Daytona International Speedway,Daytona Beach,Florida,United States Of America,32114,1801 W International Blvd,America/New_York,7,yes
+Charlotte Convention Center,Charlotte,North Carolina,United States Of America,28202,501 South College Street,America/New_York,3,yes
+Jon M Huntsman Center,Salt Lake City,Utah,United States Of America,84112,1825 East South Campus Drive,America/Denver,13,
+Dell Music Center,Philadelphia,Pennsylvania,United States Of America,19132,2400 Strawberry Mansion Drive,America/New_York,1,yes
+Watsco Center at the University of Miami,Coral Gables,Florida,United States Of America,33146,1245 Dauer Dr,America/New_York,21,yes
+Cannon Center for the Performing Arts,Memphis,Tennessee,United States Of America,38103,255 North Main Street,America/Chicago,9,yes
+Turner Theater,Franklin,Tennessee,United States Of America,37065,230 Franklin Road,America/Chicago,37,
+Toby's Dinner Theatre Columbia,Columbia,Maryland,United States Of America,21044,5900 Symphony Woods Road,America/New_York,202,yes
+Whitney Hall,Louisville,Kentucky,United States Of America,40202,The Kentucky Center,America/New_York,39,yes
+River City Casino & Hotel,St Louis,Missouri,United States Of America,63125,777 River City Casino Blvd,America/Chicago,6,yes
+Hale Arena,Kansas City,Missouri,United States Of America,64102,1701 American Royal CT,America/Chicago,2,
+KAISER PERMANENTE ARENA,Santa Cruz,California,United States Of America,95060,140 Front Street,America/Los_Angeles,19,
+Yucaipa Performing Arts Center Indoor Theatre,Yucaipa,California,United States Of America,92399,12062 California Street,America/Los_Angeles,12,
+UTEP Dinner Theatre,El Paso,Texas,United States Of America,79968,"207 Union Building West,  UTEP Campus",America/Denver,11,
+TempleLive Wichita,Wichita,Kansas,United States Of America,67202,332 E 1st St N,America/Chicago,16,
+L'Auberge Casino Resort - Lake Charles,Lake Charles,Louisiana,United States Of America,70601,777 Avenue L'Auberge ,America/Chicago,6,yes
