@@ -1,0 +1,98 @@
+Date,City,Country,Venue,Opening acts,Revenue,Tickets sold,Tickets available,Capacity
+March 18,Albany,United States,Times Union Center,Normani Social House,1268045,11432,11432,11432
+March 20,Boston,United States,TD Garden,Normani Social House,1670045,13125,13125,13125
+March 22,Buffalo,United States,KeyBank Center,Normani Social House,1470630,14459,14459,14459
+March 25,"Washington, D.C.",United States,Capital One Arena,Normani Social House,1832776,13598,13598,13598
+March 26,Philadelphia,United States,Wells Fargo Center,Normani Social House,1799863,14787,14787,14787
+March 28,Cleveland,United States,Quicken Loans Arena,Normani Social House,1554750,14763,14763,14763
+March 30,Uncasville,United States,Mohegan Sun Arena,Normani Social House,1112692,7097,7097,7097
+April 1,Montreal,Canada,Bell Centre,Normani Social House,1440460,14620,15643,15643
+April 3,Toronto,Canada,Scotiabank Arena,Normani Social House,1565703,14663,14663,14663
+April 5,Detroit,United States,Little Caesars Arena,Normani Social House,1508715,13698,13698,13698
+April 25,Edmonton,Canada,Rogers Place,Normani Social House,1493948,13947,13947,13947
+April 27,Vancouver,Canada,Rogers Arena,Normani Social House,1617978,14363,14363,14363
+April 30,Portland,United States,Moda Center,Normani Social House,1469277,13692,13692,13692
+May 2,San Jose,United States,SAP Center,Normani Social House,1730098,13605,13605,13605
+May 3,Sacramento,United States,Golden 1 Center,Normani Social House,1737905,13886,13886,13886
+May 6,Los Angeles,United States,Staples Center,Normani Social House,3277659,27916,27916,27916
+May 7,Los Angeles,United States,Staples Center,Normani Social House,3277659,27916,27916,27916
+May 10,Inglewood,United States,The Forum,Normani Social House,2149419,14417,14417,14417
+May 11,Las Vegas,United States,T-Mobile Arena,Normani Social House,1555349,15194,15194,15194
+May 14,Phoenix,United States,Talking Stick Resort Arena,Normani Social House,1492678,13343,13343,13343
+May 17,San Antonio,United States,AT&T Center,Normani Social House,1678465,14860,14860,14860
+May 19,Houston,United States,Toyota Center,Normani Social House,1602420,12483,12483,12483
+May 21,Dallas,United States,American Airlines Center,Normani Social House,1601901,14262,14262,14262
+May 23,Oklahoma City,United States,Chesapeake Energy Arena,Normani Social House,1347629,12668,12668,12668
+May 25,New Orleans,United States,Smoothie King Center,Normani Social House,1376994,12889,12889,12889
+May 31,Miami,United States,American Airlines Arena,Normani Social House,3146471,26704,26704,26704
+June 1,Miami,United States,American Airlines Arena,Normani Social House,3146471,26704,26704,26704
+June 4,Chicago,United States,United Center,Normani Social House,3468667,28941,28941,28941
+June 5,Chicago,United States,United Center,Normani Social House,3468667,28941,28941,28941
+June 7,Nashville,United States,Bridgestone Arena,Normani Social House,1437761,13835,13835,13835
+June 8,Atlanta,United States,State Farm Arena,Normani Social House,1220686,12317,12317,12317
+June 10,Charlotte,United States,Spectrum Center,Normani Social House,1550790,14972,14972,14972
+June 12,Pittsburgh,United States,PPG Paints Arena,Social House[c],1518932,14343,14343,14343
+June 14,Brooklyn,United States,Barclays Center,Normani Social House,4378453,28972,28972,28972
+June 15,Brooklyn,United States,Barclays Center,Normani Social House,4378453,28972,28972,28972
+June 18,New York City,United States,Madison Square Garden,Normani Social House,5492909,28576,28576,28576
+June 19,New York City,United States,Madison Square Garden,Normani Social House,5492909,28576,28576,28576
+June 21,"Washington, D.C.",United States,Capital One Arena,Normani Social House,1782835,13897,13897,13897
+June 22,Boston,United States,TD Garden,Normani Social House,1628077,13242,13242,13242
+June 24,Philadelphia,United States,Wells Fargo Center,Normani Social House,1807505,14968,14968,14968
+June 26,Toronto,Canada,Scotiabank Arena,Normani Social House,1539282,15073,15073,15073
+June 29,Indianapolis,United States,Bankers Life Fieldhouse,Normani Social House,1346335,13773,13773,13773
+July 1,Columbus,United States,Schottenstein Center,Normani Social House,1361839,13576,13576,13576
+July 5,Milwaukee,United States,Fiserv Forum,Normani Social House,1310830,12040,12040,12040
+July 6,St. Louis,United States,Enterprise Center,Normani Social House,1547186,14474,14474,14474
+July 8,Saint Paul,United States,Xcel Energy Center,Normani Social House,1751076,14789,14789,14789
+July 11,Denver,United States,Pepsi Center,Normani Social House,1446520,13258,13258,13258
+July 13,Salt Lake City,United States,Vivint Smart Home Arena,Normani Social House,1163364,12569,12569,12569
+August 17,London,England,The O2 Arena,Ella Mai Social House,5313530,49950,51426,51426
+August 19,London,England,The O2 Arena,Ella Mai Social House,5313530,49950,51426,51426
+August 20,London,England,The O2 Arena,Ella Mai Social House,5313530,49950,51426,51426
+August 23,Amsterdam,Netherlands,Ziggo Dome,Ella Mai Social House,2423340,32407,32407,32407
+August 24,Amsterdam,Netherlands,Ziggo Dome,Ella Mai Social House,2423340,32407,32407,32407
+August 27,Paris,France,AccorHotels Arena,Ella Mai Social House,2649344,31521,32520,32520
+August 28,Paris,France,AccorHotels Arena,Ella Mai Social House,2649344,31521,32520,32520
+August 30,Antwerp,Belgium,Sportpaleis,Ella Mai Social House,1366100,20720,21826,21826
+September 1,Cologne,Germany,Lanxess Arena,Ella Mai Social House,1460540,15928,15928,15928
+September 3,Vienna,Austria,Wiener Stadthalle,Ella Mai Social House,1597690,15090,15090,15090
+September 4,Prague,Czech Republic,O2 Arena,Ella Mai Social House,1258644,13624,13624,13624
+September 11,Amsterdam,Netherlands,Ziggo Dome,Ella Mai Social House,1238670,15844,15844,15844
+September 14,Birmingham,England,Arena Birmingham,Ella Mai Social House,2774610,26704,27810,27810
+September 15,Birmingham,England,Arena Birmingham,Ella Mai Social House,2774610,26704,27810,27810
+September 17,Glasgow,Scotland,SSE Hydro,Ella Mai Social House,1342620,12994,12994,12994
+September 19,Sheffield,England,FlyDSA Arena,Ella Mai Social House,1025363,12764,12764,12764
+September 22,Dublin,Ireland,3Arena,Ella Mai Social House,3688950,37905,37905,37905
+September 23,Dublin,Ireland,3Arena,Ella Mai Social House,3688950,37905,37905,37905
+September 25,Dublin,Ireland,3Arena,Ella Mai Social House,3688950,37905,37905,37905
+September 28,Hamburg,Germany,Barclaycard Arena,Ella Mai Social House,1142830,12614,13377,13377
+October 1,Copenhagen,Denmark,Royal Arena,Ella Mai Social House,1264240,15473,15473,15473
+October 3,Oslo,Norway,Telenor Arena,Ella Mai Social House,1816140,23911,23911,23911
+October 5,Helsinki,Finland,Hartwall Arena,Ella Mai Social House,1353560,11547,11547,11547
+October 7,Stockholm,Sweden,Ericsson Globe,Ella Mai Social House,1264240,13831,13831,13831
+October 9,Hamburg,Germany,Barclaycard Arena,Ella Mai Social House,1088470,11553,11553,11553
+October 10,Berlin,Germany,Mercedes-Benz Arena,Ella Mai Social House,1216250,13531,13531,13531
+October 13,Zürich,Switzerland,Hallenstadion,Ella Mai Social House,1367790,13370,13370,13370
+October 15,London,England,The O2 Arena,Ella Mai Social House,3061320,26369,29062,29062
+October 16,London,England,The O2 Arena,Ella Mai Social House,3061320,26369,29062,29062
+November 9,Uniondale,United States,Nassau Veterans Memorial Coliseum,Social House,1580315,11464,11464,11464
+November 12,Brooklyn,United States,Barclays Center,Social House,1982444,14151,14151,14151
+November 15,Charlottesville,United States,John Paul Jones Arena,Social House,1102879,9940,9940,9940
+November 19,Atlanta,United States,State Farm Arena,Social House,1121970,10599,10599,10599
+November 22,Raleigh,United States,PNC Arena,Social House,1385720,13041,13041,13041
+November 24,Tampa,United States,Amalie Arena,Social House,1430092,14067,14067,14067
+November 25,Orlando,United States,Amway Center,Social House,1431037,13112,13112,13112
+November 27,Miami,United States,American Airlines Arena,Social House,1411818,12100,12100,12100
+December 1,Jacksonville,United States,VyStar Veterans Memorial Arena,Social House,965794,10560,10560,10560
+December 3,Columbia,United States,Colonial Life Arena,Social House,1104939,11984,11984,11984
+December 5,Nashville,United States,Bridgestone Arena,Social House,1140202,10471,10471,10471
+December 7,Memphis,United States,FedExForum,Social House,1009205,11826,11826,11826
+December 9,Dallas,United States,American Airlines Center,Social House,1645800,13834,13834,13834
+December 12,Phoenix,United States,Talking Stick Resort Arena,Social House,1465817,12951,12951,12951
+December 13,Anaheim,United States,Honda Center,Social House,1686682,12575,12575,12575
+December 15,Las Vegas,United States,MGM Grand Garden Arena,Social House,1210935,10377,10377,10377
+December 17,San Francisco,United States,Chase Center,Social House,3065557,22990,22990,22990
+December 18,San Francisco,United States,Chase Center,Social House,3065557,22990,22990,22990
+December 21,Inglewood,United States,The Forum,Social House,3383378,25810,25810,25810
+December 22,Inglewood,United States,The Forum,Social House,3383378,25810,25810,25810
