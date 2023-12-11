@@ -1,5 +1,5 @@
 Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capacity
-29-09-2012,Glendale,United States,Jobing.com Arena,Cody Simpson Carly Rae Jepsen,1013460.0,13428,13428,13428
+29-09-2012,Glendale,United States,Jobingcom Arena,Cody Simpson Carly Rae Jepsen,1013460.0,13428,13428,13428
 30-09-2012,Las Vegas,United States,MGM Grand Garden Arena,Cody Simpson Carly Rae Jepsen,1076868.0,13504,13504,13504
 02-10-2012,Los Angeles,United States,Staples Center,Cody Simpson Carly Rae Jepsen,2238937.0,27546,27546,27546
 03-10-2012,Los Angeles,United States,Staples Center,Cody Simpson Carly Rae Jepsen,2238937.0,27546,27546,27546
@@ -21,13 +21,12 @@ Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capac
 29-10-2012,Dallas,United States,American Airlines Center,Carly Rae Jepsen,1066183.0,14094,14094,14094
 30-10-2012,Houston,United States,Toyota Center,Carly Rae Jepsen,1021718.0,13084,13084,13084
 01-11-2012,Memphis,United States,FedExForum,Carly Rae Jepsen,932669.0,13511,13511,13511
-02-11-2012,Louisville,United States,KFC Yum! Center,Carly Rae Jepsen,1158153.0,16334,16334,16334
+02-11-2012,Louisville,United States,KFC Yum Center,Carly Rae Jepsen,1158153.0,16334,16334,16334
 04-11-2012,Philadelphia,United States,Wells Fargo Center,Carly Rae Jepsen,1247574.0,15393,15393,15393
 05-11-2012,"Washington, D.C.",United States,Verizon Center,Cody Simpson Jaden Smith,1169569.0,14472,14472,14472
 09-11-2012,East Rutherford,United States,Izod Center,Cody Simpson Jaden Smith,1233492.0,15956,15956,15956
 10-11-2012,Boston,United States,TD Garden,Cody Simpson Jaden Smith,1087270.0,13561,13561,13561
 12-11-2012,New York City,United States,Barclays Center,Cody Simpson Jaden Smith,1107390.0,14261,14261,14261
-20-11-2012,Pittsburgh,United States,Consol Energy Center,—,1029318.0,14263,14263,14263
 21-11-2012,Auburn Hills,United States,The Palace of Auburn Hills,Carly Rae Jepsen,1178456.0,15469,15469,15469
 23-11-2012,Ottawa,Canada,Scotiabank Place,Carly Rae Jepsen The Wanted,1104550.0,13696,13696,13696
 26-11-2012,Montreal,Canada,Bell Centre,Carly Rae Jepsen The Wanted,1255360.0,15870,15870,15870
@@ -38,7 +37,7 @@ Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capac
 07-01-2013,Denver,United States,Pepsi Center,Carly Rae Jepsen,1015154.0,13629,13629,13629
 09-01-2013,Tulsa,United States,BOK Center,Carly Rae Jepsen,888101.0,12985,12985,12985
 10-01-2013,North Little Rock,United States,Verizon Arena,Carly Rae Jepsen,974452.0,14849,14849,14849
-12-01-2013,San Antonio,United States,AT&T Center,Carly Rae Jepsen,985153.0,14653,14653,14653
+12-01-2013,San Antonio,United States,ATT Center,Carly Rae Jepsen,985153.0,14653,14653,14653
 15-01-2013,New Orleans,United States,New Orleans Arena,Carly Rae Jepsen Cody Simpson,1002620.0,13986,13986,13986
 16-01-2013,Birmingham,United States,Legacy Arena,Carly Rae Jepsen Cody Simpson,920078.0,13530,13530,13530
 18-01-2013,Nashville,United States,Bridgestone Arena,Carly Rae Jepsen Cody Simpson,1046887.0,14287,14287,14287
@@ -61,11 +60,6 @@ Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capac
 02-04-2013,Hamburg,Germany,O2 World Hamburg,Neon Dogs,871682.0,9204,12984,12984
 10-04-2013,Antwerp,Belgium,Sportpaleis,3M8S,2598300.0,35751,36939,36939
 11-04-2013,Antwerp,Belgium,Sportpaleis,3M8S,2598300.0,35751,36939,36939
-16-04-2013,Oslo,Norway,Telenor Arena,—,7887802.0,69246,71091,71091
-17-04-2013,Oslo,Norway,Telenor Arena,—,7887802.0,69246,71091,71091
-18-04-2013,Oslo,Norway,Telenor Arena,—,7887802.0,69246,71091,71091
-04-05-2013,Dubai,United Arab Emirates,The Sevens Stadium,—,7773419.0,28544,46850,46850
-05-05-2013,Dubai,United Arab Emirates,The Sevens Stadium,—,7773419.0,28544,46850,46850
 22-06-2013,San Diego,United States,Valley View Casino Center,Hot Chelle Rae Mike Posner,915852.0,10832,10832,10832
 24-06-2013,Los Angeles,United States,Staples Center,Hot Chelle Rae Mike Posner,2307566.0,27994,27994,27994
 25-06-2013,Los Angeles,United States,Staples Center,Hot Chelle Rae Mike Posner,2307566.0,27994,27994,27994
@@ -96,16 +90,8 @@ Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capac
 07-08-2013,Jacksonville,United States,Jacksonville Veterans Memorial Arena,Ariana Grande Cody Simpson,936990.0,11526,11526,11526
 08-08-2013,Tampa,United States,Tampa Bay Times Forum,Ariana Grande Cody Simpson,1101576.0,14099,14099,14099
 10-08-2013,Atlanta,United States,Philips Arena,Ariana Grande Cody Simpson,1019885.0,12407,12407,12407
-19-10-2013,San Juan,Puerto Rico,Coliseo de Puerto Rico,—,1707044.0,13674,13674,13674
-22-10-2013,Santo Domingo,Dominican Republic,Estadio Olímpico Félix Sánchez,—,941883.0,11321,21850,21850
-26-10-2013,Guatemala City,Guatemala,Estadio Cementos Progreso,—,941883.0,8851,18500,18500
-31-10-2013,Quito,Ecuador,Estadio Olímpico Atahualpa,—,2481840.0,18962,27000,27000
 02-11-2013,São Paulo,Brazil,Arena Anhembi,P9,3266480.0,31922,33374,33374
-03-11-2013,Rio de Janeiro,Brazil,Praça da Apoteose,—,2460450.0,22598,33199,33199
-06-11-2013,Asunción,Paraguay,Hipódromo de Asunción,—,1228090.0,11325,22780,22780
 12-11-2013,Santiago,Chile,Estadio Nacional,Carly Rae Jepsen Owl City,4948320.0,47969,52300,52300
-18-11-2013,Mexico City,Mexico,Foro Sol,—,6999860.0,98358,107746,107746
-19-11-2013,Mexico City,Mexico,Foro Sol,—,6999860.0,98358,107746,107746
 26-11-2013,Brisbane,Australia,Brisbane Entertainment Centre,Cody Simpson,1655360.0,13263,19960,19960
 27-11-2013,Brisbane,Australia,Brisbane Entertainment Centre,Cody Simpson,1655360.0,13263,19960,19960
 29-11-2013,Sydney,Australia,Allphones Arena,Cody Simpson,2946530.0,22911,24566,24566
