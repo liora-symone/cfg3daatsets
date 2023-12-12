@@ -1,0 +1,61 @@
+event_name,date,artist_name,average_price,tickets_sold,tickets_available,revenue,capacity,venue_name,venue_city,venue_country
+Rush of Blood tour,2002-08-06,Coldplay,8.461538461538462,650,650,5500,650,Paradise Rock Club,Boston,United States
+Rush of Blood tour,2002-08-07,Coldplay,9.101234567901235,810,810,7372,810,Theatre of Living Arts,Philadelphia,United States
+Rush of Blood tour,2002-08-10,Coldplay,10.5,1102,1102,11571,1102,9:30 Club,"Washington, D.C.",United States
+Rush of Blood tour,2002-08-14,Coldplay,11.44182389937107,1272,1272,14554,1272,First Avenue,Minneapolis,United States
+Rush of Blood tour,2002-08-16,Coldplay,35.0,625,625,21875,625,Fox Theatre,Boulder,United States
+Rush of Blood tour,2002-09-04,Coldplay,27.50017500875044,2857,2857,78568,2857,Paramount Theatre,Seattle,United States
+Rush of Blood tour,2002-09-06,Coldplay,29.275862068965516,8700,8700,254700,8700,Hearst Greek Theatre,Berkeley,United States
+Rush of Blood tour,2002-09-09,Coldplay,26.75005649717514,4425,4798,118369,4798,SDSU Open Air Theatre,San Diego,United States
+Rush of Blood tour,2002-09-10,Coldplay,27.33626588465298,6138,6138,167790,6138,Greek Theatre,Los Angeles,United States
+Rush of Blood tour,2002-09-16,Coldplay,28.5,3860,4400,110010,4400,Pier Six Pavilion,Baltimore,United States
+Rush of Blood tour,2002-09-17,Coldplay,28.44656414249562,5137,5137,146130,5137,FleetBoston Pavilion,Boston,United States
+Rush of Blood tour,2002-09-19,Coldplay,28.899248447881494,9181,14029,265324,14029,Tommy Hilfiger at Jones Beach Theater,Wantagh,United States
+Rush of Blood tour,2002-09-21,Coldplay,26.674311169773965,6061,6061,161673,6061,Air Canada Centre,Toronto,Canada
+Rush of Blood tour,2002-09-24,Coldplay,30.0,5456,8000,163680,8000,UIC Pavilion,Chicago,United States
+Rush of Blood tour,2002-10-11,Coldplay,28.407392686804453,15096,15160,428838,15160,Manchester Evening News Arena,Manchester,England
+Rush of Blood tour,2002-11-05,Coldplay,29.460624679979517,9765,9765,287683,9765,Ahoy Rotterdam,Rotterdam,Netherlands
+Rush of Blood tour,2003-01-24,Coldplay,30.48507718696398,2915,2915,88864,2915,BJCC Concert Hall,Birmingham,England
+Rush of Blood tour,2003-01-21,Coldplay,32.48571428571429,2800,2800,90960,2800,Hard Rock Live,Orlando,United States
+Rush of Blood tour,2003-01-22,Coldplay,32.749957961997644,5947,5947,194764,5947,UM Convocation Center,Coral Gables,United States
+Rush of Blood tour,2003-01-25,Coldplay,28.73793103448276,2900,2900,83340,2900,Grady Cole Center,Charlotte,United States
+Rush of Blood tour,2003-01-27,Coldplay,35.0,2534,2534,88690,2534,Saenger Theatre,New Orleans,United States
+Rush of Blood tour,2003-01-28,Coldplay,30.746722097857372,3127,3127,96145,3127,Verizon Wireless Theater,Houston,United States
+Rush of Blood tour,2003-01-29,Coldplay,30.0,4731,6290,141930,6290,Frank Erwin Center,Austin,United States
+Rush of Blood tour,2003-01-31,Coldplay,35.0,5952,6333,208320,6333,NextStage Performance Theater,Grand Prarie,United States
+Rush of Blood tour,2003-02-01,Coldplay,32.50022094564737,2263,2263,73548,2263,Oklahoma City Music Hall,Oklahoma City,United States
+Rush of Blood tour,2003-02-03,Coldplay,29.27974127974128,4329,5024,126752,5024,Savvis Center,St Louis,United States
+Rush of Blood tour,2003-02-04,Coldplay,30.383631713554987,3128,3153,95040,3153,Memorial Hall,Kansas City,United States
+Rush of Blood tour,2003-02-06,Coldplay,30.0,3600,3600,108000,3600,Fillmore Auditorium,Denver,United States
+Rush of Blood tour,2003-02-09,Coldplay,29.274210416230915,4781,4781,139960,4781,Dodge Theatre,Phoenix,United States
+Rush of Blood tour,2003-02-24,Coldplay,22.045699614890886,7790,8578,171736,8578,Corel Centre,Ottawa,Canada
+Rush of Blood tour,2003-02-25,Coldplay,28.32357433808554,11784,12414,333765,12414,Bell Centre,Montreal,Canada
+Rush of Blood tour,2003-02-27,Coldplay,32.64225118973722,4833,4833,157760,4833,Oakdale Theatre,Wallingford,United States
+Rush of Blood tour,2003-02-28,Coldplay,28.855542624381727,6874,6874,198353,6874,Tweeter Center,Camden,United States
+Rush of Blood tour,2003-03-02,Coldplay,30.32635746606335,3536,3810,107234,3810,A.J. Palumbo Center,Pittsburgh,United States
+Rush of Blood tour,2003-03-03,Coldplay,29.57697931898893,4787,4787,141585,4787,Fox Theatre,Detroit,United States
+Rush of Blood tour,2003-03-04,Coldplay,30.885532591414943,2516,2516,77708,2516,Murat Theatre,Indianapolis,United States
+Rush of Blood tour,2003-03-06,Coldplay,33.67588932806324,7084,7084,238560,7084,Gwinnett Civic Center Arena,Duluth,United States
+Rush of Blood tour,2003-03-09,Coldplay,28.0,2300,2300,64400,2300,PromoWest Pavilion,Columbus,United States
+Rush of Blood tour,2003-03-07,Coldplay,34.0,2179,2179,74086,2179,Ryman Auditorium,Nashville,United States
+Rush of Blood tour,2003-03-10,Coldplay,31.209647495361782,2695,2695,84110,2695,Palace Theatre,Louisville,United States
+Rush of Blood tour,2003-03-13,Coldplay,28.453965136263196,8146,9481,231786,9481,Target Center,Minneapolis,United States
+Rush of Blood tour,2003-04-14,Coldplay,31.991034571723425,15504,15636,495989,15636,Manchester Evening News Arena,Manchester,England
+Rush of Blood tour,2003-05-20,Coldplay,25.157215921725594,4497,4500,113132,4500,Shaw Conference Centre,Edmonton,Canada
+Rush of Blood tour,2003-05-21,Coldplay,27.49312028406569,9012,9844,247768,9844,Pengrowth Saddledome,Calgary,Canada
+Rush of Blood tour,2003-05-23,Coldplay,26.198243412797993,11955,13628,313200,13628,General Motors Place,Vancouver,Canada
+Rush of Blood tour,2003-05-25,Coldplay,35.0,5200,5200,182000,5200,Les Schwab Amphitheater,Bend,United States
+Rush of Blood tour,2003-05-27,Coldplay,30.259136212624586,2408,3100,72864,3100,Bank of America Centre,Boise,United States
+Rush of Blood tour,2003-05-28,Coldplay,23.26270588235294,8500,8500,197733,8500,AutoWest Amphitheatre,Wheatland,United States
+Rush of Blood tour,2003-05-30,Coldplay,28.87372013651877,20217,21895,583740,21895,Shoreline Amphitheatre,Mountain View,United States
+Rush of Blood tour,2003-06-03,Coldplay,34.75002678667095,9333,9333,324322,9333,Cox Arena,San Diego,United States
+Rush of Blood tour,2003-06-05,Coldplay,33.96624147789751,18188,18890,617778,18890,Red Rocks Amphitheatre,Morrison,United States
+Rush of Blood tour,2003-06-09,Coldplay,35.62591659028414,8728,8728,310943,8728,UIC Pavilion,Chicago,United States
+Rush of Blood tour,2003-06-10,Coldplay,27.549796016318695,8334,8334,229600,8334,Tower City Amphitheater,Cleveland,United States
+Rush of Blood tour,2003-06-11,Coldplay,19.886513963743262,16328,16328,324707,16328,Molson Canadian Amphitheatre,Toronto,Canada
+Rush of Blood tour,2003-06-13,Coldplay,36.94433878534297,15774,15774,582760,15774,Madison Square Garden,New York City,United States
+Rush of Blood tour,2003-07-18,Coldplay,42.10045792787636,10482,10500,441297,10500,Rod Laver Arena,Melbourne,Australia
+Rush of Blood tour,2003-07-21,Coldplay,42.10048030739674,10410,10500,438266,10500,Hordern Pavilion,Sydney,Australia
+Rush of Blood tour,2003-09-03,Coldplay,25.888869195320808,5642,5642,146065,5642,Via Funchal,São Paulo,Brazil
+Rush of Blood tour,2003-09-04,Coldplay,21.304516129032258,7750,7750,165110,7750,ATL Hall,Rio de Janeiro,Brazil
+Rush of Blood tour,2003-09-07,Coldplay,27.61408850994722,39408,39408,1088216,39408,Palacio de los Deportes,Mexico City ,Mexico
