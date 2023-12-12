@@ -1,0 +1,98 @@
+Date,City,Country,Venue,Opening acts,Revenue,Tickets sold,Tickets available,Capacity
+2019-03-18,Albany,United States,Times Union Center,"Normani, Social House",1268045,11432,11432,11432
+2019-03-20,Boston,United States,TD Garden,"Normani, Social House",1670045,13125,13125,13125
+2019-03-22,Buffalo,United States,KeyBank Center,"Normani, Social House",1470630,14459,14459,14459
+2019-03-25,"Washington, D.C.",United States,Capital One Arena,"Normani, Social House",1832776,13598,13598,13598
+2019-03-26,Philadelphia,United States,Wells Fargo Center,"Normani, Social House",1799863,14787,14787,14787
+2019-03-28,Cleveland,United States,Quicken Loans Arena,"Normani, Social House",1554750,14763,14763,14763
+2019-03-30,Uncasville,United States,Mohegan Sun Arena,"Normani, Social House",1112692,7097,7097,7097
+2019-04-01,Montreal,Canada,Bell Centre,"Normani, Social House",1440460,14620,15643,15643
+2019-04-03,Toronto,Canada,Scotiabank Arena,"Normani, Social House",1565703,14663,14663,14663
+2019-04-05,Detroit,United States,Little Caesars Arena,"Normani, Social House",1508715,13698,13698,13698
+2019-04-25,Edmonton,Canada,Rogers Place,"Normani, Social House",1493948,13947,13947,13947
+2019-04-27,Vancouver,Canada,Rogers Arena,"Normani, Social House",1617978,14363,14363,14363
+2019-04-30,Portland,United States,Moda Center,"Normani, Social House",1469277,13692,13692,13692
+2019-05-02,San Jose,United States,SAP Center,"Normani, Social House",1730098,13605,13605,13605
+2019-05-03,Sacramento,United States,Golden 1 Center,"Normani, Social House",1737905,13886,13886,13886
+2019-05-06,Los Angeles,United States,Staples Center,"Normani, Social House",3277659,27916,27916,27916
+2019-05-07,Los Angeles,United States,Staples Center,"Normani, Social House",3277659,27916,27916,27916
+2019-05-10,Inglewood,United States,The Forum,"Normani, Social House",2149419,14417,14417,14417
+2019-05-11,Las Vegas,United States,T-Mobile Arena,"Normani, Social House",1555349,15194,15194,15194
+2019-05-14,Phoenix,United States,Talking Stick Resort Arena,"Normani, Social House",1492678,13343,13343,13343
+2019-05-17,San Antonio,United States,AT&T Center,"Normani, Social House",1678465,14860,14860,14860
+2019-05-19,Houston,United States,Toyota Center,"Normani, Social House",1602420,12483,12483,12483
+2019-05-21,Dallas,United States,American Airlines Center,"Normani, Social House",1601901,14262,14262,14262
+2019-05-23,Oklahoma City,United States,Chesapeake Energy Arena,"Normani, Social House",1347629,12668,12668,12668
+2019-05-25,New Orleans,United States,Smoothie King Center,"Normani, Social House",1376994,12889,12889,12889
+2019-05-31,Miami,United States,American Airlines Arena,"Normani, Social House",3146471,26704,26704,26704
+2019-06-01,Miami,United States,American Airlines Arena,"Normani, Social House",3146471,26704,26704,26704
+2019-06-04,Chicago,United States,United Center,"Normani, Social House",3468667,28941,28941,28941
+2019-06-05,Chicago,United States,United Center,"Normani, Social House",3468667,28941,28941,28941
+2019-06-07,Nashville,United States,Bridgestone Arena,"Normani, Social House",1437761,13835,13835,13835
+2019-06-08,Atlanta,United States,State Farm Arena,"Normani, Social House",1220686,12317,12317,12317
+2019-06-10,Charlotte,United States,Spectrum Center,"Normani, Social House",1550790,14972,14972,14972
+2019-06-12,Pittsburgh,United States,PPG Paints Arena,Social House,1518932,14343,14343,14343
+2019-06-14,Brooklyn,United States,Barclays Center,"Normani, Social House",4378453,28972,28972,28972
+2019-06-15,Brooklyn,United States,Barclays Center,"Normani, Social House",4378453,28972,28972,28972
+2019-06-18,New York City,United States,Madison Square Garden,"Normani, Social House",5492909,28576,28576,28576
+2019-06-19,New York City,United States,Madison Square Garden,"Normani, Social House",5492909,28576,28576,28576
+2019-06-21,"Washington, D.C.",United States,Capital One Arena,"Normani, Social House",1782835,13897,13897,13897
+2019-06-22,Boston,United States,TD Garden,"Normani, Social House",1628077,13242,13242,13242
+2019-06-24,Philadelphia,United States,Wells Fargo Center,"Normani, Social House",1807505,14968,14968,14968
+2019-06-26,Toronto,Canada,Scotiabank Arena,"Normani, Social House",1539282,15073,15073,15073
+2019-06-29,Indianapolis,United States,Bankers Life Fieldhouse,"Normani, Social House",1346335,13773,13773,13773
+2019-07-01,Columbus,United States,Schottenstein Center,"Normani, Social House",1361839,13576,13576,13576
+2019-07-05,Milwaukee,United States,Fiserv Forum,"Normani, Social House",1310830,12040,12040,12040
+2019-07-06,St. Louis,United States,Enterprise Center,"Normani, Social House",1547186,14474,14474,14474
+2019-07-08,Saint Paul,United States,Xcel Energy Center,"Normani, Social House",1751076,14789,14789,14789
+2019-07-11,Denver,United States,Pepsi Center,"Normani, Social House",1446520,13258,13258,13258
+2019-07-13,Salt Lake City,United States,Vivint Smart Home Arena,"Normani, Social House",1163364,12569,12569,12569
+2019-08-17,London,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426
+2019-08-19,London,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426
+2019-08-20,London,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426
+2019-08-23,Amsterdam,Netherlands,Ziggo Dome,"Ella Mai, Social House",2423340,32407,32407,32407
+2019-08-24,Amsterdam,Netherlands,Ziggo Dome,"Ella Mai, Social House",2423340,32407,32407,32407
+2019-08-27,Paris,France,AccorHotels Arena,"Ella Mai, Social House",2649344,31521,32520,32520
+2019-08-28,Paris,France,AccorHotels Arena,"Ella Mai, Social House",2649344,31521,32520,32520
+2019-08-30,Antwerp,Belgium,Sportpaleis,"Ella Mai, Social House",1366100,20720,21826,21826
+2019-09-01,Cologne,Germany,Lanxess Arena,"Ella Mai, Social House",1460540,15928,15928,15928
+2019-09-03,Vienna,Austria,Wiener Stadthalle,"Ella Mai, Social House",1597690,15090,15090,15090
+2019-09-04,Prague,Czech Republic,O2 Arena,"Ella Mai, Social House",1258644,13624,13624,13624
+2019-09-11,Amsterdam,Netherlands,Ziggo Dome,"Ella Mai, Social House",1238670,15844,15844,15844
+2019-09-14,Birmingham,England,Arena Birmingham,"Ella Mai, Social House",2774610,26704,27810,27810
+2019-09-15,Birmingham,England,Arena Birmingham,"Ella Mai, Social House",2774610,26704,27810,27810
+2019-09-17,Glasgow,Scotland,SSE Hydro,"Ella Mai, Social House",1342620,12994,12994,12994
+2019-09-19,Sheffield,England,FlyDSA Arena,"Ella Mai, Social House",1025363,12764,12764,12764
+2019-09-22,Dublin,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905
+2019-09-23,Dublin,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905
+2019-09-25,Dublin,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905
+2019-09-28,Hamburg,Germany,Barclaycard Arena,"Ella Mai, Social House",1142830,12614,13377,13377
+2019-10-01,Copenhagen,Denmark,Royal Arena,"Ella Mai, Social House",1264240,15473,15473,15473
+2019-10-03,Oslo,Norway,Telenor Arena,"Ella Mai, Social House",1816140,23911,23911,23911
+2019-10-05,Helsinki,Finland,Hartwall Arena,"Ella Mai, Social House",1353560,11547,11547,11547
+2019-10-07,Stockholm,Sweden,Ericsson Globe,"Ella Mai, Social House",1264240,13831,13831,13831
+2019-10-09,Hamburg,Germany,Barclaycard Arena,"Ella Mai, Social House",1088470,11553,11553,11553
+2019-10-10,Berlin,Germany,Mercedes-Benz Arena,"Ella Mai, Social House",1216250,13531,13531,13531
+2019-10-13,Zürich,Switzerland,Hallenstadion,"Ella Mai, Social House",1367790,13370,13370,13370
+2019-10-15,London,England,The O2 Arena,"Ella Mai, Social House",3061320,26369,29062,29062
+2019-10-16,London,England,The O2 Arena,"Ella Mai, Social House",3061320,26369,29062,29062
+2019-11-09,Uniondale,United States,Nassau Veterans Memorial Coliseum,Social House,1580315,11464,11464,11464
+2019-11-12,Brooklyn,United States,Barclays Center,Social House,1982444,14151,14151,14151
+2019-11-15,Charlottesville,United States,John Paul Jones Arena,Social House,1102879,9940,9940,9940
+2019-11-19,Atlanta,United States,State Farm Arena,Social House,1121970,10599,10599,10599
+2019-11-22,Raleigh,United States,PNC Arena,Social House,1385720,13041,13041,13041
+2019-11-24,Tampa,United States,Amalie Arena,Social House,1430092,14067,14067,14067
+2019-11-25,Orlando,United States,Amway Center,Social House,1431037,13112,13112,13112
+2019-11-27,Miami,United States,American Airlines Arena,Social House,1411818,12100,12100,12100
+2019-12-01,Jacksonville,United States,VyStar Veterans Memorial Arena,Social House,965794,10560,10560,10560
+2019-12-03,Columbia,United States,Colonial Life Arena,Social House,1104939,11984,11984,11984
+2019-12-05,Nashville,United States,Bridgestone Arena,Social House,1140202,10471,10471,10471
+2019-12-07,Memphis,United States,FedExForum,Social House,1009205,11826,11826,11826
+2019-12-09,Dallas,United States,American Airlines Center,Social House,1645800,13834,13834,13834
+2019-12-12,Phoenix,United States,Talking Stick Resort Arena,Social House,1465817,12951,12951,12951
+2019-12-13,Anaheim,United States,Honda Center,Social House,1686682,12575,12575,12575
+2019-12-15,Las Vegas,United States,MGM Grand Garden Arena,Social House,1210935,10377,10377,10377
+2019-12-17,San Francisco,United States,Chase Center,Social House,3065557,22990,22990,22990
+2019-12-18,San Francisco,United States,Chase Center,Social House,3065557,22990,22990,22990
+2019-12-21,Inglewood,United States,The Forum,Social House,3383378,25810,25810,25810
+2019-12-22,Inglewood,United States,The Forum,Social House,3383378,25810,25810,25810
