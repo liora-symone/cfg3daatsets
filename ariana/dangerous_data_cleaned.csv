@@ -1,76 +1,76 @@
-Date (2017),City,Country,Venue,Opening acts,Revenue,Tickets sold,Tickets available
-February 3,Phoenix,United States,Talking Stick Resort Arena,Victoria Monét Little Mix,"$737,148",11489,12739
-February 4,Las Vegas,United States,MGM Grand Garden Arena,Victoria Monét Little Mix,"$845,275",9437,10787
-February 7,Omaha,United States,CenturyLink Center Omaha,Victoria Monét Little Mix,"$424,500",9672,13444
-February 9,Tulsa,United States,BOK Center,Victoria Monét Little Mix,"$384,832",7343,7995
-February 14,Nashville,United States,Bridgestone Arena,Victoria Monét Little Mix,"$614,544",11472,11472
-February 17,Uncasville,United States,Mohegan Sun Arena,Victoria Monét Little Mix,"$696,265",6301,6301
-February 19,Manchester,United States,SNHU Arena,Victoria Monét Bia,"$491,876",7447,8698
-February 21,Buffalo,United States,KeyBank Center,Victoria Monét Bia,"$577,237",8646,13693
-February 23,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635
-February 24,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635
-February 26,Cleveland,United States,Quicken Loans Arena,Victoria Monét Little Mix,"$569,214",8685,14011
-February 27,"Washington, D.C.",United States,Verizon Center,Victoria Monét Little Mix,"$961,756",10073,13578
-March 1,Philadelphia,United States,Wells Fargo Center,Victoria Monét Little Mix,"$909,258",11657,14079
-March 3,Boston,United States,TD Garden,Victoria Monét Little Mix,"$1,105,421",12349,12944
-March 5,Toronto,Canada,Scotiabank Arena,Victoria Monét Little Mix,"$1,036,610",14503,14503
-March 6,Montreal,Canada,Bell Centre,Victoria Monét Little Mix,"$842,563",13287,13287
-March 9,Columbus,United States,Nationwide Arena,Victoria Monét Little Mix,"$611,976",10069,14414
-March 11,Indianapolis,United States,Bankers Life Fieldhouse,Victoria Monét Bia,"$635,956",10952,13020
-March 12,Auburn Hills,United States,The Palace of Auburn Hills,Victoria Monét Little Mix,"$829,626",12043,12437
-March 14,Chicago,United States,United Center,Victoria Monét Little Mix,"$989,255",12342,13584
-March 16,Saint Paul,United States,Xcel Energy Center,Victoria Monét Little Mix,"$549,262",8373,14736
-March 18,Kansas City,United States,Sprint Center,Victoria Monét Little Mix,"$650,414",10591,13382
-March 21,Salt Lake City,United States,Vivint Smart Home Arena,Victoria Monét Little Mix,"$584,595",10291,20840
-March 23,Seattle,United States,KeyArena,Victoria Monét Little Mix,"$802,916",11540,11783
-March 24,Vancouver,Canada,Rogers Arena,Victoria Monét Little Mix,"$951,207",13213,13213
-March 26,Sacramento,United States,Golden 1 Center,Victoria Monét Little Mix,"$908,963",12376,12776
-March 27,San Jose,United States,SAP Center,Victoria Monét Little Mix,"$1,092,023",12113,12642
-March 30,Anaheim,United States,Honda Center,Victoria Monét Little Mix,"$1,042,336",11547,11547
-March 31,Inglewood,United States,The Forum,Victoria Monét Little Mix,"$1,047,815",12054,12874
-April 3,Denver,United States,Pepsi Center,Victoria Monét Little Mix,"$676,163",10278,13172
-April 6,San Antonio,United States,AT&T Center,Victoria Monét Little Mix,"$720,344",11051,12960
-April 8,Houston,United States,Toyota Center,Victoria Monét Little Mix,"$901,670",10324,11548
-April 9,Dallas,United States,American Airlines Center,Victoria Monét Little Mix,"$957,931",12460,13204
-April 11,New Orleans,United States,Smoothie King Center,Victoria Monét Little Mix,"$507,455",7574,12580
-April 12,Atlanta,United States,Philips Arena,Victoria Monét Little Mix,"$780,827",10987,11285
-April 14,Miami,United States,American Airlines Arena,Victoria Monét Little Mix,"$964,439",12019,12673
-April 15,Orlando,United States,Amway Center,Victoria Monét Little Mix,"$946,615",12226,12574
-May 8,Stockholm,Sweden,Friends Arena,Victoria Monét Bia,"$995,461",14106,14106
-May 10,Oslo,Norway,Telenor Arena,Victoria Monét Bia,"$752,062",12129,12412
-May 12,Herning,Denmark,Jyske Bank Boxen,Victoria Monét Bia,"$655,222",9111,14578
-May 14,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815
-May 16,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815
-May 18,Birmingham,England,Genting Arena,Victoria Monét Bia,"$738,618",11554,12036
-May 20,Dublin,Ireland,3Arena,Victoria Monét Bia,"$792,166",12595,12804
-May 22,Manchester,England,Manchester Arena,Victoria Monét Bia,"$883,825",14158,14218
-June 7,Paris,France,AccorHotels Arena,KnowleDJ Victoria Monét,"$1,020,450",15121,15442
-June 9,Lyon,France,Halle Tony Garnier,KnowleDJ Victoria Monét,"$518,788",9551,9833
-June 11,Lisbon,Portugal,MEO Arena,KnowleDJ Victoria Monét,"$755,290",13573,16239
-June 13,Barcelona,Spain,Palau Sant Jordi,KnowleDJ Victoria Monét,"$917,766",11483,16273
-June 15,Rome,Italy,PalaLottomatica,KnowleDJ Victoria Monét,"$362,100",7287,7558
-June 17,Turin,Italy,Pala Alpitour,KnowleDJ Victoria Monét,"$740,175",11211,11249
-June 29,Rio de Janeiro,Brazil,Jeunesse Arena,DJ Ronaldinho Sabrina Carpenter,"$731,303",10337,12370
-July 1,São Paulo,Brazil,Allianz Parque,DJ Ronaldinho Sabrina Carpenter,"$1,605,750",24717,27300
-July 3,Santiago,Chile,Movistar Arena,Victoria Monét,"$1,240,230",12845,13442
-July 5,Buenos Aires,Argentina,DirecTV Arena,Victoria Monét Oriana Sabatini,"$764,260",8623,8727
-July 9,Alajuela,Costa Rica,Coca-Cola Amphitheater,Échele Miel Fátima Pinto Victoria Monét CNCO,"$776,744",11141,11141
-July 12,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278
-July 13,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278
-August 10,Chiba,Japan,Makuhari Event Hall,Beverly,"$6,525,600",52035,59817
-August 12,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817
-August 13,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817
-August 15,Seoul,South Korea,Gocheok Sky Dome,,"$1,876,580",19422,20008
-August 17,Bangkok,Thailand,Impact Arena,,"$1,283,740",9308,9694
-August 21,Manila,Philippines,Mall of Asia Arena,,"$1,199,770",9607,10400
-August 26,Beijing,China,LeSports Center,,"$1,099,220",7997,8023
-August 28,Shanghai,China,Mercedes-Benz Arena,,"$1,391,210",11225,11225
-August 30,Guangzhou,China,Guangzhou Sports Arena,,"$1,247,490",10287,10792
-September 2,Auckland,New Zealand,Spark Arena,,"$954,738",10606,11593
-September 4,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694
-September 5,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694
-September 8,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580
-September 9,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580
-September 12,Brisbane,Australia,Brisbane Entertainment Centre,,"$1,038,680",10604,10604
-September 19,Taipei,Taiwan,Taipei Arena,,"$1,375,330",11570,12673
-September 21,Hong Kong,Hong Kong,AsiaWorld–Arena,,"$1,006,410",7740,8796
+Date (2017),City,Country,Venue,Opening acts,Revenue,Tickets sold,Tickets available,Capacity
+February 3,Phoenix,United States,Talking Stick Resort Arena,Victoria Monét Little Mix,"$737,148",11489,12739,12739
+February 4,Las Vegas,United States,MGM Grand Garden Arena,Victoria Monét Little Mix,"$845,275",9437,10787,10787
+February 7,Omaha,United States,CenturyLink Center Omaha,Victoria Monét Little Mix,"$424,500",9672,13444,13444
+February 9,Tulsa,United States,BOK Center,Victoria Monét Little Mix,"$384,832",7343,7995,7995
+February 14,Nashville,United States,Bridgestone Arena,Victoria Monét Little Mix,"$614,544",11472,11472,11472
+February 17,Uncasville,United States,Mohegan Sun Arena,Victoria Monét Little Mix,"$696,265",6301,6301,6301
+February 19,Manchester,United States,SNHU Arena,Victoria Monét Bia,"$491,876",7447,8698,8698
+February 21,Buffalo,United States,KeyBank Center,Victoria Monét Bia,"$577,237",8646,13693,13693
+February 23,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635,26635
+February 24,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635,26635
+February 26,Cleveland,United States,Quicken Loans Arena,Victoria Monét Little Mix,"$569,214",8685,14011,14011
+February 27,"Washington, D.C.",United States,Verizon Center,Victoria Monét Little Mix,"$961,756",10073,13578,13578
+March 1,Philadelphia,United States,Wells Fargo Center,Victoria Monét Little Mix,"$909,258",11657,14079,14079
+March 3,Boston,United States,TD Garden,Victoria Monét Little Mix,"$1,105,421",12349,12944,12944
+March 5,Toronto,Canada,Scotiabank Arena,Victoria Monét Little Mix,"$1,036,610",14503,14503,14503
+March 6,Montreal,Canada,Bell Centre,Victoria Monét Little Mix,"$842,563",13287,13287,13287
+March 9,Columbus,United States,Nationwide Arena,Victoria Monét Little Mix,"$611,976",10069,14414,14414
+March 11,Indianapolis,United States,Bankers Life Fieldhouse,Victoria Monét Bia,"$635,956",10952,13020,13020
+March 12,Auburn Hills,United States,The Palace of Auburn Hills,Victoria Monét Little Mix,"$829,626",12043,12437,12437
+March 14,Chicago,United States,United Center,Victoria Monét Little Mix,"$989,255",12342,13584,13584
+March 16,Saint Paul,United States,Xcel Energy Center,Victoria Monét Little Mix,"$549,262",8373,14736,14736
+March 18,Kansas City,United States,Sprint Center,Victoria Monét Little Mix,"$650,414",10591,13382,13382
+March 21,Salt Lake City,United States,Vivint Smart Home Arena,Victoria Monét Little Mix,"$584,595",10291,20840,20840
+March 23,Seattle,United States,KeyArena,Victoria Monét Little Mix,"$802,916",11540,11783,11783
+March 24,Vancouver,Canada,Rogers Arena,Victoria Monét Little Mix,"$951,207",13213,13213,13213
+March 26,Sacramento,United States,Golden 1 Center,Victoria Monét Little Mix,"$908,963",12376,12776,12776
+March 27,San Jose,United States,SAP Center,Victoria Monét Little Mix,"$1,092,023",12113,12642,12642
+March 30,Anaheim,United States,Honda Center,Victoria Monét Little Mix,"$1,042,336",11547,11547,11547
+March 31,Inglewood,United States,The Forum,Victoria Monét Little Mix,"$1,047,815",12054,12874,12874
+April 3,Denver,United States,Pepsi Center,Victoria Monét Little Mix,"$676,163",10278,13172,13172
+April 6,San Antonio,United States,AT&T Center,Victoria Monét Little Mix,"$720,344",11051,12960,12960
+April 8,Houston,United States,Toyota Center,Victoria Monét Little Mix,"$901,670",10324,11548,11548
+April 9,Dallas,United States,American Airlines Center,Victoria Monét Little Mix,"$957,931",12460,13204,13204
+April 11,New Orleans,United States,Smoothie King Center,Victoria Monét Little Mix,"$507,455",7574,12580,12580
+April 12,Atlanta,United States,Philips Arena,Victoria Monét Little Mix,"$780,827",10987,11285,11285
+April 14,Miami,United States,American Airlines Arena,Victoria Monét Little Mix,"$964,439",12019,12673,12673
+April 15,Orlando,United States,Amway Center,Victoria Monét Little Mix,"$946,615",12226,12574,12574
+May 8,Stockholm,Sweden,Friends Arena,Victoria Monét Bia,"$995,461",14106,14106,14106
+May 10,Oslo,Norway,Telenor Arena,Victoria Monét Bia,"$752,062",12129,12412,12412
+May 12,Herning,Denmark,Jyske Bank Boxen,Victoria Monét Bia,"$655,222",9111,14578,14578
+May 14,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815,31815
+May 16,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815,31815
+May 18,Birmingham,England,Genting Arena,Victoria Monét Bia,"$738,618",11554,12036,12036
+May 20,Dublin,Ireland,3Arena,Victoria Monét Bia,"$792,166",12595,12804,12804
+May 22,Manchester,England,Manchester Arena,Victoria Monét Bia,"$883,825",14158,14218,14218
+June 7,Paris,France,AccorHotels Arena,KnowleDJ Victoria Monét,"$1,020,450",15121,15442,15442
+June 9,Lyon,France,Halle Tony Garnier,KnowleDJ Victoria Monét,"$518,788",9551,9833,9833
+June 11,Lisbon,Portugal,MEO Arena,KnowleDJ Victoria Monét,"$755,290",13573,16239,16239
+June 13,Barcelona,Spain,Palau Sant Jordi,KnowleDJ Victoria Monét,"$917,766",11483,16273,16273
+June 15,Rome,Italy,PalaLottomatica,KnowleDJ Victoria Monét,"$362,100",7287,7558,7558
+June 17,Turin,Italy,Pala Alpitour,KnowleDJ Victoria Monét,"$740,175",11211,11249,11249
+June 29,Rio de Janeiro,Brazil,Jeunesse Arena,DJ Ronaldinho Sabrina Carpenter,"$731,303",10337,12370,12370
+July 1,São Paulo,Brazil,Allianz Parque,DJ Ronaldinho Sabrina Carpenter,"$1,605,750",24717,27300,27300
+July 3,Santiago,Chile,Movistar Arena,Victoria Monét,"$1,240,230",12845,13442,13442
+July 5,Buenos Aires,Argentina,DirecTV Arena,Victoria Monét Oriana Sabatini,"$764,260",8623,8727,8727
+July 9,Alajuela,Costa Rica,Coca-Cola Amphitheater,Échele Miel Fátima Pinto Victoria Monét CNCO,"$776,744",11141,11141,11141
+July 12,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278,40278
+July 13,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278,40278
+August 10,Chiba,Japan,Makuhari Event Hall,Beverly,"$6,525,600",52035,59817,59817
+August 12,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817,59817
+August 13,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817,59817
+August 15,Seoul,South Korea,Gocheok Sky Dome,,"$1,876,580",19422,20008,20008
+August 17,Bangkok,Thailand,Impact Arena,,"$1,283,740",9308,9694,9694
+August 21,Manila,Philippines,Mall of Asia Arena,,"$1,199,770",9607,10400,10400
+August 26,Beijing,China,LeSports Center,,"$1,099,220",7997,8023,8023
+August 28,Shanghai,China,Mercedes-Benz Arena,,"$1,391,210",11225,11225,11225
+August 30,Guangzhou,China,Guangzhou Sports Arena,,"$1,247,490",10287,10792,10792
+September 2,Auckland,New Zealand,Spark Arena,,"$954,738",10606,11593,11593
+September 4,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694,24694
+September 5,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694,24694
+September 8,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580,16580
+September 9,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580,16580
+September 12,Brisbane,Australia,Brisbane Entertainment Centre,,"$1,038,680",10604,10604,10604
+September 19,Taipei,Taiwan,Taipei Arena,,"$1,375,330",11570,12673,12673
+September 21,Hong Kong,Hong Kong,AsiaWorld–Arena,,"$1,006,410",7740,8796,8796
