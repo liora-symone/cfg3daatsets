@@ -12,7 +12,7 @@ D a t e   ( 2 0 1 6 ),C i t y,C o u n t r y,V e n u e,O p e n i n g   a c t s,A 
 24 May,Nice,France,Stade Charles-Ehrmann,Lianne La Havas Alessia Cara,"53,566 / 53,566","$3,367,270"
 26 May,Barcelona,Spain,Estadi Olímpic Lluís Companys,Lianne La Havas Alessia Cara,"111,261 / 111,261","$9,734,130"
 27 May,Barcelona,Spain,Estadi Olímpic Lluís Companys,Lianne La Havas Alessia Cara,"111,261 / 111,261","$9,734,130"
-29 May[f],Exeter,England,Powderham Castle,—,—,—
+29 May,Exeter,England,Powderham Castle,—,—,—
 1 June,Gelsenkirchen,Germany,Veltins-Arena,Lianne La Havas Alessia Cara,"55,048 / 55,048","$4,650,320"
 4 June,Manchester,England,Etihad Stadium,Lianne La Havas Alessia Cara,"109,492 / 109,492","$10,676,300"
 5 June,Manchester,England,Etihad Stadium,Lianne La Havas Alessia Cara,"109,492 / 109,492","$10,676,300"
@@ -25,8 +25,8 @@ D a t e   ( 2 0 1 6 ),C i t y,C o u n t r y,V e n u e,O p e n i n g   a c t s,A 
 19 June,London,England,Wembley Stadium,Lianne La Havas Reef,"303,985 / 303,985","$28,810,200"
 23 June,Amsterdam,Netherlands,Amsterdam Arena,Lianne La Havas Alessia Cara,"104,511 / 104,511","$8,759,000"
 24 June,Amsterdam,Netherlands,Amsterdam Arena,Lianne La Havas Alessia Cara,"104,511 / 104,511","$8,759,000"
-26 June[g],Pilton,England,Worthy Farm,—,—,—
-28 June[h],London,England,Kensington Palace,—,—,—
+26 June,Pilton,England,Worthy Farm,—,—,—
+28 June,London,England,Kensington Palace,—,—,—
 29 June,Berlin,Germany,Olympiastadion,Lianne La Havas Alessia Cara,"68,047 / 68,047","$5,540,960"
 1 July,Hamburg,Germany,Volksparkstadion,Lianne La Havas Alessia Cara,"43,860 / 43,860","$3,808,980"
 3 July,Stockholm,Sweden,Friends Arena,Birdy Alessia Cara,"53,575 / 53,575","$3,970,140"
@@ -36,7 +36,7 @@ D a t e   ( 2 0 1 6 ),C i t y,C o u n t r y,V e n u e,O p e n i n g   a c t s,A 
 17 July,East Rutherford,United States,MetLife Stadium,Alessia Cara Foxes,"100,763 / 100,763","$10,749,394"
 20 July,Indianapolis,United States,Bankers Life Fieldhouse,Alessia Cara Foxes,"12,667 / 12,667","$1,460,006"
 21 July,St. Louis,United States,Scottrade Center,Alessia Cara Foxes,"13,960 / 13,960","$1,547,633"
-23 July[i],Chicago,United States,Soldier Field,—[j],"95,323 / 95,323","$10,215,572"
+23 July,Chicago,United States,Soldier Field,—[j],"95,323 / 95,323","$10,215,572"
 24 July,Chicago,United States,Soldier Field,Alessia Cara Foxes,"95,323 / 95,323","$10,215,572"
 27 July,Louisville,United States,KFC Yum! Center,Alessia Cara Foxes,"13,755 / 13,755","$1,520,726"
 28 July,Columbus,United States,Nationwide Arena,Alessia Cara Foxes,"15,530 / 15,530","$1,933,346"
@@ -54,9 +54,9 @@ D a t e   ( 2 0 1 6 ),C i t y,C o u n t r y,V e n u e,O p e n i n g   a c t s,A 
 31 August,Salt Lake City,United States,Vivint Smart Home Arena,Alessia Cara Bishop Briggs,"15,645 / 15,645","$1,871,968"
 1 September,Paradise,United States,T-Mobile Arena,Alessia Cara Bishop Briggs,"15,898 / 15,898","$2,124,032"
 3 September,Santa Clara,United States,Levi's Stadium,Alessia Cara Bishop Briggs,"52,404 / 52,404","$5,990,660"
-4 September[l],Philadelphia,United States,Benjamin Franklin Parkway,—,—,—
-11 November[m],London,England,London Palladium,—,—,—
-19 November[n],Mumbai,India,MMRDA Grounds,—,—,—
+4 September,Philadelphia,United States,Benjamin Franklin Parkway,—,—,—
+11 November,London,England,London Palladium,—,—,—
+19 November,Mumbai,India,MMRDA Grounds,—,—,—
 3 December,Auckland,New Zealand,Mount Smart Stadium,Lianne La Havas Jess Kent,"39,644 / 39,644","$3,752,610"
 6 December,Brisbane,Australia,Suncorp Stadium,Lianne La Havas Jess Kent,"49,604 / 49,604","$4,723,300"
 9 December,Melbourne,Australia,Etihad Stadium,Lianne La Havas Jess Kent,"103,482 / 103,482","$8,920,530"
