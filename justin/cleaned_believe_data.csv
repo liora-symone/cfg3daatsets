@@ -1,10 +1,11 @@
+cleaned_believe_data
 Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capacity
-29-09-2012,Glendale,United States,Jobingcom Arena,Cody Simpson Carly Rae Jepsen,1013460.0,13428,13428,13428
-30-09-2012,Las Vegas,United States,MGM Grand Garden Arena,Cody Simpson Carly Rae Jepsen,1076868.0,13504,13504,13504
-02-10-2012,Los Angeles,United States,Staples Center,Cody Simpson Carly Rae Jepsen,2238937.0,27546,27546,27546
-03-10-2012,Los Angeles,United States,Staples Center,Cody Simpson Carly Rae Jepsen,2238937.0,27546,27546,27546
-05-10-2012,Fresno,United States,Save Mart Center,Cody Simpson Carly Rae Jepsen,1323632.0,11965,11965,11965
-06-10-2012,Oakland,United States,Oracle Arena,Cody Simpson Carly Rae Jepsen,1063978.0,14126,14126,14126
+29-09-2012,Glendale,United States,Jobingcom Arena,"Cody Simpson, Carly Rae Jepsen",1013460.0,13428,13428,13428
+30-09-2012,Las Vegas,United States,MGM Grand Garden Arena,"Cody Simpson, Carly Rae Jepsen",1076868.0,13504,13504,13504
+02-10-2012,Los Angeles,United States,Staples Center,"Cody Simpson, Carly Rae Jepsen",2238937.0,27546,27546,27546
+03-10-2012,Los Angeles,United States,Staples Center,"Cody Simpson, Carly Rae Jepsen",2238937.0,27546,27546,27546
+05-10-2012,Fresno,United States,Save Mart Center,"Cody Simpson, Carly Rae Jepsen",1323632.0,11965,11965,11965
+06-10-2012,Oakland,United States,Oracle Arena,"Cody Simpson, Carly Rae Jepsen",1063978.0,14126,14126,14126
 08-10-2012,Portland,United States,Rose Garden,Carly Rae Jepsen,1002495.0,14550,14550,14550
 09-10-2012,Tacoma,United States,Tacoma Dome,Carly Rae Jepsen,1338701.0,20259,20259,20259
 10-10-2012,Vancouver,Canada,Rogers Arena,Carly Rae Jepsen,1215360.0,14423,14423,14423
@@ -23,75 +24,75 @@ Date,City,Country,Venue,Opening act,Revenue,Tickets sold,Tickets available,Capac
 01-11-2012,Memphis,United States,FedExForum,Carly Rae Jepsen,932669.0,13511,13511,13511
 02-11-2012,Louisville,United States,KFC Yum Center,Carly Rae Jepsen,1158153.0,16334,16334,16334
 04-11-2012,Philadelphia,United States,Wells Fargo Center,Carly Rae Jepsen,1247574.0,15393,15393,15393
-05-11-2012,"Washington, D.C.",United States,Verizon Center,Cody Simpson Jaden Smith,1169569.0,14472,14472,14472
-09-11-2012,East Rutherford,United States,Izod Center,Cody Simpson Jaden Smith,1233492.0,15956,15956,15956
-10-11-2012,Boston,United States,TD Garden,Cody Simpson Jaden Smith,1087270.0,13561,13561,13561
-12-11-2012,New York City,United States,Barclays Center,Cody Simpson Jaden Smith,1107390.0,14261,14261,14261
+05-11-2012,"Washington, D.C.",United States,Verizon Center,"Cody Simpson, Jaden Smith",1169569.0,14472,14472,14472
+09-11-2012,East Rutherford,United States,Izod Center,"Cody Simpson, Jaden Smith",1233492.0,15956,15956,15956
+10-11-2012,Boston,United States,TD Garden,"Cody Simpson, Jaden Smith",1087270.0,13561,13561,13561
+12-11-2012,New York City,United States,Barclays Center,"Cody Simpson, Jaden Smith",1107390.0,14261,14261,14261
 21-11-2012,Auburn Hills,United States,The Palace of Auburn Hills,Carly Rae Jepsen,1178456.0,15469,15469,15469
-23-11-2012,Ottawa,Canada,Scotiabank Place,Carly Rae Jepsen The Wanted,1104550.0,13696,13696,13696
-26-11-2012,Montreal,Canada,Bell Centre,Carly Rae Jepsen The Wanted,1255360.0,15870,15870,15870
-28-11-2012,New York City,United States,Madison Square Garden,Carly Rae Jepsen The Wanted,2390196.0,29680,29680,29680
-29-11-2012,New York City,United States,Madison Square Garden,Carly Rae Jepsen The Wanted,2390196.0,29680,29680,29680
-01-12-2012,Toronto,Canada,Rogers Centre,Carly Rae Jepsen The Wanted,2671520.0,43817,43817,43817
+23-11-2012,Ottawa,Canada,Scotiabank Place,"Carly Rae Jepsen, The Wanted",1104550.0,13696,13696,13696
+26-11-2012,Montreal,Canada,Bell Centre,"Carly Rae Jepsen, The Wanted",1255360.0,15870,15870,15870
+28-11-2012,New York City,United States,Madison Square Garden,"Carly Rae Jepsen, The Wanted",2390196.0,29680,29680,29680
+29-11-2012,New York City,United States,Madison Square Garden,"Carly Rae Jepsen, The Wanted",2390196.0,29680,29680,29680
+01-12-2012,Toronto,Canada,Rogers Centre,"Carly Rae Jepsen, The Wanted",2671520.0,43817,43817,43817
 05-01-2013,Salt Lake City,United States,EnergySolutions Arena,Carly Rae Jepsen,1007579.0,14693,14693,14693
 07-01-2013,Denver,United States,Pepsi Center,Carly Rae Jepsen,1015154.0,13629,13629,13629
 09-01-2013,Tulsa,United States,BOK Center,Carly Rae Jepsen,888101.0,12985,12985,12985
 10-01-2013,North Little Rock,United States,Verizon Arena,Carly Rae Jepsen,974452.0,14849,14849,14849
 12-01-2013,San Antonio,United States,ATT Center,Carly Rae Jepsen,985153.0,14653,14653,14653
-15-01-2013,New Orleans,United States,New Orleans Arena,Carly Rae Jepsen Cody Simpson,1002620.0,13986,13986,13986
-16-01-2013,Birmingham,United States,Legacy Arena,Carly Rae Jepsen Cody Simpson,920078.0,13530,13530,13530
-18-01-2013,Nashville,United States,Bridgestone Arena,Carly Rae Jepsen Cody Simpson,1046887.0,14287,14287,14287
-19-01-2013,Greensboro,United States,Greensboro Coliseum,Carly Rae Jepsen Cody Simpson,998126.0,15395,15395,15395
-22-01-2013,Charlotte,United States,Time Warner Cable Arena,Carly Rae Jepsen Cody Simpson,1089601.0,15272,15272,15272
-23-01-2013,Atlanta,United States,Philips Arena,Carly Rae Jepsen Cody Simpson,995137.0,12686,12686,12686
-25-01-2013,Orlando,United States,Amway Center,Carly Rae Jepsen Cody Simpson,1009923.0,13355,13355,13355
-26-01-2013,Miami,United States,American Airlines Arena,Carly Rae Jepsen Cody Simpson,2178830.0,27580,27580,27580
-27-01-2013,Miami,United States,American Airlines Arena,Carly Rae Jepsen Cody Simpson,2178830.0,27580,27580,27580
-21-02-2013,Manchester,England,Manchester Arena,Carly Rae Jepsen Cody Simpson,2398540.0,28678,28678,28678
-22-02-2013,Manchester,England,Manchester Arena,Carly Rae Jepsen Cody Simpson,2398540.0,28678,28678,28678
+15-01-2013,New Orleans,United States,New Orleans Arena,"Carly Rae Jepsen, Cody Simpson",1002620.0,13986,13986,13986
+16-01-2013,Birmingham,United States,Legacy Arena,"Carly Rae Jepsen, Cody Simpson",920078.0,13530,13530,13530
+18-01-2013,Nashville,United States,Bridgestone Arena,"Carly Rae Jepsen, Cody Simpson",1046887.0,14287,14287,14287
+19-01-2013,Greensboro,United States,Greensboro Coliseum,"Carly Rae Jepsen, Cody Simpson",998126.0,15395,15395,15395
+22-01-2013,Charlotte,United States,Time Warner Cable Arena,"Carly Rae Jepsen, Cody Simpson",1089601.0,15272,15272,15272
+23-01-2013,Atlanta,United States,Philips Arena,"Carly Rae Jepsen, Cody Simpson",995137.0,12686,12686,12686
+25-01-2013,Orlando,United States,Amway Center,"Carly Rae Jepsen, Cody Simpson",1009923.0,13355,13355,13355
+26-01-2013,Miami,United States,American Airlines Arena,"Carly Rae Jepsen, Cody Simpson",2178830.0,27580,27580,27580
+27-01-2013,Miami,United States,American Airlines Arena,"Carly Rae Jepsen, Cody Simpson",2178830.0,27580,27580,27580
+21-02-2013,Manchester,England,Manchester Arena,"Carly Rae Jepsen, Cody Simpson",2398540.0,28678,28678,28678
+22-02-2013,Manchester,England,Manchester Arena,"Carly Rae Jepsen, Cody Simpson",2398540.0,28678,28678,28678
 27-02-2013,Birmingham,England,National Indoor Arena,Cody Simpson,1923850.0,20619,21690,21690
 28-02-2013,Birmingham,England,National Indoor Arena,Cody Simpson,1923850.0,20619,21690,21690
-04-03-2013,London,England,The O2 Arena,Carly Rae Jepsen Cody Simpson,5053170.0,58479,60281,60281
-05-03-2013,London,England,The O2 Arena,Carly Rae Jepsen Cody Simpson,5053170.0,58479,60281,60281
-07-03-2013,London,England,The O2 Arena,Carly Rae Jepsen Cody Simpson,5053170.0,58479,60281,60281
-08-03-2013,London,England,The O2 Arena,Carly Rae Jepsen Cody Simpson,5053170.0,58479,60281,60281
-22-03-2013,Zürich,Switzerland,Hallenstadion,Carly Rae Jepsen Cody Simpson,1364500.0,13000,13000,13000
+04-03-2013,London,England,The O2 Arena,"Carly Rae Jepsen, Cody Simpson",5053170.0,58479,60281,60281
+05-03-2013,London,England,The O2 Arena,"Carly Rae Jepsen, Cody Simpson",5053170.0,58479,60281,60281
+07-03-2013,London,England,The O2 Arena,"Carly Rae Jepsen, Cody Simpson",5053170.0,58479,60281,60281
+08-03-2013,London,England,The O2 Arena,"Carly Rae Jepsen, Cody Simpson",5053170.0,58479,60281,60281
+22-03-2013,Zürich,Switzerland,Hallenstadion,"Carly Rae Jepsen, Cody Simpson",1364500.0,13000,13000,13000
 31-03-2013,Berlin,Germany,O2 World Berlin,Neon Dogs,810632.0,9475,13289,13289
 02-04-2013,Hamburg,Germany,O2 World Hamburg,Neon Dogs,871682.0,9204,12984,12984
 10-04-2013,Antwerp,Belgium,Sportpaleis,3M8S,2598300.0,35751,36939,36939
 11-04-2013,Antwerp,Belgium,Sportpaleis,3M8S,2598300.0,35751,36939,36939
-22-06-2013,San Diego,United States,Valley View Casino Center,Hot Chelle Rae Mike Posner,915852.0,10832,10832,10832
-24-06-2013,Los Angeles,United States,Staples Center,Hot Chelle Rae Mike Posner,2307566.0,27994,27994,27994
-25-06-2013,Los Angeles,United States,Staples Center,Hot Chelle Rae Mike Posner,2307566.0,27994,27994,27994
-26-06-2013,San Jose,United States,HP Pavilion,Hot Chelle Rae Mike Posner,1082050.0,12996,12996,12996
-28-06-2013,Las Vegas,United States,MGM Grand Garden Arena,Hot Chelle Rae Mike Posner,1103893.0,13362,13362,13362
-30-06-2013,Denver,United States,Pepsi Center,Hot Chelle Rae Mike Posner,1022453.0,12885,12885,12885
-02-07-2013,Oklahoma City,United States,Chesapeake Energy Arena,Hot Chelle Rae Mike Posner,973740.0,12209,12209,12209
-03-07-2013,Dallas,United States,American Airlines Center,Hot Chelle Rae Mike Posner,1141555.0,13945,13945,13945
-06-07-2013,Omaha,United States,CenturyLink Center,Hot Chelle Rae Mike Posner,1090542.0,14109,14109,14109
-07-07-2013,Des Moines,United States,Wells Fargo Arena,Hot Chelle Rae Mike Posner,1040329.0,13108,13108,13108
-09-07-2013,Chicago,United States,United Center,Hot Chelle Rae Mike Posner,1198621.0,14574,14574,14574
-10-07-2013,Indianapolis,United States,Bankers Life Fieldhouse,Hot Chelle Rae Mike Posner,1091325.0,14088,14088,14088
-12-07-2013,Columbus,United States,Nationwide Arena,Hot Chelle Rae Mike Posner,1101544.0,14002,14002,14002
-13-07-2013,Cleveland,United States,Quicken Loans Arena,Hot Chelle Rae Mike Posner,1148356.0,15084,15084,15084
-15-07-2013,Buffalo,United States,First Niagara Center,Hot Chelle Rae Mike Posner,1148023.0,14789,14789,14789
-17-07-2013,Philadelphia,United States,Wells Fargo Center,Hot Chelle Rae Mike Posner,1243009.0,15065,15065,15065
-18-07-2013,Hartford,United States,XL Center,Hot Chelle Rae Mike Posner,1032636.0,12404,12404,12404
-20-07-2013,Boston,United States,TD Garden,Hot Chelle Rae Mike Posner,1123874.0,13450,13450,13450
-23-07-2013,Ottawa,Canada,Scotiabank Place,Hot Chelle Rae Mike Posner,1102540.0,13741,13741,13741
-25-07-2013,Toronto,Canada,Air Canada Centre,Hot Chelle Rae Mike Posner,2398100.0,29153,29153,29153
-26-07-2013,Toronto,Canada,Air Canada Centre,Hot Chelle Rae Mike Posner,2398100.0,29153,29153,29153
-28-07-2013,Detroit,United States,Joe Louis Arena,Hot Chelle Rae Mike Posner,1208287.0,15148,15148,15148
-30-07-2013,Newark,United States,Prudential Center,Hot Chelle Rae Mike Posner,2211502.0,26824,26824,26824
-31-07-2013,Newark,United States,Prudential Center,Hot Chelle Rae Mike Posner,2211502.0,26824,26824,26824
-02-08-2013,Brooklyn,United States,Barclays Center,Hot Chelle Rae Mike Posner,1207640.0,14587,14587,14587
-03-08-2013,"Washington, D.C.",United States,Verizon Center,Hot Chelle Rae Mike Posner,1203291.0,14647,14647,14647
-05-08-2013,Columbia,United States,Colonial Life Arena,Hot Chelle Rae Mike Posner,996246.0,12540,12540,12540
-07-08-2013,Jacksonville,United States,Jacksonville Veterans Memorial Arena,Ariana Grande Cody Simpson,936990.0,11526,11526,11526
-08-08-2013,Tampa,United States,Tampa Bay Times Forum,Ariana Grande Cody Simpson,1101576.0,14099,14099,14099
-10-08-2013,Atlanta,United States,Philips Arena,Ariana Grande Cody Simpson,1019885.0,12407,12407,12407
+22-06-2013,San Diego,United States,Valley View Casino Center,"Hot Chelle Rae, Mike Posner",915852.0,10832,10832,10832
+24-06-2013,Los Angeles,United States,Staples Center,"Hot Chelle Rae, Mike Posner",2307566.0,27994,27994,27994
+25-06-2013,Los Angeles,United States,Staples Center,"Hot Chelle Rae, Mike Posner",2307566.0,27994,27994,27994
+26-06-2013,San Jose,United States,HP Pavilion,"Hot Chelle Rae, Mike Posner",1082050.0,12996,12996,12996
+28-06-2013,Las Vegas,United States,MGM Grand Garden Arena,"Hot Chelle Rae, Mike Posner",1103893.0,13362,13362,13362
+30-06-2013,Denver,United States,Pepsi Center,"Hot Chelle Rae, Mike Posner",1022453.0,12885,12885,12885
+02-07-2013,Oklahoma City,United States,Chesapeake Energy Arena,"Hot Chelle Rae, Mike Posner",973740.0,12209,12209,12209
+03-07-2013,Dallas,United States,American Airlines Center,"Hot Chelle Rae, Mike Posner",1141555.0,13945,13945,13945
+06-07-2013,Omaha,United States,CenturyLink Center,"Hot Chelle Rae, Mike Posner",1090542.0,14109,14109,14109
+07-07-2013,Des Moines,United States,Wells Fargo Arena,"Hot Chelle Rae, Mike Posner",1040329.0,13108,13108,13108
+09-07-2013,Chicago,United States,United Center,"Hot Chelle Rae, Mike Posner",1198621.0,14574,14574,14574
+10-07-2013,Indianapolis,United States,Bankers Life Fieldhouse,"Hot Chelle Rae, Mike Posner",1091325.0,14088,14088,14088
+12-07-2013,Columbus,United States,Nationwide Arena,"Hot Chelle Rae, Mike Posner",1101544.0,14002,14002,14002
+13-07-2013,Cleveland,United States,Quicken Loans Arena,"Hot Chelle Rae, Mike Posner",1148356.0,15084,15084,15084
+15-07-2013,Buffalo,United States,First Niagara Center,"Hot Chelle Rae, Mike Posner",1148023.0,14789,14789,14789
+17-07-2013,Philadelphia,United States,Wells Fargo Center,"Hot Chelle Rae, Mike Posner",1243009.0,15065,15065,15065
+18-07-2013,Hartford,United States,XL Center,"Hot Chelle Rae, Mike Posner",1032636.0,12404,12404,12404
+20-07-2013,Boston,United States,TD Garden,"Hot Chelle Rae, Mike Posner",1123874.0,13450,13450,13450
+23-07-2013,Ottawa,Canada,Scotiabank Place,"Hot Chelle Rae, Mike Posner",1102540.0,13741,13741,13741
+25-07-2013,Toronto,Canada,Air Canada Centre,"Hot Chelle Rae, Mike Posner",2398100.0,29153,29153,29153
+26-07-2013,Toronto,Canada,Air Canada Centre,"Hot Chelle Rae, Mike Posner",2398100.0,29153,29153,29153
+28-07-2013,Detroit,United States,Joe Louis Arena,"Hot Chelle Rae, Mike Posner",1208287.0,15148,15148,15148
+30-07-2013,Newark,United States,Prudential Center,"Hot Chelle Rae, Mike Posner",2211502.0,26824,26824,26824
+31-07-2013,Newark,United States,Prudential Center,"Hot Chelle Rae, Mike Posner",2211502.0,26824,26824,26824
+02-08-2013,Brooklyn,United States,Barclays Center,"Hot Chelle Rae, Mike Posner",1207640.0,14587,14587,14587
+03-08-2013,"Washington, D.C.",United States,Verizon Center,"Hot Chelle Rae, Mike Posner",1203291.0,14647,14647,14647
+05-08-2013,Columbia,United States,Colonial Life Arena,"Hot Chelle Rae, Mike Posner",996246.0,12540,12540,12540
+07-08-2013,Jacksonville,United States,Jacksonville Veterans Memorial Arena,"Ariana Grande, Cody Simpson",936990.0,11526,11526,11526
+08-08-2013,Tampa,United States,Tampa Bay Times Forum,"Ariana Grande, Cody Simpson",1101576.0,14099,14099,14099
+10-08-2013,Atlanta,United States,Philips Arena,"Ariana Grande, Cody Simpson",1019885.0,12407,12407,12407
 02-11-2013,São Paulo,Brazil,Arena Anhembi,P9,3266480.0,31922,33374,33374
-12-11-2013,Santiago,Chile,Estadio Nacional,Carly Rae Jepsen Owl City,4948320.0,47969,52300,52300
+12-11-2013,Santiago,Chile,Estadio Nacional,"Carly Rae Jepsen, Owl City",4948320.0,47969,52300,52300
 26-11-2013,Brisbane,Australia,Brisbane Entertainment Centre,Cody Simpson,1655360.0,13263,19960,19960
 27-11-2013,Brisbane,Australia,Brisbane Entertainment Centre,Cody Simpson,1655360.0,13263,19960,19960
 29-11-2013,Sydney,Australia,Allphones Arena,Cody Simpson,2946530.0,22911,24566,24566
