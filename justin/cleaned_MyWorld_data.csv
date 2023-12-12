@@ -1,0 +1,93 @@
+Date,City,Country,Venue,Gross revenue,Tickets sold,Tickets available,Capacity
+2010-06-23,Hartford,United States,XL Center,385790,13132,13132,13132
+2010-06-24,Trenton,United States,Sun National Bank Center,266285,7523,7523,7523
+2010-06-26,Cincinnati,United States,U.S. Bank Arena,405545,10758,12780,12780
+2010-06-29,Minneapolis,United States,Target Center,339226,14717,14717,14717
+2010-06-30,Des Moines,United States,Wells Fargo Arena,232560,9399,9650,9650
+2010-07-02,Moline,United States,iWireless Center,393090,10610,22000,22000
+2010-07-03,Omaha,United States,Qwest Center Omaha,224563,11682,12093,12093
+2010-07-05,Grand Prairie,United States,Verizon Theatre at Grand Prairie,103550,6000,6000,6000
+2010-07-06,Tulsa,United States,BOK Center,384810,12993,12993,12993
+2010-07-08,Broomfield,United States,1stBank Center,315185,6207,6207,6207
+2010-07-10,West Valley City,United States,Maverik Center,187135,10362,10362,10362
+2010-07-13,Everett,United States,Comcast Arena at Everett,110172,8588,8588,8588
+2010-07-14,Portland,United States,Rose Garden,345598,13244,13244,13244
+2010-07-17,Oakland,United States,Oracle Arena,293921,14555,14555,14555
+2010-07-18,Reno,United States,Reno Events Center,116022,6583,6583,6583
+2010-07-20,Los Angeles,United States,Nokia Theatre L.A. Live,245602,6673,6673,6673
+2010-07-24,Las Vegas,United States,Planet Hollywood Theatre,238836,6808,6808,6808
+2010-07-25,Glendale,United States,Jobingcom Arena,256446,13818,13818,13818
+2010-07-28,Kansas City,United States,Sprint Center,307701,14481,14481,14481
+2010-07-29,North Little Rock,United States,Verizon Arena,214854,13676,15800,15800
+2010-07-31,Memphis,United States,FedExForum,407795,13750,14750,14750
+2010-08-01,Lafayette,United States,Cajundome,346195,10438,10438,10438
+2010-08-04,Orlando,United States,Amway Arena,235713,12225,12225,12225
+2010-08-05,Sunrise,United States,BankAtlantic Center,141848,14104,14104,14104
+2010-08-08,Charlotte,United States,Time Warner Cable Arena,256795,15263,15263,15263
+2010-08-09,Duluth,United States,The Arena at Gwinnett Center,313420,10588,10588,10588
+2010-08-11,Nashville,United States,Bridgestone Arena,394350,14345,14345,14345
+2010-08-12,Indianapolis,United States,Conseco Fieldhouse,239505,14490,14490,14490
+2010-08-14,Columbus,United States,Schottenstein Center,348820,14056,14056,14056
+2010-08-15,Auburn Hills,United States,The Palace of Auburn Hills,502008,15667,15667,15667
+2010-08-21,Toronto,Canada,Air Canada Centre,448791,15859,15859,15859
+2010-08-22,London,Canada,John Labatt Centre,237765,9154,9154,9154
+2010-08-24,Ottawa,Canada,Scotiabank Place,351081,14284,14284,14284
+2010-08-25,Albany,United States,Times Union Center,361464,12536,12536,12536
+2010-08-27,Providence,United States,Dunkin' Donuts Center,241009,9679,9679,9679
+2010-08-28,Newark,United States,Prudential Center,239255,13942,13942,13942
+2010-08-31,New York City,United States,Madison Square Garden,378946,14529,14529,14529
+2010-09-03,Essex Junction,United States,Champlain Valley Expo,370660,8048,9422,9422
+2010-09-14,Winnipeg,Canada,MTS Centre,436175,12422,12422,12422
+2010-09-16,Regina,Canada,Brandt Centre,348641,6747,6747,6747
+2010-09-17,Saskatoon,Canada,Credit Union Centre,349066,13059,13059,13059
+2010-09-19,Edmonton,Canada,Rexall Place,280140,13874,13874,13874
+2010-09-20,Calgary,Canada,Pengrowth Saddledome,508161,13893,13893,13893
+2010-10-08,Honolulu,United States,Blaisdell Arena,852809,15721,15721,15721
+2010-10-09,Honolulu,United States,Blaisdell Arena,852809,15721,15721,15721
+2010-10-19,Vancouver,Canada,Rogers Arena,269285,14899,14899,14899
+2010-10-22,Sacramento,United States,ARCO Arena,285272,9498,13498,13498
+2010-10-24,Ontario,United States,Citizens Business Bank Arena,193283,8482,8482,8482
+2010-10-25,Los Angeles,United States,Staples Center,535512,13572,13572,13572
+2010-10-27,Anaheim,United States,Honda Center,490781,11882,11882,11882
+2010-10-28,San Jose,United States,HP Pavilion,393838,11605,12411,12411
+2010-10-30,San Diego,United States,Valley View Casino Center,267494,11424,11424,11424
+2010-11-03,Oklahoma City,United States,Oklahoma City Arena,274602,11702,12316,12316
+2010-11-05,San Antonio,United States,AT&T Center,318098,14663,14663,14663
+2010-11-06,Houston,United States,Toyota Center,467082,13352,13352,13352
+2010-11-08,St. Louis,United States,Scottrade Center,207896,14471,14471,14471
+2010-11-10,Louisville,United States,KFC Yum! Center,374638,15943,15943,15943
+2010-11-11,Cleveland,United States,Wolstein Center,229266,10431,10616,10616
+2010-11-13,Norfolk,United States,Norfolk Scope,263586,9286,9286,9286
+2010-11-14,Philadelphia,United States,Wells Fargo Center,613257,15614,15614,15614
+2010-11-16,Boston,United States,TD Garden,543180,14080,14080,14080
+2010-11-17,East Rutherford,United States,Izod Center,657502,16394,16394,16394
+2010-11-20,Atlantic City,United States,Boardwalk Hall,503831,13481,13481,13481
+2010-11-22,Montreal,Canada,Bell Centre,412580,16260,16260,16260
+2010-11-23,Toronto,Canada,Air Canada Centre,377432,16639,16639,16639
+2010-12-09,Manchester,United States,Verizon Wireless Arena,432290,9300,9300,9300
+2010-12-13,Pittsburgh,United States,Consol Energy Center,804568,13957,13957,13957
+2010-12-15,Greensboro,United States,Greensboro Coliseum,700618,14603,14603,14603
+2010-12-16,Greenville,United States,BI-LO Center,577074,11769,11769,11769
+2010-12-18,Miami,United States,American Airlines Arena,693312,14167,14167,14167
+2010-12-19,Tampa,United States,St. Pete Times Forum,689300,14270,14270,14270
+2010-12-21,Birmingham,United States,BJCC Arena,667628,13773,13773,13773
+2010-12-23,Atlanta,United States,Philips Arena,823881,14045,14045,14045
+2011-03-14,London,England,The O2 Arena,881519,16020,16020,16020
+2011-03-30,Antwerp,Belgium,Sportpaleis,796566,13536,13536,13536
+2011-04-26,Brisbane,Australia,Brisbane Entertainment Centre,651750,11065,11065,11065
+2011-04-28,Sydney,Australia,Acer Arena,692460,29481,29481,29481
+2011-04-29,Sydney,Australia,Acer Arena,692460,29481,29481,29481
+2011-05-02,Melbourne,Australia,Rod Laver Arena,807360,25538,25538,25538
+2011-05-03,Melbourne,Australia,Rod Laver Arena,807360,25538,25538,25538
+2011-05-05,Adelaide,Australia,Adelaide Entertainment Arena,914907,8510,8510,8510
+2011-05-07,Perth,Australia,Burswood Dome,1680197,7162,7162,7162
+2011-10-01,Mexico City,Mexico,Foro Sol,6027190,94449,106028,106028
+2011-10-02,Mexico City,Mexico,Foro Sol,6027190,94449,106028,106028
+2011-10-05,Rio de Janeiro,Brazil,Estádio Olímpico João Havelange,518920,46533,57189,57189
+2011-10-06,Rio de Janeiro,Brazil,Estádio Olímpico João Havelange,518920,46533,57189,57189
+2011-10-10,Porto Alegre,Brazil,Estádio Beira-Rio,462800,20698,48675,48675
+2011-10-12,Buenos Aires,Argentina,Estadio River Plate,309000,66386,80386,80386
+2011-10-13,Buenos Aires,Argentina,Estadio River Plate,309000,66386,80386,80386
+2011-10-15,Santiago,Chile,Estadio Nacional de Chile,302000,71457,73000,73000
+2011-10-17,Lima,Peru,Estadio Nacional de Lima,216450,18923,33769,33769
+2011-10-19,Caracas,Venezuela,Estadio de Fútbol USB,287670,13039,15591,15591
