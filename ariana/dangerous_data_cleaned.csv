@@ -1,76 +1,76 @@
-Date,City,Country,Venue,Opening acts,Revenue,Tickets sold,Tickets available,Capacity
-2017-02-03,Phoenix,United States,Talking Stick Resort Arena,Victoria Monét Little Mix,"$737,148",11489,12739,12739
-2017-02-04,Las Vegas,United States,MGM Grand Garden Arena,Victoria Monét Little Mix,"$845,275",9437,10787,10787
-2017-02-07,Omaha,United States,CenturyLink Center Omaha,Victoria Monét Little Mix,"$424,500",9672,13444,13444
-2017-02-09,Tulsa,United States,BOK Center,Victoria Monét Little Mix,"$384,832",7343,7995,7995
-2017-02-14,Nashville,United States,Bridgestone Arena,Victoria Monét Little Mix,"$614,544",11472,11472,11472
-2017-02-17,Uncasville,United States,Mohegan Sun Arena,Victoria Monét Little Mix,"$696,265",6301,6301,6301
-2017-02-19,Manchester,United States,SNHU Arena,Victoria Monét Bia,"$491,876",7447,8698,8698
-2017-02-21,Buffalo,United States,KeyBank Center,Victoria Monét Bia,"$577,237",8646,13693,13693
-2017-02-23,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635,26635
-2017-02-24,New York City,United States,Madison Square Garden,Victoria Monét Little Mix,"$2,923,027",26635,26635,26635
-2017-02-26,Cleveland,United States,Quicken Loans Arena,Victoria Monét Little Mix,"$569,214",8685,14011,14011
-2017-02-27,"Washington, D.C.",United States,Verizon Center,Victoria Monét Little Mix,"$961,756",10073,13578,13578
-2017-03-01,Philadelphia,United States,Wells Fargo Center,Victoria Monét Little Mix,"$909,258",11657,14079,14079
-2017-03-03,Boston,United States,TD Garden,Victoria Monét Little Mix,"$1,105,421",12349,12944,12944
-2017-03-05,Toronto,Canada,Scotiabank Arena,Victoria Monét Little Mix,"$1,036,610",14503,14503,14503
-2017-03-06,Montreal,Canada,Bell Centre,Victoria Monét Little Mix,"$842,563",13287,13287,13287
-2017-03-09,Columbus,United States,Nationwide Arena,Victoria Monét Little Mix,"$611,976",10069,14414,14414
-2017-03-11,Indianapolis,United States,Bankers Life Fieldhouse,Victoria Monét Bia,"$635,956",10952,13020,13020
-2017-03-12,Auburn Hills,United States,The Palace of Auburn Hills,Victoria Monét Little Mix,"$829,626",12043,12437,12437
-2017-03-14,Chicago,United States,United Center,Victoria Monét Little Mix,"$989,255",12342,13584,13584
-2017-03-16,Saint Paul,United States,Xcel Energy Center,Victoria Monét Little Mix,"$549,262",8373,14736,14736
-2017-03-18,Kansas City,United States,Sprint Center,Victoria Monét Little Mix,"$650,414",10591,13382,13382
-2017-03-21,Salt Lake City,United States,Vivint Smart Home Arena,Victoria Monét Little Mix,"$584,595",10291,20840,20840
-2017-03-23,Seattle,United States,KeyArena,Victoria Monét Little Mix,"$802,916",11540,11783,11783
-2017-03-24,Vancouver,Canada,Rogers Arena,Victoria Monét Little Mix,"$951,207",13213,13213,13213
-2017-03-26,Sacramento,United States,Golden 1 Center,Victoria Monét Little Mix,"$908,963",12376,12776,12776
-2017-03-27,San Jose,United States,SAP Center,Victoria Monét Little Mix,"$1,092,023",12113,12642,12642
-2017-03-30,Anaheim,United States,Honda Center,Victoria Monét Little Mix,"$1,042,336",11547,11547,11547
-2017-03-31,Inglewood,United States,The Forum,Victoria Monét Little Mix,"$1,047,815",12054,12874,12874
-2017-04-03,Denver,United States,Pepsi Center,Victoria Monét Little Mix,"$676,163",10278,13172,13172
-2017-04-06,San Antonio,United States,AT&T Center,Victoria Monét Little Mix,"$720,344",11051,12960,12960
-2017-04-08,Houston,United States,Toyota Center,Victoria Monét Little Mix,"$901,670",10324,11548,11548
-2017-04-09,Dallas,United States,American Airlines Center,Victoria Monét Little Mix,"$957,931",12460,13204,13204
-2017-04-11,New Orleans,United States,Smoothie King Center,Victoria Monét Little Mix,"$507,455",7574,12580,12580
-2017-04-12,Atlanta,United States,Philips Arena,Victoria Monét Little Mix,"$780,827",10987,11285,11285
-2017-04-14,Miami,United States,American Airlines Arena,Victoria Monét Little Mix,"$964,439",12019,12673,12673
-2017-04-15,Orlando,United States,Amway Center,Victoria Monét Little Mix,"$946,615",12226,12574,12574
-2017-05-08,Stockholm,Sweden,Friends Arena,Victoria Monét Bia,"$995,461",14106,14106,14106
-2017-05-10,Oslo,Norway,Telenor Arena,Victoria Monét Bia,"$752,062",12129,12412,12412
-2017-05-12,Herning,Denmark,Jyske Bank Boxen,Victoria Monét Bia,"$655,222",9111,14578,14578
-2017-05-14,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815,31815
-2017-05-16,Amsterdam,Netherlands,Ziggo Dome,Victoria Monét Bia,"$1,638,610",31801,31815,31815
-2017-05-18,Birmingham,England,Genting Arena,Victoria Monét Bia,"$738,618",11554,12036,12036
-2017-05-20,Dublin,Ireland,3Arena,Victoria Monét Bia,"$792,166",12595,12804,12804
-2017-05-22,Manchester,England,Manchester Arena,Victoria Monét Bia,"$883,825",14158,14218,14218
-2017-06-07,Paris,France,AccorHotels Arena,KnowleDJ Victoria Monét,"$1,020,450",15121,15442,15442
-2017-06-09,Lyon,France,Halle Tony Garnier,KnowleDJ Victoria Monét,"$518,788",9551,9833,9833
-2017-06-11,Lisbon,Portugal,MEO Arena,KnowleDJ Victoria Monét,"$755,290",13573,16239,16239
-2017-06-13,Barcelona,Spain,Palau Sant Jordi,KnowleDJ Victoria Monét,"$917,766",11483,16273,16273
-2017-06-15,Rome,Italy,PalaLottomatica,KnowleDJ Victoria Monét,"$362,100",7287,7558,7558
-2017-06-17,Turin,Italy,Pala Alpitour,KnowleDJ Victoria Monét,"$740,175",11211,11249,11249
-2017-06-29,Rio de Janeiro,Brazil,Jeunesse Arena,DJ Ronaldinho Sabrina Carpenter,"$731,303",10337,12370,12370
-2017-07-01,São Paulo,Brazil,Allianz Parque,DJ Ronaldinho Sabrina Carpenter,"$1,605,750",24717,27300,27300
-2017-07-03,Santiago,Chile,Movistar Arena,Victoria Monét,"$1,240,230",12845,13442,13442
-2017-07-05,Buenos Aires,Argentina,DirecTV Arena,Victoria Monét Oriana Sabatini,"$764,260",8623,8727,8727
-2017-07-09,Alajuela,Costa Rica,Coca-Cola Amphitheater,Échele Miel Fátima Pinto Victoria Monét CNCO,"$776,744",11141,11141,11141
-2017-07-12,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278,40278
-2017-07-13,Mexico City,Mexico,Palacio de los Deportes,Victoria Monét,"$2,078,842",36284,40278,40278
-2017-08-10,Chiba,Japan,Makuhari Event Hall,Beverly,"$6,525,600",52035,59817,59817
-2017-08-12,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817,59817
-2017-08-13,Chiba,Japan,Makuhari Event Hall,Little Glee Monster,"$6,525,600",52035,59817,59817
-2017-08-15,Seoul,South Korea,Gocheok Sky Dome,,"$1,876,580",19422,20008,20008
-2017-08-17,Bangkok,Thailand,Impact Arena,,"$1,283,740",9308,9694,9694
-2017-08-21,Manila,Philippines,Mall of Asia Arena,,"$1,199,770",9607,10400,10400
-2017-08-26,Beijing,China,LeSports Center,,"$1,099,220",7997,8023,8023
-2017-08-28,Shanghai,China,Mercedes-Benz Arena,,"$1,391,210",11225,11225,11225
-2017-08-30,Guangzhou,China,Guangzhou Sports Arena,,"$1,247,490",10287,10792,10792
-2017-09-02,Auckland,New Zealand,Spark Arena,,"$954,738",10606,11593,11593
-2017-09-04,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694,24694
-2017-09-05,Melbourne,Australia,Rod Laver Arena,,"$2,420,480",23809,24694,24694
-2017-09-08,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580,16580
-2017-09-09,Sydney,Australia,ICC Sydney Theatre,,"$1,625,830",16505,16580,16580
-2017-09-12,Brisbane,Australia,Brisbane Entertainment Centre,,"$1,038,680",10604,10604,10604
-2017-09-19,Taipei,Taiwan,Taipei Arena,,"$1,375,330",11570,12673,12673
-2017-09-21,Hong Kong,Hong Kong,AsiaWorld–Arena,,"$1,006,410",7740,8796,8796
+event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_name,venue_city,venue_state,venue_country
+Dangerous Tour,2017-02-03,Ariana Grande,Victoria Monét Little Mix,64.16119766733397,11489,12739,"$737,148",pop,12739,Talking Stick Resort Arena,Phoenix,Arizona,United States
+Dangerous Tour,2017-02-04,Ariana Grande,Victoria Monét Little Mix,89.57030836070786,9437,10787,"$845,275",pop,10787,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+Dangerous Tour,2017-02-07,Ariana Grande,Victoria Monét Little Mix,43.88957816377171,9672,13444,"$424,500",pop,13444,CenturyLink Center Omaha,Omaha,Nebraska,United States
+Dangerous Tour,2017-02-09,Ariana Grande,Victoria Monét Little Mix,52.40800762631077,7343,7995,"$384,832",pop,7995,BOK Center,Tulsa,Oklahoma,United States
+Dangerous Tour,2017-02-14,Ariana Grande,Victoria Monét Little Mix,53.56903765690377,11472,11472,"$614,544",pop,11472,Bridgestone Arena,Nashville,Tennessee,United States
+Dangerous Tour,2017-02-17,Ariana Grande,Victoria Monét Little Mix,110.5007141723536,6301,6301,"$696,265",pop,6301,Mohegan Sun Arena,Uncasville,Connecticut,United States
+Dangerous Tour,2017-02-19,Ariana Grande,Victoria Monét Bia,66.05022156573116,7447,8698,"$491,876",pop,8698,SNHU Arena,Manchester,England,United States
+Dangerous Tour,2017-02-21,Ariana Grande,Victoria Monét Bia,66.76347443904696,8646,13693,"$577,237",pop,13693,KeyBank Center,Buffalo,New York,United States
+Dangerous Tour,2017-02-23,Ariana Grande,Victoria Monét Little Mix,109.74383330204618,26635,26635,"$2,923,027",pop,26635,Madison Square Garden,New York City,New York,United States
+Dangerous Tour,2017-02-24,Ariana Grande,Victoria Monét Little Mix,109.74383330204618,26635,26635,"$2,923,027",pop,26635,Madison Square Garden,New York City,New York,United States
+Dangerous Tour,2017-02-26,Ariana Grande,Victoria Monét Little Mix,65.53989637305699,8685,14011,"$569,214",pop,14011,Quicken Loans Arena,Cleveland,Ohio,United States
+Dangerous Tour,2017-02-27,Ariana Grande,Victoria Monét Little Mix,95.47860617492306,10073,13578,"$961,756",pop,13578,Verizon Center,"Washington, D.C.",District of Columbia,United States
+Dangerous Tour,2017-03-01,Ariana Grande,Victoria Monét Little Mix,78.0010294243802,11657,14079,"$909,258",pop,14079,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+Dangerous Tour,2017-03-03,Ariana Grande,Victoria Monét Little Mix,89.51502145922747,12349,12944,"$1,105,421",pop,12944,TD Garden,Boston,Massachusetts,United States
+Dangerous Tour,2017-03-05,Ariana Grande,Victoria Monét Little Mix,71.47555678135558,14503,14503,"$1,036,610",pop,14503,Scotiabank Arena,Toronto,Ontario,Canada
+Dangerous Tour,2017-03-06,Ariana Grande,Victoria Monét Little Mix,63.41258372845638,13287,13287,"$842,563",pop,13287,Bell Centre,Montreal,Quebec,Canada
+Dangerous Tour,2017-03-09,Ariana Grande,Victoria Monét Little Mix,60.77823021154037,10069,14414,"$611,976",pop,14414,Nationwide Arena,Columbus,Ohio,United States
+Dangerous Tour,2017-03-11,Ariana Grande,Victoria Monét Bia,58.067567567567565,10952,13020,"$635,956",pop,13020,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+Dangerous Tour,2017-03-12,Ariana Grande,Victoria Monét Little Mix,68.88864900772232,12043,12437,"$829,626",pop,12437,The Palace of Auburn Hills,Auburn Hills,,United States
+Dangerous Tour,2017-03-14,Ariana Grande,Victoria Monét Little Mix,80.15354075514503,12342,13584,"$989,255",pop,13584,United Center,Chicago,Illinois,United States
+Dangerous Tour,2017-03-16,Ariana Grande,Victoria Monét Little Mix,65.59918786575899,8373,14736,"$549,262",pop,14736,Xcel Energy Center,Saint Paul,Minnesota,United States
+Dangerous Tour,2017-03-18,Ariana Grande,Victoria Monét Little Mix,61.41195354546313,10591,13382,"$650,414",pop,13382,Sprint Center,Kansas City,Missouri,United States
+Dangerous Tour,2017-03-21,Ariana Grande,Victoria Monét Little Mix,56.80643280536391,10291,20840,"$584,595",pop,20840,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+Dangerous Tour,2017-03-23,Ariana Grande,Victoria Monét Little Mix,69.57677642980936,11540,11783,"$802,916",pop,11783,KeyArena,Seattle,Washington,United States
+Dangerous Tour,2017-03-24,Ariana Grande,Victoria Monét Little Mix,71.99023688791341,13213,13213,"$951,207",pop,13213,Rogers Arena,Vancouver,British Columbia,Canada
+Dangerous Tour,2017-03-26,Ariana Grande,Victoria Monét Little Mix,73.44562055591467,12376,12776,"$908,963",pop,12776,Golden 1 Center,Sacramento,California,United States
+Dangerous Tour,2017-03-27,Ariana Grande,Victoria Monét Little Mix,90.15297614133576,12113,12642,"$1,092,023",pop,12642,SAP Center,San Jose,California,United States
+Dangerous Tour,2017-03-30,Ariana Grande,Victoria Monét Little Mix,90.26898761583095,11547,11547,"$1,042,336",pop,11547,Honda Center,Anaheim,California,United States
+Dangerous Tour,2017-03-31,Ariana Grande,Victoria Monét Little Mix,86.9267463082794,12054,12874,"$1,047,815",pop,12874,The Forum,Inglewood,California,United States
+Dangerous Tour,2017-04-03,Ariana Grande,Victoria Monét Little Mix,65.7874100019459,10278,13172,"$676,163",pop,13172,Pepsi Center,Denver,Colorado,United States
+Dangerous Tour,2017-04-06,Ariana Grande,Victoria Monét Little Mix,65.18360329381956,11051,12960,"$720,344",pop,12960,AT&T Center,San Antonio,Texas,United States
+Dangerous Tour,2017-04-08,Ariana Grande,Victoria Monét Little Mix,87.33727237504843,10324,11548,"$901,670",pop,11548,Toyota Center,Houston,Texas,United States
+Dangerous Tour,2017-04-09,Ariana Grande,Victoria Monét Little Mix,76.88049759229534,12460,13204,"$957,931",pop,13204,American Airlines Center,Dallas,Texas,United States
+Dangerous Tour,2017-04-11,Ariana Grande,Victoria Monét Little Mix,66.99960390810668,7574,12580,"$507,455",pop,12580,Smoothie King Center,New Orleans,Louisiana,United States
+Dangerous Tour,2017-04-12,Ariana Grande,Victoria Monét Little Mix,71.06826249203604,10987,11285,"$780,827",pop,11285,Philips Arena,Atlanta,Georgia,United States
+Dangerous Tour,2017-04-14,Ariana Grande,Victoria Monét Little Mix,80.24286546301688,12019,12673,"$964,439",pop,12673,American Airlines Arena,Miami,Florida,United States
+Dangerous Tour,2017-04-15,Ariana Grande,Victoria Monét Little Mix,77.42638638966137,12226,12574,"$946,615",pop,12574,Amway Center,Orlando,Florida,United States
+Dangerous Tour,2017-05-08,Ariana Grande,Victoria Monét Bia,70.57004111725507,14106,14106,"$995,461",pop,14106,Friends Arena,Stockholm,Stockholm County,Sweden
+Dangerous Tour,2017-05-10,Ariana Grande,Victoria Monét Bia,62.005276609778214,12129,12412,"$752,062",pop,12412,Telenor Arena,Oslo,Oslo,Norway
+Dangerous Tour,2017-05-12,Ariana Grande,Victoria Monét Bia,71.91548677422895,9111,14578,"$655,222",pop,14578,Jyske Bank Boxen,Herning,Central Denmark Region,Denmark
+Dangerous Tour,2017-05-14,Ariana Grande,Victoria Monét Bia,51.52699600641489,31801,31815,"$1,638,610",pop,31815,Ziggo Dome,Amsterdam,North Holland,Netherlands
+Dangerous Tour,2017-05-16,Ariana Grande,Victoria Monét Bia,51.52699600641489,31801,31815,"$1,638,610",pop,31815,Ziggo Dome,Amsterdam,North Holland,Netherlands
+Dangerous Tour,2017-05-18,Ariana Grande,Victoria Monét Bia,63.927471005712306,11554,12036,"$738,618",pop,12036,Genting Arena,Birmingham,England,England
+Dangerous Tour,2017-05-20,Ariana Grande,Victoria Monét Bia,62.89527590313617,12595,12804,"$792,166",pop,12804,3Arena,Dublin,Leinster,Ireland
+Dangerous Tour,2017-05-22,Ariana Grande,Victoria Monét Bia,62.425836982624666,14158,14218,"$883,825",pop,14218,Manchester Arena,Manchester,England,England
+Dangerous Tour,2017-06-07,Ariana Grande,KnowleDJ Victoria Monét,67.4856160306858,15121,15442,"$1,020,450",pop,15442,AccorHotels Arena,Paris,Île-de-France,France
+Dangerous Tour,2017-06-09,Ariana Grande,KnowleDJ Victoria Monét,54.317663071929644,9551,9833,"$518,788",pop,9833,Halle Tony Garnier,Lyon,Auvergne-Rhône-Alpes,France
+Dangerous Tour,2017-06-11,Ariana Grande,KnowleDJ Victoria Monét,55.646504089000224,13573,16239,"$755,290",pop,16239,MEO Arena,Lisbon,Lisbon District,Portugal
+Dangerous Tour,2017-06-13,Ariana Grande,KnowleDJ Victoria Monét,79.92388748584865,11483,16273,"$917,766",pop,16273,Palau Sant Jordi,Barcelona,Catalonia,Spain
+Dangerous Tour,2017-06-15,Ariana Grande,KnowleDJ Victoria Monét,49.69123095924249,7287,7558,"$362,100",pop,7558,PalaLottomatica,Rome,Lazio,Italy
+Dangerous Tour,2017-06-17,Ariana Grande,KnowleDJ Victoria Monét,66.02221032914102,11211,11249,"$740,175",pop,11249,Pala Alpitour,Turin,Piedmont,Italy
+Dangerous Tour,2017-06-29,Ariana Grande,DJ Ronaldinho Sabrina Carpenter,70.74615459030666,10337,12370,"$731,303",pop,12370,Jeunesse Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+Dangerous Tour,2017-07-01,Ariana Grande,DJ Ronaldinho Sabrina Carpenter,64.96540842335234,24717,27300,"$1,605,750",pop,27300,Allianz Parque,São Paulo,São Paulo,Brazil
+Dangerous Tour,2017-07-03,Ariana Grande,Victoria Monét,96.55352277150642,12845,13442,"$1,240,230",pop,13442,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+Dangerous Tour,2017-07-05,Ariana Grande,Victoria Monét Oriana Sabatini,88.63040705091035,8623,8727,"$764,260",pop,8727,DirecTV Arena,Buenos Aires,Buenos Aires,Argentina
+Dangerous Tour,2017-07-09,Ariana Grande,Échele Miel Fátima Pinto Victoria Monét CNCO,69.71941477425725,11141,11141,"$776,744",pop,11141,Coca-Cola Amphitheater,Alajuela,Alajuela,Costa Rica
+Dangerous Tour,2017-07-12,Ariana Grande,Victoria Monét,57.29362804541947,36284,40278,"$2,078,842",pop,40278,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+Dangerous Tour,2017-07-13,Ariana Grande,Victoria Monét,57.29362804541947,36284,40278,"$2,078,842",pop,40278,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+Dangerous Tour,2017-08-10,Ariana Grande,Beverly,125.40789852983569,52035,59817,"$6,525,600",pop,59817,Makuhari Event Hall,Chiba,Chiba,Japan
+Dangerous Tour,2017-08-12,Ariana Grande,Little Glee Monster,125.40789852983569,52035,59817,"$6,525,600",pop,59817,Makuhari Event Hall,Chiba,Chiba,Japan
+Dangerous Tour,2017-08-13,Ariana Grande,Little Glee Monster,125.40789852983569,52035,59817,"$6,525,600",pop,59817,Makuhari Event Hall,Chiba,Chiba,Japan
+Dangerous Tour,2017-08-15,Ariana Grande,,96.62135722376686,19422,20008,"$1,876,580",pop,20008,Gocheok Sky Dome,Seoul,Seoul,South Korea
+Dangerous Tour,2017-08-17,Ariana Grande,,137.91792006875806,9308,9694,"$1,283,740",pop,9694,Impact Arena,Bangkok,Bangkok,Thailand
+Dangerous Tour,2017-08-21,Ariana Grande,,124.88497970230041,9607,10400,"$1,199,770",pop,10400,Mall of Asia Arena,Manila,Metro Manila,Philippines
+Dangerous Tour,2017-08-26,Ariana Grande,,137.45404526697513,7997,8023,"$1,099,220",pop,8023,LeSports Center,Beijing,Beijing,China
+Dangerous Tour,2017-08-28,Ariana Grande,,123.93853006681515,11225,11225,"$1,391,210",pop,11225,Mercedes-Benz Arena,Shanghai,Shanghai,China
+Dangerous Tour,2017-08-30,Ariana Grande,,121.26859142607174,10287,10792,"$1,247,490",pop,10792,Guangzhou Sports Arena,Guangzhou,Guangdong,China
+Dangerous Tour,2017-09-02,Ariana Grande,,90.01866867810674,10606,11593,"$954,738",pop,11593,Spark Arena,Auckland,Auckland,New Zealand
+Dangerous Tour,2017-09-04,Ariana Grande,,101.6623965727246,23809,24694,"$2,420,480",pop,24694,Rod Laver Arena,Melbourne,Victoria,Australia
+Dangerous Tour,2017-09-05,Ariana Grande,,101.6623965727246,23809,24694,"$2,420,480",pop,24694,Rod Laver Arena,Melbourne,Victoria,Australia
+Dangerous Tour,2017-09-08,Ariana Grande,,98.50530142381096,16505,16580,"$1,625,830",pop,16580,ICC Sydney Theatre,Sydney,New South Wales,Australia
+Dangerous Tour,2017-09-09,Ariana Grande,,98.50530142381096,16505,16580,"$1,625,830",pop,16580,ICC Sydney Theatre,Sydney,New South Wales,Australia
+Dangerous Tour,2017-09-12,Ariana Grande,,97.95171633345907,10604,10604,"$1,038,680",pop,10604,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+Dangerous Tour,2017-09-19,Ariana Grande,,118.87035436473639,11570,12673,"$1,375,330",pop,12673,Taipei Arena,Taipei,Taipei,Taiwan
+Dangerous Tour,2017-09-21,Ariana Grande,,130.02713178294573,7740,8796,"$1,006,410",pop,8796,AsiaWorld–Arena,Hong Kong,Hong Kong,Hong Kong
