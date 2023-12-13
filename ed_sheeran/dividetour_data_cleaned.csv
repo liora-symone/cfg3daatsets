@@ -1,0 +1,258 @@
+event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,genre,capacity,venue_name,venue_city,venue_state,venue_country
+Divide Tour,2017-03-16,Ed Sheeran,Anne-Marie Ryan McMullan,52.43722050223598,23256,23256,"pop, singer-songwriter pop, uk pop",23256,Pala Alpitour,Turin,Piedmont,Italy
+Divide Tour,2017-03-17,Ed Sheeran,Anne-Marie Ryan McMullan,52.43722050223598,23256,23256,"pop, singer-songwriter pop, uk pop",23256,Pala Alpitour,Turin,Piedmont,Italy
+Divide Tour,2017-03-19,Ed Sheeran,Anne-Marie Ryan McMullan,79.51986984214899,14444,14444,"pop, singer-songwriter pop, uk pop",14444,Hallenstadion,Zürich,Zürich,Switzerland
+Divide Tour,2017-03-20,Ed Sheeran,Anne-Marie Ryan McMullan,76.16495528320635,12076,12108,"pop, singer-songwriter pop, uk pop",12108,Olympiahalle,Munich,Bavaria,Germany
+Divide Tour,2017-03-22,Ed Sheeran,Anne-Marie Ryan McMullan,68.30784838144424,10843,10848,"pop, singer-songwriter pop, uk pop",10848,SAP Arena,Mannheim,Baden-Württemberg,Germany
+Divide Tour,2017-03-23,Ed Sheeran,Anne-Marie Ryan McMullan,68.85218516920422,16223,16319,"pop, singer-songwriter pop, uk pop",16319,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+Divide Tour,2017-03-26,Ed Sheeran,Anne-Marie Ryan McMullan,67.08787532637076,12256,13227,"pop, singer-songwriter pop, uk pop",13227,Barclaycard Arena,Hamburg,Hamburg,Germany
+Divide Tour,2017-03-27,Ed Sheeran,Anne-Marie Ryan McMullan,70.1988797504254,14104,14104,"pop, singer-songwriter pop, uk pop",14104,Mercedes-Benz Arena,Berlin,Berlin,Germany
+Divide Tour,2017-03-28,Ed Sheeran,Busted,73.45345461583123,5167,5167,"pop, singer-songwriter pop, uk pop",5167,Royal Albert Hall,London,England,England
+Divide Tour,2017-03-30,Ed Sheeran,Anne-Marie Ryan McMullan,71.56517398745008,14024,14260,"pop, singer-songwriter pop, uk pop",14260,Ericsson Globe,Stockholm,Stockholm County,Sweden
+Divide Tour,2017-04-01,Ed Sheeran,Anne-Marie Ryan McMullan,84.5802213923713,14996,14996,"pop, singer-songwriter pop, uk pop",14996,Jyske Bank Boxen,Herning,Central Denmark Region,Denmark
+Divide Tour,2017-04-03,Ed Sheeran,Anne-Marie Ryan McMullan,63.81560667568787,33255,33255,"pop, singer-songwriter pop, uk pop",33255,Ziggo Dome,Amsterdam,North Holland,Netherlands
+Divide Tour,2017-04-04,Ed Sheeran,Anne-Marie Ryan McMullan,63.81560667568787,33255,33255,"pop, singer-songwriter pop, uk pop",33255,Ziggo Dome,Amsterdam,North Holland,Netherlands
+Divide Tour,2017-04-05,Ed Sheeran,Anne-Marie Ryan McMullan,62.786156682899154,21151,21151,"pop, singer-songwriter pop, uk pop",21151,Sportpaleis,Antwerp,Flanders,Belgium
+Divide Tour,2017-04-06,Ed Sheeran,Anne-Marie Ryan McMullan,50.214535901926446,15988,15988,"pop, singer-songwriter pop, uk pop",15988,AccorHotels Arena,Paris,Île-de-France,France
+Divide Tour,2017-04-08,Ed Sheeran,Anne-Marie Ryan McMullan,64.08959867919735,15748,16000,"pop, singer-songwriter pop, uk pop",16000,Wizink Center,Madrid,Community of Madrid,Spain
+Divide Tour,2017-04-09,Ed Sheeran,Anne-Marie Ryan McMullan,55.14728770885786,17476,17476,"pop, singer-songwriter pop, uk pop",17476,Palau Sant Jordi,Barcelona,Catalonia,Spain
+Divide Tour,2017-04-12,Ed Sheeran,Anne-Marie Ryan McMullan,47.132427977078265,25478,25538,"pop, singer-songwriter pop, uk pop",25538,3Arena,Dublin,Leinster,Ireland
+Divide Tour,2017-04-13,Ed Sheeran,Anne-Marie Ryan McMullan,47.132427977078265,25478,25538,"pop, singer-songwriter pop, uk pop",25538,3Arena,Dublin,Leinster,Ireland
+Divide Tour,2017-04-16,Ed Sheeran,Anne-Marie Ryan McMullan,78.98370340999207,25220,25228,"pop, singer-songwriter pop, uk pop",25228,SSE Hydro,Glasgow,Scotland,Scotland
+Divide Tour,2017-04-17,Ed Sheeran,Anne-Marie Ryan McMullan,78.98370340999207,25220,25228,"pop, singer-songwriter pop, uk pop",25228,SSE Hydro,Glasgow,Scotland,Scotland
+Divide Tour,2017-04-19,Ed Sheeran,Anne-Marie Ryan McMullan,75.90713424250858,21558,22286,"pop, singer-songwriter pop, uk pop",22286,Metro Radio Arena,Newcastle,England,England
+Divide Tour,2017-04-20,Ed Sheeran,Anne-Marie Ryan McMullan,75.90713424250858,21558,22286,"pop, singer-songwriter pop, uk pop",22286,Metro Radio Arena,Newcastle,England,England
+Divide Tour,2017-04-22,Ed Sheeran,Anne-Marie Ryan McMullan,81.93540356812306,31333,31378,"pop, singer-songwriter pop, uk pop",31378,Manchester Arena,Manchester,England,England
+Divide Tour,2017-04-23,Ed Sheeran,Anne-Marie Ryan McMullan,81.93540356812306,31333,31378,"pop, singer-songwriter pop, uk pop",31378,Manchester Arena,Manchester,England,England
+Divide Tour,2017-04-25,Ed Sheeran,Anne-Marie Ryan McMullan,83.47647684938798,18790,18800,"pop, singer-songwriter pop, uk pop",18800,Motorpoint Arena,Nottingham,England,England
+Divide Tour,2017-04-26,Ed Sheeran,Anne-Marie Ryan McMullan,83.47647684938798,18790,18800,"pop, singer-songwriter pop, uk pop",18800,Motorpoint Arena,Nottingham,England,England
+Divide Tour,2017-04-28,Ed Sheeran,Anne-Marie Ryan McMullan,82.27440794992579,30994,31262,"pop, singer-songwriter pop, uk pop",31262,Barclaycard Arena,Birmingham,England,England
+Divide Tour,2017-04-29,Ed Sheeran,Anne-Marie Ryan McMullan,82.27440794992579,30994,31262,"pop, singer-songwriter pop, uk pop",31262,Barclaycard Arena,Birmingham,England,England
+Divide Tour,2017-05-01,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483045,55707,56400,"pop, singer-songwriter pop, uk pop",56400,The O2 Arena,London,England,England
+Divide Tour,2017-05-02,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483045,55707,56400,"pop, singer-songwriter pop, uk pop",56400,The O2 Arena,London,England,England
+Divide Tour,2017-05-03,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483045,55707,56400,"pop, singer-songwriter pop, uk pop",56400,The O2 Arena,London,England,England
+Divide Tour,2017-05-13,Ed Sheeran,Antonio Lulic,65.70154469485946,19745,19745,"pop, singer-songwriter pop, uk pop",19745,Estadio Nacional,Lima,Lima,Perú
+Divide Tour,2017-05-15,Ed Sheeran,Intimate Stranger Antonio Lulic,78.04917729024608,26984,26984,"pop, singer-songwriter pop, uk pop",26984,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+Divide Tour,2017-05-16,Ed Sheeran,Intimate Stranger Antonio Lulic,78.04917729024608,26984,26984,"pop, singer-songwriter pop, uk pop",26984,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+Divide Tour,2017-05-20,Ed Sheeran,Benjamin Amadeo Antonio Lulic,71.31047522629824,33584,33584,"pop, singer-songwriter pop, uk pop",33584,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+Divide Tour,2017-05-23,Ed Sheeran,Antonio Lulic,80.89379310344827,17400,17400,"pop, singer-songwriter pop, uk pop",17400,Pedreira Paulo Leminski,Curitiba,Paraná,Brazil
+Divide Tour,2017-05-25,Ed Sheeran,Antonio Lulic,84.75088938528998,12087,12087,"pop, singer-songwriter pop, uk pop",12087,Jeunesse Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+Divide Tour,2017-05-28,Ed Sheeran,Antonio Lulic,93.55309507754552,37075,37075,"pop, singer-songwriter pop, uk pop",37075,Allianz Parque,São Paulo,São Paulo,Brazil
+Divide Tour,2017-05-30,Ed Sheeran,Antonio Lulic,75.50159089302129,14143,14143,"pop, singer-songwriter pop, uk pop",14143,Esplanada do Minerão,Belo Horizonte,Minas Gerais,Brazil
+Divide Tour,2017-06-02,Ed Sheeran,Sebastián Yatra Antonio Lulic,74.83249935848089,15588,15588,"pop, singer-songwriter pop, uk pop",15588,Simón Bolívar Park,Bogotá,Bogotá,Colombia
+Divide Tour,2017-06-04,Ed Sheeran,Yebba,71.16583898720012,14297,14297,"pop, singer-songwriter pop, uk pop",14297,Coliseo de Puerto Rico,San Juan,San Juan,Puerto Rico
+Divide Tour,2017-06-06,Ed Sheeran,Antonio Lulic,71.82999312872194,17464,17464,"pop, singer-songwriter pop, uk pop",17464,Coca-Cola Amphitheater,Alajuela,Alajuela,Costa Rica
+Divide Tour,2017-06-10,Ed Sheeran,Antonio Lulic,60.71530215793662,21363,21500,"pop, singer-songwriter pop, uk pop",21500,Palacio de los Deportes,Mexico City,Mexico City,México
+Divide Tour,2017-06-12,Ed Sheeran,Antonio Lulic,79.78616298811545,11780,12000,"pop, singer-songwriter pop, uk pop",12000,Arena VFG,Guadalajara,Jalisco,México
+Divide Tour,2017-06-14,Ed Sheeran,Antonio Lulic,112.47565162110617,7865,7865,"pop, singer-songwriter pop, uk pop",7865,Auditorio Citibanamex,Monterrey,Nuevo León,México
+Divide Tour,2017-06-22,Ed Sheeran,Fuse ODG,91.18738969998395,18699,18841,"pop, singer-songwriter pop, uk pop",18841,The O2 Arena,London,England,England
+Divide Tour,2017-06-29,Ed Sheeran,James Blunt,90.96644746674637,13382,13382,"pop, singer-songwriter pop, uk pop",13382,Sprint Center,Kansas City,Missouri,United States
+Divide Tour,2017-06-30,Ed Sheeran,James Blunt,80.66833644859813,13375,13375,"pop, singer-songwriter pop, uk pop",13375,Wells Fargo Arena,Des Moines,Iowa,United States
+Divide Tour,2017-07-01,Ed Sheeran,James Blunt,92.05134556165484,14938,14938,"pop, singer-songwriter pop, uk pop",14938,Xcel Energy Center,Saint Paul,Minnesota,United States
+Divide Tour,2017-07-07,Ed Sheeran,James Blunt,83.52867348276314,30516,30516,"pop, singer-songwriter pop, uk pop",30516,Air Canada Centre,Toronto,Ontario,Canada
+Divide Tour,2017-07-08,Ed Sheeran,James Blunt,83.52867348276314,30516,30516,"pop, singer-songwriter pop, uk pop",30516,Air Canada Centre,Toronto,Ontario,Canada
+Divide Tour,2017-07-09,Ed Sheeran,James Blunt,81.58650821391122,14305,14305,"pop, singer-songwriter pop, uk pop",14305,KeyBank Center,Buffalo,New York,United States
+Divide Tour,2017-07-11,Ed Sheeran,James Blunt,90.94322660950142,28922,28922,"pop, singer-songwriter pop, uk pop",28922,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+Divide Tour,2017-07-12,Ed Sheeran,James Blunt,90.94322660950142,28922,28922,"pop, singer-songwriter pop, uk pop",28922,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+Divide Tour,2017-07-14,Ed Sheeran,James Blunt,72.49042789010547,14887,14887,"pop, singer-songwriter pop, uk pop",14887,Mohegan Sun Arena,Uncasville,Connecticut,United States
+Divide Tour,2017-07-15,Ed Sheeran,James Blunt,72.49042789010547,14887,14887,"pop, singer-songwriter pop, uk pop",14887,Mohegan Sun Arena,Uncasville,Connecticut,United States
+Divide Tour,2017-07-18,Ed Sheeran,James Blunt,83.3403864521343,13611,13611,"pop, singer-songwriter pop, uk pop",13611,Videotron Centre,Quebec City,Quebec,Canada
+Divide Tour,2017-07-19,Ed Sheeran,James Blunt,81.73126310272536,15264,15264,"pop, singer-songwriter pop, uk pop",15264,Bell Centre,Montreal,Quebec,Canada
+Divide Tour,2017-07-22,Ed Sheeran,James Blunt,82.50384193194292,11843,11843,"pop, singer-songwriter pop, uk pop",11843,Bell MTS Place,Winnipeg,Manitoba,Canada
+Divide Tour,2017-07-23,Ed Sheeran,James Blunt,81.30393325387367,12585,12585,"pop, singer-songwriter pop, uk pop",12585,SaskTel Centre,Saskatoon,Saskatchewan,Canada
+Divide Tour,2017-07-25,Ed Sheeran,James Blunt,82.46337370494673,27412,27412,"pop, singer-songwriter pop, uk pop",27412,Rogers Place,Edmonton,Alberta,Canada
+Divide Tour,2017-07-26,Ed Sheeran,James Blunt,82.46337370494673,27412,27412,"pop, singer-songwriter pop, uk pop",27412,Rogers Place,Edmonton,Alberta,Canada
+Divide Tour,2017-07-28,Ed Sheeran,James Blunt,82.87029140014215,14070,14070,"pop, singer-songwriter pop, uk pop",14070,Rogers Arena,Vancouver,British Columbia,Canada
+Divide Tour,2017-07-29,Ed Sheeran,James Blunt,80.6141365544068,19538,19538,"pop, singer-songwriter pop, uk pop",19538,Tacoma Dome,Tacoma,Washington,United States
+Divide Tour,2017-07-30,Ed Sheeran,James Blunt,80.10126676602087,13420,13420,"pop, singer-songwriter pop, uk pop",13420,Moda Center,Portland,Oregon,United States
+Divide Tour,2017-08-01,Ed Sheeran,James Blunt,90.95180274135876,13424,13424,"pop, singer-songwriter pop, uk pop",13424,Golden 1 Center,Sacramento,California,United States
+Divide Tour,2017-08-02,Ed Sheeran,James Blunt,89.2784365393061,13662,13662,"pop, singer-songwriter pop, uk pop",13662,Oracle Arena,Oakland,California,United States
+Divide Tour,2017-08-04,Ed Sheeran,James Blunt,87.00590434953749,15243,15243,"pop, singer-songwriter pop, uk pop",15243,T-Mobile Arena,Las Vegas,Nevada,United States
+Divide Tour,2017-08-05,Ed Sheeran,James Blunt,90.77764757580196,13654,13654,"pop, singer-songwriter pop, uk pop",13654,Gila River Arena,Glendale,Arizona,United States
+Divide Tour,2017-08-06,Ed Sheeran,James Blunt,89.62708883025506,10233,10233,"pop, singer-songwriter pop, uk pop",10233,Valley View Casino Center,San Diego,California,United States
+Divide Tour,2017-08-10,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"pop, singer-songwriter pop, uk pop",40731,Staples Center,Los Angeles,California,United States
+Divide Tour,2017-08-11,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"pop, singer-songwriter pop, uk pop",40731,Staples Center,Los Angeles,California,United States
+Divide Tour,2017-08-12,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"pop, singer-songwriter pop, uk pop",40731,Staples Center,Los Angeles,California,United States
+Divide Tour,2017-08-15,Ed Sheeran,James Blunt,89.7672060075869,12917,12917,"pop, singer-songwriter pop, uk pop",12917,Pepsi Center,Denver,Colorado,United States
+Divide Tour,2017-08-17,Ed Sheeran,James Blunt,79.64023531361339,12069,12069,"pop, singer-songwriter pop, uk pop",12069,BOK Center,Tulsa,Oklahoma,United States
+Divide Tour,2017-08-18,Ed Sheeran,James Blunt,88.58898180751174,13632,13632,"pop, singer-songwriter pop, uk pop",13632,American Airlines Center,Dallas,Texas,United States
+Divide Tour,2017-08-19,Ed Sheeran,James Blunt,90.38963677927356,11811,11811,"pop, singer-songwriter pop, uk pop",11811,Toyota Center,Houston,Texas,United States
+Divide Tour,2017-08-22,Ed Sheeran,James Blunt,79.88031303848364,13928,13928,"pop, singer-songwriter pop, uk pop",13928,AT&T Center,San Antonio,Texas,United States
+Divide Tour,2017-08-25,Ed Sheeran,James Blunt,93.56558700607903,21056,21056,"pop, singer-songwriter pop, uk pop",21056,Infinite Energy Arena,Duluth,Georgia,United States
+Divide Tour,2017-08-26,Ed Sheeran,James Blunt,93.56558700607903,21056,21056,"pop, singer-songwriter pop, uk pop",21056,Infinite Energy Arena,Duluth,Georgia,United States
+Divide Tour,2017-08-29,Ed Sheeran,James Blunt,79.98640315030835,13459,13459,"pop, singer-songwriter pop, uk pop",13459,Amalie Arena,Tampa,Florida,United States
+Divide Tour,2017-08-30,Ed Sheeran,James Blunt,89.32599703426207,12813,12813,"pop, singer-songwriter pop, uk pop",12813,American Airlines Arena,Miami,Florida,United States
+Divide Tour,2017-08-31,Ed Sheeran,James Blunt,81.50550161812298,12360,12360,"pop, singer-songwriter pop, uk pop",12360,Amway Center,Orlando,Florida,United States
+Divide Tour,2017-09-02,Ed Sheeran,James Blunt,82.14501992031873,13805,13805,"pop, singer-songwriter pop, uk pop",13805,PNC Arena,Raleigh,North Carolina,United States
+Divide Tour,2017-09-03,Ed Sheeran,James Blunt,89.30652689021325,13927,13927,"pop, singer-songwriter pop, uk pop",13927,Spectrum Center,Charlotte,North Carolina,United States
+Divide Tour,2017-09-05,Ed Sheeran,James Blunt,81.46028291621327,8271,8517,"pop, singer-songwriter pop, uk pop",8517,North Charleston Coliseum,North Charleston,South Carolina,United States
+Divide Tour,2017-09-07,Ed Sheeran,James Blunt,79.99039501303989,15721,15721,"pop, singer-songwriter pop, uk pop",15721,KFC Yum! Center,Louisville,Kentucky,United States
+Divide Tour,2017-09-08,Ed Sheeran,Joshua Radin,79.66766091051805,12740,12740,"pop, singer-songwriter pop, uk pop",12740,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+Divide Tour,2017-09-09,Ed Sheeran,Joshua Radin,91.57215665236052,14912,14912,"pop, singer-songwriter pop, uk pop",14912,Quicken Loans Arena,Cleveland,Ohio,United States
+Divide Tour,2017-09-12,Ed Sheeran,James Blunt,78.50071479628306,13990,13990,"pop, singer-songwriter pop, uk pop",13990,CenturyLink Center Omaha,Omaha,Nebraska,United States
+Divide Tour,2017-09-15,Ed Sheeran,James Blunt,89.11713353070675,26346,26346,"pop, singer-songwriter pop, uk pop",26346,Allstate Arena,Rosemont,Illinois,United States
+Divide Tour,2017-09-16,Ed Sheeran,James Blunt,89.11713353070675,26346,26346,"pop, singer-songwriter pop, uk pop",26346,Allstate Arena,Rosemont,Illinois,United States
+Divide Tour,2017-09-19,Ed Sheeran,James Blunt,89.33094519402117,27497,27497,"pop, singer-songwriter pop, uk pop",27497,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+Divide Tour,2017-09-20,Ed Sheeran,James Blunt,89.33094519402117,27497,27497,"pop, singer-songwriter pop, uk pop",27497,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+Divide Tour,2017-09-22,Ed Sheeran,James Blunt,89.69191090269636,25590,25590,"pop, singer-songwriter pop, uk pop",25590,TD Garden,Boston,Massachusetts,United States
+Divide Tour,2017-09-23,Ed Sheeran,James Blunt,89.69191090269636,25590,25590,"pop, singer-songwriter pop, uk pop",25590,TD Garden,Boston,Massachusetts,United States
+Divide Tour,2017-09-26,Ed Sheeran,James Blunt,89.33650888905558,13331,13331,"pop, singer-songwriter pop, uk pop",13331,PPG Paints Arena,Pittsburgh,Pennsylvania,United States
+Divide Tour,2017-09-27,Ed Sheeran,James Blunt,89.82242990654206,14124,14124,"pop, singer-songwriter pop, uk pop",14124,Little Caesars Arena,Detroit,Michigan,United States
+Divide Tour,2017-09-29,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"pop, singer-songwriter pop, uk pop",41066,Barclays Center,Brooklyn,New York,United States
+Divide Tour,2017-09-30,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"pop, singer-songwriter pop, uk pop",41066,Barclays Center,Brooklyn,New York,United States
+Divide Tour,2017-10-01,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"pop, singer-songwriter pop, uk pop",41066,Barclays Center,Brooklyn,New York,United States
+Divide Tour,2017-10-03,Ed Sheeran,James Blunt,80.6904421207118,27255,27255,"pop, singer-songwriter pop, uk pop",27255,Nationwide Arena,Columbus,Ohio,United States
+Divide Tour,2017-10-04,Ed Sheeran,James Blunt,80.6904421207118,27255,27255,"pop, singer-songwriter pop, uk pop",27255,Nationwide Arena,Columbus,Ohio,United States
+Divide Tour,2017-10-06,Ed Sheeran,James Blunt,90.32170556617727,27721,27721,"pop, singer-songwriter pop, uk pop",27721,Bridgestone Arena,Nashville,Tennessee,United States
+Divide Tour,2017-10-07,Ed Sheeran,James Blunt,90.32170556617727,27721,27721,"pop, singer-songwriter pop, uk pop",27721,Bridgestone Arena,Nashville,Tennessee,United States
+Divide Tour,2017-11-11,Ed Sheeran,Lauv,141.23790785374652,18297,18297,"pop, singer-songwriter pop, uk pop",18297,Singapore Indoor Stadium,Singapore,Singapore,Singapore
+Divide Tour,2017-11-12,Ed Sheeran,Lauv,141.23790785374652,18297,18297,"pop, singer-songwriter pop, uk pop",18297,Singapore Indoor Stadium,Singapore,Singapore,Singapore
+Divide Tour,2017-11-14,Ed Sheeran,Lauv,84.50745882555833,11597,11597,"pop, singer-songwriter pop, uk pop",11597,Axiata Arena,Kuala Lumpur,Kuala Lumpur,Malaysia
+Divide Tour,2017-11-16,Ed Sheeran,Lauv,121.18035292482979,14394,14394,"pop, singer-songwriter pop, uk pop",14394,Impact Arena,Bangkok,Bangkok,Thailand
+Divide Tour,2017-11-19,Ed Sheeran,Lauv,99.17301630190039,11103,11103,"pop, singer-songwriter pop, uk pop",11103,JioGarden,Mumbai,Maharashtra,India
+Divide Tour,2017-11-23,Ed Sheeran,Lauv,119.62014437951186,23272,23272,"pop, singer-songwriter pop, uk pop",23272,Autism Rocks Arena,Dubai,Dubai,United Arab Emirates
+Divide Tour,2018-02-19,Ed Sheeran,—,109.29863813229572,2056,2717,"pop, singer-songwriter pop, uk pop",2717,Indigo at The O2,London,England,England
+Divide Tour,2018-03-02,Ed Sheeran,Missy Higgins Fergus James,80.21461707781218,114031,114031,"pop, singer-songwriter pop, uk pop",114031,Optus Stadium,Perth,Western Australia,Australia
+Divide Tour,2018-03-03,Ed Sheeran,Missy Higgins Fergus James,80.21461707781218,114031,114031,"pop, singer-songwriter pop, uk pop",114031,Optus Stadium,Perth,Western Australia,Australia
+Divide Tour,2018-03-07,Ed Sheeran,Missy Higgins Fergus James,81.11895414448065,62915,62915,"pop, singer-songwriter pop, uk pop",62915,Adelaide Oval,Adelaide,South Australia,Australia
+Divide Tour,2018-03-09,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"pop, singer-songwriter pop, uk pop",256622,Etihad Stadium,Melbourne,Victoria,Australia
+Divide Tour,2018-03-10,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"pop, singer-songwriter pop, uk pop",256622,Etihad Stadium,Melbourne,Victoria,Australia
+Divide Tour,2018-03-11,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"pop, singer-songwriter pop, uk pop",256622,Etihad Stadium,Melbourne,Victoria,Australia
+Divide Tour,2018-03-12,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"pop, singer-songwriter pop, uk pop",256622,Etihad Stadium,Melbourne,Victoria,Australia
+Divide Tour,2018-03-15,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"pop, singer-songwriter pop, uk pop",231185,ANZ Stadium,Sydney,New South Wales,Australia
+Divide Tour,2018-03-16,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"pop, singer-songwriter pop, uk pop",231185,ANZ Stadium,Sydney,New South Wales,Australia
+Divide Tour,2018-03-17,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"pop, singer-songwriter pop, uk pop",231185,ANZ Stadium,Sydney,New South Wales,Australia
+Divide Tour,2018-03-20,Ed Sheeran,Missy Higgins Fergus James,82.85380359346082,103744,103744,"pop, singer-songwriter pop, uk pop",103744,Suncorp Stadium,Brisbane,Queensland,Australia
+Divide Tour,2018-03-21,Ed Sheeran,Missy Higgins Fergus James,82.85380359346082,103744,103744,"pop, singer-songwriter pop, uk pop",103744,Suncorp Stadium,Brisbane,Queensland,Australia
+Divide Tour,2018-03-24,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"pop, singer-songwriter pop, uk pop",132876,Mount Smart Stadium,Auckland,Auckland,New Zealand
+Divide Tour,2018-03-25,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"pop, singer-songwriter pop, uk pop",132876,Mount Smart Stadium,Auckland,Auckland,New Zealand
+Divide Tour,2018-03-26,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"pop, singer-songwriter pop, uk pop",132876,Mount Smart Stadium,Auckland,Auckland,New Zealand
+Divide Tour,2018-03-29,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"pop, singer-songwriter pop, uk pop",105014,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+Divide Tour,2018-03-31,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"pop, singer-songwriter pop, uk pop",105014,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+Divide Tour,2018-04-01,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"pop, singer-songwriter pop, uk pop",105014,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+Divide Tour,2018-04-08,Ed Sheeran,—,128.65326365187713,18752,18752,"pop, singer-songwriter pop, uk pop",18752,Mall of Asia Concert Grounds,Manila,Metro Manila,Philippines
+Divide Tour,2018-04-11,Ed Sheeran,—,126.37240429091625,10161,10161,"pop, singer-songwriter pop, uk pop",10161,Osaka-Jo Hall,Osaka,Osaka,Japan
+Divide Tour,2018-04-13,Ed Sheeran,—,128.11637423909153,19549,19549,"pop, singer-songwriter pop, uk pop",19549,Budokan Hall,Tokyo,Tokyo,Japan
+Divide Tour,2018-04-14,Ed Sheeran,—,128.11637423909153,19549,19549,"pop, singer-songwriter pop, uk pop",19549,Budokan Hall,Tokyo,Tokyo,Japan
+Divide Tour,2018-05-04,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"pop, singer-songwriter pop, uk pop",128969,Páirc Uí Chaoimh,Cork,Munster,Ireland
+Divide Tour,2018-05-05,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"pop, singer-songwriter pop, uk pop",128969,Páirc Uí Chaoimh,Cork,Munster,Ireland
+Divide Tour,2018-05-06,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"pop, singer-songwriter pop, uk pop",128969,Páirc Uí Chaoimh,Cork,Munster,Ireland
+Divide Tour,2018-05-09,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,96.30125821781203,40613,40613,"pop, singer-songwriter pop, uk pop",40613,Boucher Playing Fields,Belfast,Northern Ireland,Northern Ireland
+Divide Tour,2018-05-12,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,93.01495522807895,63991,63991,"pop, singer-songwriter pop, uk pop",63991,Pearse Stadium,Galway,Connacht,Ireland
+Divide Tour,2018-05-13,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,93.01495522807895,63991,63991,"pop, singer-songwriter pop, uk pop",63991,Pearse Stadium,Galway,Connacht,Ireland
+Divide Tour,2018-05-16,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"pop, singer-songwriter pop, uk pop",184187,Phoenix Park,Dublin,Leinster,Ireland
+Divide Tour,2018-05-18,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"pop, singer-songwriter pop, uk pop",184187,Phoenix Park,Dublin,Leinster,Ireland
+Divide Tour,2018-05-19,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"pop, singer-songwriter pop, uk pop",184187,Phoenix Park,Dublin,Leinster,Ireland
+Divide Tour,2018-05-24,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"pop, singer-songwriter pop, uk pop",215600,Etihad Stadium,Manchester,England,England
+Divide Tour,2018-05-25,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"pop, singer-songwriter pop, uk pop",215600,Etihad Stadium,Manchester,England,England
+Divide Tour,2018-05-26,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"pop, singer-songwriter pop, uk pop",215600,Etihad Stadium,Manchester,England,England
+Divide Tour,2018-05-27,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"pop, singer-songwriter pop, uk pop",215600,Etihad Stadium,Manchester,England,England
+Divide Tour,2018-06-01,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821607,152024,152024,"pop, singer-songwriter pop, uk pop",152024,Hampden Park,Glasgow,Scotland,Scotland
+Divide Tour,2018-06-02,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821607,152024,152024,"pop, singer-songwriter pop, uk pop",152024,Hampden Park,Glasgow,Scotland,Scotland
+Divide Tour,2018-06-03,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821607,152024,152024,"pop, singer-songwriter pop, uk pop",152024,Hampden Park,Glasgow,Scotland,Scotland
+Divide Tour,2018-06-08,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"pop, singer-songwriter pop, uk pop",149226,St. James Park,Newcastle,England,England
+Divide Tour,2018-06-09,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"pop, singer-songwriter pop, uk pop",149226,St. James Park,Newcastle,England,England
+Divide Tour,2018-06-10,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"pop, singer-songwriter pop, uk pop",149226,St. James Park,Newcastle,England,England
+Divide Tour,2018-06-14,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"pop, singer-songwriter pop, uk pop",299013,Wembley Stadium,London,England,England
+Divide Tour,2018-06-15,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"pop, singer-songwriter pop, uk pop",299013,Wembley Stadium,London,England,England
+Divide Tour,2018-06-16,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"pop, singer-songwriter pop, uk pop",299013,Wembley Stadium,London,England,England
+Divide Tour,2018-06-17,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"pop, singer-songwriter pop, uk pop",299013,Wembley Stadium,London,England,England
+Divide Tour,2018-06-21,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"pop, singer-songwriter pop, uk pop",238085,Principality Stadium,Cardiff,Wales,Wales
+Divide Tour,2018-06-22,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"pop, singer-songwriter pop, uk pop",238085,Principality Stadium,Cardiff,Wales,Wales
+Divide Tour,2018-06-23,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"pop, singer-songwriter pop, uk pop",238085,Principality Stadium,Cardiff,Wales,Wales
+Divide Tour,2018-06-24,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"pop, singer-songwriter pop, uk pop",238085,Principality Stadium,Cardiff,Wales,Wales
+Divide Tour,2018-06-28,Ed Sheeran,Anne-Marie Jamie Lawson,75.36379961547095,102463,102463,"pop, singer-songwriter pop, uk pop",102463,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+Divide Tour,2018-06-29,Ed Sheeran,Anne-Marie Jamie Lawson,75.36379961547095,102463,102463,"pop, singer-songwriter pop, uk pop",102463,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+Divide Tour,2018-07-01,Ed Sheeran,Anne-Marie Jamie Lawson,84.1850523950944,64987,64987,"pop, singer-songwriter pop, uk pop",64987,Werchter Festival Park,Werchter,Flemish Brabant,Belgium
+Divide Tour,2018-07-06,Ed Sheeran,Anne-Marie Jamie Lawson,60.817097311599646,153065,153065,"pop, singer-songwriter pop, uk pop",153065,Stade de France,Saint-Denis,Île-de-France,France
+Divide Tour,2018-07-07,Ed Sheeran,Anne-Marie Jamie Lawson,60.817097311599646,153065,153065,"pop, singer-songwriter pop, uk pop",153065,Stade de France,Saint-Denis,Île-de-France,France
+Divide Tour,2018-07-10,Ed Sheeran,Anne-Marie Jamie Lawson,89.21431127594508,122952,122952,"pop, singer-songwriter pop, uk pop",122952,Ullevi,Gothenburg,Västra Götaland County,Sweden
+Divide Tour,2018-07-11,Ed Sheeran,Anne-Marie Jamie Lawson,89.21431127594508,122952,122952,"pop, singer-songwriter pop, uk pop",122952,Ullevi,Gothenburg,Västra Götaland County,Sweden
+Divide Tour,2018-07-14,Ed Sheeran,Anne-Marie Jamie Lawson,88.85518309547517,54234,54234,"pop, singer-songwriter pop, uk pop",54234,Friends Arena,Stockholm,Stockholm County,Sweden
+Divide Tour,2018-07-19,Ed Sheeran,Anne-Marie Jamie Lawson,92.57223951922381,69055,69780,"pop, singer-songwriter pop, uk pop",69780,Olympiastadion,Berlin,Berlin,Germany
+Divide Tour,2018-07-22,Ed Sheeran,Anne-Marie Jamie Lawson,87.58126252699994,102778,112406,"pop, singer-songwriter pop, uk pop",112406,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+Divide Tour,2018-07-23,Ed Sheeran,Anne-Marie Jamie Lawson,87.58126252699994,102778,112406,"pop, singer-songwriter pop, uk pop",112406,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+Divide Tour,2018-07-25,Ed Sheeran,Anne-Marie Jamie Lawson,87.45286706670318,80326,80413,"pop, singer-songwriter pop, uk pop",80413,Trabrennbahn Bahrenfeld,Hamburg,Hamburg,Germany
+Divide Tour,2018-07-29,Ed Sheeran,Anne-Marie Jamie Lawson,95.27479338842976,135036,135164,"pop, singer-songwriter pop, uk pop",135164,Olympiastadion,Munich,Bavaria,Germany
+Divide Tour,2018-07-30,Ed Sheeran,Anne-Marie Jamie Lawson,95.27479338842976,135036,135164,"pop, singer-songwriter pop, uk pop",135164,Olympiastadion,Munich,Bavaria,Germany
+Divide Tour,2018-08-03,Ed Sheeran,Anne-Marie Jamie Lawson,116.64558239263417,95142,95458,"pop, singer-songwriter pop, uk pop",95458,Letzigrund,Zürich,Zürich,Switzerland
+Divide Tour,2018-08-04,Ed Sheeran,Anne-Marie Jamie Lawson,116.64558239263417,95142,95458,"pop, singer-songwriter pop, uk pop",95458,Letzigrund,Zürich,Zürich,Switzerland
+Divide Tour,2018-08-07,Ed Sheeran,Anne-Marie Jamie Lawson,86.48868524744243,110652,110652,"pop, singer-songwriter pop, uk pop",110652,Ernst-Happel-Stadion,Vienna,,Austria
+Divide Tour,2018-08-08,Ed Sheeran,Anne-Marie Jamie Lawson,86.48868524744243,110652,110652,"pop, singer-songwriter pop, uk pop",110652,Ernst-Happel-Stadion,Vienna,,Austria
+Divide Tour,2018-08-11,Ed Sheeran,Anne-Marie Jamie Lawson BeMy,71.52454716041818,104452,104452,"pop, singer-songwriter pop, uk pop",104452,PGE Narodowy,Warsaw,,Poland
+Divide Tour,2018-08-12,Ed Sheeran,Anne-Marie Jamie Lawson BeMy,71.52454716041818,104452,104452,"pop, singer-songwriter pop, uk pop",104452,PGE Narodowy,Warsaw,,Poland
+Divide Tour,2018-08-18,Ed Sheeran,Snow Patrol Anne-Marie,101.33975706423196,62321,62321,"pop, singer-songwriter pop, uk pop",62321,Rose Bowl,Pasadena,,United States
+Divide Tour,2018-08-21,Ed Sheeran,Snow Patrol Anne-Marie,108.65197816130618,38647,38647,"pop, singer-songwriter pop, uk pop",38647,AT&T Park,San Francisco,,United States
+Divide Tour,2018-08-25,Ed Sheeran,Snow Patrol Anne-Marie,88.25036231235798,55891,55891,"pop, singer-songwriter pop, uk pop",55891,CenturyLink Field,Seattle,,United States
+Divide Tour,2018-08-30,Ed Sheeran,Snow Patrol Anne-Marie,85.9204964402149,98461,98461,"pop, singer-songwriter pop, uk pop",98461,Rogers Centre,Toronto,Ontario,Canada
+Divide Tour,2018-08-31,Ed Sheeran,Snow Patrol Anne-Marie,85.9204964402149,98461,98461,"pop, singer-songwriter pop, uk pop",98461,Rogers Centre,Toronto,Ontario,Canada
+Divide Tour,2018-09-06,Ed Sheeran,Snow Patrol Anne-Marie,89.74206444776263,41522,41522,"pop, singer-songwriter pop, uk pop",41522,Busch Stadium,St. Louis,,United States
+Divide Tour,2018-09-08,Ed Sheeran,Snow Patrol Anne-Marie,93.74297129947284,47804,47804,"pop, singer-songwriter pop, uk pop",47804,Ford Field,Detroit,Michigan,United States
+Divide Tour,2018-09-14,Ed Sheeran,Snow Patrol Anne-Marie,89.1938260853789,110238,110238,"pop, singer-songwriter pop, uk pop",110238,Gillette Stadium,Foxborough,,United States
+Divide Tour,2018-09-15,Ed Sheeran,Snow Patrol Anne-Marie,89.1938260853789,110238,110238,"pop, singer-songwriter pop, uk pop",110238,Gillette Stadium,Foxborough,,United States
+Divide Tour,2018-09-21,Ed Sheeran,Snow Patrol Anne-Marie,104.37401860465117,107500,107500,"pop, singer-songwriter pop, uk pop",107500,MetLife Stadium,East Rutherford,,United States
+Divide Tour,2018-09-22,Ed Sheeran,Snow Patrol Anne-Marie,104.37401860465117,107500,107500,"pop, singer-songwriter pop, uk pop",107500,MetLife Stadium,East Rutherford,,United States
+Divide Tour,2018-09-27,Ed Sheeran,Snow Patrol Anne-Marie,95.0726073823031,54292,54292,"pop, singer-songwriter pop, uk pop",54292,Lincoln Financial Field,Philadelphia,Pennsylvania,United States
+Divide Tour,2018-09-29,Ed Sheeran,Snow Patrol Anne-Marie,101.66950309650363,41014,41014,"pop, singer-songwriter pop, uk pop",41014,PNC Park,Pittsburgh,Pennsylvania,United States
+Divide Tour,2018-10-04,Ed Sheeran,Snow Patrol Lauv,91.81281340583543,47263,47263,"pop, singer-songwriter pop, uk pop",47263,Soldier Field,Chicago,,United States
+Divide Tour,2018-10-06,Ed Sheeran,Snow Patrol Lauv,86.18660652022315,45888,45888,"pop, singer-songwriter pop, uk pop",45888,Nissan Stadium,Nashville,Tennessee,United States
+Divide Tour,2018-10-13,Ed Sheeran,Snow Patrol Lauv,78.10667523965397,51324,51324,"pop, singer-songwriter pop, uk pop",51324,Arrowhead Stadium,Kansas City,Missouri,United States
+Divide Tour,2018-10-17,Ed Sheeran,Snow Patrol Lauv,99.47581780305163,17761,17761,"pop, singer-songwriter pop, uk pop",17761,Fargodome,Fargo,,United States
+Divide Tour,2018-10-20,Ed Sheeran,Snow Patrol Lauv,91.42042991146498,49359,49359,"pop, singer-songwriter pop, uk pop",49359,U.S. Bank Stadium,Minneapolis,,United States
+Divide Tour,2018-10-24,Ed Sheeran,Snow Patrol,90.92732246299077,37288,37288,"pop, singer-songwriter pop, uk pop",37288,Miller Park,Milwaukee,,United States
+Divide Tour,2018-10-27,Ed Sheeran,Snow Patrol Lauv,97.91692793357694,46249,46249,"pop, singer-songwriter pop, uk pop",46249,AT&T Stadium,Arlington,,United States
+Divide Tour,2018-10-31,Ed Sheeran,Snow Patrol Lauv,66.85932143279348,42295,42295,"pop, singer-songwriter pop, uk pop",42295,Mercedes-Benz Superdome,New Orleans,,United States
+Divide Tour,2018-11-03,Ed Sheeran,Snow Patrol Lauv,101.2754739035422,39354,39354,"pop, singer-songwriter pop, uk pop",39354,Minute Maid Park,Houston,Texas,United States
+Divide Tour,2018-11-07,Ed Sheeran,Snow Patrol Lauv,82.10899843505477,51120,51120,"pop, singer-songwriter pop, uk pop",51120,Raymond James Stadium,Tampa,Florida,United States
+Divide Tour,2018-11-09,Ed Sheeran,Snow Patrol Lauv,98.64053353239304,50906,50906,"pop, singer-songwriter pop, uk pop",50906,Mercedes-Benz Stadium,Atlanta,,United States
+Divide Tour,2019-02-13,Ed Sheeran,Passenger,79.29877026960422,81156,81156,"pop, singer-songwriter pop, uk pop",81156,Allianz Parque,São Paulo,São Paulo,Brazil
+Divide Tour,2019-02-14,Ed Sheeran,Passenger,79.29877026960422,81156,81156,"pop, singer-songwriter pop, uk pop",81156,Allianz Parque,São Paulo,São Paulo,Brazil
+Divide Tour,2019-02-17,Ed Sheeran,Passenger,80.3402873042578,38635,38635,"pop, singer-songwriter pop, uk pop",38635,Arena do Grêmio,Porto Alegre,,Brazil
+Divide Tour,2019-02-20,Ed Sheeran,Passenger,90.84094518504259,20779,20779,"pop, singer-songwriter pop, uk pop",20779,Estadio Centenario,Montevideo,,Uruguay
+Divide Tour,2019-02-23,Ed Sheeran,Passenger,62.70251682033391,40130,40130,"pop, singer-songwriter pop, uk pop",40130,Campo Argentino de Polo,Buenos Aires,,Argentina
+Divide Tour,2019-03-23,Ed Sheeran,Passenger Shekhinah,59.86924025213798,128977,130178,"pop, singer-songwriter pop, uk pop",130178,FNB Stadium,Johannesburg,,South Africa
+Divide Tour,2019-03-24,Ed Sheeran,Passenger Shekhinah,59.86924025213798,128977,130178,"pop, singer-songwriter pop, uk pop",130178,FNB Stadium,Johannesburg,,South Africa
+Divide Tour,2019-03-27,Ed Sheeran,Passenger Shekhinah,55.46230201723159,96915,98264,"pop, singer-songwriter pop, uk pop",98264,Cape Town Stadium,Cape Town,,South Africa
+Divide Tour,2019-03-28,Ed Sheeran,Passenger Shekhinah,55.46230201723159,96915,98264,"pop, singer-songwriter pop, uk pop",98264,Cape Town Stadium,Cape Town,,South Africa
+Divide Tour,2019-04-04,Ed Sheeran,One Ok Rock,114.0875390958203,28136,28136,"pop, singer-songwriter pop, uk pop",28136,Taoyuan City Stadium,Taoyuan,,Taiwan
+Divide Tour,2019-04-09,Ed Sheeran,One Ok Rock,129.07681122771527,47454,47454,"pop, singer-songwriter pop, uk pop",47454,Tokyo Dome,Tokyo,Tokyo,Japan
+Divide Tour,2019-04-13,Ed Sheeran,One Ok Rock,71.78045153775619,40351,43743,"pop, singer-songwriter pop, uk pop",43743,Bukit Jalil National Stadium,Kuala Lumpur,Kuala Lumpur,Malaysia
+Divide Tour,2019-04-17,Ed Sheeran,One Ok Rock,140.44988666600966,20294,20294,"pop, singer-songwriter pop, uk pop",20294,Hong Kong Disneyland,Hong Kong,,Hong Kong
+Divide Tour,2019-04-21,Ed Sheeran,One Ok Rock,106.69313528703331,24910,25033,"pop, singer-songwriter pop, uk pop",25033,Songdo Moonlight Festival Park,Incheon,,South Korea
+Divide Tour,2019-04-23,Ed Sheeran,One Ok Rock,129.72831436888066,37790,37790,"pop, singer-songwriter pop, uk pop",37790,Kyocera Dome,Osaka,Osaka,Japan
+Divide Tour,2019-04-26,Ed Sheeran,One Ok Rock,112.34627584822324,49810,49810,"pop, singer-songwriter pop, uk pop",49810,Singapore National Stadium,Singapore,Singapore,Singapore
+Divide Tour,2019-04-28,Ed Sheeran,One Ok Rock,123.16006731000378,29119,32691,"pop, singer-songwriter pop, uk pop",32691,Rajamangala Stadium,Bangkok,Bangkok,Thailand
+Divide Tour,2019-05-03,Ed Sheeran,One Ok Rock,97.11448354745808,48959,52060,"pop, singer-songwriter pop, uk pop",52060,Gelora Bung Karno Stadium,Jakarta,,Indonesia
+Divide Tour,2019-05-24,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"pop, singer-songwriter pop, uk pop",162561,Groupama Stadium,Lyon,,France
+Divide Tour,2019-05-25,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"pop, singer-songwriter pop, uk pop",162561,Groupama Stadium,Lyon,,France
+Divide Tour,2019-05-26,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"pop, singer-songwriter pop, uk pop",162561,Groupama Stadium,Lyon,,France
+Divide Tour,2019-05-29,Ed Sheeran,James Bay Zara Larsson,75.2150835967092,41449,41716,"pop, singer-songwriter pop, uk pop",41716,Matmut Atlantique,Bordeaux,,France
+Divide Tour,2019-06-01,Ed Sheeran,James Bay Zara Larsson Ben Kweller,75.62322902993607,118085,118085,"pop, singer-songwriter pop, uk pop",118085,Estádio da Luz,Lisbon,,Portugal
+Divide Tour,2019-06-02,Ed Sheeran,James Bay Zara Larsson Ben Kweller,75.62322902993607,118085,118085,"pop, singer-songwriter pop, uk pop",118085,Estádio da Luz,Lisbon,,Portugal
+Divide Tour,2019-06-07,Ed Sheeran,James Bay Zara Larsson,75.49707270664861,54658,54658,"pop, singer-songwriter pop, uk pop",54658,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+Divide Tour,2019-06-11,Ed Sheeran,James Bay Zara Larsson,73.0276644078238,51944,51944,"pop, singer-songwriter pop, uk pop",51944,Wanda Metropolitano,Madrid,Community of Madrid,Spain
+Divide Tour,2019-06-16,Ed Sheeran,James Bay Zara Larsson,77.16123068573076,58959,58959,"pop, singer-songwriter pop, uk pop",58959,Stadio Olimpico,Rome,,Italy
+Divide Tour,2019-06-19,Ed Sheeran,James Bay Zara Larsson,73.25147562486337,54892,54892,"pop, singer-songwriter pop, uk pop",54892,Stadio Giuseppe Meazza,Milan,,Italy
+Divide Tour,2019-06-22,Ed Sheeran,James Bay Zara Larsson,85.2325188363332,191120,202888,"pop, singer-songwriter pop, uk pop",202888,Hockenheimring,Hockenheim,,Germany
+Divide Tour,2019-06-23,Ed Sheeran,James Bay Zara Larsson,85.2325188363332,191120,202888,"pop, singer-songwriter pop, uk pop",202888,Hockenheimring,Hockenheim,,Germany
+Divide Tour,2019-06-28,Ed Sheeran,James Bay Zara Larsson,92.98245354260753,67535,67698,"pop, singer-songwriter pop, uk pop",67698,Wörthersee Stadion,Klagenfurt,,Austria
+Divide Tour,2019-06-29,Ed Sheeran,James Bay Zara Larsson,92.98245354260753,67535,67698,"pop, singer-songwriter pop, uk pop",67698,Wörthersee Stadion,Klagenfurt,,Austria
+Divide Tour,2019-07-03,Ed Sheeran,James Bay Zara Larsson,62.39452147733537,47166,48106,"pop, singer-songwriter pop, uk pop",48106,Arena Națională,Bucharest,,Romania
+Divide Tour,2019-07-07,Ed Sheeran,James Bay Zara Larsson,80.40177138190317,142036,157980,"pop, singer-songwriter pop, uk pop",157980,Letňany,Prague,,Czech Republic
+Divide Tour,2019-07-08,Ed Sheeran,James Bay Zara Larsson,80.40177138190317,142036,157980,"pop, singer-songwriter pop, uk pop",157980,Letňany,Prague,,Czech Republic
+Divide Tour,2019-07-12,Ed Sheeran,James Bay Zara Larsson,78.96115946626485,50437,63550,"pop, singer-songwriter pop, uk pop",63550,Lucavsala Park,Riga,,Latvia
+Divide Tour,2019-07-19,Ed Sheeran,James Bay Zara Larsson,89.98847920483924,39841,41857,"pop, singer-songwriter pop, uk pop",41857,Otkritie Arena,Moscow,,Russia
+Divide Tour,2019-07-23,Ed Sheeran,James Bay Zara Larsson,87.79358333333333,108000,118216,"pop, singer-songwriter pop, uk pop",118216,Malmi Airport,Helsinki,,Finland
+Divide Tour,2019-07-24,Ed Sheeran,James Bay Zara Larsson,87.79358333333333,108000,118216,"pop, singer-songwriter pop, uk pop",118216,Malmi Airport,Helsinki,,Finland
+Divide Tour,2019-07-27,Ed Sheeran,James Bay Zara Larsson,101.24277754259104,87401,87401,"pop, singer-songwriter pop, uk pop",87401,Tusindårsskoven,Odense,,Denmark
+Divide Tour,2019-07-28,Ed Sheeran,James Bay Zara Larsson,101.24277754259104,87401,87401,"pop, singer-songwriter pop, uk pop",87401,Tusindårsskoven,Odense,,Denmark
+Divide Tour,2019-08-02,Ed Sheeran,James Bay Zara Larsson,95.488999376606,131538,148720,"pop, singer-songwriter pop, uk pop",148720,Messegelände,Hanover,,Germany
+Divide Tour,2019-08-03,Ed Sheeran,James Bay Zara Larsson,95.488999376606,131538,148720,"pop, singer-songwriter pop, uk pop",148720,Messegelände,Hanover,,Germany
+Divide Tour,2019-08-10,Ed Sheeran,James Bay Zara Larsson,163.83554642938626,43830,56642,"pop, singer-songwriter pop, uk pop",56642,Laugardalsvöllur,Reykjavik,,Iceland
+Divide Tour,2019-08-11,Ed Sheeran,James Bay Zara Larsson,163.83554642938626,43830,56642,"pop, singer-songwriter pop, uk pop",56642,Laugardalsvöllur,Reykjavik,,Iceland
+Divide Tour,2019-08-16,Ed Sheeran,The Darkness Lewis Capaldi,90.97558632423474,136358,140000,"pop, singer-songwriter pop, uk pop",140000,Roundhay Park,Leeds,West Yorkshire,England
+Divide Tour,2019-08-17,Ed Sheeran,The Darkness Lewis Capaldi,90.97558632423474,136358,140000,"pop, singer-songwriter pop, uk pop",140000,Roundhay Park,Leeds,West Yorkshire,England
+Divide Tour,2019-08-23,Ed Sheeran,The Darkness Passenger,92.24777117384843,139984,181548,"pop, singer-songwriter pop, uk pop",181548,Chantry Park,Ipswich,Suffolk,England
+Divide Tour,2019-08-24,Ed Sheeran,The Darkness Passenger,92.24777117384843,139984,181548,"pop, singer-songwriter pop, uk pop",181548,Chantry Park,Ipswich,Suffolk,England
+Divide Tour,2019-08-25,Ed Sheeran,The Darkness Lewis Capaldi,92.24777117384843,139984,181548,"pop, singer-songwriter pop, uk pop",181548,Chantry Park,Ipswich,Suffolk,England
+Divide Tour,2019-08-26,Ed Sheeran,The Darkness Lewis Capaldi,92.24777117384843,139984,181548,"pop, singer-songwriter pop, uk pop",181548,Chantry Park,Ipswich,Suffolk,England
