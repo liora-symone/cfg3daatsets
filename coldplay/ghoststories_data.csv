@@ -1,0 +1,10 @@
+﻿event_id,event_name,date,artist_name,support_act,average_price,ticket_sold,tickets_available,genre_name,capacity,revenue,venue_id,venue_name,venue_city,venue_state,venue_country
+,Ghost Stories Tour,25/04/2014,Coldplay,, $103.25 ,2000,2000,,2000," $206,505 ",,E-Werk,Cologne,,Germany
+,Ghost Stories Tour,05/05/2014,Coldplay,SZA, $81.63 ,5512,5512,,5512," $449,929 ",,Beacon Theatre,New York City,,United States
+,Ghost Stories Tour,19/05/2014,Coldplay,London Grammar,,,1800,,1800,,,Royce Hall,Los Angeles,,United States
+,Ghost Stories Tour,28/05/2014,Coldplay,,,,2057,,2057,,,Casino de Paris,Paris,,France
+,Ghost Stories Tour,12/06/2014,Coldplay,,,,3100,,3100,,,Tokyo Dome City Hall,Tokyo,,Japan
+,Ghost Stories Tour,19/06/2014,Coldplay,Kylie Minogue,,,1600,,1600,,,Enmore Theatre,Sydney,,Australia
+,Ghost Stories Tour,01/07/2014,Coldplay,Aluna George,,,5272,,5272,,,Royal Albert Hall,London,,England
+,Ghost Stories Tour,02/07/2014,Coldplay,,,,5272,,5272,,,Royal Albert Hall,London,,England
+,Ghost Stories Tour,06/12/2014,Coldplay,, $105.80 ,1511,1511,,1511," $159,859 ",,BMW Welt,Munich,,Germany
