@@ -1,0 +1,98 @@
+date,country,venue,support_act,revenue,tickets_sold,tickets_available,capacity,event_id,event_name,artist_name,average_price,genre,venue_id,venue_city,venue_state
+2019/03/18,United States,Times Union Center,"Normani, Social House",1268045,11432,11432,11432,,Sweetener Tour,Ariana Grande,110.92,Pop,,Albany,New York
+2019/03/20,United States,TD Garden,"Normani, Social House",1670045,13125,13125,13125,,Sweetener Tour,Ariana Grande,127.24,Pop,,Boston,Massachusetts
+2019/03/22,United States,KeyBank Center,"Normani, Social House",1470630,14459,14459,14459,,Sweetener Tour,Ariana Grande,101.71,Pop,,Buffalo,New York
+2019/03/25,United States,Capital One Arena,"Normani, Social House",1832776,13598,13598,13598,,Sweetener Tour,Ariana Grande,134.78,Pop,,Washington D.C.,Washington D.C.
+2019/03/26,United States,Wells Fargo Center,"Normani, Social House",1799863,14787,14787,14787,,Sweetener Tour,Ariana Grande,121.72,Pop,,Philadelphia,Pennsylvania
+2019/03/28,United States,Quicken Loans Arena,"Normani, Social House",1554750,14763,14763,14763,,Sweetener Tour,Ariana Grande,105.31,Pop,,Cleveland,Ohio
+2019/03/30,United States,Mohegan Sun Arena,"Normani, Social House",1112692,7097,7097,7097,,Sweetener Tour,Ariana Grande,156.78,Pop,,Uncasville,Connecticut
+2019/04/01,Canada,Bell Centre,"Normani, Social House",1440460,14620,15643,15643,,Sweetener Tour,Ariana Grande,98.53,Pop,,Montreal,Qubec
+2019/04/03,Canada,Scotiabank Arena,"Normani, Social House",1565703,14663,14663,14663,,Sweetener Tour,Ariana Grande,106.78,Pop,,Toronto,Ontario
+2019/04/05,United States,Little Caesars Arena,"Normani, Social House",1508715,13698,13698,13698,,Sweetener Tour,Ariana Grande,110.14,Pop,,Detroit,Michigan
+2019/04/25,Canada,Rogers Place,"Normani, Social House",1493948,13947,13947,13947,,Sweetener Tour,Ariana Grande,107.12,Pop,,Edmonton,Alberta
+2019/04/27,Canada,Rogers Arena,"Normani, Social House",1617978,14363,14363,14363,,Sweetener Tour,Ariana Grande,112.65,Pop,,Vancouver,Washington D.C.
+2019/04/30,United States,Moda Center,"Normani, Social House",1469277,13692,13692,13692,,Sweetener Tour,Ariana Grande,107.31,Pop,,Portland,Oregon
+2019/05/02,United States,SAP Center,"Normani, Social House",1730098,13605,13605,13605,,Sweetener Tour,Ariana Grande,127.17,Pop,,San Jose,California
+2019/05/03,United States,Golden 1 Center,"Normani, Social House",1737905,13886,13886,13886,,Sweetener Tour,Ariana Grande,125.16,Pop,,Sacramento,California
+2019/05/06,United States,Staples Center,"Normani, Social House",3277659,27916,27916,27916,,Sweetener Tour,Ariana Grande,117.41,Pop,,Los Angeles,California
+2019/05/07,United States,Staples Center,"Normani, Social House",3277659,27916,27916,27916,,Sweetener Tour,Ariana Grande,117.41,Pop,,Los Angeles,California
+2019/05/10,United States,The Forum,"Normani, Social House",2149419,14417,14417,14417,,Sweetener Tour,Ariana Grande,149.09,Pop,,Inglewood,California
+2019/05/11,United States,T-Mobile Arena,"Normani, Social House",1555349,15194,15194,15194,,Sweetener Tour,Ariana Grande,102.37,Pop,,Las Vegas,Nevada
+2019/05/14,United States,Talking Stick Resort Arena,"Normani, Social House",1492678,13343,13343,13343,,Sweetener Tour,Ariana Grande,111.87,Pop,,Phoenix,Arizona
+2019/05/17,United States,AT&T Center,"Normani, Social House",1678465,14860,14860,14860,,Sweetener Tour,Ariana Grande,112.95,Pop,,San Antonio,Texas
+2019/05/19,United States,Toyota Center,"Normani, Social House",1602420,12483,12483,12483,,Sweetener Tour,Ariana Grande,128.37,Pop,,Houston,Texas
+2019/05/21,United States,American Airlines Center,"Normani, Social House",1601901,14262,14262,14262,,Sweetener Tour,Ariana Grande,112.32,Pop,,Dallas,Texas
+2019/05/23,United States,Chesapeake Energy Arena,"Normani, Social House",1347629,12668,12668,12668,,Sweetener Tour,Ariana Grande,106.38,Pop,,Oklahoma City,Oklahoma
+2019/05/25,United States,Smoothie King Center,"Normani, Social House",1376994,12889,12889,12889,,Sweetener Tour,Ariana Grande,106.83,Pop,,New Orleans,Louisiana
+2019/05/31,United States,American Airlines Arena,"Normani, Social House",3146471,26704,26704,26704,,Sweetener Tour,Ariana Grande,117.83,Pop,,Miami,Florida
+2019/06/01,United States,American Airlines Arena,"Normani, Social House",3146471,26704,26704,26704,,Sweetener Tour,Ariana Grande,117.83,Pop,,Miami,Florida
+2019/06/04,United States,United Center,"Normani, Social House",3468667,28941,28941,28941,,Sweetener Tour,Ariana Grande,119.85,Pop,,Chicago,Illinois
+2019/06/05,United States,United Center,"Normani, Social House",3468667,28941,28941,28941,,Sweetener Tour,Ariana Grande,119.85,Pop,,Chicago,Illinois
+2019/06/07,United States,Bridgestone Arena,"Normani, Social House",1437761,13835,13835,13835,,Sweetener Tour,Ariana Grande,103.92,Pop,,Nashville,Tennessee
+2019/06/08,United States,State Farm Arena,"Normani, Social House",1220686,12317,12317,12317,,Sweetener Tour,Ariana Grande,99.11,Pop,,Atlanta,Georgia
+2019/06/10,United States,Spectrum Center,"Normani, Social House",1550790,14972,14972,14972,,Sweetener Tour,Ariana Grande,103.58,Pop,,Charlotte,North Carolina
+2019/06/12,United States,PPG Paints Arena,Social House,1518932,14343,14343,14343,,Sweetener Tour,Ariana Grande,105.9,Pop,,Pittsburgh,Pennsylvania
+2019/06/14,United States,Barclays Center,"Normani, Social House",4378453,28972,28972,28972,,Sweetener Tour,Ariana Grande,151.13,Pop,,Brooklyn,New York
+2019/06/15,United States,Barclays Center,"Normani, Social House",4378453,28972,28972,28972,,Sweetener Tour,Ariana Grande,151.13,Pop,,Brooklyn,New York
+2019/06/18,United States,Madison Square Garden,"Normani, Social House",5492909,28576,28576,28576,,Sweetener Tour,Ariana Grande,192.22,Pop,,New York City,New York
+2019/06/19,United States,Madison Square Garden,"Normani, Social House",5492909,28576,28576,28576,,Sweetener Tour,Ariana Grande,192.22,Pop,,New York City,New York
+2019/06/21,United States,Capital One Arena,"Normani, Social House",1782835,13897,13897,13897,,Sweetener Tour,Ariana Grande,128.29,Pop,,"Washington, D.C.",Washington D.C.
+2019/06/22,United States,TD Garden,"Normani, Social House",1628077,13242,13242,13242,,Sweetener Tour,Ariana Grande,122.95,Pop,,Boston,Massachusetts
+2019/06/24,United States,Wells Fargo Center,"Normani, Social House",1807505,14968,14968,14968,,Sweetener Tour,Ariana Grande,120.76,Pop,,Philadelphia,Pennsylvania
+2019/06/26,Canada,Scotiabank Arena,"Normani, Social House",1539282,15073,15073,15073,,Sweetener Tour,Ariana Grande,102.12,Pop,,Toronto,Ontario
+2019/06/29,United States,Bankers Life Fieldhouse,"Normani, Social House",1346335,13773,13773,13773,,Sweetener Tour,Ariana Grande,97.75,Pop,,Indianapolis,Indiana
+2019/07/01,United States,Schottenstein Center,"Normani, Social House",1361839,13576,13576,13576,,Sweetener Tour,Ariana Grande,100.31,Pop,,Columbus,Ohio
+2019/07/05,United States,Fiserv Forum,"Normani, Social House",1310830,12040,12040,12040,,Sweetener Tour,Ariana Grande,108.87,Pop,,Milwaukee,Wisconsin
+2019/07/06,United States,Enterprise Center,"Normani, Social House",1547186,14474,14474,14474,,Sweetener Tour,Ariana Grande,106.89,Pop,,St. Louis,Missouri
+2019/07/08,United States,Xcel Energy Center,"Normani, Social House",1751076,14789,14789,14789,,Sweetener Tour,Ariana Grande,118.4,Pop,,Saint Paul,Minnesota
+2019/07/11,United States,Pepsi Center,"Normani, Social House",1446520,13258,13258,13258,,Sweetener Tour,Ariana Grande,109.11,Pop,,Denver,Colorado
+2019/07/13,United States,Vivint Smart Home Arena,"Normani, Social House",1163364,12569,12569,12569,,Sweetener Tour,Ariana Grande,92.56,Pop,,Salt Lake City,Utah
+2019/08/17,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426,,Sweetener Tour,Ariana Grande,106.38,Pop,,London,England
+2019/08/19,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426,,Sweetener Tour,Ariana Grande,106.38,Pop,,London,England
+2019/08/20,England,The O2 Arena,"Ella Mai, Social House",5313530,49950,51426,51426,,Sweetener Tour,Ariana Grande,106.38,Pop,,London,England
+2019/08/23,Netherlands,Ziggo Dome,"Ella Mai, Social House",2423340,32407,32407,32407,,Sweetener Tour,Ariana Grande,74.78,Pop,,Amsterdam,North Holland
+2019/08/24,Netherlands,Ziggo Dome,"Ella Mai, Social House",2423340,32407,32407,32407,,Sweetener Tour,Ariana Grande,74.78,Pop,,Amsterdam,North Holland
+2019/08/27,France,AccorHotels Arena,"Ella Mai, Social House",2649344,31521,32520,32520,,Sweetener Tour,Ariana Grande,84.05,Pop,,Paris,Île-de-France
+2019/08/28,France,AccorHotels Arena,"Ella Mai, Social House",2649344,31521,32520,32520,,Sweetener Tour,Ariana Grande,84.05,Pop,,Paris,Île-de-France
+2019/08/30,Belgium,Sportpaleis,"Ella Mai, Social House",1366100,20720,21826,21826,,Sweetener Tour,Ariana Grande,65.93,Pop,,Antwerp,Antwerp Province
+2019/09/01,Germany,Lanxess Arena,"Ella Mai, Social House",1460540,15928,15928,15928,,Sweetener Tour,Ariana Grande,91.7,Pop,,Cologne,North Rhine-Westphalia
+2019/09/03,Austria,Wiener Stadthalle,"Ella Mai, Social House",1597690,15090,15090,15090,,Sweetener Tour,Ariana Grande,105.88,Pop,,Vienna,Vienna
+2019/09/04,Czech Republic,O2 Arena,"Ella Mai, Social House",1258644,13624,13624,13624,,Sweetener Tour,Ariana Grande,92.38,Pop,,Prague,Prague
+2019/09/11,Netherlands,Ziggo Dome,"Ella Mai, Social House",1238670,15844,15844,15844,,Sweetener Tour,Ariana Grande,78.18,Pop,,Amsterdam,North Holland Province
+2019/09/14,England,Arena Birmingham,"Ella Mai, Social House",2774610,26704,27810,27810,,Sweetener Tour,Ariana Grande,103.9,Pop,,Birmingham,England
+2019/09/15,England,Arena Birmingham,"Ella Mai, Social House",2774610,26704,27810,27810,,Sweetener Tour,Ariana Grande,103.9,Pop,,Birmingham,England
+2019/09/17,Scotland,SSE Hydro,"Ella Mai, Social House",1342620,12994,12994,12994,,Sweetener Tour,Ariana Grande,103.33,Pop,,Glasgow,Lanarkshire
+2019/09/19,England,FlyDSA Arena,"Ella Mai, Social House",1025363,12764,12764,12764,,Sweetener Tour,Ariana Grande,80.33,Pop,,Sheffield,England
+2019/09/22,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905,,Sweetener Tour,Ariana Grande,97.32,Pop,,Dublin,Leinster
+2019/09/23,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905,,Sweetener Tour,Ariana Grande,97.32,Pop,,Dublin,Leinster
+2019/09/25,Ireland,3Arena,"Ella Mai, Social House",3688950,37905,37905,37905,,Sweetener Tour,Ariana Grande,97.32,Pop,,Dublin,Leinster
+2019/09/28,Germany,Barclaycard Arena,"Ella Mai, Social House",1142830,12614,13377,13377,,Sweetener Tour,Ariana Grande,90.6,Pop,,Hamburg,Hamburg
+2019/10/01,Denmark,Royal Arena,"Ella Mai, Social House",1264240,15473,15473,15473,,Sweetener Tour,Ariana Grande,81.71,Pop,,Copenhagen,Amager
+2019/10/03,Norway,Telenor Arena,"Ella Mai, Social House",1816140,23911,23911,23911,,Sweetener Tour,Ariana Grande,75.95,Pop,,Oslo,Oslo
+2019/10/05,Finland,Hartwall Arena,"Ella Mai, Social House",1353560,11547,11547,11547,,Sweetener Tour,Ariana Grande,117.22,Pop,,Helsinki,Uusimaa
+2019/10/07,Sweden,Ericsson Globe,"Ella Mai, Social House",1264240,13831,13831,13831,,Sweetener Tour,Ariana Grande,91.41,Pop,,Stockholm,Stockholm County
+2019/10/09,Germany,Barclaycard Arena,"Ella Mai, Social House",1088470,11553,11553,11553,,Sweetener Tour,Ariana Grande,94.22,Pop,,Hamburg,Hamburg
+2019/10/10,Germany,Mercedes-Benz Arena,"Ella Mai, Social House",1216250,13531,13531,13531,,Sweetener Tour,Ariana Grande,89.89,Pop,,Berlin,Berlin
+2019/10/13,Switzerland,Hallenstadion,"Ella Mai, Social House",1367790,13370,13370,13370,,Sweetener Tour,Ariana Grande,102.3,Pop,,Zürich,Zürich
+2019/10/15,England,The O2 Arena,"Ella Mai, Social House",3061320,26369,29062,29062,,Sweetener Tour,Ariana Grande,116.1,Pop,,London,England
+2019/10/16,England,The O2 Arena,"Ella Mai, Social House",3061320,26369,29062,29062,,Sweetener Tour,Ariana Grande,116.1,Pop,,London,England
+2019/11/09,United States,Nassau Veterans Memorial Coliseum,Social House,1580315,11464,11464,11464,,Sweetener Tour,Ariana Grande,137.85,Pop,,Uniondale,New York
+2019/11/12,United States,Barclays Center,Social House,1982444,14151,14151,14151,,Sweetener Tour,Ariana Grande,140.09,Pop,,Brooklyn,New York
+2019/11/15,United States,John Paul Jones Arena,Social House,1102879,9940,9940,9940,,Sweetener Tour,Ariana Grande,110.95,Pop,,Charlottesville,Virginia
+2019/11/19,United States,State Farm Arena,Social House,1121970,10599,10599,10599,,Sweetener Tour,Ariana Grande,105.86,Pop,,Atlanta,Georgia
+2019/11/22,United States,PNC Arena,Social House,1385720,13041,13041,13041,,Sweetener Tour,Ariana Grande,106.26,Pop,,Raleigh,North Carolina
+2019/11/24,United States,Amalie Arena,Social House,1430092,14067,14067,14067,,Sweetener Tour,Ariana Grande,101.66,Pop,,Tampa,Florida
+2019/11/25,United States,Amway Center,Social House,1431037,13112,13112,13112,,Sweetener Tour,Ariana Grande,109.14,Pop,,Orlando,Florida
+2019/11/27,United States,American Airlines Arena,Social House,1411818,12100,12100,12100,,Sweetener Tour,Ariana Grande,116.68,Pop,,Miami,Florida
+2019/12/01,United States,VyStar Veterans Memorial Arena,Social House,965794,10560,10560,10560,,Sweetener Tour,Ariana Grande,91.46,Pop,,Jacksonville,Florida
+2019/12/03,United States,Colonial Life Arena,Social House,1104939,11984,11984,11984,,Sweetener Tour,Ariana Grande,92.2,Pop,,Columbia,South Carolina
+2019/12/05,United States,Bridgestone Arena,Social House,1140202,10471,10471,10471,,Sweetener Tour,Ariana Grande,108.89,Pop,,Nashville,Tennessee
+2019/12/07,United States,FedExForum,Social House,1009205,11826,11826,11826,,Sweetener Tour,Ariana Grande,85.34,Pop,,Memphis,Tennessee
+2019/12/09,United States,American Airlines Center,Social House,1645800,13834,13834,13834,,Sweetener Tour,Ariana Grande,118.97,Pop,,Dallas,Texas
+2019/12/12,United States,Talking Stick Resort Arena,Social House,1465817,12951,12951,12951,,Sweetener Tour,Ariana Grande,113.18,Pop,,Phoenix,Arizona
+2019/12/13,United States,Honda Center,Social House,1686682,12575,12575,12575,,Sweetener Tour,Ariana Grande,134.13,Pop,,Anaheim,California
+2019/12/15,United States,MGM Grand Garden Arena,Social House,1210935,10377,10377,10377,,Sweetener Tour,Ariana Grande,116.69,Pop,,Las Vegas,Nevada
+2019/12/17,United States,Chase Center,Social House,3065557,22990,22990,22990,,Sweetener Tour,Ariana Grande,133.34,Pop,,San Francisco,California
+2019/12/18,United States,Chase Center,Social House,3065557,22990,22990,22990,,Sweetener Tour,Ariana Grande,133.34,Pop,,San Francisco,California
+2019/12/21,United States,The Forum,Social House,3383378,25810,25810,25810,,Sweetener Tour,Ariana Grande,131.09,Pop,,Inglewood,California
+2019/12/22,United States,The Forum,Social House,3383378,25810,25810,25810,,Sweetener Tour,Ariana Grande,131.09,Pop,,Inglewood,California
