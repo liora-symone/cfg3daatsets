@@ -1,0 +1,100 @@
+event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_name,venue_city,venue_state,venue_country
+Believe Tour,2012-09-29,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",75.47363717605005,13428,13428,1013460,"canadian pop, pop",13428,Jobingcom Arena,Glendale,Arizona,United States
+Believe Tour,2012-09-30,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",79.74437203791469,13504,13504,1076868,"canadian pop, pop",13504,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+Believe Tour,2012-02-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",81.27993175052639,27546,27546,2238937,"canadian pop, pop",27546,Staples Center,Los Angeles,California,United States
+Believe Tour,2012-03-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",81.27993175052639,27546,27546,2238937,"canadian pop, pop",27546,Staples Center,Los Angeles,California,United States
+Believe Tour,2012-05-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",110.62532386126202,11965,11965,1323632,"canadian pop, pop",11965,Save Mart Center,Fresno,California,United States
+Believe Tour,2012-06-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",75.32054367832366,14126,14126,1063978,"canadian pop, pop",14126,Oracle Arena,Oakland,California,United States
+Believe Tour,2012-08-10,Justin Bieber,Carly Rae Jepsen,68.9,14550,14550,1002495,"canadian pop, pop",14550,Rose Garden,Portland,Oregon,United States
+Believe Tour,2012-09-10,Justin Bieber,Carly Rae Jepsen,66.07932277012685,20259,20259,1338701,"canadian pop, pop",20259,Tacoma Dome,Tacoma,Washington,United States
+Believe Tour,2012-10-10,Justin Bieber,Carly Rae Jepsen,84.26540941551688,14423,14423,1215360,"canadian pop, pop",14423,Rogers Arena,Vancouver,British Columbia,Canada
+Believe Tour,2012-12-10,Justin Bieber,Carly Rae Jepsen,81.97784461888342,13631,13631,1117440,"canadian pop, pop",13631,Scotiabank Saddledome,Calgary,Alberta,Canada
+Believe Tour,2012-10-15,Justin Bieber,Carly Rae Jepsen,83.26282661201786,13663,13663,1137620,"canadian pop, pop",13663,Rexall Place,Edmonton,Alberta,Canada
+Believe Tour,2012-10-19,Justin Bieber,Carly Rae Jepsen,80.27072370929612,13113,13113,1052590,"canadian pop, pop",13113,Credit Union Centre,Saskatoon,Saskatchewan,Canada
+Believe Tour,2012-10-18,Justin Bieber,Carly Rae Jepsen,78.70628845865225,13326,13326,1048840,"canadian pop, pop",13326,MTS Centre,Winnipeg,Manitoba,Canada
+Believe Tour,2012-10-20,Justin Bieber,Carly Rae Jepsen,73.71896504266446,14532,14532,1071284,"canadian pop, pop",14532,Target Center,Minneapolis,Minnesota,United States
+Believe Tour,2012-10-21,Justin Bieber,Carly Rae Jepsen,71.2413585612088,14957,14957,1065557,"canadian pop, pop",14957,Bradley Center,Milwaukee,Wisconsin,United States
+Believe Tour,2012-10-23,Justin Bieber,Carly Rae Jepsen,78.35485773256671,27132,27132,2125924,"canadian pop, pop",27132,Allstate Arena,Rosemont,Illinois,United States
+Believe Tour,2012-10-24,Justin Bieber,Carly Rae Jepsen,78.35485773256671,27132,27132,2125924,"canadian pop, pop",27132,Allstate Arena,Rosemont,Illinois,United States
+Believe Tour,2012-10-26,Justin Bieber,Carly Rae Jepsen,73.95605496707701,13972,13972,1033314,"canadian pop, pop",13972,Sprint Center,Kansas City,Missouri,United States
+Believe Tour,2012-10-27,Justin Bieber,Carly Rae Jepsen,73.72901423440202,15034,15034,1108442,"canadian pop, pop",15034,Scottrade Center,St. Louis,Missouri,United States
+Believe Tour,2012-10-29,Justin Bieber,Carly Rae Jepsen,75.64800624379168,14094,14094,1066183,"canadian pop, pop",14094,American Airlines Center,Dallas,Texas,United States
+Believe Tour,2012-10-30,Justin Bieber,Carly Rae Jepsen,78.08911647814124,13084,13084,1021718,"canadian pop, pop",13084,Toyota Center,Houston,Texas,United States
+Believe Tour,2012-01-11,Justin Bieber,Carly Rae Jepsen,69.03034564428984,13511,13511,932669,"canadian pop, pop",13511,FedExForum,Memphis,Tennessee,United States
+Believe Tour,2012-02-11,Justin Bieber,Carly Rae Jepsen,70.904432472144,16334,16334,1158153,"canadian pop, pop",16334,KFC Yum Center,Louisville,Kentucky,United States
+Believe Tour,2012-04-11,Justin Bieber,Carly Rae Jepsen,81.04813876437342,15393,15393,1247574,"canadian pop, pop",15393,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+Believe Tour,2012-05-11,Justin Bieber,"Cody Simpson, Jaden Smith",80.81598949695965,14472,14472,1169569,"canadian pop, pop",14472,Verizon Center,"Washington, D.C.",District of Columbia,United States
+Believe Tour,2012-09-11,Justin Bieber,"Cody Simpson, Jaden Smith",77.30584106292304,15956,15956,1233492,"canadian pop, pop",15956,Izod Center,East Rutherford,New Jersey,United States
+Believe Tour,2012-10-11,Justin Bieber,"Cody Simpson, Jaden Smith",80.17624069021458,13561,13561,1087270,"canadian pop, pop",13561,TD Garden,Boston,Massachusetts,United States
+Believe Tour,2012-12-11,Justin Bieber,"Cody Simpson, Jaden Smith",77.65163733258537,14261,14261,1107390,"canadian pop, pop",14261,Barclays Center,New York City,New York,United States
+Believe Tour,2012-11-21,Justin Bieber,Carly Rae Jepsen,76.18178292068006,15469,15469,1178456,"canadian pop, pop",15469,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+Believe Tour,2012-11-23,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.64763434579439,13696,13696,1104550,"canadian pop, pop",13696,Scotiabank Place,Ottawa,Ontario,Canada
+Believe Tour,2012-11-26,Justin Bieber,"Carly Rae Jepsen, The Wanted",79.10270951480781,15870,15870,1255360,"canadian pop, pop",15870,Bell Centre,Montreal,Quebec,Canada
+Believe Tour,2012-11-28,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.5322102425876,29680,29680,2390196,"canadian pop, pop",29680,Madison Square Garden,New York City,New York,United States
+Believe Tour,2012-11-29,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.5322102425876,29680,29680,2390196,"canadian pop, pop",29680,Madison Square Garden,New York City,New York,United States
+Believe Tour,2012-01-12,Justin Bieber,"Carly Rae Jepsen, The Wanted",60.969943172741175,43817,43817,2671520,"canadian pop, pop",43817,Rogers Centre,Toronto,Ontario,Canada
+Believe Tour,2013-05-01,Justin Bieber,Carly Rae Jepsen,68.57544408902199,14693,14693,1007579,"canadian pop, pop",14693,EnergySolutions Arena,Salt Lake City,Utah,United States
+Believe Tour,2013-07-01,Justin Bieber,Carly Rae Jepsen,74.48484848484848,13629,13629,1015154,"canadian pop, pop",13629,Pepsi Center,Denver,Colorado,United States
+Believe Tour,2013-09-01,Justin Bieber,Carly Rae Jepsen,68.39437812860993,12985,12985,888101,"canadian pop, pop",12985,BOK Center,Tulsa,Oklahoma,United States
+Believe Tour,2013-10-01,Justin Bieber,Carly Rae Jepsen,65.62408242979325,14849,14849,974452,"canadian pop, pop",14849,Verizon Arena,North Little Rock,,United States
+Believe Tour,2013-12-01,Justin Bieber,Carly Rae Jepsen,67.23217088650789,14653,14653,985153,"canadian pop, pop",14653,ATT Center,San Antonio,Texas,United States
+Believe Tour,2013-01-15,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",71.68740168740169,13986,13986,1002620,"canadian pop, pop",13986,New Orleans Arena,New Orleans,Louisiana,United States
+Believe Tour,2013-01-16,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",68.00280857354028,13530,13530,920078,"canadian pop, pop",13530,Legacy Arena,Birmingham,England,United States
+Believe Tour,2013-01-18,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",73.27549520543151,14287,14287,1046887,"canadian pop, pop",14287,Bridgestone Arena,Nashville,Tennessee,United States
+Believe Tour,2013-01-19,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",64.83442676193569,15395,15395,998126,"canadian pop, pop",15395,Greensboro Coliseum,Greensboro,North Carolina,United States
+Believe Tour,2013-01-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",71.34632006286013,15272,15272,1089601,"canadian pop, pop",15272,Time Warner Cable Arena,Charlotte,North Carolina,United States
+Believe Tour,2013-01-23,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",78.44371748384046,12686,12686,995137,"canadian pop, pop",12686,Philips Arena,Atlanta,Georgia,United States
+Believe Tour,2013-01-25,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",75.62134032197679,13355,13355,1009923,"canadian pop, pop",13355,Amway Center,Orlando,Florida,United States
+Believe Tour,2013-01-26,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",79.00036258158086,27580,27580,2178830,"canadian pop, pop",27580,American Airlines Arena,Miami,Florida,United States
+Believe Tour,2013-01-27,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",79.00036258158086,27580,27580,2178830,"canadian pop, pop",27580,American Airlines Arena,Miami,Florida,United States
+Believe Tour,2013-02-21,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",83.63693423530232,28678,28678,2398540,"canadian pop, pop",28678,Manchester Arena,Manchester,England,England
+Believe Tour,2013-02-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",83.63693423530232,28678,28678,2398540,"canadian pop, pop",28678,Manchester Arena,Manchester,England,England
+Believe Tour,2013-02-27,Justin Bieber,Cody Simpson,93.3047189485426,20619,21690,1923850,"canadian pop, pop",21690,National Indoor Arena,Birmingham,England,England
+Believe Tour,2013-02-28,Justin Bieber,Cody Simpson,93.3047189485426,20619,21690,1923850,"canadian pop, pop",21690,National Indoor Arena,Birmingham,England,England
+Believe Tour,2013-04-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479,60281,5053170,"canadian pop, pop",60281,The O2 Arena,London,England,England
+Believe Tour,2013-05-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479,60281,5053170,"canadian pop, pop",60281,The O2 Arena,London,England,England
+Believe Tour,2013-07-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479,60281,5053170,"canadian pop, pop",60281,The O2 Arena,London,England,England
+Believe Tour,2013-08-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479,60281,5053170,"canadian pop, pop",60281,The O2 Arena,London,England,England
+Believe Tour,2013-03-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",104.96153846153847,13000,13000,1364500,"canadian pop, pop",13000,Hallenstadion,Zürich,Zürich,Switzerland
+Believe Tour,2013-03-31,Justin Bieber,Neon Dogs,85.55482849604222,9475,13289,810632,"canadian pop, pop",13289,O2 World Berlin,Berlin,Berlin,Germany
+Believe Tour,2013-02-04,Justin Bieber,Neon Dogs,94.70686657974794,9204,12984,871682,"canadian pop, pop",12984,O2 World Hamburg,Hamburg,Hamburg,Germany
+Believe Tour,2013-10-04,Justin Bieber,3M8S,72.67768733741714,35751,36939,2598300,"canadian pop, pop",36939,Sportpaleis,Antwerp,Flanders,Belgium
+Believe Tour,2013-11-04,Justin Bieber,3M8S,72.67768733741714,35751,36939,2598300,"canadian pop, pop",36939,Sportpaleis,Antwerp,Flanders,Belgium
+Believe Tour,2013-06-22,Justin Bieber,"Hot Chelle Rae, Mike Posner",84.55059084194978,10832,10832,915852,"canadian pop, pop",10832,Valley View Casino Center,San Diego,California,United States
+Believe Tour,2013-06-24,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.43073515753376,27994,27994,2307566,"canadian pop, pop",27994,Staples Center,Los Angeles,California,United States
+Believe Tour,2013-06-25,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.43073515753376,27994,27994,2307566,"canadian pop, pop",27994,Staples Center,Los Angeles,California,United States
+Believe Tour,2013-06-26,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.26023391812865,12996,12996,1082050,"canadian pop, pop",12996,HP Pavilion,San Jose,California,United States
+Believe Tour,2013-06-28,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.61435413860201,13362,13362,1103893,"canadian pop, pop",13362,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+Believe Tour,2013-06-30,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.35219247186652,12885,12885,1022453,"canadian pop, pop",12885,Pepsi Center,Denver,Colorado,United States
+Believe Tour,2013-02-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.75591776558277,12209,12209,973740,"canadian pop, pop",12209,Chesapeake Energy Arena,Oklahoma City,Oklahoma,United States
+Believe Tour,2013-03-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",81.86124058802439,13945,13945,1141555,"canadian pop, pop",13945,American Airlines Center,Dallas,Texas,United States
+Believe Tour,2013-06-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.29406761641505,14109,14109,1090542,"canadian pop, pop",14109,CenturyLink Center,Omaha,Nebraska,United States
+Believe Tour,2013-07-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.36595971925541,13108,13108,1040329,"canadian pop, pop",13108,Wells Fargo Arena,Des Moines,Iowa,United States
+Believe Tour,2013-09-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.24379031151365,14574,14574,1198621,"canadian pop, pop",14574,United Center,Chicago,Illinois,United States
+Believe Tour,2013-10-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.46486371379898,14088,14088,1091325,"canadian pop, pop",14088,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+Believe Tour,2013-12-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",78.67047564633624,14002,14002,1101544,"canadian pop, pop",14002,Nationwide Arena,Columbus,Ohio,United States
+Believe Tour,2013-07-13,Justin Bieber,"Hot Chelle Rae, Mike Posner",76.13073455316892,15084,15084,1148356,"canadian pop, pop",15084,Quicken Loans Arena,Cleveland,Ohio,United States
+Believe Tour,2013-07-15,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.62681722902157,14789,14789,1148023,"canadian pop, pop",14789,First Niagara Center,Buffalo,New York,United States
+Believe Tour,2013-07-17,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.50972452704946,15065,15065,1243009,"canadian pop, pop",15065,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+Believe Tour,2013-07-18,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.25024185746534,12404,12404,1032636,"canadian pop, pop",12404,XL Center,Hartford,Connecticut,United States
+Believe Tour,2013-07-20,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.55940520446097,13450,13450,1123874,"canadian pop, pop",13450,TD Garden,Boston,Massachusetts,United States
+Believe Tour,2013-07-23,Justin Bieber,"Hot Chelle Rae, Mike Posner",80.2372461975111,13741,13741,1102540,"canadian pop, pop",13741,Scotiabank Place,Ottawa,Ontario,Canada
+Believe Tour,2013-07-25,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.25911569992796,29153,29153,2398100,"canadian pop, pop",29153,Air Canada Centre,Toronto,Ontario,Canada
+Believe Tour,2013-07-26,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.25911569992796,29153,29153,2398100,"canadian pop, pop",29153,Air Canada Centre,Toronto,Ontario,Canada
+Believe Tour,2013-07-28,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.76544758383945,15148,15148,1208287,"canadian pop, pop",15148,Joe Louis Arena,Detroit,Michigan,United States
+Believe Tour,2013-07-30,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.44490008947211,26824,26824,2211502,"canadian pop, pop",26824,Prudential Center,Newark,New Jersey,United States
+Believe Tour,2013-07-31,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.44490008947211,26824,26824,2211502,"canadian pop, pop",26824,Prudential Center,Newark,New Jersey,United States
+Believe Tour,2013-02-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.78878453417427,14587,14587,1207640,"canadian pop, pop",14587,Barclays Center,Brooklyn,New York,United States
+Believe Tour,2013-03-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.15272752099406,14647,14647,1203291,"canadian pop, pop",14647,Verizon Center,"Washington, D.C.",District of Columbia,United States
+Believe Tour,2013-05-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.44545454545455,12540,12540,996246,"canadian pop, pop",12540,Colonial Life Arena,Columbia,Maryland,United States
+Believe Tour,2013-07-08,Justin Bieber,"Ariana Grande, Cody Simpson",81.29359708485164,11526,11526,936990,"canadian pop, pop",11526,Jacksonville Veterans Memorial Arena,Jacksonville,Florida,United States
+Believe Tour,2013-08-08,Justin Bieber,"Ariana Grande, Cody Simpson",78.1314986878502,14099,14099,1101576,"canadian pop, pop",14099,Tampa Bay Times Forum,Tampa,Florida,United States
+Believe Tour,2013-10-08,Justin Bieber,"Ariana Grande, Cody Simpson",82.20238574997985,12407,12407,1019885,"canadian pop, pop",12407,Philips Arena,Atlanta,Georgia,United States
+Believe Tour,2013-02-11,Justin Bieber,P9,102.32692187206315,31922,33374,3266480,"canadian pop, pop",33374,Arena Anhembi,São Paulo,São Paulo,Brazil
+Believe Tour,2013-12-11,Justin Bieber,"Carly Rae Jepsen, Owl City",103.156621985032,47969,52300,4948320,"canadian pop, pop",52300,Estadio Nacional,Santiago,Santiago Metropolitan Region,Chile
+Believe Tour,2013-11-26,Justin Bieber,Cody Simpson,124.81037472668325,13263,19960,1655360,"canadian pop, pop",19960,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+Believe Tour,2013-11-27,Justin Bieber,Cody Simpson,124.81037472668325,13263,19960,1655360,"canadian pop, pop",19960,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+Believe Tour,2013-11-29,Justin Bieber,Cody Simpson,128.60765571123042,22911,24566,2946530,"canadian pop, pop",24566,Allphones Arena,Sydney,New South Wales,Australia
+Believe Tour,2013-11-30,Justin Bieber,Cody Simpson,128.60765571123042,22911,24566,2946530,"canadian pop, pop",24566,Allphones Arena,Sydney,New South Wales,Australia
+Believe Tour,2013-02-12,Justin Bieber,Cody Simpson,120.03859291132503,22543,23925,2706030,"canadian pop, pop",23925,Rod Laver Arena,Melbourne,Victoria,Australia
+Believe Tour,2013-03-12,Justin Bieber,Cody Simpson,120.03859291132503,22543,23925,2706030,"canadian pop, pop",23925,Rod Laver Arena,Melbourne,Victoria,Australia
