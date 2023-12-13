@@ -1,0 +1,61 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Rush of Blood tour,2002-08-06,Coldplay,,8.461538461538462,650,650,5500,"permanent wave, pop",650,,Paradise Rock Club,Boston,Massachusetts,United States
+,Rush of Blood tour,2002-08-07,Coldplay,,9.101234567901235,810,810,7372,"permanent wave, pop",810,,Theatre of Living Arts,Philadelphia,Pennsylvania,United States
+,Rush of Blood tour,2002-08-10,Coldplay,,10.5,1102,1102,11571,"permanent wave, pop",1102,,9:30 Club,"Washington, D.C.",District of Columbia,United States
+,Rush of Blood tour,2002-08-14,Coldplay,,11.44182389937107,1272,1272,14554,"permanent wave, pop",1272,,First Avenue,Minneapolis,Minnesota,United States
+,Rush of Blood tour,2002-08-16,Coldplay,,35.0,625,625,21875,"permanent wave, pop",625,,Fox Theatre,Boulder,Colorado,United States
+,Rush of Blood tour,2002-09-04,Coldplay,,27.50017500875044,2857,2857,78568,"permanent wave, pop",2857,,Paramount Theatre,Seattle,Washington,United States
+,Rush of Blood tour,2002-09-06,Coldplay,,29.27586206896552,8700,8700,254700,"permanent wave, pop",8700,,Hearst Greek Theatre,Berkeley,California,United States
+,Rush of Blood tour,2002-09-09,Coldplay,,26.75005649717514,4425,4798,118369,"permanent wave, pop",4798,,SDSU Open Air Theatre,San Diego,California,United States
+,Rush of Blood tour,2002-09-10,Coldplay,,27.33626588465298,6138,6138,167790,"permanent wave, pop",6138,,Greek Theatre,Los Angeles,California,United States
+,Rush of Blood tour,2002-09-16,Coldplay,,28.5,3860,4400,110010,"permanent wave, pop",4400,,Pier Six Pavilion,Baltimore,Maryland,United States
+,Rush of Blood tour,2002-09-17,Coldplay,,28.44656414249562,5137,5137,146130,"permanent wave, pop",5137,,FleetBoston Pavilion,Boston,Massachusetts,United States
+,Rush of Blood tour,2002-09-19,Coldplay,,28.899248447881494,9181,14029,265324,"permanent wave, pop",14029,,Tommy Hilfiger at Jones Beach Theater,Wantagh,New York,United States
+,Rush of Blood tour,2002-09-21,Coldplay,,26.674311169773965,6061,6061,161673,"permanent wave, pop",6061,,Air Canada Centre,Toronto,Ontario,Canada
+,Rush of Blood tour,2002-09-24,Coldplay,,30.0,5456,8000,163680,"permanent wave, pop",8000,,UIC Pavilion,Chicago,Illinois,United States
+,Rush of Blood tour,2002-10-11,Coldplay,,28.407392686804453,15096,15160,428838,"permanent wave, pop",15160,,Manchester Evening News Arena,Manchester,England,England
+,Rush of Blood tour,2002-11-05,Coldplay,,29.46062467997952,9765,9765,287683,"permanent wave, pop",9765,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Rush of Blood tour,2003-01-24,Coldplay,,30.48507718696398,2915,2915,88864,"permanent wave, pop",2915,,BJCC Concert Hall,Birmingham,England,England
+,Rush of Blood tour,2003-01-21,Coldplay,,32.48571428571429,2800,2800,90960,"permanent wave, pop",2800,,Hard Rock Live,Orlando,Florida,United States
+,Rush of Blood tour,2003-01-22,Coldplay,,32.749957961997644,5947,5947,194764,"permanent wave, pop",5947,,UM Convocation Center,Coral Gables,Florida,United States
+,Rush of Blood tour,2003-01-25,Coldplay,,28.73793103448276,2900,2900,83340,"permanent wave, pop",2900,,Grady Cole Center,Charlotte,North Carolina,United States
+,Rush of Blood tour,2003-01-27,Coldplay,,35.0,2534,2534,88690,"permanent wave, pop",2534,,Saenger Theatre,New Orleans,Louisiana,United States
+,Rush of Blood tour,2003-01-28,Coldplay,,30.74672209785737,3127,3127,96145,"permanent wave, pop",3127,,Verizon Wireless Theater,Houston,Texas,United States
+,Rush of Blood tour,2003-01-29,Coldplay,,30.0,4731,6290,141930,"permanent wave, pop",6290,,Frank Erwin Center,Austin,Texas,United States
+,Rush of Blood tour,2003-01-31,Coldplay,,35.0,5952,6333,208320,"permanent wave, pop",6333,,NextStage Performance Theater,Grand Prarie,Texas,United States
+,Rush of Blood tour,2003-02-01,Coldplay,,32.50022094564737,2263,2263,73548,"permanent wave, pop",2263,,Oklahoma City Music Hall,Oklahoma City,Oklahoma,United States
+,Rush of Blood tour,2003-02-03,Coldplay,,29.27974127974128,4329,5024,126752,"permanent wave, pop",5024,,Savvis Center,St Louis,Missouri,United States
+,Rush of Blood tour,2003-02-04,Coldplay,,30.383631713554987,3128,3153,95040,"permanent wave, pop",3153,,Memorial Hall,Kansas City,Missouri,United States
+,Rush of Blood tour,2003-02-06,Coldplay,,30.0,3600,3600,108000,"permanent wave, pop",3600,,Fillmore Auditorium,Denver,Colorado,United States
+,Rush of Blood tour,2003-02-09,Coldplay,,29.274210416230915,4781,4781,139960,"permanent wave, pop",4781,,Dodge Theatre,Phoenix,Arizona,United States
+,Rush of Blood tour,2003-02-24,Coldplay,,22.04569961489089,7790,8578,171736,"permanent wave, pop",8578,,Corel Centre,Ottawa,Ontario,Canada
+,Rush of Blood tour,2003-02-25,Coldplay,,28.32357433808554,11784,12414,333765,"permanent wave, pop",12414,,Bell Centre,Montreal,Quebec,Canada
+,Rush of Blood tour,2003-02-27,Coldplay,,32.64225118973722,4833,4833,157760,"permanent wave, pop",4833,,Oakdale Theatre,Wallingford,Connecticut,United States
+,Rush of Blood tour,2003-02-28,Coldplay,,28.855542624381727,6874,6874,198353,"permanent wave, pop",6874,,Tweeter Center,Camden,New Jersey,United States
+,Rush of Blood tour,2003-03-02,Coldplay,,30.32635746606335,3536,3810,107234,"permanent wave, pop",3810,,A.J. Palumbo Center,Pittsburgh,Pennsylvania,United States
+,Rush of Blood tour,2003-03-03,Coldplay,,29.57697931898893,4787,4787,141585,"permanent wave, pop",4787,,Fox Theatre,Detroit,Michigan,United States
+,Rush of Blood tour,2003-03-04,Coldplay,,30.885532591414943,2516,2516,77708,"permanent wave, pop",2516,,Murat Theatre,Indianapolis,Indiana,United States
+,Rush of Blood tour,2003-03-06,Coldplay,,33.67588932806324,7084,7084,238560,"permanent wave, pop",7084,,Gwinnett Civic Center Arena,Duluth,Georgia,United States
+,Rush of Blood tour,2003-03-09,Coldplay,,28.0,2300,2300,64400,"permanent wave, pop",2300,,PromoWest Pavilion,Columbus,Ohio,United States
+,Rush of Blood tour,2003-03-07,Coldplay,,34.0,2179,2179,74086,"permanent wave, pop",2179,,Ryman Auditorium,Nashville,Tennessee,United States
+,Rush of Blood tour,2003-03-10,Coldplay,,31.209647495361786,2695,2695,84110,"permanent wave, pop",2695,,Palace Theatre,Louisville,Kentucky,United States
+,Rush of Blood tour,2003-03-13,Coldplay,,28.4539651362632,8146,9481,231786,"permanent wave, pop",9481,,Target Center,Minneapolis,Minnesota,United States
+,Rush of Blood tour,2003-04-14,Coldplay,,31.991034571723425,15504,15636,495989,"permanent wave, pop",15636,,Manchester Evening News Arena,Manchester,England,England
+,Rush of Blood tour,2003-05-20,Coldplay,,25.157215921725594,4497,4500,113132,"permanent wave, pop",4500,,Shaw Conference Centre,Edmonton,Alberta,Canada
+,Rush of Blood tour,2003-05-21,Coldplay,,27.49312028406569,9012,9844,247768,"permanent wave, pop",9844,,Pengrowth Saddledome,Calgary,Alberta,Canada
+,Rush of Blood tour,2003-05-23,Coldplay,,26.198243412797996,11955,13628,313200,"permanent wave, pop",13628,,General Motors Place,Vancouver,British Columbia,Canada
+,Rush of Blood tour,2003-05-25,Coldplay,,35.0,5200,5200,182000,"permanent wave, pop",5200,,Les Schwab Amphitheater,Bend,Oregon,United States
+,Rush of Blood tour,2003-05-27,Coldplay,,30.259136212624583,2408,3100,72864,"permanent wave, pop",3100,,Bank of America Centre,Boise,Idaho,United States
+,Rush of Blood tour,2003-05-28,Coldplay,,23.26270588235294,8500,8500,197733,"permanent wave, pop",8500,,AutoWest Amphitheatre,Wheatland,California,United States
+,Rush of Blood tour,2003-05-30,Coldplay,,28.87372013651877,20217,21895,583740,"permanent wave, pop",21895,,Shoreline Amphitheatre,Mountain View,California,United States
+,Rush of Blood tour,2003-06-03,Coldplay,,34.75002678667095,9333,9333,324322,"permanent wave, pop",9333,,Cox Arena,San Diego,California,United States
+,Rush of Blood tour,2003-06-05,Coldplay,,33.96624147789751,18188,18890,617778,"permanent wave, pop",18890,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Rush of Blood tour,2003-06-09,Coldplay,,35.62591659028414,8728,8728,310943,"permanent wave, pop",8728,,UIC Pavilion,Chicago,Illinois,United States
+,Rush of Blood tour,2003-06-10,Coldplay,,27.54979601631869,8334,8334,229600,"permanent wave, pop",8334,,Tower City Amphitheater,Cleveland,Ohio,United States
+,Rush of Blood tour,2003-06-11,Coldplay,,19.886513963743266,16328,16328,324707,"permanent wave, pop",16328,,Molson Canadian Amphitheatre,Toronto,Ontario,Canada
+,Rush of Blood tour,2003-06-13,Coldplay,,36.94433878534297,15774,15774,582760,"permanent wave, pop",15774,,Madison Square Garden,New York City,New York,United States
+,Rush of Blood tour,2003-07-18,Coldplay,,42.10045792787636,10482,10500,441297,"permanent wave, pop",10500,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Rush of Blood tour,2003-07-21,Coldplay,,42.10048030739674,10410,10500,438266,"permanent wave, pop",10500,,Hordern Pavilion,Sydney,New South Wales,Australia
+,Rush of Blood tour,2003-09-03,Coldplay,,25.888869195320808,5642,5642,146065,"permanent wave, pop",5642,,Via Funchal,São Paulo,São Paulo,Brazil
+,Rush of Blood tour,2003-09-04,Coldplay,,21.304516129032255,7750,7750,165110,"permanent wave, pop",7750,,ATL Hall,Rio de Janeiro,Rio de Janeiro,Brazil
+,Rush of Blood tour,2003-09-07,Coldplay,,27.61408850994722,39408,39408,1088216,"permanent wave, pop",39408,,Palacio de los Deportes,Mexico City,Mexico City,Mexico

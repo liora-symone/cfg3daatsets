@@ -1,0 +1,58 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Viva la vida Tour,2008-07-14,ColdPlay,,82.69882000997174,30085,30085,2487994,"permanent wave, pop",30085,,The Forum,Inglewood,California,United States
+,Viva la vida Tour,2008-07-15,ColdPlay,,82.69882000997174,30085,30085,2487994,"permanent wave, pop",30085,,The Forum,Inglewood,California,United States
+,Viva la vida Tour,2008-07-18,ColdPlay,,79.59862969004894,15325,15838,1219849,"permanent wave, pop",15838,,HP Pavilion,San Jose,California,United States
+,Viva la vida Tour,2008-07-19,ColdPlay,,89.83681889315692,14058,14058,1262926,"permanent wave, pop",14058,,MGM Grand Garden Arena,Paradise,Nevada,United States
+,Viva la vida Tour,2008-07-22,ColdPlay,,81.35475431829616,29815,31056,2425592,"permanent wave, pop",31056,,United Center,Chicago,Illinois,United States
+,Viva la vida Tour,2008-07-23,ColdPlay,,81.35475431829616,29815,31056,2425592,"permanent wave, pop",31056,,United Center,Chicago,Illinois,United States
+,Viva la vida Tour,2008-07-25,ColdPlay,,83.38051141116023,16738,16738,1395623,"permanent wave, pop",16738,,Wachovia Center,Philadelphia,Pennsylvania,United States
+,Viva la vida Tour,2008-07-29,ColdPlay,,82.00173822353554,17259,17259,1415268,"permanent wave, pop",17259,,Bell Centre,Montreal,Quebec,Canada
+,Viva la vida Tour,2008-07-30,ColdPlay,,87.13713577916715,33908,33908,2954646,"permanent wave, pop",33908,,Air Canada Centre,Toronto,Ontario,Canada
+,Viva la vida Tour,2008-07-31,ColdPlay,,87.13713577916715,33908,33908,2954646,"permanent wave, pop",33908,,Air Canada Centre,Toronto,Ontario,Canada
+,Viva la vida Tour,2008-08-02,ColdPlay,,78.95178330288347,12589,12589,993924,"permanent wave, pop",12589,,XL Center,Hartford,Connecticut,United States
+,Viva la vida Tour,2008-08-03,ColdPlay,,85.96941624365482,15760,15760,1354878,"permanent wave, pop",15760,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Viva la vida Tour,2008-08-04,ColdPlay,,85.11021114572516,14445,14445,1229417,"permanent wave, pop",14445,,TD Banknorth Garden,Boston,Massachusetts,United States
+,Viva la vida Tour,2008-09-01,ColdPlay,,60.78273433267112,11074,11074,673108,"permanent wave, pop",11074,,Zénith de Strasbourg,Strasbourg,Grand Est,France
+,Viva la vida Tour,2008-09-02,ColdPlay,,72.89888272646893,12441,12441,906935,"permanent wave, pop",12441,,SAP Arena,Mannheim,Baden-Württemberg,Germany
+,Viva la vida Tour,2008-09-04,ColdPlay,,62.35866170110524,16648,16648,1038147,"permanent wave, pop",16648,,Halle Tony Garnier,Lyon,Auvergne-Rhône-Alpes,France
+,Viva la vida Tour,2008-09-06,ColdPlay,,68.51071348440655,17828,17960,1221409,"permanent wave, pop",17960,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Viva la vida Tour,2008-09-07,ColdPlay,,68.32608555390671,15499,15548,1058986,"permanent wave, pop",15548,,Palacio de Deportes,Madrid,Community of Madrid,Spain
+,Viva la vida Tour,2008-09-09,ColdPlay,,70.07423780487805,32800,32800,2298435,"permanent wave, pop",32800,,Palais Omnisports de Paris-Bercy,Paris,Île-de-France,France
+,Viva la vida Tour,2008-09-10,ColdPlay,,70.07423780487805,32800,32800,2298435,"permanent wave, pop",32800,,Palais Omnisports de Paris-Bercy,Paris,Île-de-France,France
+,Viva la vida Tour,2008-09-12,ColdPlay,,73.28053399565353,16105,16105,1180183,"permanent wave, pop",16105,,Kölnarena,Cologne,North Rhine-Westphalia,Germany
+,Viva la vida Tour,2008-09-14,ColdPlay,,73.1043956043956,12558,12558,918045,"permanent wave, pop",12558,,Color Line Arena,Hamburg,Hamburg,Germany
+,Viva la vida Tour,2008-09-15,ColdPlay,,72.04734716613285,14362,14362,1034744,"permanent wave, pop",14362,,O2 World,Berlin,Berlin,Germany
+,Viva la vida Tour,2008-09-17,ColdPlay,,66.79235459829547,28043,28510,1873058,"permanent wave, pop",28510,,Stockholm Globe Arena,Stockholm,Stockholm County,Sweden
+,Viva la vida Tour,2008-09-18,ColdPlay,,66.79235459829547,28043,28510,1873058,"permanent wave, pop",28510,,Stockholm Globe Arena,Stockholm,Stockholm County,Sweden
+,Viva la vida Tour,2008-09-19,ColdPlay,,83.23077876984127,8064,8213,671173,"permanent wave, pop",8213,,Oslo Spektrum,Oslo,Oslo,Norway
+,Viva la vida Tour,2008-09-22,ColdPlay,,60.8040163879374,14889,15000,905311,"permanent wave, pop",15000,,O2 Arena,Prague,Prague,Czech Republic
+,Viva la vida Tour,2008-09-23,ColdPlay,,69.97499775965588,11159,11466,780851,"permanent wave, pop",11466,,Budapest Sports Arena,Budapest,Central Hungary,Hungary
+,Viva la vida Tour,2008-09-24,ColdPlay,,72.00344827586207,13340,13340,960526,"permanent wave, pop",13340,,Wiener Stadthalle,Vienna,Vienna,Austria
+,Viva la vida Tour,2008-09-26,ColdPlay,,77.14121135112241,11805,11805,910652,"permanent wave, pop",11805,,Olympiahalle,Munich,Bavaria,Germany
+,Viva la vida Tour,2008-09-30,ColdPlay,,62.43225173827777,11218,11218,700365,"permanent wave, pop",11218,,DatchForum,Assago,Lombardy,Italy
+,Viva la vida Tour,2008-10-02,ColdPlay,,62.76555555555556,21600,21600,1355736,"permanent wave, pop",21600,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Viva la vida Tour,2008-10-03,ColdPlay,,62.76555555555556,21600,21600,1355736,"permanent wave, pop",21600,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Viva la vida Tour,2008-10-04,ColdPlay,,56.60879933229999,16774,16774,949556,"permanent wave, pop",16774,,Sportpaleis,Antwerp,Flanders,Belgium
+,Viva la vida Tour,2008-10-20,ColdPlay,,77.82501443775266,12121,15082,943317,"permanent wave, pop",15082,,Scotiabank Place,Ottawa,Ontario,Canada
+,Viva la vida Tour,2008-10-26,ColdPlay,,42.58909426987061,32460,32460,1382442,"permanent wave, pop",32460,,Izod Center,East Rutherford,New Jersey,United States
+,Viva la vida Tour,2008-10-27,ColdPlay,,42.58909426987061,32460,32460,1382442,"permanent wave, pop",32460,,Izod Center,East Rutherford,New Jersey,United States
+,Viva la vida Tour,2008-10-29,ColdPlay,,86.31080431348308,14559,14559,1256599,"permanent wave, pop",14559,,TD Banknorth Garden,Boston,Massachusetts,United States
+,Viva la vida Tour,2008-10-31,ColdPlay,,83.97393699675095,14158,14158,1188903,"permanent wave, pop",14158,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Viva la vida Tour,2008-11-01,ColdPlay,,80.85959671396564,16068,16068,1299252,"permanent wave, pop",16068,,Wachovia Center,Philadelphia,Pennsylvania,United States
+,Viva la vida Tour,2008-11-03,ColdPlay,,76.16571642910728,13330,13330,1015289,"permanent wave, pop",13330,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Viva la vida Tour,2008-11-09,ColdPlay,,83.33982511923688,15096,15096,1258098,"permanent wave, pop",15096,,BankAtlantic Center,Sunrise,Florida,United States
+,Viva la vida Tour,2008-11-14,ColdPlay,,83.46930706339633,14922,16010,1245529,"permanent wave, pop",16010,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Viva la vida Tour,2008-11-18,ColdPlay,,85.29976396538159,13981,13981,1192576,"permanent wave, pop",13981,,Toyota Center,Houston,Texas,United States
+,Viva la vida Tour,2008-11-19,ColdPlay,,84.51727701349867,15483,16430,1308581,"permanent wave, pop",16430,,American Airlines Center,Dallas,Texas,United States
+,Viva la vida Tour,2008-11-21,ColdPlay,,87.49056280027453,11656,11656,1019790,"permanent wave, pop",11656,,Pepsi Center,Denver,Colorado,United States
+,Viva la vida Tour,2008-11-22,ColdPlay,,80.66968442834971,11598,11598,935607,"permanent wave, pop",11598,,EnergySolutions Arena,Salt Lake City,Utah,United States
+,Viva la vida Tour,2008-11-25,ColdPlay,,81.72217744889736,13649,13649,1115426,"permanent wave, pop",13649,,Honda Center,Anaheim,California,United States
+,Viva la vida Tour,2008-11-26,ColdPlay,,76.20668326167308,13257,13257,1010272,"permanent wave, pop",13257,,Jobing.com Arena,Glendale,Arizona,United States
+,Viva la vida Tour,2008-12-11,ColdPlay,,62.55672446262744,30798,31136,1926622,"permanent wave, pop",31136,,Manchester Evening News Arena,Manchester,England,England
+,Viva la vida Tour,2008-12-12,ColdPlay,,62.55672446262744,30798,31136,1926622,"permanent wave, pop",31136,,Manchester Evening News Arena,Manchester,England,England
+,Viva la vida Tour,2008-12-14,ColdPlay,,57.8523219089952,51294,52500,2967477,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la vida Tour,2008-12-15,ColdPlay,,57.8523219089952,51294,52500,2967477,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la vida Tour,2008-12-16,ColdPlay,,57.8523219089952,51294,52500,2967477,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la vida Tour,2008-12-19,ColdPlay,,64.61333333333333,8400,8532,542752,"permanent wave, pop",8532,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Viva la vida Tour,2008-12-21,ColdPlay,,66.82592137592138,16280,16280,1087926,"permanent wave, pop",16280,,O2 Dublin,Dublin,Leinster,Ireland
+,Viva la vida Tour,2008-12-22,ColdPlay,,66.82592137592138,16280,16280,1087926,"permanent wave, pop",16280,,O2 Dublin,Dublin,Leinster,Ireland

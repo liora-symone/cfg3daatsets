@@ -1,0 +1,60 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Head of Dreams tour,2016-03-31,ColdPlay,Lianne La Havas Hana,68.19777683915565,97069.0,97069,6619890.0,"permanent wave, pop",97069,,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+,Head of Dreams tour,2016-04-01,ColdPlay,Lianne La Havas Hana,68.19777683915565,97069.0,97069,6619890.0,"permanent wave, pop",97069,,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+,Head of Dreams tour,2016-04-03,ColdPlay,Lianne La Havas María Colores,74.67682234688338,60787.0,60787,4539380.0,"permanent wave, pop",60787,,Estadio Nacional de Chile,Santiago,Santiago Metropolitan Region,Chile
+,Head of Dreams tour,2016-04-05,ColdPlay,Lianne La Havas Gala Brie,110.4485361390668,43720.0,43720,4828810.0,"permanent wave, pop",43720,,Estadio Nacional del Perú,Lima,Lima,Peru
+,Head of Dreams tour,2016-04-07,ColdPlay,Lianne La Havas Tiê,87.90842514442798,46563.0,46563,4093280.0,"permanent wave, pop",46563,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Head of Dreams tour,2016-04-10,ColdPlay,Lianne La Havas Tiê,77.85533526621865,59669.0,59669,4645550.0,"permanent wave, pop",59669,,Estádio do Maracanã,Rio de Janeiro,Rio de Janeiro,Brazil
+,Head of Dreams tour,2016-04-13,ColdPlay,Lianne La Havas Elsa y Elmar,115.8357501933488,41376.0,41376,4792820.0,"permanent wave, pop",41376,,Estadio El Campín,Bogotá,Bogotá,Colombia
+,Head of Dreams tour,2016-04-15,ColdPlay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,Head of Dreams tour,2016-04-16,ColdPlay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,Head of Dreams tour,2016-04-17,ColdPlay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,Head of Dreams tour,2016-05-24,ColdPlay,Lianne La Havas Alessia Cara,62.862076690437966,53566.0,53566,3367270.0,"permanent wave, pop",53566,,Stade CharlesEhrmann,Nice,,France
+,Head of Dreams tour,2016-05-26,ColdPlay,Lianne La Havas Alessia Cara,87.48914714050746,111261.0,111261,9734130.0,"permanent wave, pop",111261,,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+,Head of Dreams tour,2016-05-27,ColdPlay,Lianne La Havas Alessia Cara,87.48914714050746,111261.0,111261,9734130.0,"permanent wave, pop",111261,,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+,Head of Dreams tour,2016-06-01,ColdPlay,Lianne La Havas Alessia Cara,84.47754686818776,55048.0,55048,4650320.0,"permanent wave, pop",55048,,VeltinsArena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Head of Dreams tour,2016-06-04,ColdPlay,Lianne La Havas Alessia Cara,97.50758046249956,109492.0,109492,10676300.0,"permanent wave, pop",109492,,Etihad Stadium,Manchester,England,England
+,Head of Dreams tour,2016-06-05,ColdPlay,Lianne La Havas Alessia Cara,97.50758046249956,109492.0,109492,10676300.0,"permanent wave, pop",109492,,Etihad Stadium,Manchester,England,England
+,Head of Dreams tour,2016-06-07,ColdPlay,Lianne La Havas Alessia Cara,93.70811523719244,48526.0,48526,4547280.0,"permanent wave, pop",48526,,Hampden Park,Glasgow,Scotland,Scotland
+,Head of Dreams tour,2016-06-11,ColdPlay,Foxes Lea Lu,132.29995294328546,89254.0,89254,11808300.0,"permanent wave, pop",89254,,Letzigrund,Zürich,Zürich,Switzerland
+,Head of Dreams tour,2016-06-12,ColdPlay,Lianne La Havas Alessia Cara,132.29995294328546,89254.0,89254,11808300.0,"permanent wave, pop",89254,,Letzigrund,Zürich,Zürich,Switzerland
+,Head of Dreams tour,2016-06-15,ColdPlay,Lianne La Havas Alessia Cara,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,Head of Dreams tour,2016-06-16,ColdPlay,Lianne La Havas Alessia Cara,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,Head of Dreams tour,2016-06-18,ColdPlay,Lianne La Havas Reef,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,Head of Dreams tour,2016-06-19,ColdPlay,Lianne La Havas Reef,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,Head of Dreams tour,2016-06-23,ColdPlay,Lianne La Havas Alessia Cara,83.8093597803102,104511.0,104511,8759000.0,"permanent wave, pop",104511,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,Head of Dreams tour,2016-06-24,ColdPlay,Lianne La Havas Alessia Cara,83.8093597803102,104511.0,104511,8759000.0,"permanent wave, pop",104511,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,Head of Dreams tour,2016-06-29,ColdPlay,Lianne La Havas Alessia Cara,81.42842447132129,68047.0,68047,5540960.0,"permanent wave, pop",68047,,Olympiastadion,Berlin,Berlin,Germany
+,Head of Dreams tour,2016-07-01,ColdPlay,Lianne La Havas Alessia Cara,86.84404924760602,43860.0,43860,3808980.0,"permanent wave, pop",43860,,Volksparkstadion,Hamburg,Hamburg,Germany
+,Head of Dreams tour,2016-07-03,ColdPlay,Birdy Alessia Cara,74.10433971068595,53575.0,53575,3970140.0,"permanent wave, pop",53575,,Friends Arena,Stockholm,Stockholm County,Sweden
+,Head of Dreams tour,2016-07-05,ColdPlay,Lianne La Havas Alessia Cara,95.1455274528292,96511.0,96511,9182590.0,"permanent wave, pop",96511,,Telia Parken,Copenhagen,Capital Region of Denmark,Denmark
+,Head of Dreams tour,2016-07-06,ColdPlay,Lianne La Havas Alessia Cara,95.1455274528292,96511.0,96511,9182590.0,"permanent wave, pop",96511,,Telia Parken,Copenhagen,Capital Region of Denmark,Denmark
+,Head of Dreams tour,2016-07-16,ColdPlay,Alessia Cara Foxes,106.67997181505116,100763.0,100763,10749394.0,"permanent wave, pop",100763,,MetLife Stadium,East Rutherford,New Jersey,United States
+,Head of Dreams tour,2016-07-17,ColdPlay,Alessia Cara Foxes,106.67997181505116,100763.0,100763,10749394.0,"permanent wave, pop",100763,,MetLife Stadium,East Rutherford,New Jersey,United States
+,Head of Dreams tour,2016-07-20,ColdPlay,Alessia Cara Foxes,115.26059840530512,12667.0,12667,1460006.0,"permanent wave, pop",12667,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Head of Dreams tour,2016-07-21,ColdPlay,Alessia Cara Foxes,110.86196275071632,13960.0,13960,1547633.0,"permanent wave, pop",13960,,Scottrade Center,St Louis,,United States
+,Head of Dreams tour,2016-07-23,ColdPlay,j,107.16796575852628,95323.0,95323,10215572.0,"permanent wave, pop",95323,,Soldier Field,Chicago,Illinois,United States
+,Head of Dreams tour,2016-07-24,ColdPlay,Alessia Cara Foxes,107.16796575852628,95323.0,95323,10215572.0,"permanent wave, pop",95323,,Soldier Field,Chicago,Illinois,United States
+,Head of Dreams tour,2016-07-27,ColdPlay,Alessia Cara Foxes,110.5580516175936,13755.0,13755,1520726.0,"permanent wave, pop",13755,,KFC Yum Center,Louisville,Kentucky,United States
+,Head of Dreams tour,2016-07-28,ColdPlay,Alessia Cara Foxes,124.49104958145524,15530.0,15530,1933346.0,"permanent wave, pop",15530,,Nationwide Arena,Columbus,Ohio,United States
+,Head of Dreams tour,2016-07-30,ColdPlay,Alessia Cara Foxes,118.8357111661086,54952.0,54952,6530260.0,"permanent wave, pop",54952,,Gillette Stadium,Foxborough,Massachusetts,United States
+,Head of Dreams tour,2016-08-01,ColdPlay,Alessia Cara Foxes,124.3923178807947,15100.0,15100,1878324.0,"permanent wave, pop",15100,,First Niagara Center,Buffalo,New York,United States
+,Head of Dreams tour,2016-08-03,ColdPlay,Alessia Cara Foxes,112.183661570355,15436.0,15436,1731667.0,"permanent wave, pop",15436,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Head of Dreams tour,2016-08-04,ColdPlay,Alessia Cara Foxes,112.45940111420612,14360.0,14360,1614917.0,"permanent wave, pop",14360,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,Head of Dreams tour,2016-08-06,ColdPlay,Alessia Cara Foxes,101.48936638714058,54497.0,54497,5530866.0,"permanent wave, pop",54497,,Lincoln Financial Field,Philadelphia,Pennsylvania,United States
+,Head of Dreams tour,2016-08-20,ColdPlay,Alessia Cara Bishop Briggs Stargate,90.91051290166747,120062.0,120062,10914898.0,"permanent wave, pop",120062,,Rose Bowl,Pasadena,California,United States
+,Head of Dreams tour,2016-08-21,ColdPlay,Alessia Cara Bishop Briggs,90.91051290166747,120062.0,120062,10914898.0,"permanent wave, pop",120062,,Rose Bowl,Pasadena,California,United States
+,Head of Dreams tour,2016-08-23,ColdPlay,Alessia Cara Bishop Briggs,123.16261176959868,14427.0,14427,1776867.0,"permanent wave, pop",14427,,Gila River Arena,Glendale,Arizona,United States
+,Head of Dreams tour,2016-08-25,ColdPlay,Alessia Cara Bishop Briggs,119.3109415142814,13234.0,13234,1578961.0,"permanent wave, pop",13234,,BOK Center,Tulsa,Oklahoma,United States
+,Head of Dreams tour,2016-08-27,ColdPlay,Alessia Cara Bishop Briggs,108.0937797403784,52538.0,52538,5679031.0,"permanent wave, pop",52538,,ATT Stadium,Arlington,Texas,United States
+,Head of Dreams tour,2016-08-29,ColdPlay,Alessia Cara Bishop Briggs,121.46571756894792,15664.0,15664,1902639.0,"permanent wave, pop",15664,,Pepsi Center,Denver,Colorado,United States
+,Head of Dreams tour,2016-08-31,ColdPlay,Alessia Cara Bishop Briggs,119.65279642058164,15645.0,15645,1871968.0,"permanent wave, pop",15645,,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+,Head of Dreams tour,2016-09-01,ColdPlay,Alessia Cara Bishop Briggs,133.60372373883507,15898.0,15898,2124032.0,"permanent wave, pop",15898,,TMobile Arena,Paradise,Nevada,United States
+,Head of Dreams tour,2016-09-03,ColdPlay,Alessia Cara Bishop Briggs,114.31684604228684,52404.0,52404,5990660.0,"permanent wave, pop",52404,,Levis Stadium,Santa Clara,California,United States
+,Head of Dreams tour,2016-12-03,ColdPlay,Lianne La Havas Jess Kent,94.65770356169912,39644.0,39644,3752610.0,"permanent wave, pop",39644,,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,Head of Dreams tour,2016-12-06,ColdPlay,Lianne La Havas Jess Kent,95.22014353681156,49604.0,49604,4723300.0,"permanent wave, pop",49604,,Suncorp Stadium,Brisbane,Queensland,Australia
+,Head of Dreams tour,2016-12-09,ColdPlay,Lianne La Havas Jess Kent,86.2036875978431,103482.0,103482,8920530.0,"permanent wave, pop",103482,,Etihad Stadium,Melbourne,Victoria,Australia
+,Head of Dreams tour,2016-12-10,ColdPlay,Lianne La Havas Jess Kent,86.2036875978431,103482.0,103482,8920530.0,"permanent wave, pop",103482,,Etihad Stadium,Melbourne,Victoria,Australia
+,Head of Dreams tour,2016-12-13,ColdPlay,Lianne La Havas Jess Kent,90.52477505238508,97356.0,97356,8813130.0,"permanent wave, pop",97356,,Allianz Stadium,Sydney,New South Wales,Australia
+,Head of Dreams tour,2016-12-14,ColdPlay,Lianne La Havas Jess Kent,90.52477505238508,97356.0,97356,8813130.0,"permanent wave, pop",97356,,Allianz Stadium,Sydney,New South Wales,Australia
+,Head of Dreams tour,2016-12-31,ColdPlay,DJ Saif,137.487326194662,31285.0,31285,4301291.0,"permanent wave, pop",31285,,du Arena,Abu Dhabi,Abu Dhabi,United Arab Emirates
