@@ -1,0 +1,103 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,The Honeymoon Tour,2015-02-25,Ariana Grande,Rixton Cashmere Cat,54.53,5594.0,5594.0,305063.0,pop,5594.0,,Independence Events Center,Independence,Missouri,United States
+,The Honeymoon Tour,2015-02-28,Ariana Grande,Rixton Cashmere Cat,46.57,10411.0,10411.0,484877.0,pop,10411.0,,BMO Harris Bradley Center,Milwaukee,Wisconsin,United States
+,The Honeymoon Tour,2015-03-01,Ariana Grande,Rixton Cashmere Cat,52.95,11272.0,11272.0,596866.0,pop,11272.0,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,The Honeymoon Tour,2015-03-03,Ariana Grande,Rixton Cashmere Cat,50.93,12470.0,12470.0,635053.0,pop,12470.0,,Allstate Arena,Rosemont,Illinois,United States
+,The Honeymoon Tour,2015-03-05,Ariana Grande,Rixton Cashmere Cat,52.36,11553.0,11553.0,604962.0,pop,11553.0,,Quicken Loans Arena,Cleveland,Ohio,United States
+,The Honeymoon Tour,2015-03-07,Ariana Grande,Rixton Cashmere Cat,45.48,14505.0,14505.0,659749.0,pop,14505.0,,Joe Louis Arena,Detroit,Michigan,United States
+,The Honeymoon Tour,2015-03-08,Ariana Grande,Rixton Cashmere Cat,36.15,13666.0,13666.0,493989.0,pop,13666.0,,Air Canada Centre,Toronto,Ontario,Canada
+,The Honeymoon Tour,2015-03-10,Ariana Grande,Rixton Cashmere Cat,52.51,8149.0,8149.0,427937.0,pop,8149.0,,Petersen Events Center,Pittsburgh,Pennsylvania,United States
+,The Honeymoon Tour,2015-03-12,Ariana Grande,Rixton Cashmere Cat,54.3,14334.0,14334.0,778265.0,pop,14334.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,The Honeymoon Tour,2015-03-14,Ariana Grande,Rixton Cashmere Cat,44.39,7347.0,7347.0,326102.0,pop,7347.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,The Honeymoon Tour,2015-03-15,Ariana Grande,Rixton Cashmere Cat,50.02,10337.0,10337.0,517105.0,pop,10337.0,,DCU Center,Worcester,Massachusetts,United States
+,The Honeymoon Tour,2015-03-17,Ariana Grande,Rixton Cashmere Cat,112.0,75068.0,75068.0,8407728.0,pop,75068.0,,NRG Stadium,Houston,Texas,United States
+,The Honeymoon Tour,2015-03-20,Ariana Grande,Rixton Cashmere Cat,5.1,28520.0,28520.0,145512.0,pop,28520.0,,Madison Square Garden,New York City,New York,United States
+,The Honeymoon Tour,2015-03-21,Ariana Grande,Rixton Cashmere Cat,5.1,28520.0,28520.0,145512.0,pop,28520.0,,Madison Square Garden,New York City,New York,United States
+,The Honeymoon Tour,2015-03-24,Ariana Grande,Rixton Cashmere Cat,55.05,9271.0,9271.0,510404.0,pop,9271.0,,Philips Arena,Atlanta,Georgia,United States
+,The Honeymoon Tour,2015-03-26,Ariana Grande,Rixton Cashmere Cat,48.16,12661.0,12661.0,609739.0,pop,12661.0,,Amway Center,Orlando,Florida,United States
+,The Honeymoon Tour,2015-03-28,Ariana Grande,Rixton Cashmere Cat,48.62,13646.0,13646.0,663521.0,pop,13646.0,,American Airlines Arena,Miami,Florida,United States
+,The Honeymoon Tour,2015-03-31,Ariana Grande,Rixton Cashmere Cat,48.07,11319.0,11319.0,544146.0,pop,11319.0,,ATT Center,San Antonio,Texas,United States
+,The Honeymoon Tour,2015-04-01,Ariana Grande,Rixton Cashmere Cat,39.52,15248.0,15248.0,602533.0,pop,15248.0,,American Airlines Center,Dallas,Texas,United States
+,The Honeymoon Tour,2015-04-03,Ariana Grande,Rixton Cashmere Cat,48.43,9526.0,9526.0,461343.0,pop,9526.0,,Chesapeake Energy Arena,Oklahoma City,Oklahoma,United States
+,The Honeymoon Tour,2015-04-06,Ariana Grande,Rixton Cashmere Cat,47.91,12530.0,12530.0,600285.0,pop,12530.0,,Talking Stick Resort Arena,Phoenix,Arizona,United States
+,The Honeymoon Tour,2015-04-08,Ariana Grande,Rixton Cashmere Cat,46.03,11605.0,11605.0,534176.0,pop,11605.0,,The Forum,Inglewood,California,United States
+,The Honeymoon Tour,2015-04-10,Ariana Grande,Rixton Cashmere Cat,47.85,12160.0,12160.0,581827.0,pop,12160.0,,Honda Center,Anaheim,California,United States
+,The Honeymoon Tour,2015-04-12,Ariana Grande,Rixton Cashmere Cat,51.23,12717.0,12717.0,651429.0,pop,12717.0,,SAP Center,San Jose,California,United States
+,The Honeymoon Tour,2025-04-14,Ariana Grande,Rixton Cashmere Cat,43.62,11648.0,11648.0,508121.0,pop,11648.0,,KeyArena,Seattle,Washington,United States
+,The Honeymoon Tour,2015-04-16,Ariana Grande,Rixton Cashmere Cat,36.13,13210.0,13210.0,477295.0,pop,13210.0,,Rogers Arena,Vancouver,British Columbia,Canada
+,The Honeymoon Tour,2015-05-14,Ariana Grande,Rixton,48.79,3766.0,6293.0,68444.97,pop,6293.0,,Zénith Paris,Paris,Île-de-France,France
+,The Honeymoon Tour,2015-05-15,Ariana Grande,Rixton,48.79,3766.0,6293.0,68444.97,pop,6293.0,,Zénith Paris,Paris,Île-de-France,France
+,The Honeymoon Tour,2015-05-19,Ariana Grande,Rixton,48.79,3766.0,11900.0,68444.97,pop,11900.0,,MaxSchmelingHalle,Berlin,Berlin,Germany
+,The Honeymoon Tour,2015-05-21,Ariana Grande,Rixton,48.79,3766.0,16000.0,68444.97,pop,16000.0,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,The Honeymoon Tour,2015-05-22,Ariana Grande,Rixton,48.79,3766.0,9700.0,68444.97,pop,9700.0,,Oslo Spektrum,Oslo,Oslo,Norway
+,The Honeymoon Tour,2015-05-25,Ariana Grande,Rixton,48.79,3766.0,12700.0,68444.97,pop,12700.0,,Mediolanum Forum,Milan,,Italy
+,The Honeymoon Tour,2015-05-28,Ariana Grande,Rixton,56.45,32941.0,32941.0,1859574.0,pop,32941.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,The Honeymoon Tour,2015-05-29,Ariana Grande,Rixton,56.45,32941.0,32941.0,1859574.0,pop,32941.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,The Honeymoon Tour,2015-06-01,Ariana Grande,Rixton,55.12,13841.0,13841.0,762868.0,pop,13841.0,,The O2 Arena,London,England,England
+,The Honeymoon Tour,2015-06-04,Ariana Grande,Rixton,52.13,11765.0,11765.0,613272.0,pop,11765.0,,Manchester Arena,Manchester,England,England
+,The Honeymoon Tour,2015-06-06,Ariana Grande,Rixton,48.79,3766.0,90000.0,68444.97,pop,90000.0,,Wembley Stadium,London,England,England
+,The Honeymoon Tour,2015-06-08,Ariana Grande,Krishane Melissa Steel,51.51,10789.0,10792.0,555723.0,pop,10792.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,The Honeymoon Tour,2015-06-09,Ariana Grande,Krishane Melissa Steel,48.79,3766.0,15800.0,68444.97,pop,15800.0,,Arena Birmingham,Birmingham,England,England
+,The Honeymoon Tour,2015-06-12,Ariana Grande,Alvar  Millas,38.83,14514.0,14514.0,563577.0,pop,14514.0,,Sportpaleis,Antwerp,Flanders,Belgium
+,The Honeymoon Tour,2015-06-13,Ariana Grande,DJ Dubz,48.79,3766.0,20000.0,68444.97,pop,20000.0,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,The Honeymoon Tour,2015-06-16,Ariana Grande,Paula Rojo,63.84,14007.0,14014.0,894152.0,pop,14014.0,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,The Honeymoon Tour,2015-06-28,Ariana Grande,,48.79,3766.0,,68444.97,pop,,,Pier 26,New York City,New York,United States
+,The Honeymoon Tour,2015-07-16,Ariana Grande,Prince Royce,42.45,7214.0,7214.0,306261.0,pop,7214.0,,Amalie Arena,Tampa,Florida,United States
+,The Honeymoon Tour,2015-07-18,Ariana Grande,Prince Royce,48.79,3766.0,20000.0,68444.97,pop,20000.0,,BBT Center,Sunrise,Florida,United States
+,The Honeymoon Tour,2015-07-21,Ariana Grande,Prince Royce,48.79,3766.0,17500.0,68444.97,pop,17500.0,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,The Honeymoon Tour,2015-07-23,Ariana Grande,Prince Royce,48.79,3766.0,22090.0,68444.97,pop,22090.0,,KFC Yum Center,Louisville,Kentucky,United States
+,The Honeymoon Tour,2015-07-25,Ariana Grande,Prince Royce,49.77,10361.0,10361.0,515683.0,pop,10361.0,,Verizon Center,Washington DC,District of Columbia,United States
+,The Honeymoon Tour,2015-07-26,Ariana Grande,Prince Royce,48.79,3766.0,16841.0,68444.97,pop,16841.0,,Hersheypark Stadium,Hershey,Pennsylvania,United States
+,The Honeymoon Tour,2015-07-29,Ariana Grande,Prince Royce,48.79,3766.0,21000.0,68444.97,pop,21000.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,The Honeymoon Tour,2015-07-31,Ariana Grande,Prince Royce,48.79,3766.0,17500.0,68444.97,pop,17500.0,,Times Union Center,Albany,New York,United States
+,The Honeymoon Tour,2015-08-02,Ariana Grande,Prince Royce,66.02,7131.0,7131.0,470758.0,pop,7131.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,The Honeymoon Tour,2015-08-04,Ariana Grande,Prince Royce,48.79,3766.0,11770.0,68444.97,pop,11770.0,,Verizon Wireless Arena,Manchester,England,United States
+,The Honeymoon Tour,2015-08-06,Ariana Grande,Prince Royce,47.67,10533.0,10533.0,502087.0,pop,10533.0,,Bell Centre,Montreal,Quebec,Canada
+,The Honeymoon Tour,2015-08-07,Ariana Grande,Prince Royce,48.79,3766.0,18652.0,68444.97,pop,18652.0,,Canadian Tire Centre,Ottawa,Ontario,Canada
+,The Honeymoon Tour,2015-08-09,Ariana Grande,Prince Royce,42.37,10703.0,10703.0,453447.0,pop,10703.0,,Air Canada Centre,Toronto,Ontario,Canada
+,The Honeymoon Tour,2015-08-15,Ariana Grande,,48.79,3766.0,30118.0,68444.97,pop,30118.0,,Chiba Marine Stadium,Chiba,Chiba,Japan
+,The Honeymoon Tour,2015-08-16,Ariana Grande,,48.79,3766.0,7000.0,68444.97,pop,7000.0,,Maishima Sports Island,Osaka,Osaka,Japan
+,The Honeymoon Tour,2015-08-19,Ariana Grande,,48.79,3766.0,5000.0,68444.97,pop,5000.0,,Tokyo International Forum,Tokyo,Tokyo,Japan
+,The Honeymoon Tour,2015-08-23,Ariana Grande,,48.79,3766.0,20000.0,68444.97,pop,20000.0,,Mall of Asia Arena,Manila,Metro Manila,Philippines
+,The Honeymoon Tour,2015-08-26,Ariana Grande,,48.79,3766.0,82000.0,68444.97,pop,82000.0,,Jakarta International Expo,Jakarta,Special Capital Region of Jakarta,Indonesia
+,The Honeymoon Tour,2015-08-29,Ariana Grande,Prince Royce,48.79,3766.0,12000.0,68444.97,pop,12000.0,,Mandalay Bay Events Center,Las Vegas,Nevada,United States
+,The Honeymoon Tour,2015-08-31,Ariana Grande,Prince Royce,38.87,10710.0,10710.0,416264.0,pop,10710.0,,Save Mart Center,Fresno,California,United States
+,The Honeymoon Tour,2015-09-02,Ariana Grande,Prince Royce,48.79,3766.0,12644.0,68444.97,pop,12644.0,,Taco Bell Arena,Boise,Idaho,United States
+,The Honeymoon Tour,2015-09-04,Ariana Grande,Prince Royce,48.79,3766.0,20500.0,68444.97,pop,20500.0,,Moda Center,Portland,Oregon,United States
+,The Honeymoon Tour,2015-09-08,Ariana Grande,Prince Royce,48.79,3766.0,22000.0,68444.97,pop,22000.0,,Shoreline Amphitheatre,Mountain View,California,United States
+,The Honeymoon Tour,2015-09-09,Ariana Grande,Prince Royce,48.79,3766.0,20500.0,68444.97,pop,20500.0,,Sleep Train Amphitheatre,Chula Vista,California,United States
+,The Honeymoon Tour,2015-09-10,Ariana Grande,Prince Royce,48.79,3766.0,17317.0,68444.97,pop,17317.0,,Sleep Train Arena,Sacramento,California,United States
+,The Honeymoon Tour,2015-09-11,Ariana Grande,Prince Royce,47.52,13745.0,13745.0,653203.0,pop,13745.0,,Staples Center,Los Angeles,California,United States
+,The Honeymoon Tour,2015-09-18,Ariana Grande,Prince Royce Who Is Fancy,55.09,10124.0,10124.0,557714.0,pop,10124.0,,Toyota Center,Houston,Texas,United States
+,The Honeymoon Tour,2015-09-20,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,19000.0,68444.97,pop,19000.0,,Legacy Arena,Birmingham,England,United States
+,The Honeymoon Tour,2015-09-22,Ariana Grande,Prince Royce Who Is Fancy,37.84,8045.0,8045.0,304405.0,pop,8045.0,,Bridgestone Arena,Nashville,Tennessee,United States
+,The Honeymoon Tour,2015-09-24,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,20000.0,68444.97,pop,20000.0,,PNC Arena,Raleigh,North Carolina,United States
+,The Honeymoon Tour,2015-09-26,Ariana Grande,Prince Royce Who Is Fancy,52.41,21510.0,21510.0,1127406.0,pop,21510.0,,Barclays Center,Brooklyn,New York,United States
+,The Honeymoon Tour,2015-09-27,Ariana Grande,Prince Royce Who Is Fancy,52.41,21510.0,21510.0,1127406.0,pop,21510.0,,Barclays Center,Brooklyn,New York,United States
+,The Honeymoon Tour,2015-09-29,Ariana Grande,Prince Royce Who Is Fancy,47.78,7822.0,7822.0,373754.0,pop,7822.0,,Van Andel Arena,Grand Rapids,Michigan,United States
+,The Honeymoon Tour,2015-10-02,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,23500.0,68444.97,pop,23500.0,,United Center,Chicago,Illinois,United States
+,The Honeymoon Tour,2015-10-04,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,22000.0,68444.97,pop,22000.0,,Enterprise Center,St Louis,Missouri,United States
+,The Honeymoon Tour,2015-10-06,Ariana Grande,Prince Royce Who Is Fancy,34.1,10884.0,10884.0,371124.0,pop,10884.0,,Intrust Bank Arena,Wichita,Kansas,United States
+,The Honeymoon Tour,2015-10-07,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,19199.0,68444.97,pop,19199.0,,BOK Center,Tulsa,Oklahoma,United States
+,The Honeymoon Tour,2015-10-09,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,17791.0,68444.97,pop,17791.0,,Smoothie King Center,New Orleans,Louisiana,United States
+,The Honeymoon Tour,2015-10-11,Ariana Grande,Prince Royce Who Is Fancy,39.09,9653.0,9653.0,377291.0,pop,9653.0,,American Airlines Center,Dallas,Texas,United States
+,The Honeymoon Tour,2015-10-13,Ariana Grande,Prince Royce,40.68,8632.0,8632.0,351128.0,pop,8632.0,,Frank Erwin Center,Austin,Texas,United States
+,The Honeymoon Tour,2015-10-15,Ariana Grande,Prince Royce,48.79,3766.0,11000.0,68444.97,pop,11000.0,,El Paso County Coliseum,El Paso,Texas,United States
+,The Honeymoon Tour,2015-10-18,Ariana Grande,DJ Dubz,69.98,15349.0,15349.0,1074116.0,pop,15349.0,,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+,The Honeymoon Tour,2015-10-21,Ariana Grande,,48.79,3766.0,14000.0,68444.97,pop,14000.0,,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+,The Honeymoon Tour,2015-10-23,Ariana Grande,Olivia Viggiano,48.79,3766.0,50000.0,68444.97,pop,50000.0,,Complejo al Río,Buenos Aires,Buenos Aires,Argentina
+,The Honeymoon Tour,2015-10-25,Ariana Grande,,77.88,23560.0,23560.0,1834765.0,pop,23560.0,,Allianz Parque,São Paulo,São Paulo,Brazil
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
