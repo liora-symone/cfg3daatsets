@@ -1,0 +1,195 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,A Head Full of Dreams Tour,2016-03-31,Coldplay,Lianne La Havas Hana,68.19777683915565,97069.0,97069,6619890.0,"permanent wave, pop",97069,,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+,A Head Full of Dreams Tour,2016-04-01,Coldplay,Lianne La Havas Hana,68.19777683915565,97069.0,97069,6619890.0,"permanent wave, pop",97069,,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+,A Head Full of Dreams Tour,2016-04-03,Coldplay,Lianne La Havas María Colores,74.67682234688338,60787.0,60787,4539380.0,"permanent wave, pop",60787,,Estadio Nacional de Chile,Santiago,Santiago Metropolitan Region,Chile
+,A Head Full of Dreams Tour,2016-04-05,Coldplay,Lianne La Havas Gala Brie,110.4485361390668,43720.0,43720,4828810.0,"permanent wave, pop",43720,,Estadio Nacional del Perú,Lima,Lima,Peru
+,A Head Full of Dreams Tour,2016-04-07,Coldplay,Lianne La Havas Tiê,87.90842514442798,46563.0,46563,4093280.0,"permanent wave, pop",46563,,Allianz Parque,São Paulo,São Paulo,Brazil
+,A Head Full of Dreams Tour,2016-04-10,Coldplay,Lianne La Havas Tiê,77.85533526621865,59669.0,59669,4645550.0,"permanent wave, pop",59669,,Estádio do Maracanã,Rio de Janeiro,Rio de Janeiro,Brazil
+,A Head Full of Dreams Tour,2016-04-13,Coldplay,Lianne La Havas Elsa y Elmar,115.8357501933488,41376.0,41376,4792820.0,"permanent wave, pop",41376,,Estadio El Campín,Bogotá,Bogotá,Colombia
+,A Head Full of Dreams Tour,2016-04-15,Coldplay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,A Head Full of Dreams Tour,2016-04-16,Coldplay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,A Head Full of Dreams Tour,2016-04-17,Coldplay,Lianne La Havas Ximena Sariñana,57.53975572769376,195192.0,195192,11231300.0,"permanent wave, pop",195192,,Foro Sol,Mexico City,Mexico City,Mexico
+,A Head Full of Dreams Tour,2016-05-24,Coldplay,Lianne La Havas Alessia Cara,62.862076690437966,53566.0,53566,3367270.0,"permanent wave, pop",53566,,Stade CharlesEhrmann,Nice,,France
+,A Head Full of Dreams Tour,2016-05-26,Coldplay,Lianne La Havas Alessia Cara,87.48914714050746,111261.0,111261,9734130.0,"permanent wave, pop",111261,,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+,A Head Full of Dreams Tour,2016-05-27,Coldplay,Lianne La Havas Alessia Cara,87.48914714050746,111261.0,111261,9734130.0,"permanent wave, pop",111261,,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+,A Head Full of Dreams Tour,2016-06-01,Coldplay,Lianne La Havas Alessia Cara,84.47754686818776,55048.0,55048,4650320.0,"permanent wave, pop",55048,,VeltinsArena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,A Head Full of Dreams Tour,2016-06-04,Coldplay,Lianne La Havas Alessia Cara,97.50758046249956,109492.0,109492,10676300.0,"permanent wave, pop",109492,,Etihad Stadium,Manchester,England,England
+,A Head Full of Dreams Tour,2016-06-05,Coldplay,Lianne La Havas Alessia Cara,97.50758046249956,109492.0,109492,10676300.0,"permanent wave, pop",109492,,Etihad Stadium,Manchester,England,England
+,A Head Full of Dreams Tour,2016-06-07,Coldplay,Lianne La Havas Alessia Cara,93.70811523719244,48526.0,48526,4547280.0,"permanent wave, pop",48526,,Hampden Park,Glasgow,Scotland,Scotland
+,A Head Full of Dreams Tour,2016-06-11,Coldplay,Foxes Lea Lu,132.29995294328546,89254.0,89254,11808300.0,"permanent wave, pop",89254,,Letzigrund,Zürich,Zürich,Switzerland
+,A Head Full of Dreams Tour,2016-06-12,Coldplay,Lianne La Havas Alessia Cara,132.29995294328546,89254.0,89254,11808300.0,"permanent wave, pop",89254,,Letzigrund,Zürich,Zürich,Switzerland
+,A Head Full of Dreams Tour,2016-06-15,Coldplay,Lianne La Havas Alessia Cara,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,A Head Full of Dreams Tour,2016-06-16,Coldplay,Lianne La Havas Alessia Cara,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,A Head Full of Dreams Tour,2016-06-18,Coldplay,Lianne La Havas Reef,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,A Head Full of Dreams Tour,2016-06-19,Coldplay,Lianne La Havas Reef,94.77507113837854,303985.0,303985,28810200.0,"permanent wave, pop",303985,,Wembley Stadium,London,England,England
+,A Head Full of Dreams Tour,2016-06-23,Coldplay,Lianne La Havas Alessia Cara,83.8093597803102,104511.0,104511,8759000.0,"permanent wave, pop",104511,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,A Head Full of Dreams Tour,2016-06-24,Coldplay,Lianne La Havas Alessia Cara,83.8093597803102,104511.0,104511,8759000.0,"permanent wave, pop",104511,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,A Head Full of Dreams Tour,2016-06-29,Coldplay,Lianne La Havas Alessia Cara,81.42842447132129,68047.0,68047,5540960.0,"permanent wave, pop",68047,,Olympiastadion,Berlin,Berlin,Germany
+,A Head Full of Dreams Tour,2016-07-01,Coldplay,Lianne La Havas Alessia Cara,86.84404924760602,43860.0,43860,3808980.0,"permanent wave, pop",43860,,Volksparkstadion,Hamburg,Hamburg,Germany
+,A Head Full of Dreams Tour,2016-07-03,Coldplay,Birdy Alessia Cara,74.10433971068595,53575.0,53575,3970140.0,"permanent wave, pop",53575,,Friends Arena,Stockholm,Stockholm County,Sweden
+,A Head Full of Dreams Tour,2016-07-05,Coldplay,Lianne La Havas Alessia Cara,95.1455274528292,96511.0,96511,9182590.0,"permanent wave, pop",96511,,Telia Parken,Copenhagen,Capital Region of Denmark,Denmark
+,A Head Full of Dreams Tour,2016-07-06,Coldplay,Lianne La Havas Alessia Cara,95.1455274528292,96511.0,96511,9182590.0,"permanent wave, pop",96511,,Telia Parken,Copenhagen,Capital Region of Denmark,Denmark
+,A Head Full of Dreams Tour,2016-07-16,Coldplay,Alessia Cara Foxes,106.67997181505116,100763.0,100763,10749394.0,"permanent wave, pop",100763,,MetLife Stadium,East Rutherford,New Jersey,United States
+,A Head Full of Dreams Tour,2016-07-17,Coldplay,Alessia Cara Foxes,106.67997181505116,100763.0,100763,10749394.0,"permanent wave, pop",100763,,MetLife Stadium,East Rutherford,New Jersey,United States
+,A Head Full of Dreams Tour,2016-07-20,Coldplay,Alessia Cara Foxes,115.26059840530512,12667.0,12667,1460006.0,"permanent wave, pop",12667,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,A Head Full of Dreams Tour,2016-07-21,Coldplay,Alessia Cara Foxes,110.86196275071632,13960.0,13960,1547633.0,"permanent wave, pop",13960,,Scottrade Center,St Louis,,United States
+,A Head Full of Dreams Tour,2016-07-23,Coldplay,j,107.16796575852628,95323.0,95323,10215572.0,"permanent wave, pop",95323,,Soldier Field,Chicago,Illinois,United States
+,A Head Full of Dreams Tour,2016-07-24,Coldplay,Alessia Cara Foxes,107.16796575852628,95323.0,95323,10215572.0,"permanent wave, pop",95323,,Soldier Field,Chicago,Illinois,United States
+,A Head Full of Dreams Tour,2016-07-27,Coldplay,Alessia Cara Foxes,110.5580516175936,13755.0,13755,1520726.0,"permanent wave, pop",13755,,KFC Yum Center,Louisville,Kentucky,United States
+,A Head Full of Dreams Tour,2016-07-28,Coldplay,Alessia Cara Foxes,124.49104958145524,15530.0,15530,1933346.0,"permanent wave, pop",15530,,Nationwide Arena,Columbus,Ohio,United States
+,A Head Full of Dreams Tour,2016-07-30,Coldplay,Alessia Cara Foxes,118.8357111661086,54952.0,54952,6530260.0,"permanent wave, pop",54952,,Gillette Stadium,Foxborough,Massachusetts,United States
+,A Head Full of Dreams Tour,2016-08-01,Coldplay,Alessia Cara Foxes,124.3923178807947,15100.0,15100,1878324.0,"permanent wave, pop",15100,,First Niagara Center,Buffalo,New York,United States
+,A Head Full of Dreams Tour,2016-08-03,Coldplay,Alessia Cara Foxes,112.183661570355,15436.0,15436,1731667.0,"permanent wave, pop",15436,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,A Head Full of Dreams Tour,2016-08-04,Coldplay,Alessia Cara Foxes,112.45940111420612,14360.0,14360,1614917.0,"permanent wave, pop",14360,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,A Head Full of Dreams Tour,2016-08-06,Coldplay,Alessia Cara Foxes,101.48936638714058,54497.0,54497,5530866.0,"permanent wave, pop",54497,,Lincoln Financial Field,Philadelphia,Pennsylvania,United States
+,A Head Full of Dreams Tour,2016-08-20,Coldplay,Alessia Cara Bishop Briggs Stargate,90.91051290166747,120062.0,120062,10914898.0,"permanent wave, pop",120062,,Rose Bowl,Pasadena,California,United States
+,A Head Full of Dreams Tour,2016-08-21,Coldplay,Alessia Cara Bishop Briggs,90.91051290166747,120062.0,120062,10914898.0,"permanent wave, pop",120062,,Rose Bowl,Pasadena,California,United States
+,A Head Full of Dreams Tour,2016-08-23,Coldplay,Alessia Cara Bishop Briggs,123.16261176959868,14427.0,14427,1776867.0,"permanent wave, pop",14427,,Gila River Arena,Glendale,Arizona,United States
+,A Head Full of Dreams Tour,2016-08-25,Coldplay,Alessia Cara Bishop Briggs,119.3109415142814,13234.0,13234,1578961.0,"permanent wave, pop",13234,,BOK Center,Tulsa,Oklahoma,United States
+,A Head Full of Dreams Tour,2016-08-27,Coldplay,Alessia Cara Bishop Briggs,108.0937797403784,52538.0,52538,5679031.0,"permanent wave, pop",52538,,ATT Stadium,Arlington,Texas,United States
+,A Head Full of Dreams Tour,2016-08-29,Coldplay,Alessia Cara Bishop Briggs,121.46571756894792,15664.0,15664,1902639.0,"permanent wave, pop",15664,,Pepsi Center,Denver,Colorado,United States
+,A Head Full of Dreams Tour,2016-08-31,Coldplay,Alessia Cara Bishop Briggs,119.65279642058164,15645.0,15645,1871968.0,"permanent wave, pop",15645,,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+,A Head Full of Dreams Tour,2016-09-01,Coldplay,Alessia Cara Bishop Briggs,133.60372373883507,15898.0,15898,2124032.0,"permanent wave, pop",15898,,TMobile Arena,Paradise,Nevada,United States
+,A Head Full of Dreams Tour,2016-09-03,Coldplay,Alessia Cara Bishop Briggs,114.31684604228684,52404.0,52404,5990660.0,"permanent wave, pop",52404,,Levis Stadium,Santa Clara,California,United States
+,A Head Full of Dreams Tour,2016-12-03,Coldplay,Lianne La Havas Jess Kent,94.65770356169912,39644.0,39644,3752610.0,"permanent wave, pop",39644,,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,A Head Full of Dreams Tour,2016-12-06,Coldplay,Lianne La Havas Jess Kent,95.22014353681156,49604.0,49604,4723300.0,"permanent wave, pop",49604,,Suncorp Stadium,Brisbane,Queensland,Australia
+,A Head Full of Dreams Tour,2016-12-09,Coldplay,Lianne La Havas Jess Kent,86.2036875978431,103482.0,103482,8920530.0,"permanent wave, pop",103482,,Etihad Stadium,Melbourne,Victoria,Australia
+,A Head Full of Dreams Tour,2016-12-10,Coldplay,Lianne La Havas Jess Kent,86.2036875978431,103482.0,103482,8920530.0,"permanent wave, pop",103482,,Etihad Stadium,Melbourne,Victoria,Australia
+,A Head Full of Dreams Tour,2016-12-13,Coldplay,Lianne La Havas Jess Kent,90.52477505238508,97356.0,97356,8813130.0,"permanent wave, pop",97356,,Allianz Stadium,Sydney,New South Wales,Australia
+,A Head Full of Dreams Tour,2016-12-14,Coldplay,Lianne La Havas Jess Kent,90.52477505238508,97356.0,97356,8813130.0,"permanent wave, pop",97356,,Allianz Stadium,Sydney,New South Wales,Australia
+,A Head Full of Dreams Tour,2016-12-31,Coldplay,DJ Saif,137.487326194662,31285.0,31285,4301291.0,"permanent wave, pop",31285,,du Arena,Abu Dhabi,Abu Dhabi,United Arab Emirates
+,Mylo Xyloto Tour,2011-12-03,Coldplay,Emeli Sandé,84.28832630098452,9243.0,9654,779077.0,"permanent wave, pop",9654,,SEC Centre,Glasgow,Scotland,Scotland
+,Mylo Xyloto Tour,2011-12-04,Coldplay,Marina,84.75390819201237,18103.0,18305,1534300.0,"permanent wave, pop",18305,,Manchester Evening News Arena,Manchester,England,England
+,Mylo Xyloto Tour,2011-12-09,Coldplay,Emeli Sandé,86.40488215488216,16632.0,16800,1437086.0,"permanent wave, pop",16800,,The O2 Arena,London,England,England
+,Mylo Xyloto Tour,2011-12-14,Coldplay,Emeli Sandé,70.92957575757576,16500.0,17000,1170338.0,"permanent wave, pop",17000,,Bercy Arena,Paris,Île-de-France,France
+,Mylo Xyloto Tour,2011-12-15,Coldplay,Emeli Sandé,73.57903215812628,16139.0,16139,1187492.0,"permanent wave, pop",16139,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,Mylo Xyloto Tour,2011-12-17,Coldplay,Emeli Sandé,57.197974099243496,7799.0,7799,446087.0,"permanent wave, pop",7799,,Sportpaleis van Ahoy,Rotterdam,,Netherlands
+,Mylo Xyloto Tour,2011-12-18,Coldplay,Emeli Sandé,82.68293347873501,18340.0,18340,1516405.0,"permanent wave, pop",18340,,Sportpaleis,Antwerp,Flanders,Belgium
+,Mylo Xyloto Tour,2011-12-20,Coldplay,Emeli Sandé,77.8652627409559,15148.0,15148,1179503.0,"permanent wave, pop",15148,,Festhalle,Frankfurt,Hesse,Germany
+,Mylo Xyloto Tour,2011-12-21,Coldplay,Emeli Sandé,78.37393147780894,14623.0,14623,1146062.0,"permanent wave, pop",14623,,O2 World,Berlin,Berlin,Germany
+,Rush of Blood Tour,2002-08-06,Coldplay,,8.461538461538462,650.0,650,5500.0,"permanent wave, pop",650,,Paradise Rock Club,Boston,Massachusetts,United States
+,Rush of Blood Tour,2002-08-07,Coldplay,,9.101234567901235,810.0,810,7372.0,"permanent wave, pop",810,,Theatre of Living Arts,Philadelphia,Pennsylvania,United States
+,Rush of Blood Tour,2002-08-10,Coldplay,,10.5,1102.0,1102,11571.0,"permanent wave, pop",1102,,9:30 Club,"Washington, D.C.",District of Columbia,United States
+,Rush of Blood Tour,2002-08-14,Coldplay,,11.44182389937107,1272.0,1272,14554.0,"permanent wave, pop",1272,,First Avenue,Minneapolis,Minnesota,United States
+,Rush of Blood Tour,2002-08-16,Coldplay,,35.0,625.0,625,21875.0,"permanent wave, pop",625,,Fox Theatre,Boulder,Colorado,United States
+,Rush of Blood Tour,2002-09-04,Coldplay,,27.50017500875044,2857.0,2857,78568.0,"permanent wave, pop",2857,,Paramount Theatre,Seattle,Washington,United States
+,Rush of Blood Tour,2002-09-06,Coldplay,,29.27586206896552,8700.0,8700,254700.0,"permanent wave, pop",8700,,Hearst Greek Theatre,Berkeley,California,United States
+,Rush of Blood Tour,2002-09-09,Coldplay,,26.75005649717514,4425.0,4798,118369.0,"permanent wave, pop",4798,,SDSU Open Air Theatre,San Diego,California,United States
+,Rush of Blood Tour,2002-09-10,Coldplay,,27.33626588465298,6138.0,6138,167790.0,"permanent wave, pop",6138,,Greek Theatre,Los Angeles,California,United States
+,Rush of Blood Tour,2002-09-16,Coldplay,,28.5,3860.0,4400,110010.0,"permanent wave, pop",4400,,Pier Six Pavilion,Baltimore,Maryland,United States
+,Rush of Blood Tour,2002-09-17,Coldplay,,28.44656414249562,5137.0,5137,146130.0,"permanent wave, pop",5137,,FleetBoston Pavilion,Boston,Massachusetts,United States
+,Rush of Blood Tour,2002-09-19,Coldplay,,28.899248447881494,9181.0,14029,265324.0,"permanent wave, pop",14029,,Tommy Hilfiger at Jones Beach Theater,Wantagh,New York,United States
+,Rush of Blood Tour,2002-09-21,Coldplay,,26.674311169773965,6061.0,6061,161673.0,"permanent wave, pop",6061,,Air Canada Centre,Toronto,Ontario,Canada
+,Rush of Blood Tour,2002-09-24,Coldplay,,30.0,5456.0,8000,163680.0,"permanent wave, pop",8000,,UIC Pavilion,Chicago,Illinois,United States
+,Rush of Blood Tour,2002-10-11,Coldplay,,28.407392686804453,15096.0,15160,428838.0,"permanent wave, pop",15160,,Manchester Evening News Arena,Manchester,England,England
+,Rush of Blood Tour,2002-11-05,Coldplay,,29.46062467997952,9765.0,9765,287683.0,"permanent wave, pop",9765,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Rush of Blood Tour,2003-01-24,Coldplay,,30.48507718696398,2915.0,2915,88864.0,"permanent wave, pop",2915,,BJCC Concert Hall,Birmingham,England,England
+,Rush of Blood Tour,2003-01-21,Coldplay,,32.48571428571429,2800.0,2800,90960.0,"permanent wave, pop",2800,,Hard Rock Live,Orlando,Florida,United States
+,Rush of Blood Tour,2003-01-22,Coldplay,,32.749957961997644,5947.0,5947,194764.0,"permanent wave, pop",5947,,UM Convocation Center,Coral Gables,Florida,United States
+,Rush of Blood Tour,2003-01-25,Coldplay,,28.73793103448276,2900.0,2900,83340.0,"permanent wave, pop",2900,,Grady Cole Center,Charlotte,North Carolina,United States
+,Rush of Blood Tour,2003-01-27,Coldplay,,35.0,2534.0,2534,88690.0,"permanent wave, pop",2534,,Saenger Theatre,New Orleans,Louisiana,United States
+,Rush of Blood Tour,2003-01-28,Coldplay,,30.74672209785737,3127.0,3127,96145.0,"permanent wave, pop",3127,,Verizon Wireless Theater,Houston,Texas,United States
+,Rush of Blood Tour,2003-01-29,Coldplay,,30.0,4731.0,6290,141930.0,"permanent wave, pop",6290,,Frank Erwin Center,Austin,Texas,United States
+,Rush of Blood Tour,2003-01-31,Coldplay,,35.0,5952.0,6333,208320.0,"permanent wave, pop",6333,,NextStage Performance Theater,Grand Prarie,Texas,United States
+,Rush of Blood Tour,2003-02-01,Coldplay,,32.50022094564737,2263.0,2263,73548.0,"permanent wave, pop",2263,,Oklahoma City Music Hall,Oklahoma City,Oklahoma,United States
+,Rush of Blood Tour,2003-02-03,Coldplay,,29.27974127974128,4329.0,5024,126752.0,"permanent wave, pop",5024,,Savvis Center,St Louis,Missouri,United States
+,Rush of Blood Tour,2003-02-04,Coldplay,,30.383631713554987,3128.0,3153,95040.0,"permanent wave, pop",3153,,Memorial Hall,Kansas City,Missouri,United States
+,Rush of Blood Tour,2003-02-06,Coldplay,,30.0,3600.0,3600,108000.0,"permanent wave, pop",3600,,Fillmore Auditorium,Denver,Colorado,United States
+,Rush of Blood Tour,2003-02-09,Coldplay,,29.274210416230915,4781.0,4781,139960.0,"permanent wave, pop",4781,,Dodge Theatre,Phoenix,Arizona,United States
+,Rush of Blood Tour,2003-02-24,Coldplay,,22.04569961489089,7790.0,8578,171736.0,"permanent wave, pop",8578,,Corel Centre,Ottawa,Ontario,Canada
+,Rush of Blood Tour,2003-02-25,Coldplay,,28.32357433808554,11784.0,12414,333765.0,"permanent wave, pop",12414,,Bell Centre,Montreal,Quebec,Canada
+,Rush of Blood Tour,2003-02-27,Coldplay,,32.64225118973722,4833.0,4833,157760.0,"permanent wave, pop",4833,,Oakdale Theatre,Wallingford,Connecticut,United States
+,Rush of Blood Tour,2003-02-28,Coldplay,,28.855542624381727,6874.0,6874,198353.0,"permanent wave, pop",6874,,Tweeter Center,Camden,New Jersey,United States
+,Rush of Blood Tour,2003-03-02,Coldplay,,30.32635746606335,3536.0,3810,107234.0,"permanent wave, pop",3810,,A.J. Palumbo Center,Pittsburgh,Pennsylvania,United States
+,Rush of Blood Tour,2003-03-03,Coldplay,,29.57697931898893,4787.0,4787,141585.0,"permanent wave, pop",4787,,Fox Theatre,Detroit,Michigan,United States
+,Rush of Blood Tour,2003-03-04,Coldplay,,30.885532591414943,2516.0,2516,77708.0,"permanent wave, pop",2516,,Murat Theatre,Indianapolis,Indiana,United States
+,Rush of Blood Tour,2003-03-06,Coldplay,,33.67588932806324,7084.0,7084,238560.0,"permanent wave, pop",7084,,Gwinnett Civic Center Arena,Duluth,Georgia,United States
+,Rush of Blood Tour,2003-03-09,Coldplay,,28.0,2300.0,2300,64400.0,"permanent wave, pop",2300,,PromoWest Pavilion,Columbus,Ohio,United States
+,Rush of Blood Tour,2003-03-07,Coldplay,,34.0,2179.0,2179,74086.0,"permanent wave, pop",2179,,Ryman Auditorium,Nashville,Tennessee,United States
+,Rush of Blood Tour,2003-03-10,Coldplay,,31.209647495361786,2695.0,2695,84110.0,"permanent wave, pop",2695,,Palace Theatre,Louisville,Kentucky,United States
+,Rush of Blood Tour,2003-03-13,Coldplay,,28.4539651362632,8146.0,9481,231786.0,"permanent wave, pop",9481,,Target Center,Minneapolis,Minnesota,United States
+,Rush of Blood Tour,2003-04-14,Coldplay,,31.991034571723425,15504.0,15636,495989.0,"permanent wave, pop",15636,,Manchester Evening News Arena,Manchester,England,England
+,Rush of Blood Tour,2003-05-20,Coldplay,,25.157215921725594,4497.0,4500,113132.0,"permanent wave, pop",4500,,Shaw Conference Centre,Edmonton,Alberta,Canada
+,Rush of Blood Tour,2003-05-21,Coldplay,,27.49312028406569,9012.0,9844,247768.0,"permanent wave, pop",9844,,Pengrowth Saddledome,Calgary,Alberta,Canada
+,Rush of Blood Tour,2003-05-23,Coldplay,,26.198243412798,11955.0,13628,313200.0,"permanent wave, pop",13628,,General Motors Place,Vancouver,British Columbia,Canada
+,Rush of Blood Tour,2003-05-25,Coldplay,,35.0,5200.0,5200,182000.0,"permanent wave, pop",5200,,Les Schwab Amphitheater,Bend,Oregon,United States
+,Rush of Blood Tour,2003-05-27,Coldplay,,30.259136212624583,2408.0,3100,72864.0,"permanent wave, pop",3100,,Bank of America Centre,Boise,Idaho,United States
+,Rush of Blood Tour,2003-05-28,Coldplay,,23.26270588235294,8500.0,8500,197733.0,"permanent wave, pop",8500,,AutoWest Amphitheatre,Wheatland,California,United States
+,Rush of Blood Tour,2003-05-30,Coldplay,,28.87372013651877,20217.0,21895,583740.0,"permanent wave, pop",21895,,Shoreline Amphitheatre,Mountain View,California,United States
+,Rush of Blood Tour,2003-06-03,Coldplay,,34.75002678667095,9333.0,9333,324322.0,"permanent wave, pop",9333,,Cox Arena,San Diego,California,United States
+,Rush of Blood Tour,2003-06-05,Coldplay,,33.96624147789751,18188.0,18890,617778.0,"permanent wave, pop",18890,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Rush of Blood Tour,2003-06-09,Coldplay,,35.62591659028414,8728.0,8728,310943.0,"permanent wave, pop",8728,,UIC Pavilion,Chicago,Illinois,United States
+,Rush of Blood Tour,2003-06-10,Coldplay,,27.54979601631869,8334.0,8334,229600.0,"permanent wave, pop",8334,,Tower City Amphitheater,Cleveland,Ohio,United States
+,Rush of Blood Tour,2003-06-11,Coldplay,,19.886513963743266,16328.0,16328,324707.0,"permanent wave, pop",16328,,Molson Canadian Amphitheatre,Toronto,Ontario,Canada
+,Rush of Blood Tour,2003-06-13,Coldplay,,36.94433878534297,15774.0,15774,582760.0,"permanent wave, pop",15774,,Madison Square Garden,New York City,New York,United States
+,Rush of Blood Tour,2003-07-18,Coldplay,,42.10045792787636,10482.0,10500,441297.0,"permanent wave, pop",10500,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Rush of Blood Tour,2003-07-21,Coldplay,,42.10048030739674,10410.0,10500,438266.0,"permanent wave, pop",10500,,Hordern Pavilion,Sydney,New South Wales,Australia
+,Rush of Blood Tour,2003-09-03,Coldplay,,25.888869195320808,5642.0,5642,146065.0,"permanent wave, pop",5642,,Via Funchal,São Paulo,São Paulo,Brazil
+,Rush of Blood Tour,2003-09-04,Coldplay,,21.30451612903225,7750.0,7750,165110.0,"permanent wave, pop",7750,,ATL Hall,Rio de Janeiro,Rio de Janeiro,Brazil
+,Rush of Blood Tour,2003-09-07,Coldplay,,27.61408850994722,39408.0,39408,1088216.0,"permanent wave, pop",39408,,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+,Viva la Vida Tour,2008-07-14,Coldplay,,82.69882000997174,30085.0,30085,2487994.0,"permanent wave, pop",30085,,The Forum,Inglewood,California,United States
+,Viva la Vida Tour,2008-07-15,Coldplay,,82.69882000997174,30085.0,30085,2487994.0,"permanent wave, pop",30085,,The Forum,Inglewood,California,United States
+,Viva la Vida Tour,2008-07-18,Coldplay,,79.59862969004894,15325.0,15838,1219849.0,"permanent wave, pop",15838,,HP Pavilion,San Jose,California,United States
+,Viva la Vida Tour,2008-07-19,Coldplay,,89.83681889315692,14058.0,14058,1262926.0,"permanent wave, pop",14058,,MGM Grand Garden Arena,Paradise,Nevada,United States
+,Viva la Vida Tour,2008-07-22,Coldplay,,81.35475431829616,29815.0,31056,2425592.0,"permanent wave, pop",31056,,United Center,Chicago,Illinois,United States
+,Viva la Vida Tour,2008-07-23,Coldplay,,81.35475431829616,29815.0,31056,2425592.0,"permanent wave, pop",31056,,United Center,Chicago,Illinois,United States
+,Viva la Vida Tour,2008-07-25,Coldplay,,83.38051141116023,16738.0,16738,1395623.0,"permanent wave, pop",16738,,Wachovia Center,Philadelphia,Pennsylvania,United States
+,Viva la Vida Tour,2008-07-29,Coldplay,,82.00173822353554,17259.0,17259,1415268.0,"permanent wave, pop",17259,,Bell Centre,Montreal,Quebec,Canada
+,Viva la Vida Tour,2008-07-30,Coldplay,,87.13713577916715,33908.0,33908,2954646.0,"permanent wave, pop",33908,,Air Canada Centre,Toronto,Ontario,Canada
+,Viva la Vida Tour,2008-07-31,Coldplay,,87.13713577916715,33908.0,33908,2954646.0,"permanent wave, pop",33908,,Air Canada Centre,Toronto,Ontario,Canada
+,Viva la Vida Tour,2008-08-02,Coldplay,,78.95178330288347,12589.0,12589,993924.0,"permanent wave, pop",12589,,XL Center,Hartford,Connecticut,United States
+,Viva la Vida Tour,2008-08-03,Coldplay,,85.96941624365482,15760.0,15760,1354878.0,"permanent wave, pop",15760,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Viva la Vida Tour,2008-08-04,Coldplay,,85.11021114572516,14445.0,14445,1229417.0,"permanent wave, pop",14445,,TD Banknorth Garden,Boston,Massachusetts,United States
+,Viva la Vida Tour,2008-09-01,Coldplay,,60.78273433267112,11074.0,11074,673108.0,"permanent wave, pop",11074,,Zénith de Strasbourg,Strasbourg,Grand Est,France
+,Viva la Vida Tour,2008-09-02,Coldplay,,72.89888272646893,12441.0,12441,906935.0,"permanent wave, pop",12441,,SAP Arena,Mannheim,Baden-Württemberg,Germany
+,Viva la Vida Tour,2008-09-04,Coldplay,,62.35866170110524,16648.0,16648,1038147.0,"permanent wave, pop",16648,,Halle Tony Garnier,Lyon,Auvergne-Rhône-Alpes,France
+,Viva la Vida Tour,2008-09-06,Coldplay,,68.51071348440655,17828.0,17960,1221409.0,"permanent wave, pop",17960,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Viva la Vida Tour,2008-09-07,Coldplay,,68.32608555390671,15499.0,15548,1058986.0,"permanent wave, pop",15548,,Palacio de Deportes,Madrid,Community of Madrid,Spain
+,Viva la Vida Tour,2008-09-09,Coldplay,,70.07423780487805,32800.0,32800,2298435.0,"permanent wave, pop",32800,,Palais Omnisports de Paris-Bercy,Paris,Île-de-France,France
+,Viva la Vida Tour,2008-09-10,Coldplay,,70.07423780487805,32800.0,32800,2298435.0,"permanent wave, pop",32800,,Palais Omnisports de Paris-Bercy,Paris,Île-de-France,France
+,Viva la Vida Tour,2008-09-12,Coldplay,,73.28053399565353,16105.0,16105,1180183.0,"permanent wave, pop",16105,,Kölnarena,Cologne,North Rhine-Westphalia,Germany
+,Viva la Vida Tour,2008-09-14,Coldplay,,73.1043956043956,12558.0,12558,918045.0,"permanent wave, pop",12558,,Color Line Arena,Hamburg,Hamburg,Germany
+,Viva la Vida Tour,2008-09-15,Coldplay,,72.04734716613285,14362.0,14362,1034744.0,"permanent wave, pop",14362,,O2 World,Berlin,Berlin,Germany
+,Viva la Vida Tour,2008-09-17,Coldplay,,66.79235459829547,28043.0,28510,1873058.0,"permanent wave, pop",28510,,Stockholm Globe Arena,Stockholm,Stockholm County,Sweden
+,Viva la Vida Tour,2008-09-18,Coldplay,,66.79235459829547,28043.0,28510,1873058.0,"permanent wave, pop",28510,,Stockholm Globe Arena,Stockholm,Stockholm County,Sweden
+,Viva la Vida Tour,2008-09-19,Coldplay,,83.23077876984127,8064.0,8213,671173.0,"permanent wave, pop",8213,,Oslo Spektrum,Oslo,Oslo,Norway
+,Viva la Vida Tour,2008-09-22,Coldplay,,60.8040163879374,14889.0,15000,905311.0,"permanent wave, pop",15000,,O2 Arena,Prague,Prague,Czech Republic
+,Viva la Vida Tour,2008-09-23,Coldplay,,69.97499775965588,11159.0,11466,780851.0,"permanent wave, pop",11466,,Budapest Sports Arena,Budapest,Central Hungary,Hungary
+,Viva la Vida Tour,2008-09-24,Coldplay,,72.00344827586207,13340.0,13340,960526.0,"permanent wave, pop",13340,,Wiener Stadthalle,Vienna,Vienna,Austria
+,Viva la Vida Tour,2008-09-26,Coldplay,,77.14121135112241,11805.0,11805,910652.0,"permanent wave, pop",11805,,Olympiahalle,Munich,Bavaria,Germany
+,Viva la Vida Tour,2008-09-30,Coldplay,,62.43225173827777,11218.0,11218,700365.0,"permanent wave, pop",11218,,DatchForum,Assago,Lombardy,Italy
+,Viva la Vida Tour,2008-10-02,Coldplay,,62.76555555555556,21600.0,21600,1355736.0,"permanent wave, pop",21600,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Viva la Vida Tour,2008-10-03,Coldplay,,62.76555555555556,21600.0,21600,1355736.0,"permanent wave, pop",21600,,Ahoy Rotterdam,Rotterdam,South Holland,Netherlands
+,Viva la Vida Tour,2008-10-04,Coldplay,,56.60879933229999,16774.0,16774,949556.0,"permanent wave, pop",16774,,Sportpaleis,Antwerp,Flanders,Belgium
+,Viva la Vida Tour,2008-10-20,Coldplay,,77.82501443775266,12121.0,15082,943317.0,"permanent wave, pop",15082,,Scotiabank Place,Ottawa,Ontario,Canada
+,Viva la Vida Tour,2008-10-26,Coldplay,,42.58909426987061,32460.0,32460,1382442.0,"permanent wave, pop",32460,,Izod Center,East Rutherford,New Jersey,United States
+,Viva la Vida Tour,2008-10-27,Coldplay,,42.58909426987061,32460.0,32460,1382442.0,"permanent wave, pop",32460,,Izod Center,East Rutherford,New Jersey,United States
+,Viva la Vida Tour,2008-10-29,Coldplay,,86.31080431348308,14559.0,14559,1256599.0,"permanent wave, pop",14559,,TD Banknorth Garden,Boston,Massachusetts,United States
+,Viva la Vida Tour,2008-10-31,Coldplay,,83.97393699675095,14158.0,14158,1188903.0,"permanent wave, pop",14158,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Viva la Vida Tour,2008-11-01,Coldplay,,80.85959671396564,16068.0,16068,1299252.0,"permanent wave, pop",16068,,Wachovia Center,Philadelphia,Pennsylvania,United States
+,Viva la Vida Tour,2008-11-03,Coldplay,,76.16571642910728,13330.0,13330,1015289.0,"permanent wave, pop",13330,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Viva la Vida Tour,2008-11-09,Coldplay,,83.33982511923688,15096.0,15096,1258098.0,"permanent wave, pop",15096,,BankAtlantic Center,Sunrise,Florida,United States
+,Viva la Vida Tour,2008-11-14,Coldplay,,83.46930706339633,14922.0,16010,1245529.0,"permanent wave, pop",16010,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Viva la Vida Tour,2008-11-18,Coldplay,,85.29976396538159,13981.0,13981,1192576.0,"permanent wave, pop",13981,,Toyota Center,Houston,Texas,United States
+,Viva la Vida Tour,2008-11-19,Coldplay,,84.51727701349867,15483.0,16430,1308581.0,"permanent wave, pop",16430,,American Airlines Center,Dallas,Texas,United States
+,Viva la Vida Tour,2008-11-21,Coldplay,,87.49056280027453,11656.0,11656,1019790.0,"permanent wave, pop",11656,,Pepsi Center,Denver,Colorado,United States
+,Viva la Vida Tour,2008-11-22,Coldplay,,80.66968442834971,11598.0,11598,935607.0,"permanent wave, pop",11598,,EnergySolutions Arena,Salt Lake City,Utah,United States
+,Viva la Vida Tour,2008-11-25,Coldplay,,81.72217744889736,13649.0,13649,1115426.0,"permanent wave, pop",13649,,Honda Center,Anaheim,California,United States
+,Viva la Vida Tour,2008-11-26,Coldplay,,76.20668326167308,13257.0,13257,1010272.0,"permanent wave, pop",13257,,Jobing.com Arena,Glendale,Arizona,United States
+,Viva la Vida Tour,2008-12-11,Coldplay,,62.55672446262744,30798.0,31136,1926622.0,"permanent wave, pop",31136,,Manchester Evening News Arena,Manchester,England,England
+,Viva la Vida Tour,2008-12-12,Coldplay,,62.55672446262744,30798.0,31136,1926622.0,"permanent wave, pop",31136,,Manchester Evening News Arena,Manchester,England,England
+,Viva la Vida Tour,2008-12-14,Coldplay,,57.8523219089952,51294.0,52500,2967477.0,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la Vida Tour,2008-12-15,Coldplay,,57.8523219089952,51294.0,52500,2967477.0,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la Vida Tour,2008-12-16,Coldplay,,57.8523219089952,51294.0,52500,2967477.0,"permanent wave, pop",52500,,The O2 Arena,London,England,England
+,Viva la Vida Tour,2008-12-19,Coldplay,,64.61333333333333,8400.0,8532,542752.0,"permanent wave, pop",8532,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Viva la Vida Tour,2008-12-21,Coldplay,,66.82592137592138,16280.0,16280,1087926.0,"permanent wave, pop",16280,,O2 Dublin,Dublin,Leinster,Ireland
+,Viva la Vida Tour,2008-12-22,Coldplay,,66.82592137592138,16280.0,16280,1087926.0,"permanent wave, pop",16280,,O2 Dublin,Dublin,Leinster,Ireland
+,Ghost Stories Tour,2014-04-25,Coldplay,,103.25,2000.0,2000,206505.0,"permanent wave, pop",2000,,E-Werk,Cologne,North Rhine-Westphalia,Germany
+,Ghost Stories Tour,2014-05-05,Coldplay,SZA,81.63,5512.0,5512,449929.0,"permanent wave, pop",5512,,Beacon Theatre,New York City,New York,United States
+,Ghost Stories Tour,2014-05-19,Coldplay,London Grammar,180.45,207.0,1568,324815.29,"permanent wave, pop",1800,,Royce Hall,Los Angeles,California,United States
+,Ghost Stories Tour,2014-05-28,Coldplay,,157.91,207.0,1568,324815.29,"permanent wave, pop",2057,,Casino de Paris,Paris,Île-de-France,France
+,Ghost Stories Tour,2014-06-12,Coldplay,,104.78,207.0,1568,324815.29,"permanent wave, pop",3100,,Tokyo Dome City Hall,Tokyo,Tokyo,Japan
+,Ghost Stories Tour,2014-06-19,Coldplay,Kylie Minogue,203.01,207.0,1568,324815.29,"permanent wave, pop",1600,,Enmore Theatre,Sydney,New South Wales,Australia
+,Ghost Stories Tour,2014-07-01,Coldplay,Aluna George,61.61,207.0,1568,324815.29,"permanent wave, pop",5272,,Royal Albert Hall,London,England,England
+,Ghost Stories Tour,2014-07-02,Coldplay,,61.61,207.0,1568,324815.29,"permanent wave, pop",5272,,Royal Albert Hall,London,England,England
+,Ghost Stories Tour,2014-12-06,Coldplay,,105.8,1511.0,1511,159859.0,"permanent wave, pop",1511,,BMW Welt,Munich,Bavaria,Germany

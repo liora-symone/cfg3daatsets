@@ -1,0 +1,468 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Divide Tour,2017-03-16,Ed Sheeran,Anne-Marie Ryan McMullan,52.43722050223598,23256,23256,"$1,219,480","pop, singer-songwriter pop, uk pop",23256,,Pala Alpitour,Turin,Piedmont,Italy
+,Divide Tour,2017-03-17,Ed Sheeran,Anne-Marie Ryan McMullan,52.43722050223598,23256,23256,"$1,219,480","pop, singer-songwriter pop, uk pop",23256,,Pala Alpitour,Turin,Piedmont,Italy
+,Divide Tour,2017-03-19,Ed Sheeran,Anne-Marie Ryan McMullan,79.51986984214899,14444,14444,"$1,148,585","pop, singer-songwriter pop, uk pop",14444,,Hallenstadion,Zürich,Zürich,Switzerland
+,Divide Tour,2017-03-20,Ed Sheeran,Anne-Marie Ryan McMullan,76.16495528320635,12076,12108,"$919,768","pop, singer-songwriter pop, uk pop",12108,,Olympiahalle,Munich,Bavaria,Germany
+,Divide Tour,2017-03-22,Ed Sheeran,Anne-Marie Ryan McMullan,68.30784838144424,10843,10848,"$740,662","pop, singer-songwriter pop, uk pop",10848,,SAP Arena,Mannheim,Baden-Württemberg,Germany
+,Divide Tour,2017-03-23,Ed Sheeran,Anne-Marie Ryan McMullan,68.85218516920422,16223,16319,"$1,116,989","pop, singer-songwriter pop, uk pop",16319,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,Divide Tour,2017-03-26,Ed Sheeran,Anne-Marie Ryan McMullan,67.08787532637076,12256,13227,"$822,229","pop, singer-songwriter pop, uk pop",13227,,Barclaycard Arena,Hamburg,Hamburg,Germany
+,Divide Tour,2017-03-27,Ed Sheeran,Anne-Marie Ryan McMullan,70.1988797504254,14104,14104,"$990,085","pop, singer-songwriter pop, uk pop",14104,,Mercedes-Benz Arena,Berlin,Berlin,Germany
+,Divide Tour,2017-03-28,Ed Sheeran,Busted,73.45345461583123,5167,5167,"$379,534","pop, singer-songwriter pop, uk pop",5167,,Royal Albert Hall,London,England,England
+,Divide Tour,2017-03-30,Ed Sheeran,Anne-Marie Ryan McMullan,71.56517398745008,14024,14260,"$1,003,630","pop, singer-songwriter pop, uk pop",14260,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,Divide Tour,2017-04-01,Ed Sheeran,Anne-Marie Ryan McMullan,84.5802213923713,14996,14996,"$1,268,365","pop, singer-songwriter pop, uk pop",14996,,Jyske Bank Boxen,Herning,Central Denmark Region,Denmark
+,Divide Tour,2017-04-03,Ed Sheeran,Anne-Marie Ryan McMullan,63.81560667568787,33255,33255,"$2,122,188","pop, singer-songwriter pop, uk pop",33255,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Divide Tour,2017-04-04,Ed Sheeran,Anne-Marie Ryan McMullan,63.81560667568787,33255,33255,"$2,122,188","pop, singer-songwriter pop, uk pop",33255,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Divide Tour,2017-04-05,Ed Sheeran,Anne-Marie Ryan McMullan,62.786156682899154,21151,21151,"$1,327,990","pop, singer-songwriter pop, uk pop",21151,,Sportpaleis,Antwerp,Flanders,Belgium
+,Divide Tour,2017-04-06,Ed Sheeran,Anne-Marie Ryan McMullan,50.214535901926446,15988,15988,"$802,830","pop, singer-songwriter pop, uk pop",15988,,AccorHotels Arena,Paris,Île-de-France,France
+,Divide Tour,2017-04-08,Ed Sheeran,Anne-Marie Ryan McMullan,64.08959867919735,15748,16000,"$1,009,283","pop, singer-songwriter pop, uk pop",16000,,Wizink Center,Madrid,Community of Madrid,Spain
+,Divide Tour,2017-04-09,Ed Sheeran,Anne-Marie Ryan McMullan,55.14728770885786,17476,17476,"$963,754","pop, singer-songwriter pop, uk pop",17476,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Divide Tour,2017-04-12,Ed Sheeran,Anne-Marie Ryan McMullan,47.132427977078265,25478,25538,"$1,200,840","pop, singer-songwriter pop, uk pop",25538,,3Arena,Dublin,Leinster,Ireland
+,Divide Tour,2017-04-13,Ed Sheeran,Anne-Marie Ryan McMullan,47.132427977078265,25478,25538,"$1,200,840","pop, singer-songwriter pop, uk pop",25538,,3Arena,Dublin,Leinster,Ireland
+,Divide Tour,2017-04-16,Ed Sheeran,Anne-Marie Ryan McMullan,78.98370340999207,25220,25228,"$1,991,969","pop, singer-songwriter pop, uk pop",25228,,SSE Hydro,Glasgow,Scotland,Scotland
+,Divide Tour,2017-04-17,Ed Sheeran,Anne-Marie Ryan McMullan,78.98370340999207,25220,25228,"$1,991,969","pop, singer-songwriter pop, uk pop",25228,,SSE Hydro,Glasgow,Scotland,Scotland
+,Divide Tour,2017-04-19,Ed Sheeran,Anne-Marie Ryan McMullan,75.90713424250858,21558,22286,"$1,636,406","pop, singer-songwriter pop, uk pop",22286,,Metro Radio Arena,Newcastle,England,England
+,Divide Tour,2017-04-20,Ed Sheeran,Anne-Marie Ryan McMullan,75.90713424250858,21558,22286,"$1,636,406","pop, singer-songwriter pop, uk pop",22286,,Metro Radio Arena,Newcastle,England,England
+,Divide Tour,2017-04-22,Ed Sheeran,Anne-Marie Ryan McMullan,81.93540356812306,31333,31378,"$2,567,282","pop, singer-songwriter pop, uk pop",31378,,Manchester Arena,Manchester,England,England
+,Divide Tour,2017-04-23,Ed Sheeran,Anne-Marie Ryan McMullan,81.93540356812306,31333,31378,"$2,567,282","pop, singer-songwriter pop, uk pop",31378,,Manchester Arena,Manchester,England,England
+,Divide Tour,2017-04-25,Ed Sheeran,Anne-Marie Ryan McMullan,83.47647684938798,18790,18800,"$1,568,523","pop, singer-songwriter pop, uk pop",18800,,Motorpoint Arena,Nottingham,England,England
+,Divide Tour,2017-04-26,Ed Sheeran,Anne-Marie Ryan McMullan,83.47647684938798,18790,18800,"$1,568,523","pop, singer-songwriter pop, uk pop",18800,,Motorpoint Arena,Nottingham,England,England
+,Divide Tour,2017-04-28,Ed Sheeran,Anne-Marie Ryan McMullan,82.27440794992579,30994,31262,"$2,550,013","pop, singer-songwriter pop, uk pop",31262,,Barclaycard Arena,Birmingham,England,England
+,Divide Tour,2017-04-29,Ed Sheeran,Anne-Marie Ryan McMullan,82.27440794992579,30994,31262,"$2,550,013","pop, singer-songwriter pop, uk pop",31262,,Barclaycard Arena,Birmingham,England,England
+,Divide Tour,2017-05-01,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483044,55707,56400,"$6,992,411","pop, singer-songwriter pop, uk pop",56400,,The O2 Arena,London,England,England
+,Divide Tour,2017-05-02,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483044,55707,56400,"$6,992,411","pop, singer-songwriter pop, uk pop",56400,,The O2 Arena,London,England,England
+,Divide Tour,2017-05-03,Ed Sheeran,Anne-Marie Ryan McMullan,125.52122713483044,55707,56400,"$6,992,411","pop, singer-songwriter pop, uk pop",56400,,The O2 Arena,London,England,England
+,Divide Tour,2017-05-13,Ed Sheeran,Antonio Lulic,65.70154469485946,19745,19745,"$1,297,277","pop, singer-songwriter pop, uk pop",19745,,Estadio Nacional,Lima,Lima,Perú
+,Divide Tour,2017-05-15,Ed Sheeran,Intimate Stranger Antonio Lulic,78.04917729024608,26984,26984,"$2,106,079","pop, singer-songwriter pop, uk pop",26984,,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+,Divide Tour,2017-05-16,Ed Sheeran,Intimate Stranger Antonio Lulic,78.04917729024608,26984,26984,"$2,106,079","pop, singer-songwriter pop, uk pop",26984,,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+,Divide Tour,2017-05-20,Ed Sheeran,Benjamin Amadeo Antonio Lulic,71.31047522629824,33584,33584,"$2,394,891","pop, singer-songwriter pop, uk pop",33584,,Estadio Ciudad de La Plata,La Plata,Buenos Aires Province,Argentina
+,Divide Tour,2017-05-23,Ed Sheeran,Antonio Lulic,80.89379310344827,17400,17400,"$1,407,552","pop, singer-songwriter pop, uk pop",17400,,Pedreira Paulo Leminski,Curitiba,Paraná,Brazil
+,Divide Tour,2017-05-25,Ed Sheeran,Antonio Lulic,84.75088938528998,12087,12087,"$1,024,384","pop, singer-songwriter pop, uk pop",12087,,Jeunesse Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+,Divide Tour,2017-05-28,Ed Sheeran,Antonio Lulic,93.55309507754552,37075,37075,"$3,468,481","pop, singer-songwriter pop, uk pop",37075,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Divide Tour,2017-05-30,Ed Sheeran,Antonio Lulic,75.50159089302129,14143,14143,"$1,067,819","pop, singer-songwriter pop, uk pop",14143,,Esplanada do Minerão,Belo Horizonte,Minas Gerais,Brazil
+,Divide Tour,2017-06-02,Ed Sheeran,Sebastián Yatra Antonio Lulic,74.83249935848089,15588,15588,"$1,166,489","pop, singer-songwriter pop, uk pop",15588,,Simón Bolívar Park,Bogotá,Bogotá,Colombia
+,Divide Tour,2017-06-04,Ed Sheeran,Yebba,71.16583898720012,14297,14297,"$1,017,458","pop, singer-songwriter pop, uk pop",14297,,Coliseo de Puerto Rico,San Juan,San Juan,Puerto Rico
+,Divide Tour,2017-06-06,Ed Sheeran,Antonio Lulic,71.82999312872194,17464,17464,"$1,254,439","pop, singer-songwriter pop, uk pop",17464,,Coca-Cola Amphitheater,Alajuela,Alajuela,Costa Rica
+,Divide Tour,2017-06-10,Ed Sheeran,Antonio Lulic,60.71530215793662,21363,21500,"$1,297,061","pop, singer-songwriter pop, uk pop",21500,,Palacio de los Deportes,Mexico City,Mexico City,México
+,Divide Tour,2017-06-12,Ed Sheeran,Antonio Lulic,79.78616298811545,11780,12000,"$939,881","pop, singer-songwriter pop, uk pop",12000,,Arena VFG,Guadalajara,Jalisco,México
+,Divide Tour,2017-06-14,Ed Sheeran,Antonio Lulic,112.47565162110617,7865,7865,"$884,621","pop, singer-songwriter pop, uk pop",7865,,Auditorio Citibanamex,Monterrey,Nuevo León,México
+,Divide Tour,2017-06-22,Ed Sheeran,Fuse ODG,91.18738969998395,18699,18841,"$1,705,113","pop, singer-songwriter pop, uk pop",18841,,The O2 Arena,London,England,England
+,Divide Tour,2017-06-29,Ed Sheeran,James Blunt,90.96644746674636,13382,13382,"$1,217,313","pop, singer-songwriter pop, uk pop",13382,,Sprint Center,Kansas City,Missouri,United States
+,Divide Tour,2017-06-30,Ed Sheeran,James Blunt,80.66833644859813,13375,13375,"$1,078,939","pop, singer-songwriter pop, uk pop",13375,,Wells Fargo Arena,Des Moines,Iowa,United States
+,Divide Tour,2017-07-01,Ed Sheeran,James Blunt,92.05134556165484,14938,14938,"$1,375,063","pop, singer-songwriter pop, uk pop",14938,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Divide Tour,2017-07-07,Ed Sheeran,James Blunt,83.52867348276314,30516,30516,"$2,548,961","pop, singer-songwriter pop, uk pop",30516,,Air Canada Centre,Toronto,Ontario,Canada
+,Divide Tour,2017-07-08,Ed Sheeran,James Blunt,83.52867348276314,30516,30516,"$2,548,961","pop, singer-songwriter pop, uk pop",30516,,Air Canada Centre,Toronto,Ontario,Canada
+,Divide Tour,2017-07-09,Ed Sheeran,James Blunt,81.58650821391122,14305,14305,"$1,167,095","pop, singer-songwriter pop, uk pop",14305,,KeyBank Center,Buffalo,New York,United States
+,Divide Tour,2017-07-11,Ed Sheeran,James Blunt,90.94322660950142,28922,28922,"$2,630,260","pop, singer-songwriter pop, uk pop",28922,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Divide Tour,2017-07-12,Ed Sheeran,James Blunt,90.94322660950142,28922,28922,"$2,630,260","pop, singer-songwriter pop, uk pop",28922,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Divide Tour,2017-07-14,Ed Sheeran,James Blunt,72.49042789010547,14887,14887,"$1,079,165","pop, singer-songwriter pop, uk pop",14887,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Divide Tour,2017-07-15,Ed Sheeran,James Blunt,72.49042789010547,14887,14887,"$1,079,165","pop, singer-songwriter pop, uk pop",14887,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Divide Tour,2017-07-18,Ed Sheeran,James Blunt,83.3403864521343,13611,13611,"$1,134,346","pop, singer-songwriter pop, uk pop",13611,,Videotron Centre,Quebec City,Quebec,Canada
+,Divide Tour,2017-07-19,Ed Sheeran,James Blunt,81.73126310272536,15264,15264,"$1,247,546","pop, singer-songwriter pop, uk pop",15264,,Bell Centre,Montreal,Quebec,Canada
+,Divide Tour,2017-07-22,Ed Sheeran,James Blunt,82.50384193194292,11843,11843,"$977,093","pop, singer-songwriter pop, uk pop",11843,,Bell MTS Place,Winnipeg,Manitoba,Canada
+,Divide Tour,2017-07-23,Ed Sheeran,James Blunt,81.30393325387367,12585,12585,"$1,023,210","pop, singer-songwriter pop, uk pop",12585,,SaskTel Centre,Saskatoon,Saskatchewan,Canada
+,Divide Tour,2017-07-25,Ed Sheeran,James Blunt,82.46337370494673,27412,27412,"$2,260,486","pop, singer-songwriter pop, uk pop",27412,,Rogers Place,Edmonton,Alberta,Canada
+,Divide Tour,2017-07-26,Ed Sheeran,James Blunt,82.46337370494673,27412,27412,"$2,260,486","pop, singer-songwriter pop, uk pop",27412,,Rogers Place,Edmonton,Alberta,Canada
+,Divide Tour,2017-07-28,Ed Sheeran,James Blunt,82.87029140014215,14070,14070,"$1,165,985","pop, singer-songwriter pop, uk pop",14070,,Rogers Arena,Vancouver,British Columbia,Canada
+,Divide Tour,2017-07-29,Ed Sheeran,James Blunt,80.6141365544068,19538,19538,"$1,575,039","pop, singer-songwriter pop, uk pop",19538,,Tacoma Dome,Tacoma,Washington,United States
+,Divide Tour,2017-07-30,Ed Sheeran,James Blunt,80.10126676602087,13420,13420,"$1,074,959","pop, singer-songwriter pop, uk pop",13420,,Moda Center,Portland,Oregon,United States
+,Divide Tour,2017-08-01,Ed Sheeran,James Blunt,90.95180274135876,13424,13424,"$1,220,937","pop, singer-songwriter pop, uk pop",13424,,Golden 1 Center,Sacramento,California,United States
+,Divide Tour,2017-08-02,Ed Sheeran,James Blunt,89.2784365393061,13662,13662,"$1,219,722","pop, singer-songwriter pop, uk pop",13662,,Oracle Arena,Oakland,California,United States
+,Divide Tour,2017-08-04,Ed Sheeran,James Blunt,87.00590434953749,15243,15243,"$1,326,231","pop, singer-songwriter pop, uk pop",15243,,T-Mobile Arena,Las Vegas,Nevada,United States
+,Divide Tour,2017-08-05,Ed Sheeran,James Blunt,90.77764757580196,13654,13654,"$1,239,478","pop, singer-songwriter pop, uk pop",13654,,Gila River Arena,Glendale,Arizona,United States
+,Divide Tour,2017-08-06,Ed Sheeran,James Blunt,89.62708883025506,10233,10233,"$917,154","pop, singer-songwriter pop, uk pop",10233,,Valley View Casino Center,San Diego,California,United States
+,Divide Tour,2017-08-10,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"$3,622,204","pop, singer-songwriter pop, uk pop",40731,,Staples Center,Los Angeles,California,United States
+,Divide Tour,2017-08-11,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"$3,622,204","pop, singer-songwriter pop, uk pop",40731,,Staples Center,Los Angeles,California,United States
+,Divide Tour,2017-08-12,Ed Sheeran,James Blunt,88.929905968427,40731,40731,"$3,622,204","pop, singer-songwriter pop, uk pop",40731,,Staples Center,Los Angeles,California,United States
+,Divide Tour,2017-08-15,Ed Sheeran,James Blunt,89.7672060075869,12917,12917,"$1,159,523","pop, singer-songwriter pop, uk pop",12917,,Pepsi Center,Denver,Colorado,United States
+,Divide Tour,2017-08-17,Ed Sheeran,James Blunt,79.64023531361339,12069,12069,"$961,178","pop, singer-songwriter pop, uk pop",12069,,BOK Center,Tulsa,Oklahoma,United States
+,Divide Tour,2017-08-18,Ed Sheeran,James Blunt,88.58898180751174,13632,13632,"$1,207,645","pop, singer-songwriter pop, uk pop",13632,,American Airlines Center,Dallas,Texas,United States
+,Divide Tour,2017-08-19,Ed Sheeran,James Blunt,90.38963677927356,11811,11811,"$1,067,592","pop, singer-songwriter pop, uk pop",11811,,Toyota Center,Houston,Texas,United States
+,Divide Tour,2017-08-22,Ed Sheeran,James Blunt,79.88031303848364,13928,13928,"$1,112,573","pop, singer-songwriter pop, uk pop",13928,,AT&T Center,San Antonio,Texas,United States
+,Divide Tour,2017-08-25,Ed Sheeran,James Blunt,93.56558700607904,21056,21056,"$1,970,117","pop, singer-songwriter pop, uk pop",21056,,Infinite Energy Arena,Duluth,Georgia,United States
+,Divide Tour,2017-08-26,Ed Sheeran,James Blunt,93.56558700607904,21056,21056,"$1,970,117","pop, singer-songwriter pop, uk pop",21056,,Infinite Energy Arena,Duluth,Georgia,United States
+,Divide Tour,2017-08-29,Ed Sheeran,James Blunt,79.98640315030835,13459,13459,"$1,076,537","pop, singer-songwriter pop, uk pop",13459,,Amalie Arena,Tampa,Florida,United States
+,Divide Tour,2017-08-30,Ed Sheeran,James Blunt,89.32599703426207,12813,12813,"$1,144,534","pop, singer-songwriter pop, uk pop",12813,,American Airlines Arena,Miami,Florida,United States
+,Divide Tour,2017-08-31,Ed Sheeran,James Blunt,81.50550161812298,12360,12360,"$1,007,408","pop, singer-songwriter pop, uk pop",12360,,Amway Center,Orlando,Florida,United States
+,Divide Tour,2017-09-02,Ed Sheeran,James Blunt,82.14501992031873,13805,13805,"$1,134,012","pop, singer-songwriter pop, uk pop",13805,,PNC Arena,Raleigh,North Carolina,United States
+,Divide Tour,2017-09-03,Ed Sheeran,James Blunt,89.30652689021325,13927,13927,"$1,243,772","pop, singer-songwriter pop, uk pop",13927,,Spectrum Center,Charlotte,North Carolina,United States
+,Divide Tour,2017-09-05,Ed Sheeran,James Blunt,81.46028291621327,8271,8517,"$673,758","pop, singer-songwriter pop, uk pop",8517,,North Charleston Coliseum,North Charleston,South Carolina,United States
+,Divide Tour,2017-09-07,Ed Sheeran,James Blunt,79.99039501303989,15721,15721,"$1,257,529","pop, singer-songwriter pop, uk pop",15721,,KFC Yum! Center,Louisville,Kentucky,United States
+,Divide Tour,2017-09-08,Ed Sheeran,Joshua Radin,79.66766091051805,12740,12740,"$1,014,966","pop, singer-songwriter pop, uk pop",12740,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Divide Tour,2017-09-09,Ed Sheeran,Joshua Radin,91.57215665236052,14912,14912,"$1,365,524","pop, singer-songwriter pop, uk pop",14912,,Quicken Loans Arena,Cleveland,Ohio,United States
+,Divide Tour,2017-09-12,Ed Sheeran,James Blunt,78.50071479628306,13990,13990,"$1,098,225","pop, singer-songwriter pop, uk pop",13990,,CenturyLink Center Omaha,Omaha,Nebraska,United States
+,Divide Tour,2017-09-15,Ed Sheeran,James Blunt,89.11713353070675,26346,26346,"$2,347,880","pop, singer-songwriter pop, uk pop",26346,,Allstate Arena,Rosemont,Illinois,United States
+,Divide Tour,2017-09-16,Ed Sheeran,James Blunt,89.11713353070675,26346,26346,"$2,347,880","pop, singer-songwriter pop, uk pop",26346,,Allstate Arena,Rosemont,Illinois,United States
+,Divide Tour,2017-09-19,Ed Sheeran,James Blunt,89.33094519402117,27497,27497,"$2,456,333","pop, singer-songwriter pop, uk pop",27497,,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+,Divide Tour,2017-09-20,Ed Sheeran,James Blunt,89.33094519402117,27497,27497,"$2,456,333","pop, singer-songwriter pop, uk pop",27497,,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+,Divide Tour,2017-09-22,Ed Sheeran,James Blunt,89.69191090269636,25590,25590,"$2,295,216","pop, singer-songwriter pop, uk pop",25590,,TD Garden,Boston,Massachusetts,United States
+,Divide Tour,2017-09-23,Ed Sheeran,James Blunt,89.69191090269636,25590,25590,"$2,295,216","pop, singer-songwriter pop, uk pop",25590,,TD Garden,Boston,Massachusetts,United States
+,Divide Tour,2017-09-26,Ed Sheeran,James Blunt,89.33650888905558,13331,13331,"$1,190,945","pop, singer-songwriter pop, uk pop",13331,,PPG Paints Arena,Pittsburgh,Pennsylvania,United States
+,Divide Tour,2017-09-27,Ed Sheeran,James Blunt,89.82242990654206,14124,14124,"$1,268,652","pop, singer-songwriter pop, uk pop",14124,,Little Caesars Arena,Detroit,Michigan,United States
+,Divide Tour,2017-09-29,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"$3,658,480","pop, singer-songwriter pop, uk pop",41066,,Barclays Center,Brooklyn,New York,United States
+,Divide Tour,2017-09-30,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"$3,658,480","pop, singer-songwriter pop, uk pop",41066,,Barclays Center,Brooklyn,New York,United States
+,Divide Tour,2017-10-01,Ed Sheeran,James Blunt,89.08780986704329,41066,41066,"$3,658,480","pop, singer-songwriter pop, uk pop",41066,,Barclays Center,Brooklyn,New York,United States
+,Divide Tour,2017-10-03,Ed Sheeran,James Blunt,80.6904421207118,27255,27255,"$2,199,218","pop, singer-songwriter pop, uk pop",27255,,Nationwide Arena,Columbus,Ohio,United States
+,Divide Tour,2017-10-04,Ed Sheeran,James Blunt,80.6904421207118,27255,27255,"$2,199,218","pop, singer-songwriter pop, uk pop",27255,,Nationwide Arena,Columbus,Ohio,United States
+,Divide Tour,2017-10-06,Ed Sheeran,James Blunt,90.32170556617729,27721,27721,"$2,503,808","pop, singer-songwriter pop, uk pop",27721,,Bridgestone Arena,Nashville,Tennessee,United States
+,Divide Tour,2017-10-07,Ed Sheeran,James Blunt,90.32170556617729,27721,27721,"$2,503,808","pop, singer-songwriter pop, uk pop",27721,,Bridgestone Arena,Nashville,Tennessee,United States
+,Divide Tour,2017-11-11,Ed Sheeran,Lauv,141.23790785374652,18297,18297,"$2,584,230","pop, singer-songwriter pop, uk pop",18297,,Singapore Indoor Stadium,Singapore,Singapore,Singapore
+,Divide Tour,2017-11-12,Ed Sheeran,Lauv,141.23790785374652,18297,18297,"$2,584,230","pop, singer-songwriter pop, uk pop",18297,,Singapore Indoor Stadium,Singapore,Singapore,Singapore
+,Divide Tour,2017-11-14,Ed Sheeran,Lauv,84.50745882555833,11597,11597,"$980,033","pop, singer-songwriter pop, uk pop",11597,,Axiata Arena,Kuala Lumpur,Kuala Lumpur,Malaysia
+,Divide Tour,2017-11-16,Ed Sheeran,Lauv,121.1803529248298,14394,14394,"$1,744,270","pop, singer-songwriter pop, uk pop",14394,,Impact Arena,Bangkok,Bangkok,Thailand
+,Divide Tour,2017-11-19,Ed Sheeran,Lauv,99.1730163019004,11103,11103,"$1,101,118","pop, singer-songwriter pop, uk pop",11103,,JioGarden,Mumbai,Maharashtra,India
+,Divide Tour,2017-11-23,Ed Sheeran,Lauv,119.62014437951186,23272,23272,"$2,783,800","pop, singer-songwriter pop, uk pop",23272,,Autism Rocks Arena,Dubai,Dubai,United Arab Emirates
+,Divide Tour,2018-02-19,Ed Sheeran,—,109.29863813229572,2056,2717,"$224,718","pop, singer-songwriter pop, uk pop",2717,,Indigo at The O2,London,England,England
+,Divide Tour,2018-03-02,Ed Sheeran,Missy Higgins Fergus James,80.21461707781218,114031,114031,"$9,146,953","pop, singer-songwriter pop, uk pop",114031,,Optus Stadium,Perth,Western Australia,Australia
+,Divide Tour,2018-03-03,Ed Sheeran,Missy Higgins Fergus James,80.21461707781218,114031,114031,"$9,146,953","pop, singer-songwriter pop, uk pop",114031,,Optus Stadium,Perth,Western Australia,Australia
+,Divide Tour,2018-03-07,Ed Sheeran,Missy Higgins Fergus James,81.11895414448065,62915,62915,"$5,103,599","pop, singer-songwriter pop, uk pop",62915,,Adelaide Oval,Adelaide,South Australia,Australia
+,Divide Tour,2018-03-09,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"$20,838,652","pop, singer-songwriter pop, uk pop",256622,,Etihad Stadium,Melbourne,Victoria,Australia
+,Divide Tour,2018-03-10,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"$20,838,652","pop, singer-songwriter pop, uk pop",256622,,Etihad Stadium,Melbourne,Victoria,Australia
+,Divide Tour,2018-03-11,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"$20,838,652","pop, singer-songwriter pop, uk pop",256622,,Etihad Stadium,Melbourne,Victoria,Australia
+,Divide Tour,2018-03-12,Ed Sheeran,Missy Higgins Bliss n Eso,81.20368479709455,256622,256622,"$20,838,652","pop, singer-songwriter pop, uk pop",256622,,Etihad Stadium,Melbourne,Victoria,Australia
+,Divide Tour,2018-03-15,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"$19,948,066","pop, singer-songwriter pop, uk pop",231185,,ANZ Stadium,Sydney,New South Wales,Australia
+,Divide Tour,2018-03-16,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"$19,948,066","pop, singer-songwriter pop, uk pop",231185,,ANZ Stadium,Sydney,New South Wales,Australia
+,Divide Tour,2018-03-17,Ed Sheeran,Missy Higgins Ryan McMullan,86.28616043428423,231185,231185,"$19,948,066","pop, singer-songwriter pop, uk pop",231185,,ANZ Stadium,Sydney,New South Wales,Australia
+,Divide Tour,2018-03-20,Ed Sheeran,Missy Higgins Fergus James,82.85380359346082,103744,103744,"$8,595,585","pop, singer-songwriter pop, uk pop",103744,,Suncorp Stadium,Brisbane,Queensland,Australia
+,Divide Tour,2018-03-21,Ed Sheeran,Missy Higgins Fergus James,82.85380359346082,103744,103744,"$8,595,585","pop, singer-songwriter pop, uk pop",103744,,Suncorp Stadium,Brisbane,Queensland,Australia
+,Divide Tour,2018-03-24,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"$10,766,558","pop, singer-songwriter pop, uk pop",132876,,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,Divide Tour,2018-03-25,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"$10,766,558","pop, singer-songwriter pop, uk pop",132876,,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,Divide Tour,2018-03-26,Ed Sheeran,Drax Project,81.02710798037268,132876,132876,"$10,766,558","pop, singer-songwriter pop, uk pop",132876,,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,Divide Tour,2018-03-29,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"$8,475,218","pop, singer-songwriter pop, uk pop",105014,,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+,Divide Tour,2018-03-31,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"$8,475,218","pop, singer-songwriter pop, uk pop",105014,,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+,Divide Tour,2018-04-01,Ed Sheeran,Six60 Mitch James,80.70560115794085,105014,105014,"$8,475,218","pop, singer-songwriter pop, uk pop",105014,,Forsyth Barr Stadium,Dunedin,Otago,New Zealand
+,Divide Tour,2018-04-08,Ed Sheeran,—,128.65326365187713,18752,18752,"$2,412,506","pop, singer-songwriter pop, uk pop",18752,,Mall of Asia Concert Grounds,Manila,Metro Manila,Philippines
+,Divide Tour,2018-04-11,Ed Sheeran,—,126.37240429091624,10161,10161,"$1,284,070","pop, singer-songwriter pop, uk pop",10161,,Osaka-Jo Hall,Osaka,Osaka,Japan
+,Divide Tour,2018-04-13,Ed Sheeran,—,128.11637423909153,19549,19549,"$2,504,547","pop, singer-songwriter pop, uk pop",19549,,Budokan Hall,Tokyo,Tokyo,Japan
+,Divide Tour,2018-04-14,Ed Sheeran,—,128.11637423909153,19549,19549,"$2,504,547","pop, singer-songwriter pop, uk pop",19549,,Budokan Hall,Tokyo,Tokyo,Japan
+,Divide Tour,2018-05-04,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"$12,371,587","pop, singer-songwriter pop, uk pop",128969,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Divide Tour,2018-05-05,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"$12,371,587","pop, singer-songwriter pop, uk pop",128969,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Divide Tour,2018-05-06,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,95.92682737712164,128969,128969,"$12,371,587","pop, singer-songwriter pop, uk pop",128969,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Divide Tour,2018-05-09,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,96.30125821781203,40613,40613,"$3,911,083","pop, singer-songwriter pop, uk pop",40613,,Boucher Playing Fields,Belfast,Northern Ireland,Northern Ireland
+,Divide Tour,2018-05-12,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,93.01495522807896,63991,63991,"$5,952,120","pop, singer-songwriter pop, uk pop",63991,,Pearse Stadium,Galway,Connacht,Ireland
+,Divide Tour,2018-05-13,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,93.01495522807896,63991,63991,"$5,952,120","pop, singer-songwriter pop, uk pop",63991,,Pearse Stadium,Galway,Connacht,Ireland
+,Divide Tour,2018-05-16,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"$17,090,104","pop, singer-songwriter pop, uk pop",184187,,Phoenix Park,Dublin,Leinster,Ireland
+,Divide Tour,2018-05-18,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"$17,090,104","pop, singer-songwriter pop, uk pop",184187,,Phoenix Park,Dublin,Leinster,Ireland
+,Divide Tour,2018-05-19,Ed Sheeran,Anne-Marie Jamie Lawson Beoga,92.78670047288897,184187,184187,"$17,090,104","pop, singer-songwriter pop, uk pop",184187,,Phoenix Park,Dublin,Leinster,Ireland
+,Divide Tour,2018-05-24,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"$19,806,800","pop, singer-songwriter pop, uk pop",215600,,Etihad Stadium,Manchester,England,England
+,Divide Tour,2018-05-25,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"$19,806,800","pop, singer-songwriter pop, uk pop",215600,,Etihad Stadium,Manchester,England,England
+,Divide Tour,2018-05-26,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"$19,806,800","pop, singer-songwriter pop, uk pop",215600,,Etihad Stadium,Manchester,England,England
+,Divide Tour,2018-05-27,Ed Sheeran,Anne-Marie Jamie Lawson,91.8682745825603,215600,215600,"$19,806,800","pop, singer-songwriter pop, uk pop",215600,,Etihad Stadium,Manchester,England,England
+,Divide Tour,2018-06-01,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821609,152024,152024,"$13,746,027","pop, singer-songwriter pop, uk pop",152024,,Hampden Park,Glasgow,Scotland,Scotland
+,Divide Tour,2018-06-02,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821609,152024,152024,"$13,746,027","pop, singer-songwriter pop, uk pop",152024,,Hampden Park,Glasgow,Scotland,Scotland
+,Divide Tour,2018-06-03,Ed Sheeran,Anne-Marie Jamie Lawson,90.42011129821609,152024,152024,"$13,746,027","pop, singer-songwriter pop, uk pop",152024,,Hampden Park,Glasgow,Scotland,Scotland
+,Divide Tour,2018-06-08,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"$13,498,865","pop, singer-songwriter pop, uk pop",149226,,St. James Park,Newcastle,England,England
+,Divide Tour,2018-06-09,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"$13,498,865","pop, singer-songwriter pop, uk pop",149226,,St. James Park,Newcastle,England,England
+,Divide Tour,2018-06-10,Ed Sheeran,Anne-Marie Jamie Lawson,90.45920281988394,149226,149226,"$13,498,865","pop, singer-songwriter pop, uk pop",149226,,St. James Park,Newcastle,England,England
+,Divide Tour,2018-06-14,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"$28,726,438","pop, singer-songwriter pop, uk pop",299013,,Wembley Stadium,London,England,England
+,Divide Tour,2018-06-15,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"$28,726,438","pop, singer-songwriter pop, uk pop",299013,,Wembley Stadium,London,England,England
+,Divide Tour,2018-06-16,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"$28,726,438","pop, singer-songwriter pop, uk pop",299013,,Wembley Stadium,London,England,England
+,Divide Tour,2018-06-17,Ed Sheeran,Anne-Marie Jamie Lawson,96.07086648406592,299013,299013,"$28,726,438","pop, singer-songwriter pop, uk pop",299013,,Wembley Stadium,London,England,England
+,Divide Tour,2018-06-21,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"$21,249,947","pop, singer-songwriter pop, uk pop",238085,,Principality Stadium,Cardiff,Wales,Wales
+,Divide Tour,2018-06-22,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"$21,249,947","pop, singer-songwriter pop, uk pop",238085,,Principality Stadium,Cardiff,Wales,Wales
+,Divide Tour,2018-06-23,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"$21,249,947","pop, singer-songwriter pop, uk pop",238085,,Principality Stadium,Cardiff,Wales,Wales
+,Divide Tour,2018-06-24,Ed Sheeran,Anne-Marie Jamie Lawson,89.25361530545814,238085,238085,"$21,249,947","pop, singer-songwriter pop, uk pop",238085,,Principality Stadium,Cardiff,Wales,Wales
+,Divide Tour,2018-06-28,Ed Sheeran,Anne-Marie Jamie Lawson,75.36379961547095,102463,102463,"$7,722,001","pop, singer-songwriter pop, uk pop",102463,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,Divide Tour,2018-06-29,Ed Sheeran,Anne-Marie Jamie Lawson,75.36379961547095,102463,102463,"$7,722,001","pop, singer-songwriter pop, uk pop",102463,,Amsterdam Arena,Amsterdam,North Holland,Netherlands
+,Divide Tour,2018-07-01,Ed Sheeran,Anne-Marie Jamie Lawson,84.1850523950944,64987,64987,"$5,470,934","pop, singer-songwriter pop, uk pop",64987,,Werchter Festival Park,Werchter,Flemish Brabant,Belgium
+,Divide Tour,2018-07-06,Ed Sheeran,Anne-Marie Jamie Lawson,60.817097311599646,153065,153065,"$9,308,969","pop, singer-songwriter pop, uk pop",153065,,Stade de France,Saint-Denis,Île-de-France,France
+,Divide Tour,2018-07-07,Ed Sheeran,Anne-Marie Jamie Lawson,60.817097311599646,153065,153065,"$9,308,969","pop, singer-songwriter pop, uk pop",153065,,Stade de France,Saint-Denis,Île-de-France,France
+,Divide Tour,2018-07-10,Ed Sheeran,Anne-Marie Jamie Lawson,89.21431127594508,122952,122952,"$10,969,078","pop, singer-songwriter pop, uk pop",122952,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Divide Tour,2018-07-11,Ed Sheeran,Anne-Marie Jamie Lawson,89.21431127594508,122952,122952,"$10,969,078","pop, singer-songwriter pop, uk pop",122952,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Divide Tour,2018-07-14,Ed Sheeran,Anne-Marie Jamie Lawson,88.85518309547517,54234,54234,"$4,818,972","pop, singer-songwriter pop, uk pop",54234,,Friends Arena,Stockholm,Stockholm County,Sweden
+,Divide Tour,2018-07-19,Ed Sheeran,Anne-Marie Jamie Lawson,92.5722395192238,69055,69780,"$6,392,576","pop, singer-songwriter pop, uk pop",69780,,Olympiastadion,Berlin,Berlin,Germany
+,Divide Tour,2018-07-22,Ed Sheeran,Anne-Marie Jamie Lawson,87.58126252699994,102778,112406,"$9,001,427","pop, singer-songwriter pop, uk pop",112406,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Divide Tour,2018-07-23,Ed Sheeran,Anne-Marie Jamie Lawson,87.58126252699994,102778,112406,"$9,001,427","pop, singer-songwriter pop, uk pop",112406,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Divide Tour,2018-07-25,Ed Sheeran,Anne-Marie Jamie Lawson,87.45286706670318,80326,80413,"$7,024,739","pop, singer-songwriter pop, uk pop",80413,,Trabrennbahn Bahrenfeld,Hamburg,Hamburg,Germany
+,Divide Tour,2018-07-29,Ed Sheeran,Anne-Marie Jamie Lawson,95.27479338842976,135036,135164,"$12,865,527","pop, singer-songwriter pop, uk pop",135164,,Olympiastadion,Munich,Bavaria,Germany
+,Divide Tour,2018-07-30,Ed Sheeran,Anne-Marie Jamie Lawson,95.27479338842976,135036,135164,"$12,865,527","pop, singer-songwriter pop, uk pop",135164,,Olympiastadion,Munich,Bavaria,Germany
+,Divide Tour,2018-08-03,Ed Sheeran,Anne-Marie Jamie Lawson,116.64558239263415,95142,95458,"$11,097,894","pop, singer-songwriter pop, uk pop",95458,,Letzigrund,Zürich,Zürich,Switzerland
+,Divide Tour,2018-08-04,Ed Sheeran,Anne-Marie Jamie Lawson,116.64558239263415,95142,95458,"$11,097,894","pop, singer-songwriter pop, uk pop",95458,,Letzigrund,Zürich,Zürich,Switzerland
+,Divide Tour,2018-08-07,Ed Sheeran,Anne-Marie Jamie Lawson,86.48868524744243,110652,110652,"$9,570,146","pop, singer-songwriter pop, uk pop",110652,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Divide Tour,2018-08-08,Ed Sheeran,Anne-Marie Jamie Lawson,86.48868524744243,110652,110652,"$9,570,146","pop, singer-songwriter pop, uk pop",110652,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Divide Tour,2018-08-11,Ed Sheeran,Anne-Marie Jamie Lawson BeMy,71.52454716041818,104452,104452,"$7,470,882","pop, singer-songwriter pop, uk pop",104452,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Divide Tour,2018-08-12,Ed Sheeran,Anne-Marie Jamie Lawson BeMy,71.52454716041818,104452,104452,"$7,470,882","pop, singer-songwriter pop, uk pop",104452,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Divide Tour,2018-08-18,Ed Sheeran,Snow Patrol Anne-Marie,101.33975706423196,62321,62321,"$6,315,595","pop, singer-songwriter pop, uk pop",62321,,Rose Bowl,Pasadena,,United States
+,Divide Tour,2018-08-21,Ed Sheeran,Snow Patrol Anne-Marie,108.65197816130618,38647,38647,"$4,199,073","pop, singer-songwriter pop, uk pop",38647,,AT&T Park,San Francisco,,United States
+,Divide Tour,2018-08-25,Ed Sheeran,Snow Patrol Anne-Marie,88.25036231235798,55891,55891,"$4,932,401","pop, singer-songwriter pop, uk pop",55891,,CenturyLink Field,Seattle,Washington,United States
+,Divide Tour,2018-08-30,Ed Sheeran,Snow Patrol Anne-Marie,85.9204964402149,98461,98461,"$8,459,818","pop, singer-songwriter pop, uk pop",98461,,Rogers Centre,Toronto,Ontario,Canada
+,Divide Tour,2018-08-31,Ed Sheeran,Snow Patrol Anne-Marie,85.9204964402149,98461,98461,"$8,459,818","pop, singer-songwriter pop, uk pop",98461,,Rogers Centre,Toronto,Ontario,Canada
+,Divide Tour,2018-09-06,Ed Sheeran,Snow Patrol Anne-Marie,89.74206444776263,41522,41522,"$3,726,270","pop, singer-songwriter pop, uk pop",41522,,Busch Stadium,St. Louis,,United States
+,Divide Tour,2018-09-08,Ed Sheeran,Snow Patrol Anne-Marie,93.74297129947284,47804,47804,"$4,481,289","pop, singer-songwriter pop, uk pop",47804,,Ford Field,Detroit,Michigan,United States
+,Divide Tour,2018-09-14,Ed Sheeran,Snow Patrol Anne-Marie,89.1938260853789,110238,110238,"$9,832,549","pop, singer-songwriter pop, uk pop",110238,,Gillette Stadium,Foxborough,,United States
+,Divide Tour,2018-09-15,Ed Sheeran,Snow Patrol Anne-Marie,89.1938260853789,110238,110238,"$9,832,549","pop, singer-songwriter pop, uk pop",110238,,Gillette Stadium,Foxborough,,United States
+,Divide Tour,2018-09-21,Ed Sheeran,Snow Patrol Anne-Marie,104.37401860465116,107500,107500,"$11,220,207","pop, singer-songwriter pop, uk pop",107500,,MetLife Stadium,East Rutherford,,United States
+,Divide Tour,2018-09-22,Ed Sheeran,Snow Patrol Anne-Marie,104.37401860465116,107500,107500,"$11,220,207","pop, singer-songwriter pop, uk pop",107500,,MetLife Stadium,East Rutherford,,United States
+,Divide Tour,2018-09-27,Ed Sheeran,Snow Patrol Anne-Marie,95.0726073823031,54292,54292,"$5,161,682","pop, singer-songwriter pop, uk pop",54292,,Lincoln Financial Field,Philadelphia,Pennsylvania,United States
+,Divide Tour,2018-09-29,Ed Sheeran,Snow Patrol Anne-Marie,101.66950309650365,41014,41014,"$4,169,873","pop, singer-songwriter pop, uk pop",41014,,PNC Park,Pittsburgh,Pennsylvania,United States
+,Divide Tour,2018-10-04,Ed Sheeran,Snow Patrol Lauv,91.81281340583544,47263,47263,"$4,339,349","pop, singer-songwriter pop, uk pop",47263,,Soldier Field,Chicago,Illinois,United States
+,Divide Tour,2018-10-06,Ed Sheeran,Snow Patrol Lauv,86.18660652022315,45888,45888,"$3,954,931","pop, singer-songwriter pop, uk pop",45888,,Nissan Stadium,Nashville,Tennessee,United States
+,Divide Tour,2018-10-13,Ed Sheeran,Snow Patrol Lauv,78.10667523965397,51324,51324,"$4,008,747","pop, singer-songwriter pop, uk pop",51324,,Arrowhead Stadium,Kansas City,Missouri,United States
+,Divide Tour,2018-10-17,Ed Sheeran,Snow Patrol Lauv,99.47581780305164,17761,17761,"$1,766,790","pop, singer-songwriter pop, uk pop",17761,,Fargodome,Fargo,,United States
+,Divide Tour,2018-10-20,Ed Sheeran,Snow Patrol Lauv,91.42042991146498,49359,49359,"$4,512,421","pop, singer-songwriter pop, uk pop",49359,,U.S. Bank Stadium,Minneapolis,,United States
+,Divide Tour,2018-10-24,Ed Sheeran,Snow Patrol,90.92732246299076,37288,37288,"$3,390,498","pop, singer-songwriter pop, uk pop",37288,,Miller Park,Milwaukee,,United States
+,Divide Tour,2018-10-27,Ed Sheeran,Snow Patrol Lauv,97.91692793357694,46249,46249,"$4,528,560","pop, singer-songwriter pop, uk pop",46249,,AT&T Stadium,Arlington,,United States
+,Divide Tour,2018-10-31,Ed Sheeran,Snow Patrol Lauv,66.85932143279348,42295,42295,"$2,827,815","pop, singer-songwriter pop, uk pop",42295,,Mercedes-Benz Superdome,New Orleans,Louisiana,United States
+,Divide Tour,2018-11-03,Ed Sheeran,Snow Patrol Lauv,101.2754739035422,39354,39354,"$3,985,595","pop, singer-songwriter pop, uk pop",39354,,Minute Maid Park,Houston,Texas,United States
+,Divide Tour,2018-11-07,Ed Sheeran,Snow Patrol Lauv,82.10899843505477,51120,51120,"$4,197,412","pop, singer-songwriter pop, uk pop",51120,,Raymond James Stadium,Tampa,Florida,United States
+,Divide Tour,2018-11-09,Ed Sheeran,Snow Patrol Lauv,98.64053353239304,50906,50906,"$5,021,395","pop, singer-songwriter pop, uk pop",50906,,Mercedes-Benz Stadium,Atlanta,Georgia,United States
+,Divide Tour,2019-02-13,Ed Sheeran,Passenger,79.29877026960422,81156,81156,"$6,435,571","pop, singer-songwriter pop, uk pop",81156,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Divide Tour,2019-02-14,Ed Sheeran,Passenger,79.29877026960422,81156,81156,"$6,435,571","pop, singer-songwriter pop, uk pop",81156,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Divide Tour,2019-02-17,Ed Sheeran,Passenger,80.3402873042578,38635,38635,"$3,103,947","pop, singer-songwriter pop, uk pop",38635,,Arena do Grêmio,Porto Alegre,,Brazil
+,Divide Tour,2019-02-20,Ed Sheeran,Passenger,90.8409451850426,20779,20779,"$1,887,584","pop, singer-songwriter pop, uk pop",20779,,Estadio Centenario,Montevideo,,Uruguay
+,Divide Tour,2019-02-23,Ed Sheeran,Passenger,62.70251682033391,40130,40130,"$2,516,252","pop, singer-songwriter pop, uk pop",40130,,Campo Argentino de Polo,Buenos Aires,Buenos Aires,Argentina
+,Divide Tour,2019-03-23,Ed Sheeran,Passenger Shekhinah,59.86924025213798,128977,130178,"$7,721,755","pop, singer-songwriter pop, uk pop",130178,,FNB Stadium,Johannesburg,,South Africa
+,Divide Tour,2019-03-24,Ed Sheeran,Passenger Shekhinah,59.86924025213798,128977,130178,"$7,721,755","pop, singer-songwriter pop, uk pop",130178,,FNB Stadium,Johannesburg,,South Africa
+,Divide Tour,2019-03-27,Ed Sheeran,Passenger Shekhinah,55.46230201723159,96915,98264,"$5,375,129","pop, singer-songwriter pop, uk pop",98264,,Cape Town Stadium,Cape Town,,South Africa
+,Divide Tour,2019-03-28,Ed Sheeran,Passenger Shekhinah,55.46230201723159,96915,98264,"$5,375,129","pop, singer-songwriter pop, uk pop",98264,,Cape Town Stadium,Cape Town,,South Africa
+,Divide Tour,2019-04-04,Ed Sheeran,One Ok Rock,114.0875390958203,28136,28136,"$3,209,967","pop, singer-songwriter pop, uk pop",28136,,Taoyuan City Stadium,Taoyuan,,Taiwan
+,Divide Tour,2019-04-09,Ed Sheeran,One Ok Rock,129.07681122771527,47454,47454,"$6,125,211","pop, singer-songwriter pop, uk pop",47454,,Tokyo Dome,Tokyo,Tokyo,Japan
+,Divide Tour,2019-04-13,Ed Sheeran,One Ok Rock,71.78045153775619,40351,43743,"$2,896,413","pop, singer-songwriter pop, uk pop",43743,,Bukit Jalil National Stadium,Kuala Lumpur,Kuala Lumpur,Malaysia
+,Divide Tour,2019-04-17,Ed Sheeran,One Ok Rock,140.44988666600966,20294,20294,"$2,850,290","pop, singer-songwriter pop, uk pop",20294,,Hong Kong Disneyland,Hong Kong,Hong Kong,Hong Kong
+,Divide Tour,2019-04-21,Ed Sheeran,One Ok Rock,106.69313528703331,24910,25033,"$2,657,726","pop, singer-songwriter pop, uk pop",25033,,Songdo Moonlight Festival Park,Incheon,,South Korea
+,Divide Tour,2019-04-23,Ed Sheeran,One Ok Rock,129.72831436888066,37790,37790,"$4,902,433","pop, singer-songwriter pop, uk pop",37790,,Kyocera Dome,Osaka,Osaka,Japan
+,Divide Tour,2019-04-26,Ed Sheeran,One Ok Rock,112.34627584822324,49810,49810,"$5,595,968","pop, singer-songwriter pop, uk pop",49810,,Singapore National Stadium,Singapore,Singapore,Singapore
+,Divide Tour,2019-04-28,Ed Sheeran,One Ok Rock,123.16006731000378,29119,32691,"$3,586,298","pop, singer-songwriter pop, uk pop",32691,,Rajamangala Stadium,Bangkok,Bangkok,Thailand
+,Divide Tour,2019-05-03,Ed Sheeran,One Ok Rock,97.11448354745808,48959,52060,"$4,754,628","pop, singer-songwriter pop, uk pop",52060,,Gelora Bung Karno Stadium,Jakarta,,Indonesia
+,Divide Tour,2019-05-24,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"$11,665,699","pop, singer-songwriter pop, uk pop",162561,,Groupama Stadium,Lyon,Auvergne-Rhône-Alpes,France
+,Divide Tour,2019-05-25,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"$11,665,699","pop, singer-songwriter pop, uk pop",162561,,Groupama Stadium,Lyon,Auvergne-Rhône-Alpes,France
+,Divide Tour,2019-05-26,Ed Sheeran,James Bay Zara Larsson,74.2707009613548,157070,162561,"$11,665,699","pop, singer-songwriter pop, uk pop",162561,,Groupama Stadium,Lyon,Auvergne-Rhône-Alpes,France
+,Divide Tour,2019-05-29,Ed Sheeran,James Bay Zara Larsson,75.2150835967092,41449,41716,"$3,117,590","pop, singer-songwriter pop, uk pop",41716,,Matmut Atlantique,Bordeaux,,France
+,Divide Tour,2019-06-01,Ed Sheeran,James Bay Zara Larsson Ben Kweller,75.62322902993607,118085,118085,"$8,929,969","pop, singer-songwriter pop, uk pop",118085,,Estádio da Luz,Lisbon,Lisbon District,Portugal
+,Divide Tour,2019-06-02,Ed Sheeran,James Bay Zara Larsson Ben Kweller,75.62322902993607,118085,118085,"$8,929,969","pop, singer-songwriter pop, uk pop",118085,,Estádio da Luz,Lisbon,Lisbon District,Portugal
+,Divide Tour,2019-06-07,Ed Sheeran,James Bay Zara Larsson,75.49707270664861,54658,54658,"$4,126,519","pop, singer-songwriter pop, uk pop",54658,,Estadi Olímpic Lluís Companys,Barcelona,Catalonia,Spain
+,Divide Tour,2019-06-11,Ed Sheeran,James Bay Zara Larsson,73.0276644078238,51944,51944,"$3,793,349","pop, singer-songwriter pop, uk pop",51944,,Wanda Metropolitano,Madrid,Community of Madrid,Spain
+,Divide Tour,2019-06-16,Ed Sheeran,James Bay Zara Larsson,77.16123068573076,58959,58959,"$4,549,349","pop, singer-songwriter pop, uk pop",58959,,Stadio Olimpico,Rome,Lazio,Italy
+,Divide Tour,2019-06-19,Ed Sheeran,James Bay Zara Larsson,73.25147562486337,54892,54892,"$4,020,920","pop, singer-songwriter pop, uk pop",54892,,Stadio Giuseppe Meazza,Milan,,Italy
+,Divide Tour,2019-06-22,Ed Sheeran,James Bay Zara Larsson,85.2325188363332,191120,202888,"$16,289,639","pop, singer-songwriter pop, uk pop",202888,,Hockenheimring,Hockenheim,,Germany
+,Divide Tour,2019-06-23,Ed Sheeran,James Bay Zara Larsson,85.2325188363332,191120,202888,"$16,289,639","pop, singer-songwriter pop, uk pop",202888,,Hockenheimring,Hockenheim,,Germany
+,Divide Tour,2019-06-28,Ed Sheeran,James Bay Zara Larsson,92.98245354260752,67535,67698,"$6,279,570","pop, singer-songwriter pop, uk pop",67698,,Wörthersee Stadion,Klagenfurt,,Austria
+,Divide Tour,2019-06-29,Ed Sheeran,James Bay Zara Larsson,92.98245354260752,67535,67698,"$6,279,570","pop, singer-songwriter pop, uk pop",67698,,Wörthersee Stadion,Klagenfurt,,Austria
+,Divide Tour,2019-07-03,Ed Sheeran,James Bay Zara Larsson,62.39452147733537,47166,48106,"$2,942,900","pop, singer-songwriter pop, uk pop",48106,,Arena Națională,Bucharest,,Romania
+,Divide Tour,2019-07-07,Ed Sheeran,James Bay Zara Larsson,80.40177138190317,142036,157980,"$11,419,946","pop, singer-songwriter pop, uk pop",157980,,Letňany,Prague,,Czech Republic
+,Divide Tour,2019-07-08,Ed Sheeran,James Bay Zara Larsson,80.40177138190317,142036,157980,"$11,419,946","pop, singer-songwriter pop, uk pop",157980,,Letňany,Prague,,Czech Republic
+,Divide Tour,2019-07-12,Ed Sheeran,James Bay Zara Larsson,78.96115946626485,50437,63550,"$3,982,564","pop, singer-songwriter pop, uk pop",63550,,Lucavsala Park,Riga,,Latvia
+,Divide Tour,2019-07-19,Ed Sheeran,James Bay Zara Larsson,89.98847920483924,39841,41857,"$3,585,231","pop, singer-songwriter pop, uk pop",41857,,Otkritie Arena,Moscow,,Russia
+,Divide Tour,2019-07-23,Ed Sheeran,James Bay Zara Larsson,87.79358333333333,108000,118216,"$9,481,707","pop, singer-songwriter pop, uk pop",118216,,Malmi Airport,Helsinki,Uusimaa,Finland
+,Divide Tour,2019-07-24,Ed Sheeran,James Bay Zara Larsson,87.79358333333333,108000,118216,"$9,481,707","pop, singer-songwriter pop, uk pop",118216,,Malmi Airport,Helsinki,Uusimaa,Finland
+,Divide Tour,2019-07-27,Ed Sheeran,James Bay Zara Larsson,101.24277754259104,87401,87401,"$8,848,720","pop, singer-songwriter pop, uk pop",87401,,Tusindårsskoven,Odense,,Denmark
+,Divide Tour,2019-07-28,Ed Sheeran,James Bay Zara Larsson,101.24277754259104,87401,87401,"$8,848,720","pop, singer-songwriter pop, uk pop",87401,,Tusindårsskoven,Odense,,Denmark
+,Divide Tour,2019-08-02,Ed Sheeran,James Bay Zara Larsson,95.488999376606,131538,148720,"$12,560,432","pop, singer-songwriter pop, uk pop",148720,,Messegelände,Hanover,,Germany
+,Divide Tour,2019-08-03,Ed Sheeran,James Bay Zara Larsson,95.488999376606,131538,148720,"$12,560,432","pop, singer-songwriter pop, uk pop",148720,,Messegelände,Hanover,,Germany
+,Divide Tour,2019-08-10,Ed Sheeran,James Bay Zara Larsson,163.83554642938626,43830,56642,"$7,180,912","pop, singer-songwriter pop, uk pop",56642,,Laugardalsvöllur,Reykjavik,,Iceland
+,Divide Tour,2019-08-11,Ed Sheeran,James Bay Zara Larsson,163.83554642938626,43830,56642,"$7,180,912","pop, singer-songwriter pop, uk pop",56642,,Laugardalsvöllur,Reykjavik,,Iceland
+,Divide Tour,2019-08-16,Ed Sheeran,The Darkness Lewis Capaldi,90.97558632423474,136358,140000,"$12,405,249","pop, singer-songwriter pop, uk pop",140000,,Roundhay Park,Leeds,West Yorkshire,England
+,Divide Tour,2019-08-17,Ed Sheeran,The Darkness Lewis Capaldi,90.97558632423474,136358,140000,"$12,405,249","pop, singer-songwriter pop, uk pop",140000,,Roundhay Park,Leeds,West Yorkshire,England
+,Divide Tour,2019-08-23,Ed Sheeran,The Darkness Passenger,92.24777117384843,139984,181548,"$12,913,212","pop, singer-songwriter pop, uk pop",181548,,Chantry Park,Ipswich,Suffolk,England
+,Divide Tour,2019-08-24,Ed Sheeran,The Darkness Passenger,92.24777117384843,139984,181548,"$12,913,212","pop, singer-songwriter pop, uk pop",181548,,Chantry Park,Ipswich,Suffolk,England
+,Divide Tour,2019-08-25,Ed Sheeran,The Darkness Lewis Capaldi,92.24777117384843,139984,181548,"$12,913,212","pop, singer-songwriter pop, uk pop",181548,,Chantry Park,Ipswich,Suffolk,England
+,Divide Tour,2019-08-26,Ed Sheeran,The Darkness Lewis Capaldi,92.24777117384843,139984,181548,"$12,913,212","pop, singer-songwriter pop, uk pop",181548,,Chantry Park,Ipswich,Suffolk,England
+,Maths Tour,2022-04-23,Ed Sheeran,Maisie Peters Denise Chaila,88.39106821271719,140487,151045,"$12,417,796","pop, singer-songwriter pop, uk pop",151045,,Croke Park,Dublin,Leinster,Ireland
+,Maths Tour,2022-04-24,Ed Sheeran,Maisie Peters Denise Chaila,88.39106821271719,140487,151045,"$12,417,796","pop, singer-songwriter pop, uk pop",151045,,Croke Park,Dublin,Leinster,Ireland
+,Maths Tour,2022-04-28,Ed Sheeran,Maisie Peters Denise Chaila,85.10386188625414,68697,78645,"$5,846,380","pop, singer-songwriter pop, uk pop",78645,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Maths Tour,2022-04-29,Ed Sheeran,Maisie Peters Denise Chaila,85.10386188625414,68697,78645,"$5,846,380","pop, singer-songwriter pop, uk pop",78645,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Maths Tour,2022-05-05,Ed Sheeran,Maisie Peters Denise Chaila,84.15993849142117,61780,63234,"$5,199,401","pop, singer-songwriter pop, uk pop",63234,,Thomond Park,Limerick,County Limerick,Ireland
+,Maths Tour,2022-05-06,Ed Sheeran,Maisie Peters Denise Chaila,84.15993849142117,61780,63234,"$5,199,401","pop, singer-songwriter pop, uk pop",63234,,Thomond Park,Limerick,County Limerick,Ireland
+,Maths Tour,2022-05-12,Ed Sheeran,Maisie Peters Denise Chaila,86.18037514111998,73519,80604,"$6,335,895","pop, singer-songwriter pop, uk pop",80604,,Boucher Road Playing Fields,Belfast,Northern Ireland,Northern Ireland
+,Maths Tour,2022-05-13,Ed Sheeran,Maisie Peters Denise Chaila,86.18037514111998,73519,80604,"$6,335,895","pop, singer-songwriter pop, uk pop",80604,,Boucher Road Playing Fields,Belfast,Northern Ireland,Northern Ireland
+,Maths Tour,2022-05-26,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-05-27,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-05-28,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-06-03,Ed Sheeran,Maisie Peters Dylan,83.38421432657233,106641,114311,"$8,892,176","pop, singer-songwriter pop, uk pop",114311,,Stadium of Light,Sunderland,England,England
+,Maths Tour,2022-06-04,Ed Sheeran,Maisie Peters Dylan,83.38421432657233,106641,114311,"$8,892,176","pop, singer-songwriter pop, uk pop",114311,,Stadium of Light,Sunderland,England,England
+,Maths Tour,2022-06-09,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-10,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-11,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-12,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-16,Ed Sheeran,Maisie Peters Dylan,80.20722274597189,93344,109713,"$7,486,863","pop, singer-songwriter pop, uk pop",109713,,Hampden Park,Glasgow,Scotland,Scotland
+,Maths Tour,2022-06-17,Ed Sheeran,Maisie Peters Dylan,80.20722274597189,93344,109713,"$7,486,863","pop, singer-songwriter pop, uk pop",109713,,Hampden Park,Glasgow,Scotland,Scotland
+,Maths Tour,2022-06-24,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-25,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-29,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-30,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-07-01,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-07-07,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-08,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-09,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-14,Ed Sheeran,Maisie Peters Cat Burns,64.4070787882403,134119,134119,"$8,638,213","pop, singer-songwriter pop, uk pop",134119,,Johan Cruyff Arena,Amsterdam,North Holland,Netherlands
+,Maths Tour,2022-07-15,Ed Sheeran,Maisie Peters Cat Burns,64.4070787882403,134119,134119,"$8,638,213","pop, singer-songwriter pop, uk pop",134119,,Johan Cruyff Arena,Amsterdam,North Holland,Netherlands
+,Maths Tour,2022-07-22,Ed Sheeran,Maisie Peters Cat Burns Dylan,79.18892919701742,104473,127999,"$8,273,105","pop, singer-songwriter pop, uk pop",127999,,King Baudouin Stadium,Brussels,Brussels,Belgium
+,Maths Tour,2022-07-23,Ed Sheeran,Maisie Peters Cat Burns Dylan,79.18892919701742,104473,127999,"$8,273,105","pop, singer-songwriter pop, uk pop",127999,,King Baudouin Stadium,Brussels,Brussels,Belgium
+,Maths Tour,2022-07-29,Ed Sheeran,Maisie Peters Cat Burns,64.56671703725024,166764,166764,"$10,767,404","pop, singer-songwriter pop, uk pop",166764,,Stade de France,Saint-Denis,Île-de-France,France
+,Maths Tour,2022-07-30,Ed Sheeran,Maisie Peters Cat Burns,64.56671703725024,166764,166764,"$10,767,404","pop, singer-songwriter pop, uk pop",166764,,Stade de France,Saint-Denis,Île-de-France,France
+,Maths Tour,2022-08-03,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-04,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-05,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-06,Ed Sheeran,Maisie Peters Dylan,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-10,Ed Sheeran,Maisie Peters Cat Burns,79.0907277005063,120283,129350,"$9,513,270","pop, singer-songwriter pop, uk pop",129350,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Maths Tour,2022-08-11,Ed Sheeran,Maisie Peters Cat Burns,79.0907277005063,120283,129350,"$9,513,270","pop, singer-songwriter pop, uk pop",129350,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Maths Tour,2022-08-20,Ed Sheeran,Maisie Peters Cat Burns,90.63340261855272,46667,46667,"$4,229,589","pop, singer-songwriter pop, uk pop",46667,,Helsinki Olympic Stadium,Helsinki,Uusimaa,Finland
+,Maths Tour,2022-08-25,Ed Sheeran,Maisie Peters Cat Burns,61.88530135301353,146340,146340,"$9,056,295","pop, singer-songwriter pop, uk pop",146340,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Maths Tour,2022-08-26,Ed Sheeran,Maisie Peters Cat Burns,61.88530135301353,146340,146340,"$9,056,295","pop, singer-songwriter pop, uk pop",146340,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Maths Tour,2022-09-01,Ed Sheeran,Maisie Peters Cat Burns,75.42078525641026,124800,130598,"$9,412,514","pop, singer-songwriter pop, uk pop",130598,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Maths Tour,2022-09-02,Ed Sheeran,Maisie Peters Cat Burns,75.42078525641026,124800,130598,"$9,412,514","pop, singer-songwriter pop, uk pop",130598,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Maths Tour,2022-09-10,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-11,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-12,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-16,Ed Sheeran,Griff Cat Burns,127.30422579298832,95840,96739,"$12,200,837","pop, singer-songwriter pop, uk pop",96739,,Letzigrund,Zürich,Zürich,Switzerland
+,Maths Tour,2022-09-17,Ed Sheeran,Griff Cat Burns,127.30422579298832,95840,96739,"$12,200,837","pop, singer-songwriter pop, uk pop",96739,,Letzigrund,Zürich,Zürich,Switzerland
+,Maths Tour,2022-09-23,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany
+,Maths Tour,2022-09-24,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany
+,Maths Tour,2022-09-25,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany
+,Minus Tour,2023-03-24,Ed Sheeran,Cian Ducrot,107.22988920667537,36013,36456,"$3,861,670","pop, singer-songwriter pop, uk pop",36456,,The O2 Arena,London,England,England
+,Minus Tour,2023-03-25,Ed Sheeran,Cian Ducrot,107.22988920667537,36013,36456,"$3,861,670","pop, singer-songwriter pop, uk pop",36456,,The O2 Arena,London,England,England
+,Minus Tour,2023-03-27,Ed Sheeran,,107.14004376367616,2742,2742,"$293,778","pop, singer-songwriter pop, uk pop",2742,,Eventim Apollo,London,England,England
+,Minus Tour,2023-03-28,Ed Sheeran,,107.8498705082551,12356,14049,"$1,332,593","pop, singer-songwriter pop, uk pop",14049,,OVO Hydro,Glasgow,Scotland,Scotland
+,Minus Tour,2023-03-30,Ed Sheeran,,108.1695322180917,12912,12991,"$1,396,685","pop, singer-songwriter pop, uk pop",12991,,3Arena,Dublin,Leinster,Ireland
+,Minus Tour,2023-04-02,Ed Sheeran,Cian Ducrot,106.13224682756903,16076,16106,"$1,706,182","pop, singer-songwriter pop, uk pop",16106,,Accor Arena,Paris,Île-de-France,France
+,Minus Tour,2023-04-10,Ed Sheeran,Ed Sheeran,108.55600814663951,2946,3055,"$319,806","pop, singer-songwriter pop, uk pop",3055,,Kings Theatre,Brooklyn,New York,United States
+,Minus Tour,2023-04-17,Ed Sheeran,,109.76241357636708,1591,1595,"$174,632","pop, singer-songwriter pop, uk pop",1595,,Admiralspalast,Berlin,Berlin,Germany
+,Minus Tour,2023-05-19,Ed Sheeran,Ben Kweller,113.0,2101,2101,"$237,413","pop, singer-songwriter pop, uk pop",2101,,Ruth Eckerd Hall,Clearwater,Florida,United States
+,Minus Tour,2023-07-21,Ed Sheeran,Ben Kweller,109.05956112852664,2233,2233,"$243,530","pop, singer-songwriter pop, uk pop",2233,,Ryman Auditorium,Nashville,Tennessee,United States
+,Minus Tour,2023-07-28,Ed Sheeran,Ben Kweller,94.16436813960034,3553,3553,"$334,566","pop, singer-songwriter pop, uk pop",3553,,Chicago Theatre,Chicago,Illinois,United States
+,Minus Tour,2023-08-25,Ed Sheeran,Brandy Clark,105.33900760593988,2761,2761,"$290,841","pop, singer-songwriter pop, uk pop",2761,,Paramount Theatre,Seattle,Washington,United States
+,Plus Tour,2014-08-21,Ed Sheeran,,56.16138888888889,7200,7200,404362,"pop, singer-songwriter pop, uk pop",7200,,WaMu Theater,Seattle,Washington,United States
+,Plus Tour,2014-08-23,Ed Sheeran,,52.746935364041605,10768,10768,567979,"pop, singer-songwriter pop, uk pop",10768,,Ambleside Park,Vancouver,British Columbia,Canada
+,Plus Tour,2014-08-26,Ed Sheeran,,56.57648630594522,7485,7485,423475,"pop, singer-songwriter pop, uk pop",7485,,SAP Center,San Jose,California,United States
+,Plus Tour,2014-08-27,Ed Sheeran,,45.41770045385779,13220,13220,600422,"pop, singer-songwriter pop, uk pop",13220,,Staples Center,Los Angeles,California,United States
+,Plus Tour,2014-08-29,Ed Sheeran,,39.56916666666667,6000,6000,237415,"pop, singer-songwriter pop, uk pop",6000,,The Chelsea,Las Vegas,Nevada,United States
+,Plus Tour,2014-08-30,Ed Sheeran,,39.56916666666667,6000,6000,237415,"pop, singer-songwriter pop, uk pop",6000,,The Chelsea,Las Vegas,Nevada,United States
+,Plus Tour,2014-08-31,Ed Sheeran,,36.922179860955374,8918,8918,329272,"pop, singer-songwriter pop, uk pop",8918,,Jobing.com Arena,Glendale,Arizona,United States
+,Plus Tour,2014-09-03,Ed Sheeran,,51.76060935799782,5514,5514,285408,"pop, singer-songwriter pop, uk pop",5514,,Sprint Center,Kansas City,Missouri,United States
+,Plus Tour,2014-09-04,Ed Sheeran,,53.0,5139,5139,272367,"pop, singer-songwriter pop, uk pop",5139,,Wolstein Center,Cleveland,Ohio,United States
+,Plus Tour,2014-09-06,Ed Sheeran,,43.86145463979936,11563,11563,507170,"pop, singer-songwriter pop, uk pop",11563,,Merriweather Post Pavilion,Columbia,Maryland,United States
+,Plus Tour,2014-09-08,Ed Sheeran,,48.78438869719295,10723,10723,523115,"pop, singer-songwriter pop, uk pop",10723,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Plus Tour,2014-09-09,Ed Sheeran,,50.48325314581791,10808,10808,545623,"pop, singer-songwriter pop, uk pop",10808,,Xfinity Center,Mansfield,,United States
+,Plus Tour,2014-09-11,Ed Sheeran,,48.14755854890556,6533,6533,314548,"pop, singer-songwriter pop, uk pop",6533,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,Plus Tour,2014-09-12,Ed Sheeran,,51.2507546356188,9276,9276,475402,"pop, singer-songwriter pop, uk pop",9276,,Arena at Gwinnett Center,Duluth,Georgia,United States
+,Plus Tour,2014-09-13,Ed Sheeran,,55.64421855146124,10231,10231,569296,"pop, singer-songwriter pop, uk pop",10231,,Bridgestone Arena,Nashville,Tennessee,United States
+,Plus Tour,2014-09-15,Ed Sheeran,,50.7601375385345,8434,8434,428111,"pop, singer-songwriter pop, uk pop",8434,,Target Center,Minneapolis,Minnesota,United States
+,Plus Tour,2014-09-16,Ed Sheeran,,50.54386631219142,10532,10532,532328,"pop, singer-songwriter pop, uk pop",10532,,Allstate Arena,Rosemont,Illinois,United States
+,Plus Tour,2014-09-17,Ed Sheeran,,53.10375447889079,6419,6419,340873,"pop, singer-songwriter pop, uk pop",6419,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Plus Tour,2014-09-18,Ed Sheeran,,54.74533766600735,14156,14156,774975,"pop, singer-songwriter pop, uk pop",14156,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2014-10-03,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-04,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-05,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-06,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-08,Ed Sheeran,,52.74264633546483,20330,20648,1072258,"pop, singer-songwriter pop, uk pop",20648,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Plus Tour,2014-10-09,Ed Sheeran,,52.74264633546483,20330,20648,1072258,"pop, singer-songwriter pop, uk pop",20648,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Plus Tour,2014-10-11,Ed Sheeran,,52.39319175515303,12808,12810,671052,"pop, singer-songwriter pop, uk pop",12810,,First Direct Arena,Leeds,West Yorkshire,England
+,Plus Tour,2014-10-12,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-13,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-14,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-15,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-18,Ed Sheeran,,53.25754437869823,13520,13812,720042,"pop, singer-songwriter pop, uk pop",13812,,National Indoor Arena,Birmingham,England,England
+,Plus Tour,2014-10-19,Ed Sheeran,,53.4260629411163,29329,29926,1566933,"pop, singer-songwriter pop, uk pop",29926,,LG Arena,Birmingham,England,England
+,Plus Tour,2014-10-20,Ed Sheeran,,53.4260629411163,29329,29926,1566933,"pop, singer-songwriter pop, uk pop",29926,,LG Arena,Birmingham,England,England
+,Plus Tour,2014-10-25,Ed Sheeran,,52.738004992142,10817,11153,570467,"pop, singer-songwriter pop, uk pop",11153,,Metro Radio Arena,Newcastle,England,England
+,Plus Tour,2014-10-27,Ed Sheeran,,52.74259356716095,32303,32610,1703744,"pop, singer-songwriter pop, uk pop",32610,,Phones 4u Arena,Manchester,England,England
+,Plus Tour,2014-10-28,Ed Sheeran,,52.74259356716095,32303,32610,1703744,"pop, singer-songwriter pop, uk pop",32610,,Phones 4u Arena,Manchester,England,England
+,Plus Tour,2014-10-30,Ed Sheeran,,52.74264011335013,25408,25408,1340085,"pop, singer-songwriter pop, uk pop",25408,,SSE Hydro,Glasgow,Scotland,Scotland
+,Plus Tour,2014-10-31,Ed Sheeran,,52.74264011335013,25408,25408,1340085,"pop, singer-songwriter pop, uk pop",25408,,SSE Hydro,Glasgow,Scotland,Scotland
+,Plus Tour,2014-11-03,Ed Sheeran,,43.425592652352,16114,16300,699760,"pop, singer-songwriter pop, uk pop",16300,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Plus Tour,2014-11-04,Ed Sheeran,,36.44815083393764,8274,8400,301572,"pop, singer-songwriter pop, uk pop",8400,,Forest National,Brussels,Brussels,Belgium
+,Plus Tour,2014-11-05,Ed Sheeran,,35.1834179357022,11820,12164,415868,"pop, singer-songwriter pop, uk pop",12164,,ISS Dome,Düsseldorf,,Germany
+,Plus Tour,2014-11-06,Ed Sheeran,,35.183399476484,11843,11843,416677,"pop, singer-songwriter pop, uk pop",11843,,O2 World Hamburg,Hamburg,Hamburg,Germany
+,Plus Tour,2014-11-12,Ed Sheeran,,43.33614406174075,13994,13994,606446,"pop, singer-songwriter pop, uk pop",13994,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,Plus Tour,2014-11-14,Ed Sheeran,,35.23525476641766,8969,8969,316025,"pop, singer-songwriter pop, uk pop",8969,,Max-Schmeling-Halle,Berlin,Berlin,Germany
+,Plus Tour,2014-11-15,Ed Sheeran,,36.40792614992838,6283,6283,228751,"pop, singer-songwriter pop, uk pop",6283,,Porsche-Arena,Stuttgart,,Germany
+,Plus Tour,2014-11-17,Ed Sheeran,,39.94116186693148,12084,12084,482649,"pop, singer-songwriter pop, uk pop",12084,,Olympiahalle,Munich,Bavaria,Germany
+,Plus Tour,2014-11-18,Ed Sheeran,,35.18340574154528,11739,11742,413018,"pop, singer-songwriter pop, uk pop",11742,,Festhalle Frankfurt,Frankfurt,Hesse,Germany
+,Plus Tour,2015-01-26,Ed Sheeran,,38.853180162510505,7138,7138,277334,"pop, singer-songwriter pop, uk pop",7138,,PalaLottomatica,Rome,Lazio,Italy
+,Plus Tour,2015-01-27,Ed Sheeran,,43.70977917981072,10144,10144,443392,"pop, singer-songwriter pop, uk pop",10144,,Mediolanum Forum,Milan,,Italy
+,Plus Tour,2015-01-28,Ed Sheeran,,62.59815384615385,13000,13000,813776,"pop, singer-songwriter pop, uk pop",13000,,Hallenstadion,Zürich,Zürich,Switzerland
+,Plus Tour,2015-01-30,Ed Sheeran,,33.99646482958666,11032,12470,375049,"pop, singer-songwriter pop, uk pop",12470,,Galaxie Amnéville,Amnéville,,France
+,Plus Tour,2015-02-01,Ed Sheeran,,31.57895535985424,6586,7570,207979,"pop, singer-songwriter pop, uk pop",7570,,Zénith d'Auvergne,Cournon-d'Auvergne,,France
+,Plus Tour,2015-02-02,Ed Sheeran,,36.090235468466986,6073,6073,219176,"pop, singer-songwriter pop, uk pop",6073,,Zénith Paris,Paris,Île-de-France,France
+,Plus Tour,2015-02-03,Ed Sheeran,,31.5789857716162,8223,8470,259674,"pop, singer-songwriter pop, uk pop",8470,,Zénith de Nantes,Nantes,,France
+,Plus Tour,2015-02-27,Ed Sheeran,,60.0,3000,3000,180000,"pop, singer-songwriter pop, uk pop",3000,,Shangri-La's Barr Al Jissah Resort and Spa,Muscat,,Oman
+,Plus Tour,2015-03-01,Ed Sheeran,,39.92,7700,8000,307384,"pop, singer-songwriter pop, uk pop",8000,,Mahalaxmi Racecourse,Mumbai,Maharashtra,India
+,Plus Tour,2015-03-03,Ed Sheeran,,59.935,6000,6000,359610,"pop, singer-songwriter pop, uk pop",6000,,Qatar National Convention Centre,Doha,,Qatar
+,Plus Tour,2015-03-05,Ed Sheeran,,89.149,10000,10000,891490,"pop, singer-songwriter pop, uk pop",10000,,Dubai Media City,Dubai,Dubai,United Arab Emirates
+,Plus Tour,2015-03-07,Ed Sheeran,,86.50642458100559,7160,7160,619386,"pop, singer-songwriter pop, uk pop",7160,,Mercedes-Benz Arena,Shanghai,Shanghai,China
+,Plus Tour,2015-03-08,Ed Sheeran,,123.63683252427184,3296,3977,407507,"pop, singer-songwriter pop, uk pop",3977,,SK Olympic Handball Gymnasium,Seoul,Seoul,South Korea
+,Plus Tour,2015-03-10,Ed Sheeran,,87.67238530944212,7869,7869,689894,"pop, singer-songwriter pop, uk pop",7869,,AsiaWorld–Expo,Hong Kong,Hong Kong,Hong Kong
+,Plus Tour,2015-03-12,Ed Sheeran,,94.38720215219062,10408,10408,982382,"pop, singer-songwriter pop, uk pop",10408,,Mall of Asia Arena,Manila,Metro Manila,Philippines
+,Plus Tour,2015-03-14,Ed Sheeran,,95.83871614844534,4985,4985,477756,"pop, singer-songwriter pop, uk pop",4985,,Star Performing Arts Centre,Singapore,Singapore,Singapore
+,Plus Tour,2015-03-16,Ed Sheeran,,82.14976565828718,4694,4699,385611,"pop, singer-songwriter pop, uk pop",4699,,Plenary Hall,Kuala Lumpur,Kuala Lumpur,Malaysia
+,Plus Tour,2015-03-20,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-21,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-22,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-24,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-25,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-26,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-28,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-03-29,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-03-30,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-04-01,Ed Sheeran,,63.28169014084507,18318,18318,1159194,"pop, singer-songwriter pop, uk pop",18318,,Adelaide Entertainment Centre Arena,Adelaide,South Australia,Australia
+,Plus Tour,2015-04-02,Ed Sheeran,,63.28169014084507,18318,18318,1159194,"pop, singer-songwriter pop, uk pop",18318,,Adelaide Entertainment Centre Arena,Adelaide,South Australia,Australia
+,Plus Tour,2015-04-04,Ed Sheeran,,67.24631097144419,29276,29692,1968703,"pop, singer-songwriter pop, uk pop",29692,,Perth Arena,Perth,Western Australia,Australia
+,Plus Tour,2015-04-05,Ed Sheeran,,67.24631097144419,29276,29692,1968703,"pop, singer-songwriter pop, uk pop",29692,,Perth Arena,Perth,Western Australia,Australia
+,Plus Tour,2015-04-08,Ed Sheeran,,74.06878664862427,8868,8868,656842,"pop, singer-songwriter pop, uk pop",8868,,Horncastle Arena,Christchurch,,New Zealand
+,Plus Tour,2015-04-10,Ed Sheeran,,74.06832298136646,5635,5635,417375,"pop, singer-songwriter pop, uk pop",5635,,TSB Bank Arena,Wellington,,New Zealand
+,Plus Tour,2015-04-11,Ed Sheeran,,67.5597749044203,23279,23792,1572724,"pop, singer-songwriter pop, uk pop",23792,,Vector Arena,Auckland,Auckland,New Zealand
+,Plus Tour,2015-04-12,Ed Sheeran,,67.5597749044203,23279,23792,1572724,"pop, singer-songwriter pop, uk pop",23792,,Vector Arena,Auckland,Auckland,New Zealand
+,Plus Tour,2015-04-19,Ed Sheeran,,74.7972850678733,6630,6630,495906,"pop, singer-songwriter pop, uk pop",6630,,C.C Bima Gran Carpa,Bogotá,Bogotá,Colombia
+,Plus Tour,2015-04-21,Ed Sheeran,,71.09142415657996,11649,11649,828144,"pop, singer-songwriter pop, uk pop",11649,,Jockey Club Parcela H,Lima,Lima,Peru
+,Plus Tour,2015-04-23,Ed Sheeran,,51.55369331621274,14797,14797,762840,"pop, singer-songwriter pop, uk pop",14797,,Pista Atletica,Santiago,Santiago Metropolitan Region,Chile
+,Plus Tour,2015-04-25,Ed Sheeran,,60.945668597330645,15884,15884,968061,"pop, singer-songwriter pop, uk pop",15884,,Estadio Luna Park,Buenos Aires,Buenos Aires,Argentina
+,Plus Tour,2015-04-26,Ed Sheeran,,60.945668597330645,15884,15884,968061,"pop, singer-songwriter pop, uk pop",15884,,Estadio Luna Park,Buenos Aires,Buenos Aires,Argentina
+,Plus Tour,2015-04-28,Ed Sheeran,,57.85212170275923,14823,14823,857542,"pop, singer-songwriter pop, uk pop",14823,,Espaço das Américas,São Paulo,São Paulo,Brazil
+,Plus Tour,2015-04-29,Ed Sheeran,,57.85212170275923,14823,14823,857542,"pop, singer-songwriter pop, uk pop",14823,,Espaço das Américas,São Paulo,São Paulo,Brazil
+,Plus Tour,2015-04-30,Ed Sheeran,,59.98826144953313,11245,11245,674568,"pop, singer-songwriter pop, uk pop",11245,,HSBC Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+,Plus Tour,2015-05-06,Ed Sheeran,,58.94125765548176,11593,11951,683306,"pop, singer-songwriter pop, uk pop",11951,,Frank Erwin Center,Austin,Texas,United States
+,Plus Tour,2015-05-07,Ed Sheeran,,69.62246256239601,6010,6010,418431,"pop, singer-songwriter pop, uk pop",6010,,Verizon Theatre,Grand Prairie,Texas,United States
+,Plus Tour,2015-05-09,Ed Sheeran,,55.76107931316435,12230,12230,681958,"pop, singer-songwriter pop, uk pop",12230,,BOK Center,Tulsa,Oklahoma,United States
+,Plus Tour,2015-05-12,Ed Sheeran,,56.34139965643438,13389,13389,754355,"pop, singer-songwriter pop, uk pop",13389,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,Plus Tour,2015-05-13,Ed Sheeran,,59.38468517510434,11022,12935,654538,"pop, singer-songwriter pop, uk pop",12935,,Times Union Center,Albany,New York,United States
+,Plus Tour,2015-05-19,Ed Sheeran,,59.01184295911746,12328,12638,727498,"pop, singer-songwriter pop, uk pop",12638,,EnergySolutions Arena,Salt Lake City,Utah,United States
+,Plus Tour,2015-05-23,Ed Sheeran,,65.56981664315938,7090,7090,464890,"pop, singer-songwriter pop, uk pop",7090,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Plus Tour,2015-05-24,Ed Sheeran,,51.52013108614232,12816,13160,660282,"pop, singer-songwriter pop, uk pop",13160,,Darling's Waterfront Pavilion,Bangor,,United States
+,Plus Tour,2015-05-26,Ed Sheeran,,56.53392542806849,12498,12868,706561,"pop, singer-songwriter pop, uk pop",12868,,The Mann Center,Philadelphia,Pennsylvania,United States
+,Plus Tour,2015-05-28,Ed Sheeran,,68.12512397955291,26214,27330,1785832,"pop, singer-songwriter pop, uk pop",27330,,Forest Hills Stadium,New York City,New York,United States
+,Plus Tour,2015-05-29,Ed Sheeran,,68.12512397955291,26214,27330,1785832,"pop, singer-songwriter pop, uk pop",27330,,Forest Hills Stadium,New York City,New York,United States
+,Plus Tour,2015-05-30,Ed Sheeran,,74.71984316137464,13007,13007,971881,"pop, singer-songwriter pop, uk pop",13007,,Prudential Center,Newark,New Jersey,United States
+,Plus Tour,2015-05-31,Ed Sheeran,,75.58085210236385,14341,14609,1083905,"pop, singer-songwriter pop, uk pop",14609,,Barclays Center,Brooklyn,New York,United States
+,Plus Tour,2015-06-02,Ed Sheeran,,56.98758106802815,14494,14931,825978,"pop, singer-songwriter pop, uk pop",14931,,Bell Centre,Montreal,Quebec,Canada
+,Plus Tour,2015-06-03,Ed Sheeran,,52.250918084388815,13343,13808,697184,"pop, singer-songwriter pop, uk pop",13808,,Canadian Tire Centre,Ottawa,Ontario,Canada
+,Plus Tour,2015-06-05,Ed Sheeran,,61.421064527065205,8849,8849,543515,"pop, singer-songwriter pop, uk pop",8849,,Budweiser Gardens,London,England,Canada
+,Plus Tour,2015-06-06,Ed Sheeran,,56.11199047485642,14278,14278,801167,"pop, singer-songwriter pop, uk pop",14278,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2015-06-07,Ed Sheeran,,36.24042328042328,14175,14175,513708,"pop, singer-songwriter pop, uk pop",14175,,Marvin Sands Performing Arts Center,Hopewell,,United States
+,Plus Tour,2015-06-09,Ed Sheeran,,58.87423780487805,13120,13408,772430,"pop, singer-songwriter pop, uk pop",13408,,Wells Fargo Arena,Des Moines,Iowa,United States
+,Plus Tour,2015-06-10,Ed Sheeran,,59.83194643711143,10455,10868,625543,"pop, singer-songwriter pop, uk pop",10868,,Denny Sanford Premier Center,Sioux Falls,,United States
+,Plus Tour,2015-06-12,Ed Sheeran,,58.597046229135714,11443,11443,670526,"pop, singer-songwriter pop, uk pop",11443,,MTS Centre,Winnipeg,Manitoba,Canada
+,Plus Tour,2015-06-13,Ed Sheeran,,63.02689609087872,5986,6092,377279,"pop, singer-songwriter pop, uk pop",6092,,Brandt Centre,Regina,Saskatchewan,Canada
+,Plus Tour,2015-06-14,Ed Sheeran,,60.94880599344467,12814,12814,780998,"pop, singer-songwriter pop, uk pop",12814,,Rexall Place,Edmonton,Alberta,Canada
+,Plus Tour,2015-06-16,Ed Sheeran,,58.84958609271524,12080,12289,710903,"pop, singer-songwriter pop, uk pop",12289,,SaskTel Centre,Saskatoon,Saskatchewan,Canada
+,Plus Tour,2015-06-17,Ed Sheeran,,62.34316374585038,12953,13201,807531,"pop, singer-songwriter pop, uk pop",13201,,Scotiabank Saddledome,Calgary,Alberta,Canada
+,Plus Tour,2015-06-19,Ed Sheeran,,61.22852886405959,13425,13854,821993,"pop, singer-songwriter pop, uk pop",13854,,Rogers Arena,Vancouver,British Columbia,Canada
+,Plus Tour,2015-06-20,Ed Sheeran,,59.67762103238218,12476,12476,744538,"pop, singer-songwriter pop, uk pop",12476,,Moda Center,Portland,Oregon,United States
+,Plus Tour,2015-06-23,Ed Sheeran,,55.42445482866044,10272,12382,569320,"pop, singer-songwriter pop, uk pop",12382,,Valley View Casino Center,San Diego,California,United States
+,Plus Tour,2015-06-26,Ed Sheeran,,65.0,8500,8500,552500,"pop, singer-songwriter pop, uk pop",8500,,Hearst Greek Theatre,Berkeley,California,United States
+,Plus Tour,2015-06-29,Ed Sheeran,,59.30133085053946,18259,19050,1082783,"pop, singer-songwriter pop, uk pop",19050,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Plus Tour,2015-06-30,Ed Sheeran,,59.30133085053946,18259,19050,1082783,"pop, singer-songwriter pop, uk pop",19050,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Plus Tour,2015-07-10,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-11,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-12,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-24,Ed Sheeran,,72.20993415861116,162208,162208,11713029,"pop, singer-songwriter pop, uk pop",162208,,Croke Park,Dublin,Leinster,Ireland
+,Plus Tour,2015-07-25,Ed Sheeran,,72.20993415861116,162208,162208,11713029,"pop, singer-songwriter pop, uk pop",162208,,Croke Park,Dublin,Leinster,Ireland
+,Plus Tour,2015-09-03,Ed Sheeran,,55.48728473275632,22414,23765,1243692,"pop, singer-songwriter pop, uk pop",23765,,BBVA Compass Stadium,Houston,Texas,United States
+,Plus Tour,2015-09-05,Ed Sheeran,,51.26003587151476,30665,30665,1571889,"pop, singer-songwriter pop, uk pop",30665,,Toyota Stadium,Frisco,,United States
+,Plus Tour,2015-09-08,Ed Sheeran,,66.40538020086083,13940,13940,925691,"pop, singer-songwriter pop, uk pop",13940,,Amway Center,Orlando,Florida,United States
+,Plus Tour,2015-09-09,Ed Sheeran,,66.6569298645976,13146,13146,876272,"pop, singer-songwriter pop, uk pop",13146,,American Airlines Arena,Miami,Florida,United States
+,Plus Tour,2015-09-10,Ed Sheeran,,59.37077313859343,12598,13288,747953,"pop, singer-songwriter pop, uk pop",13288,,Amalie Arena,Tampa,Florida,United States
+,Plus Tour,2015-09-12,Ed Sheeran,,61.582761419821416,13551,13551,834508,"pop, singer-songwriter pop, uk pop",13551,,Philips Arena,Atlanta,Georgia,United States
+,Plus Tour,2015-09-13,Ed Sheeran,,57.45182175955313,15754,15754,905096,"pop, singer-songwriter pop, uk pop",15754,,Bridgestone Arena,Nashville,Tennessee,United States
+,Plus Tour,2015-09-15,Ed Sheeran,,66.31556898564659,14561,14561,965621,"pop, singer-songwriter pop, uk pop",14561,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Plus Tour,2015-09-16,Ed Sheeran,,41.31262939958592,21252,28630,877976,"pop, singer-songwriter pop, uk pop",28630,,Hollywood Casino Amphitheatre,Tinley Park,,United States
+,Plus Tour,2015-09-17,Ed Sheeran,,38.31622835150738,20267,20372,776555,"pop, singer-songwriter pop, uk pop",20372,,Riverbend Music Center,Cincinnati,Ohio,United States
+,Plus Tour,2015-09-18,Ed Sheeran,,38.33352092499744,19546,19546,749267,"pop, singer-songwriter pop, uk pop",19546,,Blossom Music Center,Cuyahoga Falls,,United States
+,Plus Tour,2015-09-20,Ed Sheeran,,58.88086642599278,14404,14404,848120,"pop, singer-songwriter pop, uk pop",14404,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2015-09-22,Ed Sheeran,,59.24667104095102,25909,27814,1535022,"pop, singer-songwriter pop, uk pop",27814,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Plus Tour,2015-09-23,Ed Sheeran,,59.24667104095102,25909,27814,1535022,"pop, singer-songwriter pop, uk pop",27814,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Plus Tour,2015-09-25,Ed Sheeran,,62.20434264174168,51996,54000,3234377,"pop, singer-songwriter pop, uk pop",54000,,Gillette Stadium,Foxborough,Massachusetts,United States
+,Plus Tour,2015-11-28,Ed Sheeran,,61.8932720232333,45452,45452,2813173,"pop, singer-songwriter pop, uk pop",45452,,Suncorp Stadium,Brisbane,Queensland,Australia
+,Plus Tour,2015-12-02,Ed Sheeran,,67.76483530299221,31816,31816,2156006,"pop, singer-songwriter pop, uk pop",31816,,HBF Park,Perth,Western Australia,Australia
+,Plus Tour,2015-12-05,Ed Sheeran,,65.43736730360934,67353,67353,4407403,"pop, singer-songwriter pop, uk pop",67353,,AAMI Park,Melbourne,Victoria,Australia
+,Plus Tour,2015-12-06,Ed Sheeran,,65.43736730360934,67353,67353,4407403,"pop, singer-songwriter pop, uk pop",67353,,AAMI Park,Melbourne,Victoria,Australia
+,Plus Tour,2015-12-09,Ed Sheeran,,62.59495558309008,47617,47617,2980584,"pop, singer-songwriter pop, uk pop",47617,,Allianz Stadium,Sydney,New South Wales,Australia
+,Plus Tour,2015-12-12,Ed Sheeran,,58.73604777667184,43201,43201,2537456,"pop, singer-songwriter pop, uk pop",43201,,Mount Smart Stadium,Auckland,Auckland,New Zealand

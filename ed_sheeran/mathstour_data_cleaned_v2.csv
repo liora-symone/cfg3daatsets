@@ -1,0 +1,53 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Maths Tour,2022-04-23,Ed Sheeran,Maisie Peters Denise Chaila,88.39106821271719,140487,151045,"$12,417,796","pop, singer-songwriter pop, uk pop",151045,,Croke Park,Dublin,Leinster,Ireland
+,Maths Tour,2022-04-24,Ed Sheeran,Maisie Peters Denise Chaila,88.39106821271719,140487,151045,"$12,417,796","pop, singer-songwriter pop, uk pop",151045,,Croke Park,Dublin,Leinster,Ireland
+,Maths Tour,2022-04-28,Ed Sheeran,Maisie Peters Denise Chaila,85.10386188625414,68697,78645,"$5,846,380","pop, singer-songwriter pop, uk pop",78645,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Maths Tour,2022-04-29,Ed Sheeran,Maisie Peters Denise Chaila,85.10386188625414,68697,78645,"$5,846,380","pop, singer-songwriter pop, uk pop",78645,,Páirc Uí Chaoimh,Cork,Munster,Ireland
+,Maths Tour,2022-05-05,Ed Sheeran,Maisie Peters Denise Chaila,84.15993849142117,61780,63234,"$5,199,401","pop, singer-songwriter pop, uk pop",63234,,Thomond Park,Limerick,County Limerick,Ireland
+,Maths Tour,2022-05-06,Ed Sheeran,Maisie Peters Denise Chaila,84.15993849142117,61780,63234,"$5,199,401","pop, singer-songwriter pop, uk pop",63234,,Thomond Park,Limerick,County Limerick,Ireland
+,Maths Tour,2022-05-12,Ed Sheeran,Maisie Peters Denise Chaila,86.18037514111998,73519,80604,"$6,335,895","pop, singer-songwriter pop, uk pop",80604,,Boucher Road Playing Fields,Belfast,Northern Ireland,Northern Ireland
+,Maths Tour,2022-05-13,Ed Sheeran,Maisie Peters Denise Chaila,86.18037514111998,73519,80604,"$6,335,895","pop, singer-songwriter pop, uk pop",80604,,Boucher Road Playing Fields,Belfast,Northern Ireland,Northern Ireland
+,Maths Tour,2022-05-26,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-05-27,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-05-28,Ed Sheeran,Maisie Peters Dylan,80.62764030405951,185490,236082,"$14,955,621","pop, singer-songwriter pop, uk pop",236082,,Principality Stadium,Cardiff,Wales,Wales
+,Maths Tour,2022-06-03,Ed Sheeran,Maisie Peters Dylan,83.38421432657233,106641,114311,"$8,892,176","pop, singer-songwriter pop, uk pop",114311,,Stadium of Light,Sunderland,England,England
+,Maths Tour,2022-06-04,Ed Sheeran,Maisie Peters Dylan,83.38421432657233,106641,114311,"$8,892,176","pop, singer-songwriter pop, uk pop",114311,,Stadium of Light,Sunderland,England,England
+,Maths Tour,2022-06-09,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-10,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-11,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-12,Ed Sheeran,Maisie Peters Dylan,82.55203783405523,218639,218639,"$18,049,095","pop, singer-songwriter pop, uk pop",218639,,Etihad Stadium,Manchester,England,England
+,Maths Tour,2022-06-16,Ed Sheeran,Maisie Peters Dylan,80.20722274597189,93344,109713,"$7,486,863","pop, singer-songwriter pop, uk pop",109713,,Hampden Park,Glasgow,Scotland,Scotland
+,Maths Tour,2022-06-17,Ed Sheeran,Maisie Peters Dylan,80.20722274597189,93344,109713,"$7,486,863","pop, singer-songwriter pop, uk pop",109713,,Hampden Park,Glasgow,Scotland,Scotland
+,Maths Tour,2022-06-24,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-25,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-29,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-06-30,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-07-01,Ed Sheeran,Maisie Peters Dylan,88.8142665768829,420269,460165,"$37,325,883","pop, singer-songwriter pop, uk pop",460165,,Wembley Stadium,London,England,England
+,Maths Tour,2022-07-07,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-08,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-09,Ed Sheeran,Maisie Peters Cat Burns,75.22331155878034,182476,193055,"$13,726,449","pop, singer-songwriter pop, uk pop",193055,,Veltins-Arena,Gelsenkirchen,North Rhine-Westphalia,Germany
+,Maths Tour,2022-07-14,Ed Sheeran,Maisie Peters Cat Burns,64.4070787882403,134119,134119,"$8,638,213","pop, singer-songwriter pop, uk pop",134119,,Johan Cruyff Arena,Amsterdam,North Holland,Netherlands
+,Maths Tour,2022-07-15,Ed Sheeran,Maisie Peters Cat Burns,64.4070787882403,134119,134119,"$8,638,213","pop, singer-songwriter pop, uk pop",134119,,Johan Cruyff Arena,Amsterdam,North Holland,Netherlands
+,Maths Tour,2022-07-22,Ed Sheeran,Maisie Peters Cat Burns Dylan,79.18892919701742,104473,127999,"$8,273,105","pop, singer-songwriter pop, uk pop",127999,,King Baudouin Stadium,Brussels,Brussels,Belgium
+,Maths Tour,2022-07-23,Ed Sheeran,Maisie Peters Cat Burns Dylan,79.18892919701742,104473,127999,"$8,273,105","pop, singer-songwriter pop, uk pop",127999,,King Baudouin Stadium,Brussels,Brussels,Belgium
+,Maths Tour,2022-07-29,Ed Sheeran,Maisie Peters Cat Burns,64.56671703725024,166764,166764,"$10,767,404","pop, singer-songwriter pop, uk pop",166764,,Stade de France,Saint-Denis,Île-de-France,France
+,Maths Tour,2022-07-30,Ed Sheeran,Maisie Peters Cat Burns,64.56671703725024,166764,166764,"$10,767,404","pop, singer-songwriter pop, uk pop",166764,,Stade de France,Saint-Denis,Île-de-France,France
+,Maths Tour,2022-08-03,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-04,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-05,Ed Sheeran,Maisie Peters Cat Burns,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-06,Ed Sheeran,Maisie Peters Dylan,90.4998469563443,156818,158819,"$14,192,005","pop, singer-songwriter pop, uk pop",158819,,Øresundsparken,Copenhagen,Capital Region of Denmark,Denmark
+,Maths Tour,2022-08-10,Ed Sheeran,Maisie Peters Cat Burns,79.0907277005063,120283,129350,"$9,513,270","pop, singer-songwriter pop, uk pop",129350,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Maths Tour,2022-08-11,Ed Sheeran,Maisie Peters Cat Burns,79.0907277005063,120283,129350,"$9,513,270","pop, singer-songwriter pop, uk pop",129350,,Ullevi,Gothenburg,Västra Götaland County,Sweden
+,Maths Tour,2022-08-20,Ed Sheeran,Maisie Peters Cat Burns,90.63340261855272,46667,46667,"$4,229,589","pop, singer-songwriter pop, uk pop",46667,,Helsinki Olympic Stadium,Helsinki,Uusimaa,Finland
+,Maths Tour,2022-08-25,Ed Sheeran,Maisie Peters Cat Burns,61.88530135301353,146340,146340,"$9,056,295","pop, singer-songwriter pop, uk pop",146340,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Maths Tour,2022-08-26,Ed Sheeran,Maisie Peters Cat Burns,61.88530135301353,146340,146340,"$9,056,295","pop, singer-songwriter pop, uk pop",146340,,PGE Narodowy,Warsaw,Masovian Voivodeship,Poland
+,Maths Tour,2022-09-01,Ed Sheeran,Maisie Peters Cat Burns,75.42078525641026,124800,130598,"$9,412,514","pop, singer-songwriter pop, uk pop",130598,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Maths Tour,2022-09-02,Ed Sheeran,Maisie Peters Cat Burns,75.42078525641026,124800,130598,"$9,412,514","pop, singer-songwriter pop, uk pop",130598,,Ernst-Happel-Stadion,Vienna,Vienna,Austria
+,Maths Tour,2022-09-10,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-11,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-12,Ed Sheeran,Griff Cat Burns,78.37740778483794,200184,215031,"$15,689,903","pop, singer-songwriter pop, uk pop",215031,,Olympiastadion,Munich,Bavaria,Germany
+,Maths Tour,2022-09-16,Ed Sheeran,Griff Cat Burns,127.30422579298832,95840,96739,"$12,200,837","pop, singer-songwriter pop, uk pop",96739,,Letzigrund,Zürich,Zürich,Switzerland
+,Maths Tour,2022-09-17,Ed Sheeran,Griff Cat Burns,127.30422579298832,95840,96739,"$12,200,837","pop, singer-songwriter pop, uk pop",96739,,Letzigrund,Zürich,Zürich,Switzerland
+,Maths Tour,2022-09-23,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany
+,Maths Tour,2022-09-24,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany
+,Maths Tour,2022-09-25,Ed Sheeran,Griff Cat Burns,73.56746839042744,182856,184201,"$13,452,253","pop, singer-songwriter pop, uk pop",184201,,Deutsche Bank Park,Frankfurt,Hesse,Germany

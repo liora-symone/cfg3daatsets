@@ -1,0 +1,147 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Plus Tour,2014-08-21,Ed Sheeran,,56.16138888888889,7200,7200,404362,"pop, singer-songwriter pop, uk pop",7200,,WaMu Theater,Seattle,Washington,United States
+,Plus Tour,2014-08-23,Ed Sheeran,,52.746935364041605,10768,10768,567979,"pop, singer-songwriter pop, uk pop",10768,,Ambleside Park,Vancouver,British Columbia,Canada
+,Plus Tour,2014-08-26,Ed Sheeran,,56.57648630594522,7485,7485,423475,"pop, singer-songwriter pop, uk pop",7485,,SAP Center,San Jose,California,United States
+,Plus Tour,2014-08-27,Ed Sheeran,,45.41770045385779,13220,13220,600422,"pop, singer-songwriter pop, uk pop",13220,,Staples Center,Los Angeles,California,United States
+,Plus Tour,2014-08-29,Ed Sheeran,,39.56916666666667,6000,6000,237415,"pop, singer-songwriter pop, uk pop",6000,,The Chelsea,Las Vegas,Nevada,United States
+,Plus Tour,2014-08-30,Ed Sheeran,,39.56916666666667,6000,6000,237415,"pop, singer-songwriter pop, uk pop",6000,,The Chelsea,Las Vegas,Nevada,United States
+,Plus Tour,2014-08-31,Ed Sheeran,,36.922179860955374,8918,8918,329272,"pop, singer-songwriter pop, uk pop",8918,,Jobing.com Arena,Glendale,Arizona,United States
+,Plus Tour,2014-09-03,Ed Sheeran,,51.76060935799782,5514,5514,285408,"pop, singer-songwriter pop, uk pop",5514,,Sprint Center,Kansas City,Missouri,United States
+,Plus Tour,2014-09-04,Ed Sheeran,,53.0,5139,5139,272367,"pop, singer-songwriter pop, uk pop",5139,,Wolstein Center,Cleveland,Ohio,United States
+,Plus Tour,2014-09-06,Ed Sheeran,,43.86145463979936,11563,11563,507170,"pop, singer-songwriter pop, uk pop",11563,,Merriweather Post Pavilion,Columbia,Maryland,United States
+,Plus Tour,2014-09-08,Ed Sheeran,,48.78438869719295,10723,10723,523115,"pop, singer-songwriter pop, uk pop",10723,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Plus Tour,2014-09-09,Ed Sheeran,,50.48325314581791,10808,10808,545623,"pop, singer-songwriter pop, uk pop",10808,,Xfinity Center,Mansfield,,United States
+,Plus Tour,2014-09-11,Ed Sheeran,,48.14755854890556,6533,6533,314548,"pop, singer-songwriter pop, uk pop",6533,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,Plus Tour,2014-09-12,Ed Sheeran,,51.2507546356188,9276,9276,475402,"pop, singer-songwriter pop, uk pop",9276,,Arena at Gwinnett Center,Duluth,Georgia,United States
+,Plus Tour,2014-09-13,Ed Sheeran,,55.64421855146124,10231,10231,569296,"pop, singer-songwriter pop, uk pop",10231,,Bridgestone Arena,Nashville,Tennessee,United States
+,Plus Tour,2014-09-15,Ed Sheeran,,50.7601375385345,8434,8434,428111,"pop, singer-songwriter pop, uk pop",8434,,Target Center,Minneapolis,Minnesota,United States
+,Plus Tour,2014-09-16,Ed Sheeran,,50.54386631219142,10532,10532,532328,"pop, singer-songwriter pop, uk pop",10532,,Allstate Arena,Rosemont,Illinois,United States
+,Plus Tour,2014-09-17,Ed Sheeran,,53.10375447889079,6419,6419,340873,"pop, singer-songwriter pop, uk pop",6419,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Plus Tour,2014-09-18,Ed Sheeran,,54.74533766600735,14156,14156,774975,"pop, singer-songwriter pop, uk pop",14156,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2014-10-03,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-04,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-05,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-06,Ed Sheeran,,53.82996960960025,51332,51332,2763200,"pop, singer-songwriter pop, uk pop",51332,,3Arena,Dublin,Leinster,Ireland
+,Plus Tour,2014-10-08,Ed Sheeran,,52.74264633546483,20330,20648,1072258,"pop, singer-songwriter pop, uk pop",20648,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Plus Tour,2014-10-09,Ed Sheeran,,52.74264633546483,20330,20648,1072258,"pop, singer-songwriter pop, uk pop",20648,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,Plus Tour,2014-10-11,Ed Sheeran,,52.39319175515303,12808,12810,671052,"pop, singer-songwriter pop, uk pop",12810,,First Direct Arena,Leeds,West Yorkshire,England
+,Plus Tour,2014-10-12,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-13,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-14,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-15,Ed Sheeran,,58.90767731424914,68748,70368,4049785,"pop, singer-songwriter pop, uk pop",70368,,The O2 Arena,London,England,England
+,Plus Tour,2014-10-18,Ed Sheeran,,53.25754437869823,13520,13812,720042,"pop, singer-songwriter pop, uk pop",13812,,National Indoor Arena,Birmingham,England,England
+,Plus Tour,2014-10-19,Ed Sheeran,,53.4260629411163,29329,29926,1566933,"pop, singer-songwriter pop, uk pop",29926,,LG Arena,Birmingham,England,England
+,Plus Tour,2014-10-20,Ed Sheeran,,53.4260629411163,29329,29926,1566933,"pop, singer-songwriter pop, uk pop",29926,,LG Arena,Birmingham,England,England
+,Plus Tour,2014-10-25,Ed Sheeran,,52.738004992142,10817,11153,570467,"pop, singer-songwriter pop, uk pop",11153,,Metro Radio Arena,Newcastle,England,England
+,Plus Tour,2014-10-27,Ed Sheeran,,52.74259356716095,32303,32610,1703744,"pop, singer-songwriter pop, uk pop",32610,,Phones 4u Arena,Manchester,England,England
+,Plus Tour,2014-10-28,Ed Sheeran,,52.74259356716095,32303,32610,1703744,"pop, singer-songwriter pop, uk pop",32610,,Phones 4u Arena,Manchester,England,England
+,Plus Tour,2014-10-30,Ed Sheeran,,52.74264011335013,25408,25408,1340085,"pop, singer-songwriter pop, uk pop",25408,,SSE Hydro,Glasgow,Scotland,Scotland
+,Plus Tour,2014-10-31,Ed Sheeran,,52.74264011335013,25408,25408,1340085,"pop, singer-songwriter pop, uk pop",25408,,SSE Hydro,Glasgow,Scotland,Scotland
+,Plus Tour,2014-11-03,Ed Sheeran,,43.425592652352,16114,16300,699760,"pop, singer-songwriter pop, uk pop",16300,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Plus Tour,2014-11-04,Ed Sheeran,,36.44815083393764,8274,8400,301572,"pop, singer-songwriter pop, uk pop",8400,,Forest National,Brussels,Brussels,Belgium
+,Plus Tour,2014-11-05,Ed Sheeran,,35.1834179357022,11820,12164,415868,"pop, singer-songwriter pop, uk pop",12164,,ISS Dome,Düsseldorf,,Germany
+,Plus Tour,2014-11-06,Ed Sheeran,,35.183399476484,11843,11843,416677,"pop, singer-songwriter pop, uk pop",11843,,O2 World Hamburg,Hamburg,Hamburg,Germany
+,Plus Tour,2014-11-12,Ed Sheeran,,43.33614406174075,13994,13994,606446,"pop, singer-songwriter pop, uk pop",13994,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,Plus Tour,2014-11-14,Ed Sheeran,,35.23525476641766,8969,8969,316025,"pop, singer-songwriter pop, uk pop",8969,,Max-Schmeling-Halle,Berlin,Berlin,Germany
+,Plus Tour,2014-11-15,Ed Sheeran,,36.40792614992838,6283,6283,228751,"pop, singer-songwriter pop, uk pop",6283,,Porsche-Arena,Stuttgart,,Germany
+,Plus Tour,2014-11-17,Ed Sheeran,,39.94116186693148,12084,12084,482649,"pop, singer-songwriter pop, uk pop",12084,,Olympiahalle,Munich,Bavaria,Germany
+,Plus Tour,2014-11-18,Ed Sheeran,,35.18340574154528,11739,11742,413018,"pop, singer-songwriter pop, uk pop",11742,,Festhalle Frankfurt,Frankfurt,Hesse,Germany
+,Plus Tour,2015-01-26,Ed Sheeran,,38.853180162510505,7138,7138,277334,"pop, singer-songwriter pop, uk pop",7138,,PalaLottomatica,Rome,Lazio,Italy
+,Plus Tour,2015-01-27,Ed Sheeran,,43.70977917981072,10144,10144,443392,"pop, singer-songwriter pop, uk pop",10144,,Mediolanum Forum,Milan,,Italy
+,Plus Tour,2015-01-28,Ed Sheeran,,62.59815384615385,13000,13000,813776,"pop, singer-songwriter pop, uk pop",13000,,Hallenstadion,Zürich,Zürich,Switzerland
+,Plus Tour,2015-01-30,Ed Sheeran,,33.99646482958666,11032,12470,375049,"pop, singer-songwriter pop, uk pop",12470,,Galaxie Amnéville,Amnéville,,France
+,Plus Tour,2015-02-01,Ed Sheeran,,31.57895535985424,6586,7570,207979,"pop, singer-songwriter pop, uk pop",7570,,Zénith d'Auvergne,Cournon-d'Auvergne,,France
+,Plus Tour,2015-02-02,Ed Sheeran,,36.090235468466986,6073,6073,219176,"pop, singer-songwriter pop, uk pop",6073,,Zénith Paris,Paris,Île-de-France,France
+,Plus Tour,2015-02-03,Ed Sheeran,,31.5789857716162,8223,8470,259674,"pop, singer-songwriter pop, uk pop",8470,,Zénith de Nantes,Nantes,,France
+,Plus Tour,2015-02-27,Ed Sheeran,,60.0,3000,3000,180000,"pop, singer-songwriter pop, uk pop",3000,,Shangri-La's Barr Al Jissah Resort and Spa,Muscat,,Oman
+,Plus Tour,2015-03-01,Ed Sheeran,,39.92,7700,8000,307384,"pop, singer-songwriter pop, uk pop",8000,,Mahalaxmi Racecourse,Mumbai,Maharashtra,India
+,Plus Tour,2015-03-03,Ed Sheeran,,59.935,6000,6000,359610,"pop, singer-songwriter pop, uk pop",6000,,Qatar National Convention Centre,Doha,,Qatar
+,Plus Tour,2015-03-05,Ed Sheeran,,89.149,10000,10000,891490,"pop, singer-songwriter pop, uk pop",10000,,Dubai Media City,Dubai,Dubai,United Arab Emirates
+,Plus Tour,2015-03-07,Ed Sheeran,,86.50642458100559,7160,7160,619386,"pop, singer-songwriter pop, uk pop",7160,,Mercedes-Benz Arena,Shanghai,Shanghai,China
+,Plus Tour,2015-03-08,Ed Sheeran,,123.63683252427184,3296,3977,407507,"pop, singer-songwriter pop, uk pop",3977,,SK Olympic Handball Gymnasium,Seoul,Seoul,South Korea
+,Plus Tour,2015-03-10,Ed Sheeran,,87.67238530944212,7869,7869,689894,"pop, singer-songwriter pop, uk pop",7869,,AsiaWorld–Expo,Hong Kong,Hong Kong,Hong Kong
+,Plus Tour,2015-03-12,Ed Sheeran,,94.38720215219062,10408,10408,982382,"pop, singer-songwriter pop, uk pop",10408,,Mall of Asia Arena,Manila,Metro Manila,Philippines
+,Plus Tour,2015-03-14,Ed Sheeran,,95.83871614844534,4985,4985,477756,"pop, singer-songwriter pop, uk pop",4985,,Star Performing Arts Centre,Singapore,Singapore,Singapore
+,Plus Tour,2015-03-16,Ed Sheeran,,82.14976565828718,4694,4699,385611,"pop, singer-songwriter pop, uk pop",4699,,Plenary Hall,Kuala Lumpur,Kuala Lumpur,Malaysia
+,Plus Tour,2015-03-20,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-21,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-22,Ed Sheeran,,64.76990833572043,27928,27928,1808894,"pop, singer-songwriter pop, uk pop",27928,,Riverstage,Brisbane,Queensland,Australia
+,Plus Tour,2015-03-24,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-25,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-26,Ed Sheeran,,68.82774661376385,36545,36545,2515310,"pop, singer-songwriter pop, uk pop",36545,,Qantas Credit Union Arena,Sydney,New South Wales,Australia
+,Plus Tour,2015-03-28,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-03-29,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-03-30,Ed Sheeran,,64.77383068406887,39382,39382,2550923,"pop, singer-songwriter pop, uk pop",39382,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Plus Tour,2015-04-01,Ed Sheeran,,63.28169014084507,18318,18318,1159194,"pop, singer-songwriter pop, uk pop",18318,,Adelaide Entertainment Centre Arena,Adelaide,South Australia,Australia
+,Plus Tour,2015-04-02,Ed Sheeran,,63.28169014084507,18318,18318,1159194,"pop, singer-songwriter pop, uk pop",18318,,Adelaide Entertainment Centre Arena,Adelaide,South Australia,Australia
+,Plus Tour,2015-04-04,Ed Sheeran,,67.24631097144419,29276,29692,1968703,"pop, singer-songwriter pop, uk pop",29692,,Perth Arena,Perth,Western Australia,Australia
+,Plus Tour,2015-04-05,Ed Sheeran,,67.24631097144419,29276,29692,1968703,"pop, singer-songwriter pop, uk pop",29692,,Perth Arena,Perth,Western Australia,Australia
+,Plus Tour,2015-04-08,Ed Sheeran,,74.06878664862427,8868,8868,656842,"pop, singer-songwriter pop, uk pop",8868,,Horncastle Arena,Christchurch,,New Zealand
+,Plus Tour,2015-04-10,Ed Sheeran,,74.06832298136646,5635,5635,417375,"pop, singer-songwriter pop, uk pop",5635,,TSB Bank Arena,Wellington,,New Zealand
+,Plus Tour,2015-04-11,Ed Sheeran,,67.5597749044203,23279,23792,1572724,"pop, singer-songwriter pop, uk pop",23792,,Vector Arena,Auckland,Auckland,New Zealand
+,Plus Tour,2015-04-12,Ed Sheeran,,67.5597749044203,23279,23792,1572724,"pop, singer-songwriter pop, uk pop",23792,,Vector Arena,Auckland,Auckland,New Zealand
+,Plus Tour,2015-04-19,Ed Sheeran,,74.7972850678733,6630,6630,495906,"pop, singer-songwriter pop, uk pop",6630,,C.C Bima Gran Carpa,Bogotá,Bogotá,Colombia
+,Plus Tour,2015-04-21,Ed Sheeran,,71.09142415657996,11649,11649,828144,"pop, singer-songwriter pop, uk pop",11649,,Jockey Club Parcela H,Lima,Lima,Peru
+,Plus Tour,2015-04-23,Ed Sheeran,,51.55369331621274,14797,14797,762840,"pop, singer-songwriter pop, uk pop",14797,,Pista Atletica,Santiago,Santiago Metropolitan Region,Chile
+,Plus Tour,2015-04-25,Ed Sheeran,,60.945668597330645,15884,15884,968061,"pop, singer-songwriter pop, uk pop",15884,,Estadio Luna Park,Buenos Aires,Buenos Aires,Argentina
+,Plus Tour,2015-04-26,Ed Sheeran,,60.945668597330645,15884,15884,968061,"pop, singer-songwriter pop, uk pop",15884,,Estadio Luna Park,Buenos Aires,Buenos Aires,Argentina
+,Plus Tour,2015-04-28,Ed Sheeran,,57.85212170275923,14823,14823,857542,"pop, singer-songwriter pop, uk pop",14823,,Espaço das Américas,São Paulo,São Paulo,Brazil
+,Plus Tour,2015-04-29,Ed Sheeran,,57.85212170275923,14823,14823,857542,"pop, singer-songwriter pop, uk pop",14823,,Espaço das Américas,São Paulo,São Paulo,Brazil
+,Plus Tour,2015-04-30,Ed Sheeran,,59.98826144953313,11245,11245,674568,"pop, singer-songwriter pop, uk pop",11245,,HSBC Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+,Plus Tour,2015-05-06,Ed Sheeran,,58.94125765548176,11593,11951,683306,"pop, singer-songwriter pop, uk pop",11951,,Frank Erwin Center,Austin,Texas,United States
+,Plus Tour,2015-05-07,Ed Sheeran,,69.62246256239601,6010,6010,418431,"pop, singer-songwriter pop, uk pop",6010,,Verizon Theatre,Grand Prairie,Texas,United States
+,Plus Tour,2015-05-09,Ed Sheeran,,55.76107931316435,12230,12230,681958,"pop, singer-songwriter pop, uk pop",12230,,BOK Center,Tulsa,Oklahoma,United States
+,Plus Tour,2015-05-12,Ed Sheeran,,56.34139965643438,13389,13389,754355,"pop, singer-songwriter pop, uk pop",13389,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,Plus Tour,2015-05-13,Ed Sheeran,,59.38468517510434,11022,12935,654538,"pop, singer-songwriter pop, uk pop",12935,,Times Union Center,Albany,New York,United States
+,Plus Tour,2015-05-19,Ed Sheeran,,59.01184295911746,12328,12638,727498,"pop, singer-songwriter pop, uk pop",12638,,EnergySolutions Arena,Salt Lake City,Utah,United States
+,Plus Tour,2015-05-23,Ed Sheeran,,65.56981664315938,7090,7090,464890,"pop, singer-songwriter pop, uk pop",7090,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Plus Tour,2015-05-24,Ed Sheeran,,51.52013108614232,12816,13160,660282,"pop, singer-songwriter pop, uk pop",13160,,Darling's Waterfront Pavilion,Bangor,,United States
+,Plus Tour,2015-05-26,Ed Sheeran,,56.53392542806849,12498,12868,706561,"pop, singer-songwriter pop, uk pop",12868,,The Mann Center,Philadelphia,Pennsylvania,United States
+,Plus Tour,2015-05-28,Ed Sheeran,,68.12512397955291,26214,27330,1785832,"pop, singer-songwriter pop, uk pop",27330,,Forest Hills Stadium,New York City,New York,United States
+,Plus Tour,2015-05-29,Ed Sheeran,,68.12512397955291,26214,27330,1785832,"pop, singer-songwriter pop, uk pop",27330,,Forest Hills Stadium,New York City,New York,United States
+,Plus Tour,2015-05-30,Ed Sheeran,,74.71984316137464,13007,13007,971881,"pop, singer-songwriter pop, uk pop",13007,,Prudential Center,Newark,New Jersey,United States
+,Plus Tour,2015-05-31,Ed Sheeran,,75.58085210236385,14341,14609,1083905,"pop, singer-songwriter pop, uk pop",14609,,Barclays Center,Brooklyn,New York,United States
+,Plus Tour,2015-06-02,Ed Sheeran,,56.98758106802815,14494,14931,825978,"pop, singer-songwriter pop, uk pop",14931,,Bell Centre,Montreal,Quebec,Canada
+,Plus Tour,2015-06-03,Ed Sheeran,,52.250918084388815,13343,13808,697184,"pop, singer-songwriter pop, uk pop",13808,,Canadian Tire Centre,Ottawa,Ontario,Canada
+,Plus Tour,2015-06-05,Ed Sheeran,,61.421064527065205,8849,8849,543515,"pop, singer-songwriter pop, uk pop",8849,,Budweiser Gardens,London,England,Canada
+,Plus Tour,2015-06-06,Ed Sheeran,,56.11199047485642,14278,14278,801167,"pop, singer-songwriter pop, uk pop",14278,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2015-06-07,Ed Sheeran,,36.24042328042328,14175,14175,513708,"pop, singer-songwriter pop, uk pop",14175,,Marvin Sands Performing Arts Center,Hopewell,,United States
+,Plus Tour,2015-06-09,Ed Sheeran,,58.87423780487805,13120,13408,772430,"pop, singer-songwriter pop, uk pop",13408,,Wells Fargo Arena,Des Moines,Iowa,United States
+,Plus Tour,2015-06-10,Ed Sheeran,,59.83194643711143,10455,10868,625543,"pop, singer-songwriter pop, uk pop",10868,,Denny Sanford Premier Center,Sioux Falls,,United States
+,Plus Tour,2015-06-12,Ed Sheeran,,58.597046229135714,11443,11443,670526,"pop, singer-songwriter pop, uk pop",11443,,MTS Centre,Winnipeg,Manitoba,Canada
+,Plus Tour,2015-06-13,Ed Sheeran,,63.02689609087872,5986,6092,377279,"pop, singer-songwriter pop, uk pop",6092,,Brandt Centre,Regina,Saskatchewan,Canada
+,Plus Tour,2015-06-14,Ed Sheeran,,60.94880599344467,12814,12814,780998,"pop, singer-songwriter pop, uk pop",12814,,Rexall Place,Edmonton,Alberta,Canada
+,Plus Tour,2015-06-16,Ed Sheeran,,58.84958609271524,12080,12289,710903,"pop, singer-songwriter pop, uk pop",12289,,SaskTel Centre,Saskatoon,Saskatchewan,Canada
+,Plus Tour,2015-06-17,Ed Sheeran,,62.34316374585038,12953,13201,807531,"pop, singer-songwriter pop, uk pop",13201,,Scotiabank Saddledome,Calgary,Alberta,Canada
+,Plus Tour,2015-06-19,Ed Sheeran,,61.22852886405959,13425,13854,821993,"pop, singer-songwriter pop, uk pop",13854,,Rogers Arena,Vancouver,British Columbia,Canada
+,Plus Tour,2015-06-20,Ed Sheeran,,59.67762103238218,12476,12476,744538,"pop, singer-songwriter pop, uk pop",12476,,Moda Center,Portland,Oregon,United States
+,Plus Tour,2015-06-23,Ed Sheeran,,55.42445482866044,10272,12382,569320,"pop, singer-songwriter pop, uk pop",12382,,Valley View Casino Center,San Diego,California,United States
+,Plus Tour,2015-06-26,Ed Sheeran,,65.0,8500,8500,552500,"pop, singer-songwriter pop, uk pop",8500,,Hearst Greek Theatre,Berkeley,California,United States
+,Plus Tour,2015-06-29,Ed Sheeran,,59.30133085053946,18259,19050,1082783,"pop, singer-songwriter pop, uk pop",19050,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Plus Tour,2015-06-30,Ed Sheeran,,59.30133085053946,18259,19050,1082783,"pop, singer-songwriter pop, uk pop",19050,,Red Rocks Amphitheatre,Morrison,Colorado,United States
+,Plus Tour,2015-07-10,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-11,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-12,Ed Sheeran,,78.39367939928175,229725,229725,18008988,"pop, singer-songwriter pop, uk pop",229725,,Wembley Stadium,London,England,England
+,Plus Tour,2015-07-24,Ed Sheeran,,72.20993415861116,162208,162208,11713029,"pop, singer-songwriter pop, uk pop",162208,,Croke Park,Dublin,Leinster,Ireland
+,Plus Tour,2015-07-25,Ed Sheeran,,72.20993415861116,162208,162208,11713029,"pop, singer-songwriter pop, uk pop",162208,,Croke Park,Dublin,Leinster,Ireland
+,Plus Tour,2015-09-03,Ed Sheeran,,55.48728473275632,22414,23765,1243692,"pop, singer-songwriter pop, uk pop",23765,,BBVA Compass Stadium,Houston,Texas,United States
+,Plus Tour,2015-09-05,Ed Sheeran,,51.26003587151476,30665,30665,1571889,"pop, singer-songwriter pop, uk pop",30665,,Toyota Stadium,Frisco,,United States
+,Plus Tour,2015-09-08,Ed Sheeran,,66.40538020086083,13940,13940,925691,"pop, singer-songwriter pop, uk pop",13940,,Amway Center,Orlando,Florida,United States
+,Plus Tour,2015-09-09,Ed Sheeran,,66.6569298645976,13146,13146,876272,"pop, singer-songwriter pop, uk pop",13146,,American Airlines Arena,Miami,Florida,United States
+,Plus Tour,2015-09-10,Ed Sheeran,,59.37077313859343,12598,13288,747953,"pop, singer-songwriter pop, uk pop",13288,,Amalie Arena,Tampa,Florida,United States
+,Plus Tour,2015-09-12,Ed Sheeran,,61.582761419821416,13551,13551,834508,"pop, singer-songwriter pop, uk pop",13551,,Philips Arena,Atlanta,Georgia,United States
+,Plus Tour,2015-09-13,Ed Sheeran,,57.45182175955313,15754,15754,905096,"pop, singer-songwriter pop, uk pop",15754,,Bridgestone Arena,Nashville,Tennessee,United States
+,Plus Tour,2015-09-15,Ed Sheeran,,66.31556898564659,14561,14561,965621,"pop, singer-songwriter pop, uk pop",14561,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Plus Tour,2015-09-16,Ed Sheeran,,41.31262939958592,21252,28630,877976,"pop, singer-songwriter pop, uk pop",28630,,Hollywood Casino Amphitheatre,Tinley Park,,United States
+,Plus Tour,2015-09-17,Ed Sheeran,,38.31622835150738,20267,20372,776555,"pop, singer-songwriter pop, uk pop",20372,,Riverbend Music Center,Cincinnati,Ohio,United States
+,Plus Tour,2015-09-18,Ed Sheeran,,38.33352092499744,19546,19546,749267,"pop, singer-songwriter pop, uk pop",19546,,Blossom Music Center,Cuyahoga Falls,,United States
+,Plus Tour,2015-09-20,Ed Sheeran,,58.88086642599278,14404,14404,848120,"pop, singer-songwriter pop, uk pop",14404,,Air Canada Centre,Toronto,Ontario,Canada
+,Plus Tour,2015-09-22,Ed Sheeran,,59.24667104095102,25909,27814,1535022,"pop, singer-songwriter pop, uk pop",27814,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Plus Tour,2015-09-23,Ed Sheeran,,59.24667104095102,25909,27814,1535022,"pop, singer-songwriter pop, uk pop",27814,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Plus Tour,2015-09-25,Ed Sheeran,,62.20434264174168,51996,54000,3234377,"pop, singer-songwriter pop, uk pop",54000,,Gillette Stadium,Foxborough,Massachusetts,United States
+,Plus Tour,2015-11-28,Ed Sheeran,,61.8932720232333,45452,45452,2813173,"pop, singer-songwriter pop, uk pop",45452,,Suncorp Stadium,Brisbane,Queensland,Australia
+,Plus Tour,2015-12-02,Ed Sheeran,,67.76483530299221,31816,31816,2156006,"pop, singer-songwriter pop, uk pop",31816,,HBF Park,Perth,Western Australia,Australia
+,Plus Tour,2015-12-05,Ed Sheeran,,65.43736730360934,67353,67353,4407403,"pop, singer-songwriter pop, uk pop",67353,,AAMI Park,Melbourne,Victoria,Australia
+,Plus Tour,2015-12-06,Ed Sheeran,,65.43736730360934,67353,67353,4407403,"pop, singer-songwriter pop, uk pop",67353,,AAMI Park,Melbourne,Victoria,Australia
+,Plus Tour,2015-12-09,Ed Sheeran,,62.59495558309008,47617,47617,2980584,"pop, singer-songwriter pop, uk pop",47617,,Allianz Stadium,Sydney,New South Wales,Australia
+,Plus Tour,2015-12-12,Ed Sheeran,,58.73604777667184,43201,43201,2537456,"pop, singer-songwriter pop, uk pop",43201,,Mount Smart Stadium,Auckland,Auckland,New Zealand
