@@ -256,9 +256,9 @@ event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tick
 ,Purpose Tour,2016-07-19,Justin Bieber,Post Malone Moxie Raia,113.50977060322856,29425.0,29425.0,3340025.0,"canadian pop, pop","29,425",,Madison Square Garden,New York City,New York,United States
 ,Purpose Tour,2016-08-13,Justin Bieber,,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
 ,Purpose Tour,2016-08-14,Justin Bieber,,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",90000,,Hylands Park,Chelmsford,Essex,England
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",90000,,Weston Park,Staffordshire,Staffordshire,England
-,Purpose Tour,2016-08-09,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,Capital Region,Iceland
+,Purpose Tour,2016-08-20,Justin Bieber,,,,,,"canadian pop, pop",90000,,Hylands Park,Chelmsford,Essex,England
+,Purpose Tour,2016-08-21,Justin Bieber,,,,,,"canadian pop, pop",90000,,Weston Park,Staffordshire,Staffordshire,England
+,Purpose Tour,2016-09-08,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,Capital Region,Iceland
 ,Purpose Tour,2016-09-09,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,Capital Region,Iceland
 ,Purpose Tour,2016-09-14,Justin Bieber,Vic Mensa,91.4105215827338,13344.0,13344.0,1219782.0,"canadian pop, pop","13,344",,Mercedes-Benz Arena,Berlin,Berlin,Germany
 ,Purpose Tour,2016-09-16,Justin Bieber,Vic Mensa,96.6131475310512,13204.0,13204.0,1275680.0,"canadian pop, pop","13,204",,Olympiahalle,Munich,Bavaria,Germany
@@ -331,14 +331,14 @@ event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tick
 ,Purpose Tour,2017-10-05,Justin Bieber,Sartek Zaeden Alan Walker,89.27024075579033,39376.0,39376.0,3515105.0,"canadian pop, pop","39,376",,DY Patil Stadium,Mumbai,Maharashtra,India
 ,Purpose Tour,2017-05-14,Justin Bieber,Sketchy Bongo,52.26438128226025,58896.0,68984.0,3078163.0,"canadian pop, pop","68,984",,FNB Stadium,Johannesburg,Gauteng,South Africa
 ,Purpose Tour,2017-05-17,Justin Bieber,Sketchy Bongo,58.3409308416864,39706.0,45214.0,2316485.0,"canadian pop, pop","45,214",,Cape Town Stadium,Cape Town,Western Cape,South Africa
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",60000,,Megaland,Landgraaf,Limburg,Netherlands
-,Purpose Tour,2017-06-03,Justin Bieber,Rudimental Gnash  Adam Daniel,80.0,36000.0,36000.0,2880000.0,"canadian pop, pop","36,000",,Jysk Væddeløbsbane,Aarhus,Central Denmark Region,Denmark
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",,,Forus Travbane,Stavanger,Rogaland,Norway
-,Purpose Tour,2017-06-07,Justin Bieber,—,,,,,"canadian pop, pop",,,Gärdet,Stockholm,Stockholm County,Sweden
-,Purpose Tour,2017-06-10,Justin Bieber,Halsey,98.16737261741622,32108.0,40236.0,3151958.0,"canadian pop, pop","40,236",,Stade de Suisse,Bern,Bern,Switzerland
-,Purpose Tour,,Justin Bieber,Martin Garrix Bastille Alma Mamacita,,,,,"canadian pop, pop",,,Autodromo Nazionale Monza,Monza,Lombardy,Italy
+,Purpose Tour,2017-06-03,Justin Bieber,,,,,,"canadian pop, pop",60000,,Megaland,Landgraaf,Limburg,Netherlands
+,Purpose Tour,2017-06-05,Justin Bieber,Rudimental Gnash  Adam Daniel,80.0,36000.0,36000.0,2880000.0,"canadian pop, pop","36,000",,Jysk Væddeløbsbane,Aarhus,Central Denmark Region,Denmark
+,Purpose Tour,2017-06-07,Justin Bieber,,,,,,"canadian pop, pop",,,Forus Travbane,Stavanger,Rogaland,Norway
+,Purpose Tour,2017-06-10,Justin Bieber,—,,,,,"canadian pop, pop",,,Gärdet,Stockholm,Stockholm County,Sweden
+,Purpose Tour,2017-06-15,Justin Bieber,Halsey,98.16737261741622,32108.0,40236.0,3151958.0,"canadian pop, pop","40,236",,Stade de Suisse,Bern,Bern,Switzerland
+,Purpose Tour,2017-06-18,Justin Bieber,Martin Garrix Bastille Alma Mamacita,,,,,"canadian pop, pop",,,Autodromo Nazionale Monza,Monza,Lombardy,Italy
 ,Purpose Tour,2017-06-18,Justin Bieber,Halsey,113.78080448895705,30653.0,31740.0,3487723.0,"canadian pop, pop","31,740",,RDS Arena,Dublin,Leinster,Ireland
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",50000,,Stade Pierre-Mauroy,Lille,Hauts-de-France,France
-,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",38000,,Commerzbank Arena,Frankfurt,Hesse,Germany
+,Purpose Tour,2017-06-24,Justin Bieber,,,,,,"canadian pop, pop",50000,,Stade Pierre-Mauroy,Lille,Hauts-de-France,France
+,Purpose Tour,2017-06-30,Justin Bieber,,,,,,"canadian pop, pop",38000,,Commerzbank Arena,Frankfurt,Hesse,Germany
 ,Purpose Tour,2017-06-25,Justin Bieber,Halsey,69.73648332205859,38434.0,45021.0,2680252.0,"canadian pop, pop","45,021",,Principality Stadium,Cardiff,Wales,Wales
-,Purpose Tour,,Justin Bieber,Martin Garrix Tove Lo  Anne-Marie,,,,,"canadian pop, pop",65000,,Hyde Park,London,England,England
+,Purpose Tour,2017-07-02,Justin Bieber,Martin Garrix Tove Lo  Anne-Marie,,,,,"canadian pop, pop",65000,,Hyde Park,London,England,England
