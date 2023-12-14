@@ -1,0 +1,344 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Believe Tour,2012-09-29,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",75.47363717605005,13428.0,13428.0,1013460.0,"canadian pop, pop",13428,,Jobingcom Arena,Glendale,Arizona,United States
+,Believe Tour,2012-09-30,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",79.74437203791469,13504.0,13504.0,1076868.0,"canadian pop, pop",13504,,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+,Believe Tour,2012-02-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",81.27993175052639,27546.0,27546.0,2238937.0,"canadian pop, pop",27546,,Staples Center,Los Angeles,California,United States
+,Believe Tour,2012-03-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",81.27993175052639,27546.0,27546.0,2238937.0,"canadian pop, pop",27546,,Staples Center,Los Angeles,California,United States
+,Believe Tour,2012-05-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",110.62532386126202,11965.0,11965.0,1323632.0,"canadian pop, pop",11965,,Save Mart Center,Fresno,California,United States
+,Believe Tour,2012-06-10,Justin Bieber,"Cody Simpson, Carly Rae Jepsen",75.32054367832366,14126.0,14126.0,1063978.0,"canadian pop, pop",14126,,Oracle Arena,Oakland,California,United States
+,Believe Tour,2012-08-10,Justin Bieber,Carly Rae Jepsen,68.9,14550.0,14550.0,1002495.0,"canadian pop, pop",14550,,Rose Garden,Portland,Oregon,United States
+,Believe Tour,2012-09-10,Justin Bieber,Carly Rae Jepsen,66.07932277012685,20259.0,20259.0,1338701.0,"canadian pop, pop",20259,,Tacoma Dome,Tacoma,Washington,United States
+,Believe Tour,2012-10-10,Justin Bieber,Carly Rae Jepsen,84.26540941551688,14423.0,14423.0,1215360.0,"canadian pop, pop",14423,,Rogers Arena,Vancouver,British Columbia,Canada
+,Believe Tour,2012-12-10,Justin Bieber,Carly Rae Jepsen,81.97784461888342,13631.0,13631.0,1117440.0,"canadian pop, pop",13631,,Scotiabank Saddledome,Calgary,Alberta,Canada
+,Believe Tour,2012-10-15,Justin Bieber,Carly Rae Jepsen,83.26282661201786,13663.0,13663.0,1137620.0,"canadian pop, pop",13663,,Rexall Place,Edmonton,Alberta,Canada
+,Believe Tour,2012-10-19,Justin Bieber,Carly Rae Jepsen,80.27072370929612,13113.0,13113.0,1052590.0,"canadian pop, pop",13113,,Credit Union Centre,Saskatoon,Saskatchewan,Canada
+,Believe Tour,2012-10-18,Justin Bieber,Carly Rae Jepsen,78.70628845865225,13326.0,13326.0,1048840.0,"canadian pop, pop",13326,,MTS Centre,Winnipeg,Manitoba,Canada
+,Believe Tour,2012-10-20,Justin Bieber,Carly Rae Jepsen,73.71896504266446,14532.0,14532.0,1071284.0,"canadian pop, pop",14532,,Target Center,Minneapolis,Minnesota,United States
+,Believe Tour,2012-10-21,Justin Bieber,Carly Rae Jepsen,71.2413585612088,14957.0,14957.0,1065557.0,"canadian pop, pop",14957,,Bradley Center,Milwaukee,Wisconsin,United States
+,Believe Tour,2012-10-23,Justin Bieber,Carly Rae Jepsen,78.35485773256671,27132.0,27132.0,2125924.0,"canadian pop, pop",27132,,Allstate Arena,Rosemont,Illinois,United States
+,Believe Tour,2012-10-24,Justin Bieber,Carly Rae Jepsen,78.35485773256671,27132.0,27132.0,2125924.0,"canadian pop, pop",27132,,Allstate Arena,Rosemont,Illinois,United States
+,Believe Tour,2012-10-26,Justin Bieber,Carly Rae Jepsen,73.95605496707701,13972.0,13972.0,1033314.0,"canadian pop, pop",13972,,Sprint Center,Kansas City,Missouri,United States
+,Believe Tour,2012-10-27,Justin Bieber,Carly Rae Jepsen,73.72901423440202,15034.0,15034.0,1108442.0,"canadian pop, pop",15034,,Scottrade Center,St. Louis,Missouri,United States
+,Believe Tour,2012-10-29,Justin Bieber,Carly Rae Jepsen,75.64800624379168,14094.0,14094.0,1066183.0,"canadian pop, pop",14094,,American Airlines Center,Dallas,Texas,United States
+,Believe Tour,2012-10-30,Justin Bieber,Carly Rae Jepsen,78.08911647814124,13084.0,13084.0,1021718.0,"canadian pop, pop",13084,,Toyota Center,Houston,Texas,United States
+,Believe Tour,2012-01-11,Justin Bieber,Carly Rae Jepsen,69.03034564428984,13511.0,13511.0,932669.0,"canadian pop, pop",13511,,FedExForum,Memphis,Tennessee,United States
+,Believe Tour,2012-02-11,Justin Bieber,Carly Rae Jepsen,70.904432472144,16334.0,16334.0,1158153.0,"canadian pop, pop",16334,,KFC Yum Center,Louisville,Kentucky,United States
+,Believe Tour,2012-04-11,Justin Bieber,Carly Rae Jepsen,81.04813876437342,15393.0,15393.0,1247574.0,"canadian pop, pop",15393,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Believe Tour,2012-05-11,Justin Bieber,"Cody Simpson, Jaden Smith",80.81598949695965,14472.0,14472.0,1169569.0,"canadian pop, pop",14472,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Believe Tour,2012-09-11,Justin Bieber,"Cody Simpson, Jaden Smith",77.30584106292304,15956.0,15956.0,1233492.0,"canadian pop, pop",15956,,Izod Center,East Rutherford,New Jersey,United States
+,Believe Tour,2012-10-11,Justin Bieber,"Cody Simpson, Jaden Smith",80.17624069021458,13561.0,13561.0,1087270.0,"canadian pop, pop",13561,,TD Garden,Boston,Massachusetts,United States
+,Believe Tour,2012-12-11,Justin Bieber,"Cody Simpson, Jaden Smith",77.65163733258537,14261.0,14261.0,1107390.0,"canadian pop, pop",14261,,Barclays Center,New York City,New York,United States
+,Believe Tour,2012-11-21,Justin Bieber,Carly Rae Jepsen,76.18178292068006,15469.0,15469.0,1178456.0,"canadian pop, pop",15469,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Believe Tour,2012-11-23,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.64763434579439,13696.0,13696.0,1104550.0,"canadian pop, pop",13696,,Scotiabank Place,Ottawa,Ontario,Canada
+,Believe Tour,2012-11-26,Justin Bieber,"Carly Rae Jepsen, The Wanted",79.10270951480781,15870.0,15870.0,1255360.0,"canadian pop, pop",15870,,Bell Centre,Montreal,Quebec,Canada
+,Believe Tour,2012-11-28,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.5322102425876,29680.0,29680.0,2390196.0,"canadian pop, pop",29680,,Madison Square Garden,New York City,New York,United States
+,Believe Tour,2012-11-29,Justin Bieber,"Carly Rae Jepsen, The Wanted",80.5322102425876,29680.0,29680.0,2390196.0,"canadian pop, pop",29680,,Madison Square Garden,New York City,New York,United States
+,Believe Tour,2012-01-12,Justin Bieber,"Carly Rae Jepsen, The Wanted",60.969943172741175,43817.0,43817.0,2671520.0,"canadian pop, pop",43817,,Rogers Centre,Toronto,Ontario,Canada
+,Believe Tour,2013-05-01,Justin Bieber,Carly Rae Jepsen,68.57544408902199,14693.0,14693.0,1007579.0,"canadian pop, pop",14693,,EnergySolutions Arena,Salt Lake City,Utah,United States
+,Believe Tour,2013-07-01,Justin Bieber,Carly Rae Jepsen,74.48484848484848,13629.0,13629.0,1015154.0,"canadian pop, pop",13629,,Pepsi Center,Denver,Colorado,United States
+,Believe Tour,2013-09-01,Justin Bieber,Carly Rae Jepsen,68.39437812860993,12985.0,12985.0,888101.0,"canadian pop, pop",12985,,BOK Center,Tulsa,Oklahoma,United States
+,Believe Tour,2013-10-01,Justin Bieber,Carly Rae Jepsen,65.62408242979325,14849.0,14849.0,974452.0,"canadian pop, pop",14849,,Verizon Arena,North Little Rock,Arkansas,United States
+,Believe Tour,2013-12-01,Justin Bieber,Carly Rae Jepsen,67.23217088650789,14653.0,14653.0,985153.0,"canadian pop, pop",14653,,ATT Center,San Antonio,Texas,United States
+,Believe Tour,2013-01-15,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",71.68740168740169,13986.0,13986.0,1002620.0,"canadian pop, pop",13986,,New Orleans Arena,New Orleans,Louisiana,United States
+,Believe Tour,2013-01-16,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",68.00280857354028,13530.0,13530.0,920078.0,"canadian pop, pop",13530,,Legacy Arena,Birmingham,England,United States
+,Believe Tour,2013-01-18,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",73.27549520543151,14287.0,14287.0,1046887.0,"canadian pop, pop",14287,,Bridgestone Arena,Nashville,Tennessee,United States
+,Believe Tour,2013-01-19,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",64.83442676193569,15395.0,15395.0,998126.0,"canadian pop, pop",15395,,Greensboro Coliseum,Greensboro,North Carolina,United States
+,Believe Tour,2013-01-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",71.34632006286013,15272.0,15272.0,1089601.0,"canadian pop, pop",15272,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,Believe Tour,2013-01-23,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",78.44371748384046,12686.0,12686.0,995137.0,"canadian pop, pop",12686,,Philips Arena,Atlanta,Georgia,United States
+,Believe Tour,2013-01-25,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",75.62134032197679,13355.0,13355.0,1009923.0,"canadian pop, pop",13355,,Amway Center,Orlando,Florida,United States
+,Believe Tour,2013-01-26,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",79.00036258158086,27580.0,27580.0,2178830.0,"canadian pop, pop",27580,,American Airlines Arena,Miami,Florida,United States
+,Believe Tour,2013-01-27,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",79.00036258158086,27580.0,27580.0,2178830.0,"canadian pop, pop",27580,,American Airlines Arena,Miami,Florida,United States
+,Believe Tour,2013-02-21,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",83.63693423530232,28678.0,28678.0,2398540.0,"canadian pop, pop",28678,,Manchester Arena,Manchester,England,England
+,Believe Tour,2013-02-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",83.63693423530232,28678.0,28678.0,2398540.0,"canadian pop, pop",28678,,Manchester Arena,Manchester,England,England
+,Believe Tour,2013-02-27,Justin Bieber,Cody Simpson,93.3047189485426,20619.0,21690.0,1923850.0,"canadian pop, pop",21690,,National Indoor Arena,Birmingham,England,England
+,Believe Tour,2013-02-28,Justin Bieber,Cody Simpson,93.3047189485426,20619.0,21690.0,1923850.0,"canadian pop, pop",21690,,National Indoor Arena,Birmingham,England,England
+,Believe Tour,2013-04-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479.0,60281.0,5053170.0,"canadian pop, pop",60281,,The O2 Arena,London,England,England
+,Believe Tour,2013-05-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479.0,60281.0,5053170.0,"canadian pop, pop",60281,,The O2 Arena,London,England,England
+,Believe Tour,2013-07-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479.0,60281.0,5053170.0,"canadian pop, pop",60281,,The O2 Arena,London,England,England
+,Believe Tour,2013-08-03,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",86.40999333093932,58479.0,60281.0,5053170.0,"canadian pop, pop",60281,,The O2 Arena,London,England,England
+,Believe Tour,2013-03-22,Justin Bieber,"Carly Rae Jepsen, Cody Simpson",104.96153846153848,13000.0,13000.0,1364500.0,"canadian pop, pop",13000,,Hallenstadion,Zürich,Zürich,Switzerland
+,Believe Tour,2013-03-31,Justin Bieber,Neon Dogs,85.55482849604222,9475.0,13289.0,810632.0,"canadian pop, pop",13289,,O2 World Berlin,Berlin,Berlin,Germany
+,Believe Tour,2013-02-04,Justin Bieber,Neon Dogs,94.70686657974794,9204.0,12984.0,871682.0,"canadian pop, pop",12984,,O2 World Hamburg,Hamburg,Hamburg,Germany
+,Believe Tour,2013-10-04,Justin Bieber,3M8S,72.67768733741714,35751.0,36939.0,2598300.0,"canadian pop, pop",36939,,Sportpaleis,Antwerp,Flanders,Belgium
+,Believe Tour,2013-11-04,Justin Bieber,3M8S,72.67768733741714,35751.0,36939.0,2598300.0,"canadian pop, pop",36939,,Sportpaleis,Antwerp,Flanders,Belgium
+,Believe Tour,2013-06-22,Justin Bieber,"Hot Chelle Rae, Mike Posner",84.55059084194978,10832.0,10832.0,915852.0,"canadian pop, pop",10832,,Valley View Casino Center,San Diego,California,United States
+,Believe Tour,2013-06-24,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.43073515753376,27994.0,27994.0,2307566.0,"canadian pop, pop",27994,,Staples Center,Los Angeles,California,United States
+,Believe Tour,2013-06-25,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.43073515753376,27994.0,27994.0,2307566.0,"canadian pop, pop",27994,,Staples Center,Los Angeles,California,United States
+,Believe Tour,2013-06-26,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.26023391812865,12996.0,12996.0,1082050.0,"canadian pop, pop",12996,,HP Pavilion,San Jose,California,United States
+,Believe Tour,2013-06-28,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.61435413860201,13362.0,13362.0,1103893.0,"canadian pop, pop",13362,,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+,Believe Tour,2013-06-30,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.35219247186652,12885.0,12885.0,1022453.0,"canadian pop, pop",12885,,Pepsi Center,Denver,Colorado,United States
+,Believe Tour,2013-02-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.75591776558277,12209.0,12209.0,973740.0,"canadian pop, pop",12209,,Chesapeake Energy Arena,Oklahoma City,Oklahoma,United States
+,Believe Tour,2013-03-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",81.86124058802439,13945.0,13945.0,1141555.0,"canadian pop, pop",13945,,American Airlines Center,Dallas,Texas,United States
+,Believe Tour,2013-06-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.29406761641505,14109.0,14109.0,1090542.0,"canadian pop, pop",14109,,CenturyLink Center,Omaha,Nebraska,United States
+,Believe Tour,2013-07-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.36595971925541,13108.0,13108.0,1040329.0,"canadian pop, pop",13108,,Wells Fargo Arena,Des Moines,Iowa,United States
+,Believe Tour,2013-09-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.24379031151365,14574.0,14574.0,1198621.0,"canadian pop, pop",14574,,United Center,Chicago,Illinois,United States
+,Believe Tour,2013-10-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.46486371379898,14088.0,14088.0,1091325.0,"canadian pop, pop",14088,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Believe Tour,2013-12-07,Justin Bieber,"Hot Chelle Rae, Mike Posner",78.67047564633624,14002.0,14002.0,1101544.0,"canadian pop, pop",14002,,Nationwide Arena,Columbus,Ohio,United States
+,Believe Tour,2013-07-13,Justin Bieber,"Hot Chelle Rae, Mike Posner",76.13073455316892,15084.0,15084.0,1148356.0,"canadian pop, pop",15084,,Quicken Loans Arena,Cleveland,Ohio,United States
+,Believe Tour,2013-07-15,Justin Bieber,"Hot Chelle Rae, Mike Posner",77.62681722902157,14789.0,14789.0,1148023.0,"canadian pop, pop",14789,,First Niagara Center,Buffalo,New York,United States
+,Believe Tour,2013-07-17,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.50972452704946,15065.0,15065.0,1243009.0,"canadian pop, pop",15065,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Believe Tour,2013-07-18,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.25024185746534,12404.0,12404.0,1032636.0,"canadian pop, pop",12404,,XL Center,Hartford,Connecticut,United States
+,Believe Tour,2013-07-20,Justin Bieber,"Hot Chelle Rae, Mike Posner",83.55940520446097,13450.0,13450.0,1123874.0,"canadian pop, pop",13450,,TD Garden,Boston,Massachusetts,United States
+,Believe Tour,2013-07-23,Justin Bieber,"Hot Chelle Rae, Mike Posner",80.2372461975111,13741.0,13741.0,1102540.0,"canadian pop, pop",13741,,Scotiabank Place,Ottawa,Ontario,Canada
+,Believe Tour,2013-07-25,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.25911569992796,29153.0,29153.0,2398100.0,"canadian pop, pop",29153,,Air Canada Centre,Toronto,Ontario,Canada
+,Believe Tour,2013-07-26,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.25911569992796,29153.0,29153.0,2398100.0,"canadian pop, pop",29153,,Air Canada Centre,Toronto,Ontario,Canada
+,Believe Tour,2013-07-28,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.76544758383945,15148.0,15148.0,1208287.0,"canadian pop, pop",15148,,Joe Louis Arena,Detroit,Michigan,United States
+,Believe Tour,2013-07-30,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.44490008947211,26824.0,26824.0,2211502.0,"canadian pop, pop",26824,,Prudential Center,Newark,New Jersey,United States
+,Believe Tour,2013-07-31,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.44490008947211,26824.0,26824.0,2211502.0,"canadian pop, pop",26824,,Prudential Center,Newark,New Jersey,United States
+,Believe Tour,2013-02-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.78878453417427,14587.0,14587.0,1207640.0,"canadian pop, pop",14587,,Barclays Center,Brooklyn,New York,United States
+,Believe Tour,2013-03-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",82.15272752099406,14647.0,14647.0,1203291.0,"canadian pop, pop",14647,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Believe Tour,2013-05-08,Justin Bieber,"Hot Chelle Rae, Mike Posner",79.44545454545455,12540.0,12540.0,996246.0,"canadian pop, pop",12540,,Colonial Life Arena,Columbia,Maryland,United States
+,Believe Tour,2013-07-08,Justin Bieber,"Ariana Grande, Cody Simpson",81.29359708485164,11526.0,11526.0,936990.0,"canadian pop, pop",11526,,Jacksonville Veterans Memorial Arena,Jacksonville,Florida,United States
+,Believe Tour,2013-08-08,Justin Bieber,"Ariana Grande, Cody Simpson",78.1314986878502,14099.0,14099.0,1101576.0,"canadian pop, pop",14099,,Tampa Bay Times Forum,Tampa,Florida,United States
+,Believe Tour,2013-10-08,Justin Bieber,"Ariana Grande, Cody Simpson",82.20238574997985,12407.0,12407.0,1019885.0,"canadian pop, pop",12407,,Philips Arena,Atlanta,Georgia,United States
+,Believe Tour,2013-02-11,Justin Bieber,P9,102.32692187206317,31922.0,33374.0,3266480.0,"canadian pop, pop",33374,,Arena Anhembi,São Paulo,São Paulo,Brazil
+,Believe Tour,2013-12-11,Justin Bieber,"Carly Rae Jepsen, Owl City",103.156621985032,47969.0,52300.0,4948320.0,"canadian pop, pop",52300,,Estadio Nacional,Santiago,Santiago Metropolitan Region,Chile
+,Believe Tour,2013-11-26,Justin Bieber,Cody Simpson,124.81037472668324,13263.0,19960.0,1655360.0,"canadian pop, pop",19960,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,Believe Tour,2013-11-27,Justin Bieber,Cody Simpson,124.81037472668324,13263.0,19960.0,1655360.0,"canadian pop, pop",19960,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,Believe Tour,2013-11-29,Justin Bieber,Cody Simpson,128.60765571123042,22911.0,24566.0,2946530.0,"canadian pop, pop",24566,,Allphones Arena,Sydney,New South Wales,Australia
+,Believe Tour,2013-11-30,Justin Bieber,Cody Simpson,128.60765571123042,22911.0,24566.0,2946530.0,"canadian pop, pop",24566,,Allphones Arena,Sydney,New South Wales,Australia
+,Believe Tour,2013-02-12,Justin Bieber,Cody Simpson,120.03859291132504,22543.0,23925.0,2706030.0,"canadian pop, pop",23925,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Believe Tour,2013-03-12,Justin Bieber,Cody Simpson,120.03859291132504,22543.0,23925.0,2706030.0,"canadian pop, pop",23925,,Rod Laver Arena,Melbourne,Victoria,Australia
+,My World Tour,2010-06-23,Justin Bieber,,29.377855619859883,13132.0,13132.0,385790.0,"canadian pop, pop",13132,,XL Center,Hartford,Connecticut,United States
+,My World Tour,2010-06-24,Justin Bieber,,35.396118569719526,7523.0,7523.0,266285.0,"canadian pop, pop",7523,,Sun National Bank Center,Trenton,New Jersey,United States
+,My World Tour,2010-06-26,Justin Bieber,,37.69706265105038,10758.0,12780.0,405545.0,"canadian pop, pop",12780,,U.S. Bank Arena,Cincinnati,Ohio,United States
+,My World Tour,2010-06-29,Justin Bieber,,23.04994224366379,14717.0,14717.0,339226.0,"canadian pop, pop",14717,,Target Center,Minneapolis,Minnesota,United States
+,My World Tour,2010-06-30,Justin Bieber,,24.743057772103416,9399.0,9650.0,232560.0,"canadian pop, pop",9650,,Wells Fargo Arena,Des Moines,Iowa,United States
+,My World Tour,2010-07-02,Justin Bieber,,37.04901036757776,10610.0,22000.0,393090.0,"canadian pop, pop",22000,,iWireless Center,Moline,Illinois,United States
+,My World Tour,2010-07-03,Justin Bieber,,19.222992638246875,11682.0,12093.0,224563.0,"canadian pop, pop",12093,,Qwest Center Omaha,Omaha,Nebraska,United States
+,My World Tour,2010-07-05,Justin Bieber,,17.258333333333333,6000.0,6000.0,103550.0,"canadian pop, pop",6000,,Verizon Theatre at Grand Prairie,Grand Prairie,Texas,United States
+,My World Tour,2010-07-06,Justin Bieber,,29.61671669360425,12993.0,12993.0,384810.0,"canadian pop, pop",12993,,BOK Center,Tulsa,Oklahoma,United States
+,My World Tour,2010-07-08,Justin Bieber,,50.77895923956823,6207.0,6207.0,315185.0,"canadian pop, pop",6207,,1stBank Center,Broomfield,Colorado,United States
+,My World Tour,2010-07-10,Justin Bieber,,18.059737502412663,10362.0,10362.0,187135.0,"canadian pop, pop",10362,,Maverik Center,West Valley City,Utah,United States
+,My World Tour,2010-07-13,Justin Bieber,,12.82859804378202,8588.0,8588.0,110172.0,"canadian pop, pop",8588,,Comcast Arena at Everett,Everett,Washington,United States
+,My World Tour,2010-07-14,Justin Bieber,,26.09468438538206,13244.0,13244.0,345598.0,"canadian pop, pop",13244,,Rose Garden,Portland,Oregon,United States
+,My World Tour,2010-07-17,Justin Bieber,,20.19381655788389,14555.0,14555.0,293921.0,"canadian pop, pop",14555,,Oracle Arena,Oakland,California,United States
+,My World Tour,2010-07-18,Justin Bieber,,17.624487315813457,6583.0,6583.0,116022.0,"canadian pop, pop",6583,,Reno Events Center,Reno,Nevada,United States
+,My World Tour,2010-07-20,Justin Bieber,,36.80533493181478,6673.0,6673.0,245602.0,"canadian pop, pop",6673,,Nokia Theatre L.A. Live,Los Angeles,California,United States
+,My World Tour,2010-07-24,Justin Bieber,,35.08166862514689,6808.0,6808.0,238836.0,"canadian pop, pop",6808,,Planet Hollywood Theatre,Las Vegas,Nevada,United States
+,My World Tour,2010-07-25,Justin Bieber,,18.55883630047764,13818.0,13818.0,256446.0,"canadian pop, pop",13818,,Jobingcom Arena,Glendale,Arizona,United States
+,My World Tour,2010-07-28,Justin Bieber,,21.248601615910506,14481.0,14481.0,307701.0,"canadian pop, pop",14481,,Sprint Center,Kansas City,Missouri,United States
+,My World Tour,2010-07-29,Justin Bieber,,15.71029540801404,13676.0,15800.0,214854.0,"canadian pop, pop",15800,,Verizon Arena,North Little Rock,Arkansas,United States
+,My World Tour,2010-07-31,Justin Bieber,,29.657818181818183,13750.0,14750.0,407795.0,"canadian pop, pop",14750,,FedExForum,Memphis,Tennessee,United States
+,My World Tour,2010-08-01,Justin Bieber,,33.16679440505844,10438.0,10438.0,346195.0,"canadian pop, pop",10438,,Cajundome,Lafayette,Louisiana,United States
+,My World Tour,2010-08-04,Justin Bieber,,19.28122699386503,12225.0,12225.0,235713.0,"canadian pop, pop",12225,,Amway Arena,Orlando,Florida,United States
+,My World Tour,2010-08-05,Justin Bieber,,10.057288712422007,14104.0,14104.0,141848.0,"canadian pop, pop",14104,,BankAtlantic Center,Sunrise,Florida,United States
+,My World Tour,2010-08-08,Justin Bieber,,16.824674048352225,15263.0,15263.0,256795.0,"canadian pop, pop",15263,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,My World Tour,2010-08-09,Justin Bieber,,29.60143558745749,10588.0,10588.0,313420.0,"canadian pop, pop",10588,,The Arena at Gwinnett Center,Duluth,Georgia,United States
+,My World Tour,2010-08-11,Justin Bieber,,27.490414778668526,14345.0,14345.0,394350.0,"canadian pop, pop",14345,,Bridgestone Arena,Nashville,Tennessee,United States
+,My World Tour,2010-08-12,Justin Bieber,,16.528985507246375,14490.0,14490.0,239505.0,"canadian pop, pop",14490,,Conseco Fieldhouse,Indianapolis,Indiana,United States
+,My World Tour,2010-08-14,Justin Bieber,,24.8164484917473,14056.0,14056.0,348820.0,"canadian pop, pop",14056,,Schottenstein Center,Columbus,Ohio,United States
+,My World Tour,2010-08-15,Justin Bieber,,32.042382076977084,15667.0,15667.0,502008.0,"canadian pop, pop",15667,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,My World Tour,2010-08-21,Justin Bieber,,28.29882085881834,15859.0,15859.0,448791.0,"canadian pop, pop",15859,,Air Canada Centre,Toronto,Ontario,Canada
+,My World Tour,2010-08-22,Justin Bieber,,25.973891195105963,9154.0,9154.0,237765.0,"canadian pop, pop",9154,,John Labatt Centre,London,England,Canada
+,My World Tour,2010-08-24,Justin Bieber,,24.57861943433212,14284.0,14284.0,351081.0,"canadian pop, pop",14284,,Scotiabank Place,Ottawa,Ontario,Canada
+,My World Tour,2010-08-25,Justin Bieber,,28.83407785577537,12536.0,12536.0,361464.0,"canadian pop, pop",12536,,Times Union Center,Albany,New York,United States
+,My World Tour,2010-08-27,Justin Bieber,,24.9001963012708,9679.0,9679.0,241009.0,"canadian pop, pop",9679,,Dunkin' Donuts Center,Providence,,United States
+,My World Tour,2010-08-28,Justin Bieber,,17.16073734041027,13942.0,13942.0,239255.0,"canadian pop, pop",13942,,Prudential Center,Newark,New Jersey,United States
+,My World Tour,2010-08-31,Justin Bieber,,26.082042810929863,14529.0,14529.0,378946.0,"canadian pop, pop",14529,,Madison Square Garden,New York City,New York,United States
+,My World Tour,2010-09-03,Justin Bieber,,46.056163021868784,8048.0,9422.0,370660.0,"canadian pop, pop",9422,,Champlain Valley Expo,Essex Junction,Vermont,United States
+,My World Tour,2010-09-14,Justin Bieber,,35.11310578006762,12422.0,12422.0,436175.0,"canadian pop, pop",12422,,MTS Centre,Winnipeg,Manitoba,Canada
+,My World Tour,2010-09-16,Justin Bieber,,51.6734845116348,6747.0,6747.0,348641.0,"canadian pop, pop",6747,,Brandt Centre,Regina,Saskatchewan,Canada
+,My World Tour,2010-09-17,Justin Bieber,,26.729918064170302,13059.0,13059.0,349066.0,"canadian pop, pop",13059,,Credit Union Centre,Saskatoon,Saskatchewan,Canada
+,My World Tour,2010-09-19,Justin Bieber,,20.19172552976791,13874.0,13874.0,280140.0,"canadian pop, pop",13874,,Rexall Place,Edmonton,Alberta,Canada
+,My World Tour,2010-09-20,Justin Bieber,,36.57676527747787,13893.0,13893.0,508161.0,"canadian pop, pop",13893,,Pengrowth Saddledome,Calgary,Alberta,Canada
+,My World Tour,2010-10-08,Justin Bieber,,54.24648559251956,15721.0,15721.0,852809.0,"canadian pop, pop",15721,,Blaisdell Arena,Honolulu,Hawaii,United States
+,My World Tour,2010-10-09,Justin Bieber,,54.24648559251956,15721.0,15721.0,852809.0,"canadian pop, pop",15721,,Blaisdell Arena,Honolulu,Hawaii,United States
+,My World Tour,2010-10-19,Justin Bieber,,18.07403181421572,14899.0,14899.0,269285.0,"canadian pop, pop",14899,,Rogers Arena,Vancouver,British Columbia,Canada
+,My World Tour,2010-10-22,Justin Bieber,,30.03495472731101,9498.0,13498.0,285272.0,"canadian pop, pop",13498,,ARCO Arena,Sacramento,California,United States
+,My World Tour,2010-10-24,Justin Bieber,,22.78743220938458,8482.0,8482.0,193283.0,"canadian pop, pop",8482,,Citizens Business Bank Arena,Ontario,California,United States
+,My World Tour,2010-10-25,Justin Bieber,,39.45711759504863,13572.0,13572.0,535512.0,"canadian pop, pop",13572,,Staples Center,Los Angeles,California,United States
+,My World Tour,2010-10-27,Justin Bieber,,41.30457835381249,11882.0,11882.0,490781.0,"canadian pop, pop",11882,,Honda Center,Anaheim,California,United States
+,My World Tour,2010-10-28,Justin Bieber,,33.936923739767344,11605.0,12411.0,393838.0,"canadian pop, pop",12411,,HP Pavilion,San Jose,California,United States
+,My World Tour,2010-10-30,Justin Bieber,,23.41509103641457,11424.0,11424.0,267494.0,"canadian pop, pop",11424,,Valley View Casino Center,San Diego,California,United States
+,My World Tour,2010-11-03,Justin Bieber,,23.466245086310032,11702.0,12316.0,274602.0,"canadian pop, pop",12316,,Oklahoma City Arena,Oklahoma City,Oklahoma,United States
+,My World Tour,2010-11-05,Justin Bieber,,21.69392348087021,14663.0,14663.0,318098.0,"canadian pop, pop",14663,,AT&T Center,San Antonio,Texas,United States
+,My World Tour,2010-11-06,Justin Bieber,,34.98217495506291,13352.0,13352.0,467082.0,"canadian pop, pop",13352,,Toyota Center,Houston,Texas,United States
+,My World Tour,2010-11-08,Justin Bieber,,14.366387948310416,14471.0,14471.0,207896.0,"canadian pop, pop",14471,,Scottrade Center,St. Louis,Missouri,United States
+,My World Tour,2010-11-10,Justin Bieber,,23.49858872232328,15943.0,15943.0,374638.0,"canadian pop, pop",15943,,KFC Yum! Center,Louisville,Kentucky,United States
+,My World Tour,2010-11-11,Justin Bieber,,21.979292493528902,10431.0,10616.0,229266.0,"canadian pop, pop",10616,,Wolstein Center,Cleveland,Ohio,United States
+,My World Tour,2010-11-13,Justin Bieber,,28.385311221193195,9286.0,9286.0,263586.0,"canadian pop, pop",9286,,Norfolk Scope,Norfolk,Virginia,United States
+,My World Tour,2010-11-14,Justin Bieber,,39.27609837325477,15614.0,15614.0,613257.0,"canadian pop, pop",15614,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,My World Tour,2010-11-16,Justin Bieber,,38.578125,14080.0,14080.0,543180.0,"canadian pop, pop",14080,,TD Garden,Boston,Massachusetts,United States
+,My World Tour,2010-11-17,Justin Bieber,,40.10625838721484,16394.0,16394.0,657502.0,"canadian pop, pop",16394,,Izod Center,East Rutherford,New Jersey,United States
+,My World Tour,2010-11-20,Justin Bieber,,37.373414435130925,13481.0,13481.0,503831.0,"canadian pop, pop",13481,,Boardwalk Hall,Atlantic City,New Jersey,United States
+,My World Tour,2010-11-22,Justin Bieber,,25.37392373923739,16260.0,16260.0,412580.0,"canadian pop, pop",16260,,Bell Centre,Montreal,Quebec,Canada
+,My World Tour,2010-11-23,Justin Bieber,,22.68357473405854,16639.0,16639.0,377432.0,"canadian pop, pop",16639,,Air Canada Centre,Toronto,Ontario,Canada
+,My World Tour,2010-12-09,Justin Bieber,,46.48279569892473,9300.0,9300.0,432290.0,"canadian pop, pop",9300,,Verizon Wireless Arena,Manchester,England,United States
+,My World Tour,2010-12-13,Justin Bieber,,57.64619903990829,13957.0,13957.0,804568.0,"canadian pop, pop",13957,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,My World Tour,2010-12-15,Justin Bieber,,47.97767582003698,14603.0,14603.0,700618.0,"canadian pop, pop",14603,,Greensboro Coliseum,Greensboro,North Carolina,United States
+,My World Tour,2010-12-16,Justin Bieber,,49.03339281162376,11769.0,11769.0,577074.0,"canadian pop, pop",11769,,BI-LO Center,Greenville,South Carolina,United States
+,My World Tour,2010-12-18,Justin Bieber,,48.93851909366838,14167.0,14167.0,693312.0,"canadian pop, pop",14167,,American Airlines Arena,Miami,Florida,United States
+,My World Tour,2010-12-19,Justin Bieber,,48.3041345480028,14270.0,14270.0,689300.0,"canadian pop, pop",14270,,St. Pete Times Forum,Tampa,Florida,United States
+,My World Tour,2010-12-21,Justin Bieber,,48.473680389167214,13773.0,13773.0,667628.0,"canadian pop, pop",13773,,BJCC Arena,Birmingham,England,United States
+,My World Tour,2010-12-23,Justin Bieber,,58.66009255962976,14045.0,14045.0,823881.0,"canadian pop, pop",14045,,Philips Arena,Atlanta,Georgia,United States
+,My World Tour,2011-03-14,Justin Bieber,,55.02615480649189,16020.0,16020.0,881519.0,"canadian pop, pop",16020,,The O2 Arena,London,England,England
+,My World Tour,2011-03-30,Justin Bieber,,58.8479609929078,13536.0,13536.0,796566.0,"canadian pop, pop",13536,,Sportpaleis,Antwerp,Flanders,Belgium
+,My World Tour,2011-04-26,Justin Bieber,,58.90194306371441,11065.0,11065.0,651750.0,"canadian pop, pop",11065,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,My World Tour,2011-04-28,Justin Bieber,,23.48834842780096,29481.0,29481.0,692460.0,"canadian pop, pop",29481,,Acer Arena,Sydney,New South Wales,Australia
+,My World Tour,2011-04-29,Justin Bieber,,23.48834842780096,29481.0,29481.0,692460.0,"canadian pop, pop",29481,,Acer Arena,Sydney,New South Wales,Australia
+,My World Tour,2011-05-02,Justin Bieber,,31.6140653144334,25538.0,25538.0,807360.0,"canadian pop, pop",25538,,Rod Laver Arena,Melbourne,Victoria,Australia
+,My World Tour,2011-05-03,Justin Bieber,,31.6140653144334,25538.0,25538.0,807360.0,"canadian pop, pop",25538,,Rod Laver Arena,Melbourne,Victoria,Australia
+,My World Tour,2011-05-05,Justin Bieber,,107.5096357226792,8510.0,8510.0,914907.0,"canadian pop, pop",8510,,Adelaide Entertainment Arena,Adelaide,South Australia,Australia
+,My World Tour,2011-05-07,Justin Bieber,,234.59885506841664,7162.0,7162.0,1680197.0,"canadian pop, pop",7162,,Burswood Dome,Perth,Western Australia,Australia
+,My World Tour,2011-10-01,Justin Bieber,,63.81422778430687,94449.0,106028.0,6027190.0,"canadian pop, pop",106028,,Foro Sol,Mexico City,Mexico City,Mexico
+,My World Tour,2011-10-02,Justin Bieber,,63.81422778430687,94449.0,106028.0,6027190.0,"canadian pop, pop",106028,,Foro Sol,Mexico City,Mexico City,Mexico
+,My World Tour,2011-10-05,Justin Bieber,,11.151655814153395,46533.0,57189.0,518920.0,"canadian pop, pop",57189,,Estádio Olímpico João Havelange,Rio de Janeiro,Rio de Janeiro,Brazil
+,My World Tour,2011-10-06,Justin Bieber,,11.151655814153395,46533.0,57189.0,518920.0,"canadian pop, pop",57189,,Estádio Olímpico João Havelange,Rio de Janeiro,Rio de Janeiro,Brazil
+,My World Tour,2011-10-10,Justin Bieber,,22.35964827519567,20698.0,48675.0,462800.0,"canadian pop, pop",48675,,Estádio Beira-Rio,Porto Alegre,Rio Grande do Sul,Brazil
+,My World Tour,2011-10-12,Justin Bieber,,4.654595848522279,66386.0,80386.0,309000.0,"canadian pop, pop",80386,,Estadio River Plate,Buenos Aires,Buenos Aires,Argentina
+,My World Tour,2011-10-13,Justin Bieber,,4.654595848522279,66386.0,80386.0,309000.0,"canadian pop, pop",80386,,Estadio River Plate,Buenos Aires,Buenos Aires,Argentina
+,My World Tour,2011-10-15,Justin Bieber,,4.226317925465665,71457.0,73000.0,302000.0,"canadian pop, pop",73000,,Estadio Nacional de Chile,Santiago,Santiago Metropolitan Region,Chile
+,My World Tour,2011-10-17,Justin Bieber,,11.43846113195582,18923.0,33769.0,216450.0,"canadian pop, pop",33769,,Estadio Nacional de Lima,Lima,Lima,Peru
+,My World Tour,2011-10-19,Justin Bieber,,22.062274714318583,13039.0,15591.0,287670.0,"canadian pop, pop",15591,,Estadio de Fútbol USB,Caracas,Capital District,Venezuela
+,Purpose Tour,2016-09-03,Justin Bieber,Corey Harper Moxie Raia,107.69444671628364,12227.0,12227.0,1316780.0,"canadian pop, pop","12,227",,KeyArena,Seattle,Washington,United States
+,Purpose Tour,2016-11-03,Justin Bieber,Corey Harper Moxie Raia,89.59871654833424,14648.0,14648.0,1312442.0,"canadian pop, pop","14,648",,Rogers Arena,Vancouver,British Columbia,Canada
+,Purpose Tour,2016-03-13,Justin Bieber,Corey Harper Post Malone Moxie Raia,94.44867807153966,14146.0,14146.0,1336071.0,"canadian pop, pop","14,146",,Moda Center,Portland,Oregon,United States
+,Purpose Tour,2016-03-15,Justin Bieber,Post Malone Moxie Raia,95.13760336573336,13786.0,13786.0,1311567.0,"canadian pop, pop","13,786",,Sleep Train Arena,Sacramento,California,United States
+,Purpose Tour,2016-03-17,Justin Bieber,Post Malone Moxie Raia,105.70380515250224,13508.0,13508.0,1427847.0,"canadian pop, pop","13,508",,SAP Center,San Jose,California,United States
+,Purpose Tour,2016-03-18,Justin Bieber,Post Malone Moxie Raia,104.44982465605612,14828.0,14828.0,1548782.0,"canadian pop, pop","14,828",,Oracle Arena,Oakland,California,United States
+,Purpose Tour,2016-03-20,Justin Bieber,Post Malone Moxie Raia,105.33195801664856,41445.0,41445.0,4365483.0,"canadian pop, pop","41,445",,Staples Center,Los Angeles,California,United States
+,Purpose Tour,2016-03-21,Justin Bieber,Post Malone Moxie Raia,105.33195801664856,41445.0,41445.0,4365483.0,"canadian pop, pop","41,445",,Staples Center,Los Angeles,California,United States
+,Purpose Tour,2016-03-23,Justin Bieber,Post Malone Moxie Raia,105.33195801664856,41445.0,41445.0,4365483.0,"canadian pop, pop","41,445",,Staples Center,Los Angeles,California,United States
+,Purpose Tour,2016-03-25,Justin Bieber,Post Malone Moxie Raia,119.16777843451828,11843.0,11843.0,1411304.0,"canadian pop, pop","11,843",,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+,Purpose Tour,2016-03-26,Justin Bieber,Post Malone Moxie Raia,97.2354724608388,11874.0,11874.0,1154574.0,"canadian pop, pop","11,874",,Save Mart Center,Fresno,California,United States
+,Purpose Tour,2016-03-29,Justin Bieber,Post Malone Moxie Raia,96.81125226860254,11571.0,11571.0,1120203.0,"canadian pop, pop","11,571",,Valley View Casino Center,San Diego,California,United States
+,Purpose Tour,2016-03-30,Justin Bieber,Post Malone Moxie Raia,97.36066420664208,13550.0,13550.0,1319237.0,"canadian pop, pop","13,550",,Gila River Arena,Glendale,Arizona,United States
+,Purpose Tour,2016-02-04,Justin Bieber,Post Malone Moxie Raia,92.66364538537876,15115.0,15115.0,1400611.0,"canadian pop, pop","15,115",,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+,Purpose Tour,2016-04-04,Justin Bieber,Post Malone Moxie Raia,104.7801581595974,13910.0,13910.0,1457492.0,"canadian pop, pop","13,910",,Pepsi Center,Denver,Colorado,United States
+,Purpose Tour,2016-06-04,Justin Bieber,Post Malone Moxie Raia,93.22319538719802,13701.0,13701.0,1277251.0,"canadian pop, pop","13,701",,Sprint Center,Kansas City,Missouri,United States
+,Purpose Tour,2016-07-04,Justin Bieber,Post Malone Moxie Raia,92.37215629959942,13231.0,13231.0,1222176.0,"canadian pop, pop","13,231",,BOK Center,Tulsa,Oklahoma,United States
+,Purpose Tour,2016-09-04,Justin Bieber,Post Malone Moxie Raia,109.3916692570718,12868.0,12868.0,1407652.0,"canadian pop, pop","12,868",,Toyota Center,Houston,Texas,United States
+,Purpose Tour,2016-10-04,Justin Bieber,Post Malone Moxie Raia,105.92786507721485,14764.0,14764.0,1563919.0,"canadian pop, pop","14,764",,American Airlines Center,Dallas,Texas,United States
+,Purpose Tour,2016-12-04,Justin Bieber,Post Malone Moxie Raia,106.0134930201812,25717.0,25717.0,2726349.0,"canadian pop, pop","25,717",,Philips Arena,Atlanta,Georgia,United States
+,Purpose Tour,2016-04-13,Justin Bieber,Post Malone Moxie Raia,106.0134930201812,25717.0,25717.0,2726349.0,"canadian pop, pop","25,717",,Philips Arena,Atlanta,Georgia,United States
+,Purpose Tour,2016-04-19,Justin Bieber,Post Malone Moxie Raia,92.80200647249193,15450.0,15450.0,1433791.0,"canadian pop, pop","15,450",,Scottrade Center,St. Louis,Missouri,United States
+,Purpose Tour,2016-04-20,Justin Bieber,Post Malone Moxie Raia,91.7275703200776,16496.0,16496.0,1513138.0,"canadian pop, pop","16,496",,KFC Yum! Center,Louisville,Kentucky,United States
+,Purpose Tour,2016-04-22,Justin Bieber,Post Malone Moxie Raia,103.528489778744,28519.0,28519.0,2952529.0,"canadian pop, pop","28,519",,Allstate Arena,Rosemont,Illinois,United States
+,Purpose Tour,2016-04-23,Justin Bieber,Post Malone Moxie Raia,103.528489778744,28519.0,28519.0,2952529.0,"canadian pop, pop","28,519",,Allstate Arena,Rosemont,Illinois,United States
+,Purpose Tour,2016-04-25,Justin Bieber,Post Malone Moxie Raia,103.97154444068944,14795.0,14795.0,1538259.0,"canadian pop, pop","14,795",,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Purpose Tour,2016-04-26,Justin Bieber,Post Malone Moxie Raia,92.35126029448465,16028.0,16028.0,1480206.0,"canadian pop, pop","16,028",,Quicken Loans Arena,Cleveland,Ohio,United States
+,Purpose Tour,2016-04-28,Justin Bieber,Post Malone Moxie Raia,95.69530857101805,13919.0,13919.0,1331983.0,"canadian pop, pop","13,919",,Schottenstein Center,Columbus,Ohio,United States
+,Purpose Tour,2016-04-29,Justin Bieber,Post Malone Moxie Raia,104.03432325534624,14917.0,14917.0,1551880.0,"canadian pop, pop","14,917",,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Purpose Tour,2016-04-05,Justin Bieber,Post Malone Moxie Raia,104.35229046487954,29470.0,29470.0,3075262.0,"canadian pop, pop","29,470",,Barclays Center,Brooklyn,New York,United States
+,Purpose Tour,2016-05-05,Justin Bieber,Post Malone Moxie Raia,104.35229046487954,29470.0,29470.0,3075262.0,"canadian pop, pop","29,470",,Barclays Center,Brooklyn,New York,United States
+,Purpose Tour,2016-07-05,Justin Bieber,Post Malone Moxie Raia,102.55438021942034,30535.0,30535.0,3131498.0,"canadian pop, pop","30,535",,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Purpose Tour,2016-08-05,Justin Bieber,Post Malone Moxie Raia,102.55438021942034,30535.0,30535.0,3131498.0,"canadian pop, pop","30,535",,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Purpose Tour,2016-10-05,Justin Bieber,Post Malone Moxie Raia,104.29666267689925,28406.0,28406.0,2962651.0,"canadian pop, pop","28,406",,TD Garden,Boston,Massachusetts,United States
+,Purpose Tour,2016-11-05,Justin Bieber,Post Malone Moxie Raia,104.29666267689925,28406.0,28406.0,2962651.0,"canadian pop, pop","28,406",,TD Garden,Boston,Massachusetts,United States
+,Purpose Tour,2016-05-13,Justin Bieber,The Knocks Moxie Raia,96.89749580200044,13697.0,13697.0,1327205.0,"canadian pop, pop","13,697",,Canadian Tire Centre,Ottawa,Ontario,Canada
+,Purpose Tour,2016-05-14,Justin Bieber,The Knocks Moxie Raia,94.07877836449263,14014.0,14014.0,1318420.0,"canadian pop, pop","14,014",,Videotron Centre,Quebec City,Quebec,Canada
+,Purpose Tour,2016-05-16,Justin Bieber,Post Malone Moxie Raia,95.1706568062171,15956.0,15956.0,1518543.0,"canadian pop, pop","15,956",,Bell Centre,Montreal,Quebec,Canada
+,Purpose Tour,2016-05-18,Justin Bieber,Post Malone Moxie Raia,94.81214662346738,31482.0,31482.0,2984876.0,"canadian pop, pop","31,482",,Air Canada Centre,Toronto,Ontario,Canada
+,Purpose Tour,2016-05-19,Justin Bieber,Post Malone Moxie Raia,94.81214662346738,31482.0,31482.0,2984876.0,"canadian pop, pop","31,482",,Air Canada Centre,Toronto,Ontario,Canada
+,Purpose Tour,2016-11-06,Justin Bieber,Moxie Raia,96.56558717697088,12228.0,12228.0,1180804.0,"canadian pop, pop","12,228",,MTS Centre,Winnipeg,Manitoba,Canada
+,Purpose Tour,2016-06-13,Justin Bieber,Post Malone Moxie Raia,95.97419653893697,12944.0,12944.0,1242290.0,"canadian pop, pop","12,944",,Scotiabank Saddledome,Calgary,Alberta,Canada
+,Purpose Tour,2016-06-14,Justin Bieber,Post Malone Moxie Raia,93.62237356904797,13802.0,13802.0,1292176.0,"canadian pop, pop","13,802",,Rexall Place,Edmonton,Alberta,Canada
+,Purpose Tour,2016-06-16,Justin Bieber,Post Malone Moxie Raia,91.23428302331055,12741.0,12741.0,1162416.0,"canadian pop, pop","12,741",,SaskTel Centre,Saskatoon,Saskatchewan,Canada
+,Purpose Tour,2016-06-18,Justin Bieber,Post Malone Moxie Raia,94.59633764356276,12451.0,12451.0,1177819.0,"canadian pop, pop","12,451",,Fargodome,Fargo,North Dakota,United States
+,Purpose Tour,2016-06-19,Justin Bieber,Post Malone Moxie Raia,104.4654435094496,14498.0,14498.0,1514540.0,"canadian pop, pop","14,498",,Target Center,Minneapolis,Minnesota,United States
+,Purpose Tour,2016-06-21,Justin Bieber,Post Malone Moxie Raia,95.3976088289393,13048.0,13048.0,1244748.0,"canadian pop, pop","13,048",,Pinnacle Bank Arena,Lincoln,Nebraska,United States
+,Purpose Tour,2016-06-22,Justin Bieber,Post Malone Moxie Raia,95.60545621274645,13086.0,13086.0,1251093.0,"canadian pop, pop","13,086",,Wells Fargo Arena,Des Moines,Iowa,United States
+,Purpose Tour,2016-06-24,Justin Bieber,Post Malone Moxie Raia,95.28070595751475,12522.0,12522.0,1193105.0,"canadian pop, pop","12,522",,U.S. Bank Arena,Cincinnati,Ohio,United States
+,Purpose Tour,2016-06-25,Justin Bieber,Post Malone Moxie Raia,94.65694646948552,14403.0,14403.0,1363344.0,"canadian pop, pop","14,403",,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Purpose Tour,2016-06-27,Justin Bieber,Post Malone Moxie Raia,97.38388726781012,14051.0,14051.0,1368341.0,"canadian pop, pop","14,051",,Bridgestone Arena,Nashville,Tennessee,United States
+,Purpose Tour,2016-06-29,Justin Bieber,Post Malone Moxie Raia,96.3230371009491,11590.0,11590.0,1116384.0,"canadian pop, pop","11,590",,Jacksonville Arena,Jacksonville,Florida,United States
+,Purpose Tour,2016-06-30,Justin Bieber,Post Malone Moxie Raia,95.84588164433067,13282.0,13282.0,1273025.0,"canadian pop, pop","13,282",,Amway Center,Orlando,Florida,United States
+,Purpose Tour,2016-02-07,Justin Bieber,Post Malone Moxie Raia,104.97375920648432,27019.0,27019.0,2836286.0,"canadian pop, pop","27,019",,American Airlines Arena,Miami,Florida,United States
+,Purpose Tour,2016-03-07,Justin Bieber,Post Malone Moxie Raia,104.97375920648432,27019.0,27019.0,2836286.0,"canadian pop, pop","27,019",,American Airlines Arena,Miami,Florida,United States
+,Purpose Tour,2016-06-07,Justin Bieber,Post Malone Moxie Raia,95.80690399137,14832.0,14832.0,1421008.0,"canadian pop, pop","14,832",,Greensboro Coliseum,Greensboro,North Carolina,United States
+,Purpose Tour,2016-07-07,Justin Bieber,Post Malone Moxie Raia,89.99166979362101,13325.0,13325.0,1199139.0,"canadian pop, pop","13,325",,Royal Farms Arena,Baltimore,Maryland,United States
+,Purpose Tour,2016-09-07,Justin Bieber,Post Malone Moxie Raia,107.39595312613729,13739.0,13739.0,1475513.0,"canadian pop, pop","13,739",,Prudential Center,Newark,New Jersey,United States
+,Purpose Tour,2016-10-07,Justin Bieber,Post Malone Moxie Raia,98.05658005029338,11930.0,11930.0,1169815.0,"canadian pop, pop","11,930",,XL Center,Hartford,Connecticut,United States
+,Purpose Tour,2016-12-07,Justin Bieber,Post Malone Moxie Raia,95.44446755407654,14424.0,14424.0,1376691.0,"canadian pop, pop","14,424",,First Niagara Center,Buffalo,New York,United States
+,Purpose Tour,2016-07-13,Justin Bieber,Post Malone Moxie Raia,93.3253377446926,14508.0,14508.0,1353964.0,"canadian pop, pop","14,508",,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,Purpose Tour,2016-07-15,Justin Bieber,Post Malone Moxie Raia,96.74581027359888,12829.0,12829.0,1241152.0,"canadian pop, pop","12,829",,Boardwalk Hall,Atlantic City,New Jersey,United States
+,Purpose Tour,2016-07-18,Justin Bieber,Post Malone Moxie Raia,113.50977060322856,29425.0,29425.0,3340025.0,"canadian pop, pop","29,425",,Madison Square Garden,New York City,New York,United States
+,Purpose Tour,2016-07-19,Justin Bieber,Post Malone Moxie Raia,113.50977060322856,29425.0,29425.0,3340025.0,"canadian pop, pop","29,425",,Madison Square Garden,New York City,New York,United States
+,Purpose Tour,2016-08-13,Justin Bieber,,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
+,Purpose Tour,2016-08-14,Justin Bieber,,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",90000,,Hylands Park,Chelmsford,Essex,England
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",90000,,Weston Park,Staffordshire,Staffordshire,England
+,Purpose Tour,2016-08-09,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,Capital Region,Iceland
+,Purpose Tour,2016-09-09,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,Capital Region,Iceland
+,Purpose Tour,2016-09-14,Justin Bieber,Vic Mensa,91.4105215827338,13344.0,13344.0,1219782.0,"canadian pop, pop","13,344",,Mercedes-Benz Arena,Berlin,Berlin,Germany
+,Purpose Tour,2016-09-16,Justin Bieber,Vic Mensa,96.6131475310512,13204.0,13204.0,1275680.0,"canadian pop, pop","13,204",,Olympiahalle,Munich,Bavaria,Germany
+,Purpose Tour,2016-09-18,Justin Bieber,Vic Mensa,84.44825708061002,16524.0,16524.0,1395423.0,"canadian pop, pop","16,524",,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,Purpose Tour,2016-09-20,Justin Bieber,The Knocks Vic Mensa,80.07290468939371,32179.0,32179.0,2576666.0,"canadian pop, pop","32,179",,AccorHotels Arena,Paris,Île-de-France,France
+,Purpose Tour,2016-09-21,Justin Bieber,The Knocks Vic Mensa,80.07290468939371,32179.0,32179.0,2576666.0,"canadian pop, pop","32,179",,AccorHotels Arena,Paris,Île-de-France,France
+,Purpose Tour,2016-09-23,Justin Bieber,The Knocks,87.3442985364991,45234.0,45234.0,3950932.0,"canadian pop, pop","45,234",,Telenor Arena,Oslo,Oslo,Norway
+,Purpose Tour,2016-09-24,Justin Bieber,The Knocks,87.3442985364991,45234.0,45234.0,3950932.0,"canadian pop, pop","45,234",,Telenor Arena,Oslo,Oslo,Norway
+,Purpose Tour,2016-09-26,Justin Bieber,The Knocks,106.4489166738032,23354.0,23354.0,2486008.0,"canadian pop, pop","23,354",,Hartwall Arena,Helsinki,Uusimaa,Finland
+,Purpose Tour,2016-09-27,Justin Bieber,The Knocks,106.4489166738032,23354.0,23354.0,2486008.0,"canadian pop, pop","23,354",,Hartwall Arena,Helsinki,Uusimaa,Finland
+,Purpose Tour,2016-09-29,Justin Bieber,The Knocks MiC Lowry,68.96927437641723,79380.0,79380.0,5474781.0,"canadian pop, pop","79,380",,Tele2 Arena,Stockholm,Stockholm County,Sweden
+,Purpose Tour,2016-09-30,Justin Bieber,The Knocks MiC Lowry,68.96927437641723,79380.0,79380.0,5474781.0,"canadian pop, pop","79,380",,Tele2 Arena,Stockholm,Stockholm County,Sweden
+,Purpose Tour,2016-02-10,Justin Bieber,The Knocks MiC Lowry,70.78844949099452,51080.0,51080.0,3615874.0,"canadian pop, pop","51,080",,Telia Parken,Copenhagen,Capital Region of Denmark,Denmark
+,Purpose Tour,2016-05-10,Justin Bieber,The Knocks MiC Lowry,76.83116227137388,37616.0,37616.0,2890081.0,"canadian pop, pop","37,616",,Sportpaleis,Antwerp,Flanders,Belgium
+,Purpose Tour,2016-06-10,Justin Bieber,The Knocks MiC Lowry,76.83116227137388,37616.0,37616.0,2890081.0,"canadian pop, pop","37,616",,Sportpaleis,Antwerp,Flanders,Belgium
+,Purpose Tour,2016-08-10,Justin Bieber,The Knocks MiC Lowry,74.34611234168229,70428.0,70428.0,5236048.0,"canadian pop, pop","70,428",,GelreDome,Arnhem,Gelderland,Netherlands
+,Purpose Tour,2016-09-10,Justin Bieber,The Knocks MiC Lowry,74.34611234168229,70428.0,70428.0,5236048.0,"canadian pop, pop","70,428",,GelreDome,Arnhem,Gelderland,Netherlands
+,Purpose Tour,2016-11-10,Justin Bieber,The Knocks MiC Lowry,76.18677585019103,63868.0,63868.0,4865897.0,"canadian pop, pop","63,868",,The O2 Arena,London,England,England
+,Purpose Tour,2016-12-10,Justin Bieber,The Knocks MiC Lowry,76.18677585019103,63868.0,63868.0,4865897.0,"canadian pop, pop","63,868",,The O2 Arena,London,England,England
+,Purpose Tour,2016-10-14,Justin Bieber,The Knocks MiC Lowry,76.18677585019103,63868.0,63868.0,4865897.0,"canadian pop, pop","63,868",,The O2 Arena,London,England,England
+,Purpose Tour,2016-10-15,Justin Bieber,The Knocks MiC Lowry,76.18677585019103,63868.0,63868.0,4865897.0,"canadian pop, pop","63,868",,The O2 Arena,London,England,England
+,Purpose Tour,2016-10-17,Justin Bieber,The Knocks MiC Lowry,78.62007099683393,31269.0,31269.0,2458371.0,"canadian pop, pop","31,269",,Barclaycard Arena,Birmingham,England,England
+,Purpose Tour,2016-10-18,Justin Bieber,The Knocks MiC Lowry,78.62007099683393,31269.0,31269.0,2458371.0,"canadian pop, pop","31,269",,Barclaycard Arena,Birmingham,England,England
+,Purpose Tour,2016-10-20,Justin Bieber,The Knocks MiC Lowry,74.62358326947123,49586.0,49586.0,3700285.0,"canadian pop, pop","49,586",,Manchester Arena,Manchester,England,England
+,Purpose Tour,2016-10-21,Justin Bieber,The Knocks MiC Lowry,74.62358326947123,49586.0,49586.0,3700285.0,"canadian pop, pop","49,586",,Manchester Arena,Manchester,England,England
+,Purpose Tour,2016-10-23,Justin Bieber,The Knocks MiC Lowry,74.62358326947123,49586.0,49586.0,3700285.0,"canadian pop, pop","49,586",,Manchester Arena,Manchester,England,England
+,Purpose Tour,2016-10-24,Justin Bieber,The Knocks MiC Lowry,78.08229792919171,14970.0,14970.0,1168892.0,"canadian pop, pop","14,970",,Genting Arena,Birmingham,England,England
+,Purpose Tour,2016-10-26,Justin Bieber,The Knocks MiC Lowry,78.8016912997105,13126.0,13126.0,1034351.0,"canadian pop, pop","13,126",,Sheffield Arena,Sheffield,South Yorkshire,England
+,Purpose Tour,2016-10-27,Justin Bieber,The Knocks MiC Lowry,77.60270206582358,38193.0,38193.0,2963880.0,"canadian pop, pop","38,193",,SSE Hydro,Glasgow,Scotland,Scotland
+,Purpose Tour,2016-10-29,Justin Bieber,The Knocks MiC Lowry,77.60270206582358,38193.0,38193.0,2963880.0,"canadian pop, pop","38,193",,SSE Hydro,Glasgow,Scotland,Scotland
+,Purpose Tour,2016-10-30,Justin Bieber,The Knocks MiC Lowry,77.60270206582358,38193.0,38193.0,2963880.0,"canadian pop, pop","38,193",,SSE Hydro,Glasgow,Scotland,Scotland
+,Purpose Tour,2016-01-11,Justin Bieber,The Knocks MiC Lowry,91.10027271649342,25301.0,25301.0,2304928.0,"canadian pop, pop","25,301",,3Arena,Dublin,Leinster,Ireland
+,Purpose Tour,2016-02-11,Justin Bieber,The Knocks MiC Lowry,91.10027271649342,25301.0,25301.0,2304928.0,"canadian pop, pop","25,301",,3Arena,Dublin,Leinster,Ireland
+,Purpose Tour,2016-08-11,Justin Bieber,The Knocks MiC Lowry,89.3019139354516,15988.0,15988.0,1427759.0,"canadian pop, pop","15,988",,Wiener Stadthalle,Vienna,Vienna,Austria
+,Purpose Tour,2016-09-11,Justin Bieber,The Knocks MiC Lowry,73.29470253549135,18103.0,18103.0,1326854.0,"canadian pop, pop","18,103",,Arena Zagreb,Zagreb,City of Zagreb,Croatia
+,Purpose Tour,2016-11-11,Justin Bieber,The Knocks MiC Lowry,82.49387882573392,16010.0,16010.0,1320727.0,"canadian pop, pop","16,010",,Tauron Arena,Kraków,Lesser Poland Voivodeship,Poland
+,Purpose Tour,2016-12-11,Justin Bieber,The Knocks MiC Lowry,61.418298520452566,18384.0,18384.0,1129114.0,"canadian pop, pop","18,384",,O2 Arena,Prague,Prague,Czech Republic
+,Purpose Tour,2016-11-14,Justin Bieber,The Knocks MiC Lowry,89.5349440450604,13493.0,13493.0,1208095.0,"canadian pop, pop","13,493",,Barclaycard Arena,Hamburg,Hamburg,Germany
+,Purpose Tour,2016-11-16,Justin Bieber,The Knocks MiC Lowry,103.00656544932292,12185.0,12185.0,1255135.0,"canadian pop, pop","12,185",,Festhalle,Frankfurt,Hesse,Germany
+,Purpose Tour,2016-11-17,Justin Bieber,The Knocks MiC Lowry,106.43815070986533,13735.0,13735.0,1461928.0,"canadian pop, pop","13,735",,Hallenstadion,Zürich,Zürich,Switzerland
+,Purpose Tour,2016-11-19,Justin Bieber,The Knocks MiC Lowry,75.22372164271647,27418.0,27418.0,2062484.0,"canadian pop, pop","27,418",,Unipol Arena,Bologna,Emilia-Romagna,Italy
+,Purpose Tour,2016-11-20,Justin Bieber,The Knocks MiC Lowry,75.22372164271647,27418.0,27418.0,2062484.0,"canadian pop, pop","27,418",,Unipol Arena,Bologna,Emilia-Romagna,Italy
+,Purpose Tour,2016-11-22,Justin Bieber,The Knocks MiC Lowry,82.92141575050482,17828.0,17828.0,1478323.0,"canadian pop, pop","17,828",,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Purpose Tour,2016-11-23,Justin Bieber,The Knocks MiC Lowry,101.41146853146851,14300.0,14537.0,1450184.0,"canadian pop, pop","14,537",,Barclaycard Center,Madrid,Community of Madrid,Spain
+,Purpose Tour,2016-11-25,Justin Bieber,The Knocks MiC Lowry,63.64742002063984,19380.0,19380.0,1233487.0,"canadian pop, pop","19,380",,MEO Arena,Lisbon,Lisbon District,Portugal
+,Purpose Tour,2016-11-28,Justin Bieber,The Knocks MiC Lowry,71.48269789285052,32366.0,32366.0,2313609.0,"canadian pop, pop","32,366",,The O2 Arena,London,England,England
+,Purpose Tour,2016-11-29,Justin Bieber,The Knocks MiC Lowry,71.48269789285052,32366.0,32366.0,2313609.0,"canadian pop, pop","32,366",,The O2 Arena,London,England,England
+,Purpose Tour,2017-02-15,Justin Bieber,—,76.67943340287691,45535.0,45535.0,3491598.0,"canadian pop, pop","45,535",,Estadio BBVA Bancomer,Monterrey,Nuevo León,Mexico
+,Purpose Tour,2017-02-18,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
+,Purpose Tour,2017-02-19,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
+,Purpose Tour,2017-02-21,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
+,Purpose Tour,2017-06-03,Justin Bieber,Martin Garrix Sheppard,116.87877657590452,24129.0,24129.0,2820168.0,"canadian pop, pop","24,129",,nib Stadium,Perth,Western Australia,Australia
+,Purpose Tour,2017-10-03,Justin Bieber,Martin Garrix Sheppard,100.0333448860838,54821.0,54821.0,5483928.0,"canadian pop, pop","54,821",,Etihad Stadium,Melbourne,Victoria,Australia
+,Purpose Tour,2017-03-13,Justin Bieber,Martin Garrix Sheppard,103.81429268292683,41000.0,41000.0,4256386.0,"canadian pop, pop","41,000",,Suncorp Stadium,Brisbane,Queensland,Australia
+,Purpose Tour,2017-03-15,Justin Bieber,Martin Garrix Sheppard,93.62420256394678,65836.0,65836.0,6163843.0,"canadian pop, pop","65,836",,ANZ Stadium,Sydney,New South Wales,Australia
+,Purpose Tour,2017-03-18,Justin Bieber,Martin Garrix Sheppard,103.85276679841895,35420.0,35420.0,3678465.0,"canadian pop, pop","35,420",,Mount Smart Stadium,Auckland,Auckland,New Zealand
+,Purpose Tour,2017-03-23,Justin Bieber,,116.45941860465116,43000.0,43000.0,5007755.0,"canadian pop, pop","43,000",,Estadio Nacional,Santiago,Santiago Metropolitan Region,Chile
+,Purpose Tour,2017-03-29,Justin Bieber,Rudy Mancuso,108.18139021460344,30801.0,30801.0,3332095.0,"canadian pop, pop","30,801",,Praça da Apoteose,Rio de Janeiro,Rio de Janeiro,Brazil
+,Purpose Tour,2017-01-04,Justin Bieber,Rudy Mancuso,104.08470313685952,88273.0,88273.0,9187869.0,"canadian pop, pop","88,273",,Allianz Parque,São Paulo,São Paulo,Brazil
+,Purpose Tour,2017-02-04,Justin Bieber,Rudy Mancuso,104.08470313685952,88273.0,88273.0,9187869.0,"canadian pop, pop","88,273",,Allianz Parque,São Paulo,São Paulo,Brazil
+,Purpose Tour,2017-05-04,Justin Bieber,"King Lotus, David Cabrera Morillos",92.66669322391746,25103.0,29365.0,2326212.0,"canadian pop, pop","29,365",,Estadio Nacional,Lima,Lima,Peru
+,Purpose Tour,2017-08-04,Justin Bieber,4 A.M.,108.86403004522111,13047.0,16254.0,1420349.0,"canadian pop, pop","16,254",,Estadio Olímpico Atahualpa,Quito,,Ecuador
+,Purpose Tour,2017-12-04,Justin Bieber,Ali Stone,107.80471703135814,18783.0,22507.0,2024896.0,"canadian pop, pop","22,507",,Estadio El Campín,Bogotá,Bogotá,Colombia
+,Purpose Tour,2017-04-15,Justin Bieber,,107.853722843282,9482.0,11024.0,1022669.0,"canadian pop, pop","11,024",,Hard Rock Hotel & Casino,Punta Cana,,Dominican Republic
+,Purpose Tour,2017-04-18,Justin Bieber,,127.89968152866244,12560.0,14194.0,1606420.0,"canadian pop, pop","14,194",,José Miguel Agrelot Coliseum,San Juan,San Juan,Puerto Rico
+,Purpose Tour,2017-04-21,Justin Bieber,,116.77983324648254,7676.0,7676.0,896402.0,"canadian pop, pop","7,676",,Plaza Figali,Panama City,Panama Province,Panama
+,Purpose Tour,2017-04-24,Justin Bieber,Bartosz Brenes,89.07580100098387,23377.0,26985.0,2082325.0,"canadian pop, pop","26,985",,Estadio Nacional,San Jose,California,Costa Rica
+,Purpose Tour,2017-03-05,Justin Bieber,Static & Ben El Tavori,109.06352876220711,57958.0,58000.0,6321104.0,"canadian pop, pop","58,000",,Yarkon Park,Tel Aviv,Tel Aviv,Israel
+,Purpose Tour,2017-06-05,Justin Bieber,Deen Squad Hamza Hawsawi Rodge,139.01136363636363,23936.0,29690.0,3327376.0,"canadian pop, pop","29,690",,Autism Rocks Arena,Dubai,Dubai,United Arab Emirates
+,Purpose Tour,2017-10-05,Justin Bieber,Sartek Zaeden Alan Walker,89.27024075579033,39376.0,39376.0,3515105.0,"canadian pop, pop","39,376",,DY Patil Stadium,Mumbai,Maharashtra,India
+,Purpose Tour,2017-05-14,Justin Bieber,Sketchy Bongo,52.26438128226025,58896.0,68984.0,3078163.0,"canadian pop, pop","68,984",,FNB Stadium,Johannesburg,Gauteng,South Africa
+,Purpose Tour,2017-05-17,Justin Bieber,Sketchy Bongo,58.3409308416864,39706.0,45214.0,2316485.0,"canadian pop, pop","45,214",,Cape Town Stadium,Cape Town,Western Cape,South Africa
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",60000,,Megaland,Landgraaf,Limburg,Netherlands
+,Purpose Tour,2017-06-03,Justin Bieber,Rudimental Gnash  Adam Daniel,80.0,36000.0,36000.0,2880000.0,"canadian pop, pop","36,000",,Jysk Væddeløbsbane,Aarhus,Central Denmark Region,Denmark
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",,,Forus Travbane,Stavanger,Rogaland,Norway
+,Purpose Tour,2017-06-07,Justin Bieber,—,,,,,"canadian pop, pop",,,Gärdet,Stockholm,Stockholm County,Sweden
+,Purpose Tour,2017-06-10,Justin Bieber,Halsey,98.16737261741622,32108.0,40236.0,3151958.0,"canadian pop, pop","40,236",,Stade de Suisse,Bern,Bern,Switzerland
+,Purpose Tour,,Justin Bieber,Martin Garrix Bastille Alma Mamacita,,,,,"canadian pop, pop",,,Autodromo Nazionale Monza,Monza,Lombardy,Italy
+,Purpose Tour,2017-06-18,Justin Bieber,Halsey,113.78080448895705,30653.0,31740.0,3487723.0,"canadian pop, pop","31,740",,RDS Arena,Dublin,Leinster,Ireland
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",50000,,Stade Pierre-Mauroy,Lille,Hauts-de-France,France
+,Purpose Tour,,Justin Bieber,,,,,,"canadian pop, pop",38000,,Commerzbank Arena,Frankfurt,Hesse,Germany
+,Purpose Tour,2017-06-25,Justin Bieber,Halsey,69.73648332205859,38434.0,45021.0,2680252.0,"canadian pop, pop","45,021",,Principality Stadium,Cardiff,Wales,Wales
+,Purpose Tour,,Justin Bieber,Martin Garrix Tove Lo  Anne-Marie,,,,,"canadian pop, pop",65000,,Hyde Park,London,England,England
