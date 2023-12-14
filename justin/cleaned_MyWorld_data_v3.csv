@@ -1,0 +1,93 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,My World Tour,2010-06-23,Justin Bieber,,29.377855619859883,13132,13132,385790,"canadian pop, pop",13132,,XL Center,Hartford,Connecticut,United States
+,My World Tour,2010-06-24,Justin Bieber,,35.396118569719526,7523,7523,266285,"canadian pop, pop",7523,,Sun National Bank Center,Trenton,New Jersey,United States
+,My World Tour,2010-06-26,Justin Bieber,,37.69706265105038,10758,12780,405545,"canadian pop, pop",12780,,U.S. Bank Arena,Cincinnati,Ohio,United States
+,My World Tour,2010-06-29,Justin Bieber,,23.04994224366379,14717,14717,339226,"canadian pop, pop",14717,,Target Center,Minneapolis,Minnesota,United States
+,My World Tour,2010-06-30,Justin Bieber,,24.743057772103416,9399,9650,232560,"canadian pop, pop",9650,,Wells Fargo Arena,Des Moines,Iowa,United States
+,My World Tour,2010-07-02,Justin Bieber,,37.04901036757776,10610,22000,393090,"canadian pop, pop",22000,,iWireless Center,Moline,Illinois,United States
+,My World Tour,2010-07-03,Justin Bieber,,19.222992638246875,11682,12093,224563,"canadian pop, pop",12093,,Qwest Center Omaha,Omaha,Nebraska,United States
+,My World Tour,2010-07-05,Justin Bieber,,17.258333333333333,6000,6000,103550,"canadian pop, pop",6000,,Verizon Theatre at Grand Prairie,Grand Prairie,Texas,United States
+,My World Tour,2010-07-06,Justin Bieber,,29.61671669360425,12993,12993,384810,"canadian pop, pop",12993,,BOK Center,Tulsa,Oklahoma,United States
+,My World Tour,2010-07-08,Justin Bieber,,50.77895923956823,6207,6207,315185,"canadian pop, pop",6207,,1stBank Center,Broomfield,Colorado,United States
+,My World Tour,2010-07-10,Justin Bieber,,18.059737502412663,10362,10362,187135,"canadian pop, pop",10362,,Maverik Center,West Valley City,Utah,United States
+,My World Tour,2010-07-13,Justin Bieber,,12.82859804378202,8588,8588,110172,"canadian pop, pop",8588,,Comcast Arena at Everett,Everett,Washington,United States
+,My World Tour,2010-07-14,Justin Bieber,,26.09468438538206,13244,13244,345598,"canadian pop, pop",13244,,Rose Garden,Portland,Oregon,United States
+,My World Tour,2010-07-17,Justin Bieber,,20.19381655788389,14555,14555,293921,"canadian pop, pop",14555,,Oracle Arena,Oakland,California,United States
+,My World Tour,2010-07-18,Justin Bieber,,17.624487315813457,6583,6583,116022,"canadian pop, pop",6583,,Reno Events Center,Reno,Nevada,United States
+,My World Tour,2010-07-20,Justin Bieber,,36.80533493181478,6673,6673,245602,"canadian pop, pop",6673,,Nokia Theatre L.A. Live,Los Angeles,California,United States
+,My World Tour,2010-07-24,Justin Bieber,,35.08166862514689,6808,6808,238836,"canadian pop, pop",6808,,Planet Hollywood Theatre,Las Vegas,Nevada,United States
+,My World Tour,2010-07-25,Justin Bieber,,18.55883630047764,13818,13818,256446,"canadian pop, pop",13818,,Jobingcom Arena,Glendale,Arizona,United States
+,My World Tour,2010-07-28,Justin Bieber,,21.248601615910506,14481,14481,307701,"canadian pop, pop",14481,,Sprint Center,Kansas City,Missouri,United States
+,My World Tour,2010-07-29,Justin Bieber,,15.71029540801404,13676,15800,214854,"canadian pop, pop",15800,,Verizon Arena,North Little Rock,,United States
+,My World Tour,2010-07-31,Justin Bieber,,29.657818181818183,13750,14750,407795,"canadian pop, pop",14750,,FedExForum,Memphis,Tennessee,United States
+,My World Tour,2010-08-01,Justin Bieber,,33.16679440505844,10438,10438,346195,"canadian pop, pop",10438,,Cajundome,Lafayette,Louisiana,United States
+,My World Tour,2010-08-04,Justin Bieber,,19.28122699386503,12225,12225,235713,"canadian pop, pop",12225,,Amway Arena,Orlando,Florida,United States
+,My World Tour,2010-08-05,Justin Bieber,,10.057288712422007,14104,14104,141848,"canadian pop, pop",14104,,BankAtlantic Center,Sunrise,Florida,United States
+,My World Tour,2010-08-08,Justin Bieber,,16.824674048352225,15263,15263,256795,"canadian pop, pop",15263,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,My World Tour,2010-08-09,Justin Bieber,,29.60143558745749,10588,10588,313420,"canadian pop, pop",10588,,The Arena at Gwinnett Center,Duluth,Georgia,United States
+,My World Tour,2010-08-11,Justin Bieber,,27.490414778668526,14345,14345,394350,"canadian pop, pop",14345,,Bridgestone Arena,Nashville,Tennessee,United States
+,My World Tour,2010-08-12,Justin Bieber,,16.528985507246375,14490,14490,239505,"canadian pop, pop",14490,,Conseco Fieldhouse,Indianapolis,Indiana,United States
+,My World Tour,2010-08-14,Justin Bieber,,24.8164484917473,14056,14056,348820,"canadian pop, pop",14056,,Schottenstein Center,Columbus,Ohio,United States
+,My World Tour,2010-08-15,Justin Bieber,,32.042382076977084,15667,15667,502008,"canadian pop, pop",15667,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,My World Tour,2010-08-21,Justin Bieber,,28.29882085881834,15859,15859,448791,"canadian pop, pop",15859,,Air Canada Centre,Toronto,Ontario,Canada
+,My World Tour,2010-08-22,Justin Bieber,,25.973891195105963,9154,9154,237765,"canadian pop, pop",9154,,John Labatt Centre,London,England,Canada
+,My World Tour,2010-08-24,Justin Bieber,,24.57861943433212,14284,14284,351081,"canadian pop, pop",14284,,Scotiabank Place,Ottawa,Ontario,Canada
+,My World Tour,2010-08-25,Justin Bieber,,28.83407785577537,12536,12536,361464,"canadian pop, pop",12536,,Times Union Center,Albany,New York,United States
+,My World Tour,2010-08-27,Justin Bieber,,24.9001963012708,9679,9679,241009,"canadian pop, pop",9679,,Dunkin' Donuts Center,Providence,,United States
+,My World Tour,2010-08-28,Justin Bieber,,17.16073734041027,13942,13942,239255,"canadian pop, pop",13942,,Prudential Center,Newark,New Jersey,United States
+,My World Tour,2010-08-31,Justin Bieber,,26.082042810929863,14529,14529,378946,"canadian pop, pop",14529,,Madison Square Garden,New York City,New York,United States
+,My World Tour,2010-09-03,Justin Bieber,,46.056163021868784,8048,9422,370660,"canadian pop, pop",9422,,Champlain Valley Expo,Essex Junction,Vermont,United States
+,My World Tour,2010-09-14,Justin Bieber,,35.11310578006762,12422,12422,436175,"canadian pop, pop",12422,,MTS Centre,Winnipeg,Manitoba,Canada
+,My World Tour,2010-09-16,Justin Bieber,,51.6734845116348,6747,6747,348641,"canadian pop, pop",6747,,Brandt Centre,Regina,Saskatchewan,Canada
+,My World Tour,2010-09-17,Justin Bieber,,26.729918064170302,13059,13059,349066,"canadian pop, pop",13059,,Credit Union Centre,Saskatoon,Saskatchewan,Canada
+,My World Tour,2010-09-19,Justin Bieber,,20.19172552976791,13874,13874,280140,"canadian pop, pop",13874,,Rexall Place,Edmonton,Alberta,Canada
+,My World Tour,2010-09-20,Justin Bieber,,36.57676527747787,13893,13893,508161,"canadian pop, pop",13893,,Pengrowth Saddledome,Calgary,Alberta,Canada
+,My World Tour,2010-10-08,Justin Bieber,,54.24648559251956,15721,15721,852809,"canadian pop, pop",15721,,Blaisdell Arena,Honolulu,Hawaii,United States
+,My World Tour,2010-10-09,Justin Bieber,,54.24648559251956,15721,15721,852809,"canadian pop, pop",15721,,Blaisdell Arena,Honolulu,Hawaii,United States
+,My World Tour,2010-10-19,Justin Bieber,,18.07403181421572,14899,14899,269285,"canadian pop, pop",14899,,Rogers Arena,Vancouver,British Columbia,Canada
+,My World Tour,2010-10-22,Justin Bieber,,30.03495472731101,9498,13498,285272,"canadian pop, pop",13498,,ARCO Arena,Sacramento,California,United States
+,My World Tour,2010-10-24,Justin Bieber,,22.78743220938458,8482,8482,193283,"canadian pop, pop",8482,,Citizens Business Bank Arena,Ontario,California,United States
+,My World Tour,2010-10-25,Justin Bieber,,39.45711759504863,13572,13572,535512,"canadian pop, pop",13572,,Staples Center,Los Angeles,California,United States
+,My World Tour,2010-10-27,Justin Bieber,,41.30457835381249,11882,11882,490781,"canadian pop, pop",11882,,Honda Center,Anaheim,California,United States
+,My World Tour,2010-10-28,Justin Bieber,,33.936923739767344,11605,12411,393838,"canadian pop, pop",12411,,HP Pavilion,San Jose,California,United States
+,My World Tour,2010-10-30,Justin Bieber,,23.41509103641457,11424,11424,267494,"canadian pop, pop",11424,,Valley View Casino Center,San Diego,California,United States
+,My World Tour,2010-11-03,Justin Bieber,,23.466245086310032,11702,12316,274602,"canadian pop, pop",12316,,Oklahoma City Arena,Oklahoma City,Oklahoma,United States
+,My World Tour,2010-11-05,Justin Bieber,,21.69392348087021,14663,14663,318098,"canadian pop, pop",14663,,AT&T Center,San Antonio,Texas,United States
+,My World Tour,2010-11-06,Justin Bieber,,34.98217495506291,13352,13352,467082,"canadian pop, pop",13352,,Toyota Center,Houston,Texas,United States
+,My World Tour,2010-11-08,Justin Bieber,,14.366387948310416,14471,14471,207896,"canadian pop, pop",14471,,Scottrade Center,St. Louis,Missouri,United States
+,My World Tour,2010-11-10,Justin Bieber,,23.49858872232328,15943,15943,374638,"canadian pop, pop",15943,,KFC Yum! Center,Louisville,Kentucky,United States
+,My World Tour,2010-11-11,Justin Bieber,,21.979292493528902,10431,10616,229266,"canadian pop, pop",10616,,Wolstein Center,Cleveland,Ohio,United States
+,My World Tour,2010-11-13,Justin Bieber,,28.385311221193195,9286,9286,263586,"canadian pop, pop",9286,,Norfolk Scope,Norfolk,Virginia,United States
+,My World Tour,2010-11-14,Justin Bieber,,39.27609837325477,15614,15614,613257,"canadian pop, pop",15614,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,My World Tour,2010-11-16,Justin Bieber,,38.578125,14080,14080,543180,"canadian pop, pop",14080,,TD Garden,Boston,Massachusetts,United States
+,My World Tour,2010-11-17,Justin Bieber,,40.10625838721484,16394,16394,657502,"canadian pop, pop",16394,,Izod Center,East Rutherford,New Jersey,United States
+,My World Tour,2010-11-20,Justin Bieber,,37.373414435130925,13481,13481,503831,"canadian pop, pop",13481,,Boardwalk Hall,Atlantic City,New Jersey,United States
+,My World Tour,2010-11-22,Justin Bieber,,25.37392373923739,16260,16260,412580,"canadian pop, pop",16260,,Bell Centre,Montreal,Quebec,Canada
+,My World Tour,2010-11-23,Justin Bieber,,22.68357473405854,16639,16639,377432,"canadian pop, pop",16639,,Air Canada Centre,Toronto,Ontario,Canada
+,My World Tour,2010-12-09,Justin Bieber,,46.48279569892473,9300,9300,432290,"canadian pop, pop",9300,,Verizon Wireless Arena,Manchester,New Hampshire,United States
+,My World Tour,2010-12-13,Justin Bieber,,57.64619903990829,13957,13957,804568,"canadian pop, pop",13957,,Consol Energy Center,Pittsburgh,Pennsylvania,United States
+,My World Tour,2010-12-15,Justin Bieber,,47.97767582003698,14603,14603,700618,"canadian pop, pop",14603,,Greensboro Coliseum,Greensboro,North Carolina,United States
+,My World Tour,2010-12-16,Justin Bieber,,49.03339281162376,11769,11769,577074,"canadian pop, pop",11769,,BI-LO Center,Greenville,South Carolina,United States
+,My World Tour,2010-12-18,Justin Bieber,,48.93851909366838,14167,14167,693312,"canadian pop, pop",14167,,American Airlines Arena,Miami,Florida,United States
+,My World Tour,2010-12-19,Justin Bieber,,48.3041345480028,14270,14270,689300,"canadian pop, pop",14270,,St. Pete Times Forum,Tampa,Florida,United States
+,My World Tour,2010-12-21,Justin Bieber,,48.473680389167214,13773,13773,667628,"canadian pop, pop",13773,,BJCC Arena,Birmingham,Alabama,United States
+,My World Tour,2010-12-23,Justin Bieber,,58.66009255962976,14045,14045,823881,"canadian pop, pop",14045,,Philips Arena,Atlanta,Georgia,United States
+,My World Tour,2011-03-14,Justin Bieber,,55.02615480649189,16020,16020,881519,"canadian pop, pop",16020,,The O2 Arena,London,England,England
+,My World Tour,2011-03-30,Justin Bieber,,58.8479609929078,13536,13536,796566,"canadian pop, pop",13536,,Sportpaleis,Antwerp,Flanders,Belgium
+,My World Tour,2011-04-26,Justin Bieber,,58.90194306371441,11065,11065,651750,"canadian pop, pop",11065,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,My World Tour,2011-04-28,Justin Bieber,,23.48834842780096,29481,29481,692460,"canadian pop, pop",29481,,Acer Arena,Sydney,New South Wales,Australia
+,My World Tour,2011-04-29,Justin Bieber,,23.48834842780096,29481,29481,692460,"canadian pop, pop",29481,,Acer Arena,Sydney,New South Wales,Australia
+,My World Tour,2011-05-02,Justin Bieber,,31.6140653144334,25538,25538,807360,"canadian pop, pop",25538,,Rod Laver Arena,Melbourne,Victoria,Australia
+,My World Tour,2011-05-03,Justin Bieber,,31.6140653144334,25538,25538,807360,"canadian pop, pop",25538,,Rod Laver Arena,Melbourne,Victoria,Australia
+,My World Tour,2011-05-05,Justin Bieber,,107.5096357226792,8510,8510,914907,"canadian pop, pop",8510,,Adelaide Entertainment Arena,Adelaide,South Australia,Australia
+,My World Tour,2011-05-07,Justin Bieber,,234.59885506841664,7162,7162,1680197,"canadian pop, pop",7162,,Burswood Dome,Perth,Western Australia,Australia
+,My World Tour,2011-10-01,Justin Bieber,,63.81422778430687,94449,106028,6027190,"canadian pop, pop",106028,,Foro Sol,Mexico City,Mexico City,Mexico
+,My World Tour,2011-10-02,Justin Bieber,,63.81422778430687,94449,106028,6027190,"canadian pop, pop",106028,,Foro Sol,Mexico City,Mexico City,Mexico
+,My World Tour,2011-10-05,Justin Bieber,,11.151655814153395,46533,57189,518920,"canadian pop, pop",57189,,Estádio Olímpico João Havelange,Rio de Janeiro,Rio de Janeiro,Brazil
+,My World Tour,2011-10-06,Justin Bieber,,11.151655814153395,46533,57189,518920,"canadian pop, pop",57189,,Estádio Olímpico João Havelange,Rio de Janeiro,Rio de Janeiro,Brazil
+,My World Tour,2011-10-10,Justin Bieber,,22.35964827519567,20698,48675,462800,"canadian pop, pop",48675,,Estádio Beira-Rio,Porto Alegre,Rio Grande do Sul,Brazil
+,My World Tour,2011-10-12,Justin Bieber,,4.654595848522279,66386,80386,309000,"canadian pop, pop",80386,,Estadio River Plate,Buenos Aires,Buenos Aires,Argentina
+,My World Tour,2011-10-13,Justin Bieber,,4.654595848522279,66386,80386,309000,"canadian pop, pop",80386,,Estadio River Plate,Buenos Aires,Buenos Aires,Argentina
+,My World Tour,2011-10-15,Justin Bieber,,4.226317925465665,71457,73000,302000,"canadian pop, pop",73000,,Estadio Nacional de Chile,Santiago,Santiago Metropolitan Region,Chile
+,My World Tour,2011-10-17,Justin Bieber,,11.43846113195582,18923,33769,216450,"canadian pop, pop",33769,,Estadio Nacional de Lima,Lima,Lima,Peru
+,My World Tour,2011-10-19,Justin Bieber,,22.062274714318583,13039,15591,287670,"canadian pop, pop",15591,,Estadio de Fútbol USB,Caracas,Capital District,Venezuela
