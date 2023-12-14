@@ -63,10 +63,8 @@ event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tick
 ,Purpose Tour,2016-07-15,Justin Bieber,Post Malone Moxie Raia,96.74581027359888,12829.0,12829.0,1241152.0,"canadian pop, pop","12,829",,Boardwalk Hall,Atlantic City,New Jersey,United States
 ,Purpose Tour,2016-07-18,Justin Bieber,Post Malone Moxie Raia,113.50977060322855,29425.0,29425.0,3340025.0,"canadian pop, pop","29,425",,Madison Square Garden,New York City,New York,United States
 ,Purpose Tour,2016-07-19,Justin Bieber,Post Malone Moxie Raia,113.50977060322855,29425.0,29425.0,3340025.0,"canadian pop, pop","29,425",,Madison Square Garden,New York City,New York,United States
-,Purpose Tour,,Justin Bieber,Asia,,,,,"canadian pop, pop",,,Asia,Asia,,Asia
 ,Purpose Tour,2016-08-13,Justin Bieber,—,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
 ,Purpose Tour,2016-08-14,Justin Bieber,—,119.2232,25000.0,25000.0,2980580.0,"canadian pop, pop","25,000",,Makuhari Messe,Chiba,Chiba,Japan
-,Purpose Tour,,Justin Bieber,Europe[33],,,,,"canadian pop, pop",,,Europe[33],Europe[33],,Europe[33]
 ,Purpose Tour,,Justin Bieber,—,,,,,"canadian pop, pop",90000,,Hylands Park,Chelmsford,,England
 ,Purpose Tour,,Justin Bieber,—,,,,,"canadian pop, pop",90000,,Weston Park,Staffordshire,,England
 ,Purpose Tour,2016-08-09,Justin Bieber,Sturla Atlas Vic Mensa,143.5753589545181,34893.0,34893.0,5009775.0,"canadian pop, pop","34,893",,Kórinn,Kópavogur,,Iceland
@@ -117,18 +115,15 @@ event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tick
 ,Purpose Tour,2016-11-25,Justin Bieber,The Knocks MiC Lowry,63.647420020639835,19380.0,19380.0,1233487.0,"canadian pop, pop","19,380",,MEO Arena,Lisbon,Lisbon District,Portugal
 ,Purpose Tour,2016-11-28,Justin Bieber,The Knocks MiC Lowry,71.48269789285052,32366.0,32366.0,2313609.0,"canadian pop, pop","32,366",,The O2 Arena,London,England,England
 ,Purpose Tour,2016-11-29,Justin Bieber,The Knocks MiC Lowry,71.48269789285052,32366.0,32366.0,2313609.0,"canadian pop, pop","32,366",,The O2 Arena,London,England,England
-,Purpose Tour,,Justin Bieber,Latin America[34],,,,,"canadian pop, pop",,,Latin America[34],Latin America[34],,Latin America[34]
 ,Purpose Tour,2017-02-15,Justin Bieber,—,76.67943340287691,45535.0,45535.0,3491598.0,"canadian pop, pop","45,535",,Estadio BBVA Bancomer,Monterrey,Nuevo León,Mexico
 ,Purpose Tour,2017-02-18,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
 ,Purpose Tour,2017-02-19,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
 ,Purpose Tour,2017-02-21,Justin Bieber,Robin Schulz,60.181545222002434,155201.0,155201.0,9340236.0,"canadian pop, pop","155,201",,Foro Sol,Mexico City,Mexico City,Mexico
-,Purpose Tour,,Justin Bieber,Oceania[34],,,,,"canadian pop, pop",,,Oceania[34],Oceania[34],,Oceania[34]
 ,Purpose Tour,2017-06-03,Justin Bieber,Martin Garrix Sheppard,116.87877657590451,24129.0,24129.0,2820168.0,"canadian pop, pop","24,129",,nib Stadium,Perth,Western Australia,Australia
 ,Purpose Tour,2017-10-03,Justin Bieber,Martin Garrix Sheppard,100.0333448860838,54821.0,54821.0,5483928.0,"canadian pop, pop","54,821",,Etihad Stadium,Melbourne,Victoria,Australia
 ,Purpose Tour,2017-03-13,Justin Bieber,Martin Garrix Sheppard,103.81429268292683,41000.0,41000.0,4256386.0,"canadian pop, pop","41,000",,Suncorp Stadium,Brisbane,Queensland,Australia
 ,Purpose Tour,2017-03-15,Justin Bieber,Martin Garrix Sheppard,93.62420256394678,65836.0,65836.0,6163843.0,"canadian pop, pop","65,836",,ANZ Stadium,Sydney,New South Wales,Australia
 ,Purpose Tour,2017-03-18,Justin Bieber,Martin Garrix Sheppard,103.85276679841897,35420.0,35420.0,3678465.0,"canadian pop, pop","35,420",,Mount Smart Stadium,Auckland,Auckland,New Zealand
-,Purpose Tour,,Justin Bieber,Latin America[35][36],,,,,"canadian pop, pop",,,Latin America[35][36],Latin America[35][36],,Latin America[35][36]
 ,Purpose Tour,2017-03-23,Justin Bieber,—,116.45941860465116,43000.0,43000.0,5007755.0,"canadian pop, pop","43,000",,Estadio Nacional,Santiago,Santiago Metropolitan Region,Chile
 ,Purpose Tour,2017-03-29,Justin Bieber,Rudy Mancuso,108.18139021460343,30801.0,30801.0,3332095.0,"canadian pop, pop","30,801",,Praça da Apoteose,Rio de Janeiro,Rio de Janeiro,Brazil
 ,Purpose Tour,2017-01-04,Justin Bieber,Rudy Mancuso,104.08470313685952,88273.0,88273.0,9187869.0,"canadian pop, pop","88,273",,Allianz Parque,São Paulo,São Paulo,Brazil
@@ -140,14 +135,11 @@ event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tick
 ,Purpose Tour,2017-04-18,Justin Bieber,—,127.89968152866243,12560.0,14194.0,1606420.0,"canadian pop, pop","14,194",,José Miguel Agrelot Coliseum,San Juan,San Juan,Puerto Rico
 ,Purpose Tour,2017-04-21,Justin Bieber,—,116.77983324648254,7676.0,7676.0,896402.0,"canadian pop, pop","7,676",,Plaza Figali,Panama City,,Panama
 ,Purpose Tour,2017-04-24,Justin Bieber,Bartosz Brenes,89.07580100098387,23377.0,26985.0,2082325.0,"canadian pop, pop","26,985",,Estadio Nacional,San Jose,California,Costa Rica
-,Purpose Tour,,Justin Bieber,Asia[37][38],,,,,"canadian pop, pop",,,Asia[37][38],Asia[37][38],,Asia[37][38]
 ,Purpose Tour,2017-03-05,Justin Bieber,Static & Ben El Tavori,109.06352876220711,57958.0,58000.0,6321104.0,"canadian pop, pop","58,000",,Yarkon Park,Tel Aviv,,Israel
 ,Purpose Tour,2017-06-05,Justin Bieber,Deen Squad Hamza Hawsawi Rodge,139.01136363636363,23936.0,29690.0,3327376.0,"canadian pop, pop","29,690",,Autism Rocks Arena,Dubai,Dubai,United Arab Emirates
 ,Purpose Tour,2017-10-05,Justin Bieber,Sartek Zaeden Alan Walker,89.27024075579033,39376.0,39376.0,3515105.0,"canadian pop, pop","39,376",,DY Patil Stadium,Mumbai,Maharashtra,India
-,Purpose Tour,,Justin Bieber,Africa[38],,,,,"canadian pop, pop",,,Africa[38],Africa[38],,Africa[38]
 ,Purpose Tour,2017-05-14,Justin Bieber,Sketchy Bongo,52.26438128226025,58896.0,68984.0,3078163.0,"canadian pop, pop","68,984",,FNB Stadium,Johannesburg,,South Africa
 ,Purpose Tour,2017-05-17,Justin Bieber,Sketchy Bongo,58.340930841686394,39706.0,45214.0,2316485.0,"canadian pop, pop","45,214",,Cape Town Stadium,Cape Town,,South Africa
-,Purpose Tour,,Justin Bieber,Europe[38],,,,,"canadian pop, pop",,,Europe[38],Europe[38],,Europe[38]
 ,Purpose Tour,,Justin Bieber,—,,,,,"canadian pop, pop",60000,,Megaland,Landgraaf,,Netherlands
 ,Purpose Tour,2017-06-03,Justin Bieber,Rudimental Gnash  Adam Daniel,80.0,36000.0,36000.0,2880000.0,"canadian pop, pop","36,000",,Jysk Væddeløbsbane,Aarhus,,Denmark
 ,Purpose Tour,,Justin Bieber,—,,,,,"canadian pop, pop",,,Forus Travbane,Stavanger,,Norway
