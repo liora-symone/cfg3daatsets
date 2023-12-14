@@ -1,0 +1,261 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,The Honeymoon Tour,2015-02-25,Ariana Grande,Rixton Cashmere Cat,54.53,5594.0,5594.0,305063.0,pop,5594.0,,Independence Events Center,Independence,Missouri,United States
+,The Honeymoon Tour,2015-02-28,Ariana Grande,Rixton Cashmere Cat,46.57,10411.0,10411.0,484877.0,pop,10411.0,,BMO Harris Bradley Center,Milwaukee,Wisconsin,United States
+,The Honeymoon Tour,2015-03-01,Ariana Grande,Rixton Cashmere Cat,52.95,11272.0,11272.0,596866.0,pop,11272.0,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,The Honeymoon Tour,2015-03-03,Ariana Grande,Rixton Cashmere Cat,50.93,12470.0,12470.0,635053.0,pop,12470.0,,Allstate Arena,Rosemont,Illinois,United States
+,The Honeymoon Tour,2015-03-05,Ariana Grande,Rixton Cashmere Cat,52.36,11553.0,11553.0,604962.0,pop,11553.0,,Quicken Loans Arena,Cleveland,Ohio,United States
+,The Honeymoon Tour,2015-03-07,Ariana Grande,Rixton Cashmere Cat,45.48,14505.0,14505.0,659749.0,pop,14505.0,,Joe Louis Arena,Detroit,Michigan,United States
+,The Honeymoon Tour,2015-03-08,Ariana Grande,Rixton Cashmere Cat,36.15,13666.0,13666.0,493989.0,pop,13666.0,,Air Canada Centre,Toronto,Ontario,Canada
+,The Honeymoon Tour,2015-03-10,Ariana Grande,Rixton Cashmere Cat,52.51,8149.0,8149.0,427937.0,pop,8149.0,,Petersen Events Center,Pittsburgh,Pennsylvania,United States
+,The Honeymoon Tour,2015-03-12,Ariana Grande,Rixton Cashmere Cat,54.3,14334.0,14334.0,778265.0,pop,14334.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,The Honeymoon Tour,2015-03-14,Ariana Grande,Rixton Cashmere Cat,44.39,7347.0,7347.0,326102.0,pop,7347.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,The Honeymoon Tour,2015-03-15,Ariana Grande,Rixton Cashmere Cat,50.02,10337.0,10337.0,517105.0,pop,10337.0,,DCU Center,Worcester,Massachusetts,United States
+,The Honeymoon Tour,2015-03-17,Ariana Grande,Rixton Cashmere Cat,112.0,75068.0,75068.0,8407728.0,pop,75068.0,,NRG Stadium,Houston,Texas,United States
+,The Honeymoon Tour,2015-03-20,Ariana Grande,Rixton Cashmere Cat,5.1,28520.0,28520.0,145512.0,pop,28520.0,,Madison Square Garden,New York City,New York,United States
+,The Honeymoon Tour,2015-03-21,Ariana Grande,Rixton Cashmere Cat,5.1,28520.0,28520.0,145512.0,pop,28520.0,,Madison Square Garden,New York City,New York,United States
+,The Honeymoon Tour,2015-03-24,Ariana Grande,Rixton Cashmere Cat,55.05,9271.0,9271.0,510404.0,pop,9271.0,,Philips Arena,Atlanta,Georgia,United States
+,The Honeymoon Tour,2015-03-26,Ariana Grande,Rixton Cashmere Cat,48.16,12661.0,12661.0,609739.0,pop,12661.0,,Amway Center,Orlando,Florida,United States
+,The Honeymoon Tour,2015-03-28,Ariana Grande,Rixton Cashmere Cat,48.62,13646.0,13646.0,663521.0,pop,13646.0,,American Airlines Arena,Miami,Florida,United States
+,The Honeymoon Tour,2015-03-31,Ariana Grande,Rixton Cashmere Cat,48.07,11319.0,11319.0,544146.0,pop,11319.0,,ATT Center,San Antonio,Texas,United States
+,The Honeymoon Tour,2015-04-01,Ariana Grande,Rixton Cashmere Cat,39.52,15248.0,15248.0,602533.0,pop,15248.0,,American Airlines Center,Dallas,Texas,United States
+,The Honeymoon Tour,2015-04-03,Ariana Grande,Rixton Cashmere Cat,48.43,9526.0,9526.0,461343.0,pop,9526.0,,Chesapeake Energy Arena,Oklahoma City,Oklahoma,United States
+,The Honeymoon Tour,2015-04-06,Ariana Grande,Rixton Cashmere Cat,47.91,12530.0,12530.0,600285.0,pop,12530.0,,Talking Stick Resort Arena,Phoenix,Arizona,United States
+,The Honeymoon Tour,2015-04-08,Ariana Grande,Rixton Cashmere Cat,46.03,11605.0,11605.0,534176.0,pop,11605.0,,The Forum,Inglewood,California,United States
+,The Honeymoon Tour,2015-04-10,Ariana Grande,Rixton Cashmere Cat,47.85,12160.0,12160.0,581827.0,pop,12160.0,,Honda Center,Anaheim,California,United States
+,The Honeymoon Tour,2015-04-12,Ariana Grande,Rixton Cashmere Cat,51.23,12717.0,12717.0,651429.0,pop,12717.0,,SAP Center,San Jose,California,United States
+,The Honeymoon Tour,2025-04-14,Ariana Grande,Rixton Cashmere Cat,43.62,11648.0,11648.0,508121.0,pop,11648.0,,KeyArena,Seattle,Washington,United States
+,The Honeymoon Tour,2015-04-16,Ariana Grande,Rixton Cashmere Cat,36.13,13210.0,13210.0,477295.0,pop,13210.0,,Rogers Arena,Vancouver,British Columbia,Canada
+,The Honeymoon Tour,2015-05-14,Ariana Grande,Rixton,48.79,3766.0,6293.0,68444.97,pop,6293.0,,Zénith Paris,Paris,Île-de-France,France
+,The Honeymoon Tour,2015-05-15,Ariana Grande,Rixton,48.79,3766.0,6293.0,68444.97,pop,6293.0,,Zénith Paris,Paris,Île-de-France,France
+,The Honeymoon Tour,2015-05-19,Ariana Grande,Rixton,48.79,3766.0,11900.0,68444.97,pop,11900.0,,MaxSchmelingHalle,Berlin,Berlin,Germany
+,The Honeymoon Tour,2015-05-21,Ariana Grande,Rixton,48.79,3766.0,16000.0,68444.97,pop,16000.0,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,The Honeymoon Tour,2015-05-22,Ariana Grande,Rixton,48.79,3766.0,9700.0,68444.97,pop,9700.0,,Oslo Spektrum,Oslo,Oslo,Norway
+,The Honeymoon Tour,2015-05-25,Ariana Grande,Rixton,48.79,3766.0,12700.0,68444.97,pop,12700.0,,Mediolanum Forum,Milan,,Italy
+,The Honeymoon Tour,2015-05-28,Ariana Grande,Rixton,56.45,32941.0,32941.0,1859574.0,pop,32941.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,The Honeymoon Tour,2015-05-29,Ariana Grande,Rixton,56.45,32941.0,32941.0,1859574.0,pop,32941.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,The Honeymoon Tour,2015-06-01,Ariana Grande,Rixton,55.12,13841.0,13841.0,762868.0,pop,13841.0,,The O2 Arena,London,England,England
+,The Honeymoon Tour,2015-06-04,Ariana Grande,Rixton,52.13,11765.0,11765.0,613272.0,pop,11765.0,,Manchester Arena,Manchester,England,England
+,The Honeymoon Tour,2015-06-06,Ariana Grande,Rixton,48.79,3766.0,90000.0,68444.97,pop,90000.0,,Wembley Stadium,London,England,England
+,The Honeymoon Tour,2015-06-08,Ariana Grande,Krishane Melissa Steel,51.51,10789.0,10792.0,555723.0,pop,10792.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,The Honeymoon Tour,2015-06-09,Ariana Grande,Krishane Melissa Steel,48.79,3766.0,15800.0,68444.97,pop,15800.0,,Arena Birmingham,Birmingham,England,England
+,The Honeymoon Tour,2015-06-12,Ariana Grande,Alvar  Millas,38.83,14514.0,14514.0,563577.0,pop,14514.0,,Sportpaleis,Antwerp,Flanders,Belgium
+,The Honeymoon Tour,2015-06-13,Ariana Grande,DJ Dubz,48.79,3766.0,20000.0,68444.97,pop,20000.0,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,The Honeymoon Tour,2015-06-16,Ariana Grande,Paula Rojo,63.84,14007.0,14014.0,894152.0,pop,14014.0,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,The Honeymoon Tour,2015-06-28,Ariana Grande,,48.79,3766.0,,68444.97,pop,,,Pier 26,New York City,New York,United States
+,The Honeymoon Tour,2015-07-16,Ariana Grande,Prince Royce,42.45,7214.0,7214.0,306261.0,pop,7214.0,,Amalie Arena,Tampa,Florida,United States
+,The Honeymoon Tour,2015-07-18,Ariana Grande,Prince Royce,48.79,3766.0,20000.0,68444.97,pop,20000.0,,BBT Center,Sunrise,Florida,United States
+,The Honeymoon Tour,2015-07-21,Ariana Grande,Prince Royce,48.79,3766.0,17500.0,68444.97,pop,17500.0,,Time Warner Cable Arena,Charlotte,North Carolina,United States
+,The Honeymoon Tour,2015-07-23,Ariana Grande,Prince Royce,48.79,3766.0,22090.0,68444.97,pop,22090.0,,KFC Yum Center,Louisville,Kentucky,United States
+,The Honeymoon Tour,2015-07-25,Ariana Grande,Prince Royce,49.77,10361.0,10361.0,515683.0,pop,10361.0,,Verizon Center,Washington DC,District of Columbia,United States
+,The Honeymoon Tour,2015-07-26,Ariana Grande,Prince Royce,48.79,3766.0,16841.0,68444.97,pop,16841.0,,Hersheypark Stadium,Hershey,Pennsylvania,United States
+,The Honeymoon Tour,2015-07-29,Ariana Grande,Prince Royce,48.79,3766.0,21000.0,68444.97,pop,21000.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,The Honeymoon Tour,2015-07-31,Ariana Grande,Prince Royce,48.79,3766.0,17500.0,68444.97,pop,17500.0,,Times Union Center,Albany,New York,United States
+,The Honeymoon Tour,2015-08-02,Ariana Grande,Prince Royce,66.02,7131.0,7131.0,470758.0,pop,7131.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,The Honeymoon Tour,2015-08-04,Ariana Grande,Prince Royce,48.79,3766.0,11770.0,68444.97,pop,11770.0,,Verizon Wireless Arena,Manchester,England,United States
+,The Honeymoon Tour,2015-08-06,Ariana Grande,Prince Royce,47.67,10533.0,10533.0,502087.0,pop,10533.0,,Bell Centre,Montreal,Quebec,Canada
+,The Honeymoon Tour,2015-08-07,Ariana Grande,Prince Royce,48.79,3766.0,18652.0,68444.97,pop,18652.0,,Canadian Tire Centre,Ottawa,Ontario,Canada
+,The Honeymoon Tour,2015-08-09,Ariana Grande,Prince Royce,42.37,10703.0,10703.0,453447.0,pop,10703.0,,Air Canada Centre,Toronto,Ontario,Canada
+,The Honeymoon Tour,2015-08-15,Ariana Grande,,48.79,3766.0,30118.0,68444.97,pop,30118.0,,Chiba Marine Stadium,Chiba,Chiba,Japan
+,The Honeymoon Tour,2015-08-16,Ariana Grande,,48.79,3766.0,7000.0,68444.97,pop,7000.0,,Maishima Sports Island,Osaka,Osaka,Japan
+,The Honeymoon Tour,2015-08-19,Ariana Grande,,48.79,3766.0,5000.0,68444.97,pop,5000.0,,Tokyo International Forum,Tokyo,Tokyo,Japan
+,The Honeymoon Tour,2015-08-23,Ariana Grande,,48.79,3766.0,20000.0,68444.97,pop,20000.0,,Mall of Asia Arena,Manila,Metro Manila,Philippines
+,The Honeymoon Tour,2015-08-26,Ariana Grande,,48.79,3766.0,82000.0,68444.97,pop,82000.0,,Jakarta International Expo,Jakarta,Special Capital Region of Jakarta,Indonesia
+,The Honeymoon Tour,2015-08-29,Ariana Grande,Prince Royce,48.79,3766.0,12000.0,68444.97,pop,12000.0,,Mandalay Bay Events Center,Las Vegas,Nevada,United States
+,The Honeymoon Tour,2015-08-31,Ariana Grande,Prince Royce,38.87,10710.0,10710.0,416264.0,pop,10710.0,,Save Mart Center,Fresno,California,United States
+,The Honeymoon Tour,2015-09-02,Ariana Grande,Prince Royce,48.79,3766.0,12644.0,68444.97,pop,12644.0,,Taco Bell Arena,Boise,Idaho,United States
+,The Honeymoon Tour,2015-09-04,Ariana Grande,Prince Royce,48.79,3766.0,20500.0,68444.97,pop,20500.0,,Moda Center,Portland,Oregon,United States
+,The Honeymoon Tour,2015-09-08,Ariana Grande,Prince Royce,48.79,3766.0,22000.0,68444.97,pop,22000.0,,Shoreline Amphitheatre,Mountain View,California,United States
+,The Honeymoon Tour,2015-09-09,Ariana Grande,Prince Royce,48.79,3766.0,20500.0,68444.97,pop,20500.0,,Sleep Train Amphitheatre,Chula Vista,California,United States
+,The Honeymoon Tour,2015-09-10,Ariana Grande,Prince Royce,48.79,3766.0,17317.0,68444.97,pop,17317.0,,Sleep Train Arena,Sacramento,California,United States
+,The Honeymoon Tour,2015-09-11,Ariana Grande,Prince Royce,47.52,13745.0,13745.0,653203.0,pop,13745.0,,Staples Center,Los Angeles,California,United States
+,The Honeymoon Tour,2015-09-18,Ariana Grande,Prince Royce Who Is Fancy,55.09,10124.0,10124.0,557714.0,pop,10124.0,,Toyota Center,Houston,Texas,United States
+,The Honeymoon Tour,2015-09-20,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,19000.0,68444.97,pop,19000.0,,Legacy Arena,Birmingham,England,United States
+,The Honeymoon Tour,2015-09-22,Ariana Grande,Prince Royce Who Is Fancy,37.84,8045.0,8045.0,304405.0,pop,8045.0,,Bridgestone Arena,Nashville,Tennessee,United States
+,The Honeymoon Tour,2015-09-24,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,20000.0,68444.97,pop,20000.0,,PNC Arena,Raleigh,North Carolina,United States
+,The Honeymoon Tour,2015-09-26,Ariana Grande,Prince Royce Who Is Fancy,52.41,21510.0,21510.0,1127406.0,pop,21510.0,,Barclays Center,Brooklyn,New York,United States
+,The Honeymoon Tour,2015-09-27,Ariana Grande,Prince Royce Who Is Fancy,52.41,21510.0,21510.0,1127406.0,pop,21510.0,,Barclays Center,Brooklyn,New York,United States
+,The Honeymoon Tour,2015-09-29,Ariana Grande,Prince Royce Who Is Fancy,47.78,7822.0,7822.0,373754.0,pop,7822.0,,Van Andel Arena,Grand Rapids,Michigan,United States
+,The Honeymoon Tour,2015-10-02,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,23500.0,68444.97,pop,23500.0,,United Center,Chicago,Illinois,United States
+,The Honeymoon Tour,2015-10-04,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,22000.0,68444.97,pop,22000.0,,Enterprise Center,St Louis,Missouri,United States
+,The Honeymoon Tour,2015-10-06,Ariana Grande,Prince Royce Who Is Fancy,34.1,10884.0,10884.0,371124.0,pop,10884.0,,Intrust Bank Arena,Wichita,Kansas,United States
+,The Honeymoon Tour,2015-10-07,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,19199.0,68444.97,pop,19199.0,,BOK Center,Tulsa,Oklahoma,United States
+,The Honeymoon Tour,2015-10-09,Ariana Grande,Prince Royce Who Is Fancy,48.79,3766.0,17791.0,68444.97,pop,17791.0,,Smoothie King Center,New Orleans,Louisiana,United States
+,The Honeymoon Tour,2015-10-11,Ariana Grande,Prince Royce Who Is Fancy,39.09,9653.0,9653.0,377291.0,pop,9653.0,,American Airlines Center,Dallas,Texas,United States
+,The Honeymoon Tour,2015-10-13,Ariana Grande,Prince Royce,40.68,8632.0,8632.0,351128.0,pop,8632.0,,Frank Erwin Center,Austin,Texas,United States
+,The Honeymoon Tour,2015-10-15,Ariana Grande,Prince Royce,48.79,3766.0,11000.0,68444.97,pop,11000.0,,El Paso County Coliseum,El Paso,Texas,United States
+,The Honeymoon Tour,2015-10-18,Ariana Grande,DJ Dubz,69.98,15349.0,15349.0,1074116.0,pop,15349.0,,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+,The Honeymoon Tour,2015-10-21,Ariana Grande,,48.79,3766.0,14000.0,68444.97,pop,14000.0,,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+,The Honeymoon Tour,2015-10-23,Ariana Grande,Olivia Viggiano,48.79,3766.0,50000.0,68444.97,pop,50000.0,,Complejo al Río,Buenos Aires,Buenos Aires,Argentina
+,The Honeymoon Tour,2015-10-25,Ariana Grande,,77.88,23560.0,23560.0,1834765.0,pop,23560.0,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Dangerous Tour,2017-02-03,Ariana Grande,Victoria Monét Little Mix,64.16119766733397,11489.0,12739.0,"$737,148",pop,12739.0,,Talking Stick Resort Arena,Phoenix,Arizona,United States
+,Dangerous Tour,2017-02-04,Ariana Grande,Victoria Monét Little Mix,89.57030836070786,9437.0,10787.0,"$845,275",pop,10787.0,,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+,Dangerous Tour,2017-02-07,Ariana Grande,Victoria Monét Little Mix,43.88957816377171,9672.0,13444.0,"$424,500",pop,13444.0,,CenturyLink Center Omaha,Omaha,Nebraska,United States
+,Dangerous Tour,2017-02-09,Ariana Grande,Victoria Monét Little Mix,52.40800762631077,7343.0,7995.0,"$384,832",pop,7995.0,,BOK Center,Tulsa,Oklahoma,United States
+,Dangerous Tour,2017-02-14,Ariana Grande,Victoria Monét Little Mix,53.56903765690377,11472.0,11472.0,"$614,544",pop,11472.0,,Bridgestone Arena,Nashville,Tennessee,United States
+,Dangerous Tour,2017-02-17,Ariana Grande,Victoria Monét Little Mix,110.5007141723536,6301.0,6301.0,"$696,265",pop,6301.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Dangerous Tour,2017-02-19,Ariana Grande,Victoria Monét Bia,66.05022156573116,7447.0,8698.0,"$491,876",pop,8698.0,,SNHU Arena,Manchester,England,United States
+,Dangerous Tour,2017-02-21,Ariana Grande,Victoria Monét Bia,66.76347443904696,8646.0,13693.0,"$577,237",pop,13693.0,,KeyBank Center,Buffalo,New York,United States
+,Dangerous Tour,2017-02-23,Ariana Grande,Victoria Monét Little Mix,109.74383330204618,26635.0,26635.0,"$2,923,027",pop,26635.0,,Madison Square Garden,New York City,New York,United States
+,Dangerous Tour,2017-02-24,Ariana Grande,Victoria Monét Little Mix,109.74383330204618,26635.0,26635.0,"$2,923,027",pop,26635.0,,Madison Square Garden,New York City,New York,United States
+,Dangerous Tour,2017-02-26,Ariana Grande,Victoria Monét Little Mix,65.53989637305699,8685.0,14011.0,"$569,214",pop,14011.0,,Quicken Loans Arena,Cleveland,Ohio,United States
+,Dangerous Tour,2017-02-27,Ariana Grande,Victoria Monét Little Mix,95.47860617492306,10073.0,13578.0,"$961,756",pop,13578.0,,Verizon Center,"Washington, D.C.",District of Columbia,United States
+,Dangerous Tour,2017-03-01,Ariana Grande,Victoria Monét Little Mix,78.0010294243802,11657.0,14079.0,"$909,258",pop,14079.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Dangerous Tour,2017-03-03,Ariana Grande,Victoria Monét Little Mix,89.51502145922747,12349.0,12944.0,"$1,105,421",pop,12944.0,,TD Garden,Boston,Massachusetts,United States
+,Dangerous Tour,2017-03-05,Ariana Grande,Victoria Monét Little Mix,71.47555678135558,14503.0,14503.0,"$1,036,610",pop,14503.0,,Scotiabank Arena,Toronto,Ontario,Canada
+,Dangerous Tour,2017-03-06,Ariana Grande,Victoria Monét Little Mix,63.41258372845638,13287.0,13287.0,"$842,563",pop,13287.0,,Bell Centre,Montreal,Quebec,Canada
+,Dangerous Tour,2017-03-09,Ariana Grande,Victoria Monét Little Mix,60.77823021154037,10069.0,14414.0,"$611,976",pop,14414.0,,Nationwide Arena,Columbus,Ohio,United States
+,Dangerous Tour,2017-03-11,Ariana Grande,Victoria Monét Bia,58.067567567567565,10952.0,13020.0,"$635,956",pop,13020.0,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Dangerous Tour,2017-03-12,Ariana Grande,Victoria Monét Little Mix,68.88864900772232,12043.0,12437.0,"$829,626",pop,12437.0,,The Palace of Auburn Hills,Auburn Hills,Michigan,United States
+,Dangerous Tour,2017-03-14,Ariana Grande,Victoria Monét Little Mix,80.15354075514503,12342.0,13584.0,"$989,255",pop,13584.0,,United Center,Chicago,Illinois,United States
+,Dangerous Tour,2017-03-16,Ariana Grande,Victoria Monét Little Mix,65.59918786575899,8373.0,14736.0,"$549,262",pop,14736.0,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Dangerous Tour,2017-03-18,Ariana Grande,Victoria Monét Little Mix,61.41195354546313,10591.0,13382.0,"$650,414",pop,13382.0,,Sprint Center,Kansas City,Missouri,United States
+,Dangerous Tour,2017-03-21,Ariana Grande,Victoria Monét Little Mix,56.80643280536391,10291.0,20840.0,"$584,595",pop,20840.0,,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+,Dangerous Tour,2017-03-23,Ariana Grande,Victoria Monét Little Mix,69.57677642980936,11540.0,11783.0,"$802,916",pop,11783.0,,KeyArena,Seattle,Washington,United States
+,Dangerous Tour,2017-03-24,Ariana Grande,Victoria Monét Little Mix,71.99023688791341,13213.0,13213.0,"$951,207",pop,13213.0,,Rogers Arena,Vancouver,British Columbia,Canada
+,Dangerous Tour,2017-03-26,Ariana Grande,Victoria Monét Little Mix,73.44562055591467,12376.0,12776.0,"$908,963",pop,12776.0,,Golden 1 Center,Sacramento,California,United States
+,Dangerous Tour,2017-03-27,Ariana Grande,Victoria Monét Little Mix,90.15297614133576,12113.0,12642.0,"$1,092,023",pop,12642.0,,SAP Center,San Jose,California,United States
+,Dangerous Tour,2017-03-30,Ariana Grande,Victoria Monét Little Mix,90.26898761583097,11547.0,11547.0,"$1,042,336",pop,11547.0,,Honda Center,Anaheim,California,United States
+,Dangerous Tour,2017-03-31,Ariana Grande,Victoria Monét Little Mix,86.9267463082794,12054.0,12874.0,"$1,047,815",pop,12874.0,,The Forum,Inglewood,California,United States
+,Dangerous Tour,2017-04-03,Ariana Grande,Victoria Monét Little Mix,65.7874100019459,10278.0,13172.0,"$676,163",pop,13172.0,,Pepsi Center,Denver,Colorado,United States
+,Dangerous Tour,2017-04-06,Ariana Grande,Victoria Monét Little Mix,65.18360329381956,11051.0,12960.0,"$720,344",pop,12960.0,,AT&T Center,San Antonio,Texas,United States
+,Dangerous Tour,2017-04-08,Ariana Grande,Victoria Monét Little Mix,87.33727237504843,10324.0,11548.0,"$901,670",pop,11548.0,,Toyota Center,Houston,Texas,United States
+,Dangerous Tour,2017-04-09,Ariana Grande,Victoria Monét Little Mix,76.88049759229534,12460.0,13204.0,"$957,931",pop,13204.0,,American Airlines Center,Dallas,Texas,United States
+,Dangerous Tour,2017-04-11,Ariana Grande,Victoria Monét Little Mix,66.99960390810668,7574.0,12580.0,"$507,455",pop,12580.0,,Smoothie King Center,New Orleans,Louisiana,United States
+,Dangerous Tour,2017-04-12,Ariana Grande,Victoria Monét Little Mix,71.06826249203604,10987.0,11285.0,"$780,827",pop,11285.0,,Philips Arena,Atlanta,Georgia,United States
+,Dangerous Tour,2017-04-14,Ariana Grande,Victoria Monét Little Mix,80.24286546301688,12019.0,12673.0,"$964,439",pop,12673.0,,American Airlines Arena,Miami,Florida,United States
+,Dangerous Tour,2017-04-15,Ariana Grande,Victoria Monét Little Mix,77.42638638966137,12226.0,12574.0,"$946,615",pop,12574.0,,Amway Center,Orlando,Florida,United States
+,Dangerous Tour,2017-05-08,Ariana Grande,Victoria Monét Bia,70.57004111725507,14106.0,14106.0,"$995,461",pop,14106.0,,Friends Arena,Stockholm,Stockholm County,Sweden
+,Dangerous Tour,2017-05-10,Ariana Grande,Victoria Monét Bia,62.00527660977821,12129.0,12412.0,"$752,062",pop,12412.0,,Telenor Arena,Oslo,Oslo,Norway
+,Dangerous Tour,2017-05-12,Ariana Grande,Victoria Monét Bia,71.91548677422895,9111.0,14578.0,"$655,222",pop,14578.0,,Jyske Bank Boxen,Herning,Central Denmark Region,Denmark
+,Dangerous Tour,2017-05-14,Ariana Grande,Victoria Monét Bia,51.52699600641489,31801.0,31815.0,"$1,638,610",pop,31815.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Dangerous Tour,2017-05-16,Ariana Grande,Victoria Monét Bia,51.52699600641489,31801.0,31815.0,"$1,638,610",pop,31815.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Dangerous Tour,2017-05-18,Ariana Grande,Victoria Monét Bia,63.92747100571231,11554.0,12036.0,"$738,618",pop,12036.0,,Genting Arena,Birmingham,England,England
+,Dangerous Tour,2017-05-20,Ariana Grande,Victoria Monét Bia,62.89527590313617,12595.0,12804.0,"$792,166",pop,12804.0,,3Arena,Dublin,Leinster,Ireland
+,Dangerous Tour,2017-05-22,Ariana Grande,Victoria Monét Bia,62.425836982624666,14158.0,14218.0,"$883,825",pop,14218.0,,Manchester Arena,Manchester,England,England
+,Dangerous Tour,2017-06-07,Ariana Grande,KnowleDJ Victoria Monét,67.4856160306858,15121.0,15442.0,"$1,020,450",pop,15442.0,,AccorHotels Arena,Paris,Île-de-France,France
+,Dangerous Tour,2017-06-09,Ariana Grande,KnowleDJ Victoria Monét,54.31766307192965,9551.0,9833.0,"$518,788",pop,9833.0,,Halle Tony Garnier,Lyon,Auvergne-Rhône-Alpes,France
+,Dangerous Tour,2017-06-11,Ariana Grande,KnowleDJ Victoria Monét,55.646504089000224,13573.0,16239.0,"$755,290",pop,16239.0,,MEO Arena,Lisbon,Lisbon District,Portugal
+,Dangerous Tour,2017-06-13,Ariana Grande,KnowleDJ Victoria Monét,79.92388748584865,11483.0,16273.0,"$917,766",pop,16273.0,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Dangerous Tour,2017-06-15,Ariana Grande,KnowleDJ Victoria Monét,49.69123095924249,7287.0,7558.0,"$362,100",pop,7558.0,,PalaLottomatica,Rome,Lazio,Italy
+,Dangerous Tour,2017-06-17,Ariana Grande,KnowleDJ Victoria Monét,66.02221032914102,11211.0,11249.0,"$740,175",pop,11249.0,,Pala Alpitour,Turin,Piedmont,Italy
+,Dangerous Tour,2017-06-29,Ariana Grande,DJ Ronaldinho Sabrina Carpenter,70.74615459030666,10337.0,12370.0,"$731,303",pop,12370.0,,Jeunesse Arena,Rio de Janeiro,Rio de Janeiro,Brazil
+,Dangerous Tour,2017-07-01,Ariana Grande,DJ Ronaldinho Sabrina Carpenter,64.96540842335234,24717.0,27300.0,"$1,605,750",pop,27300.0,,Allianz Parque,São Paulo,São Paulo,Brazil
+,Dangerous Tour,2017-07-03,Ariana Grande,Victoria Monét,96.55352277150642,12845.0,13442.0,"$1,240,230",pop,13442.0,,Movistar Arena,Santiago,Santiago Metropolitan Region,Chile
+,Dangerous Tour,2017-07-05,Ariana Grande,Victoria Monét Oriana Sabatini,88.63040705091035,8623.0,8727.0,"$764,260",pop,8727.0,,DirecTV Arena,Buenos Aires,Buenos Aires,Argentina
+,Dangerous Tour,2017-07-09,Ariana Grande,Échele Miel Fátima Pinto Victoria Monét CNCO,69.71941477425725,11141.0,11141.0,"$776,744",pop,11141.0,,Coca-Cola Amphitheater,Alajuela,Alajuela,Costa Rica
+,Dangerous Tour,2017-07-12,Ariana Grande,Victoria Monét,57.29362804541947,36284.0,40278.0,"$2,078,842",pop,40278.0,,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+,Dangerous Tour,2017-07-13,Ariana Grande,Victoria Monét,57.29362804541947,36284.0,40278.0,"$2,078,842",pop,40278.0,,Palacio de los Deportes,Mexico City,Mexico City,Mexico
+,Dangerous Tour,2017-08-10,Ariana Grande,Beverly,125.40789852983568,52035.0,59817.0,"$6,525,600",pop,59817.0,,Makuhari Event Hall,Chiba,Chiba,Japan
+,Dangerous Tour,2017-08-12,Ariana Grande,Little Glee Monster,125.40789852983568,52035.0,59817.0,"$6,525,600",pop,59817.0,,Makuhari Event Hall,Chiba,Chiba,Japan
+,Dangerous Tour,2017-08-13,Ariana Grande,Little Glee Monster,125.40789852983568,52035.0,59817.0,"$6,525,600",pop,59817.0,,Makuhari Event Hall,Chiba,Chiba,Japan
+,Dangerous Tour,2017-08-15,Ariana Grande,,96.62135722376686,19422.0,20008.0,"$1,876,580",pop,20008.0,,Gocheok Sky Dome,Seoul,Seoul,South Korea
+,Dangerous Tour,2017-08-17,Ariana Grande,,137.91792006875806,9308.0,9694.0,"$1,283,740",pop,9694.0,,Impact Arena,Bangkok,Bangkok,Thailand
+,Dangerous Tour,2017-08-21,Ariana Grande,,124.8849797023004,9607.0,10400.0,"$1,199,770",pop,10400.0,,Mall of Asia Arena,Manila,Metro Manila,Philippines
+,Dangerous Tour,2017-08-26,Ariana Grande,,137.45404526697513,7997.0,8023.0,"$1,099,220",pop,8023.0,,LeSports Center,Beijing,Beijing,China
+,Dangerous Tour,2017-08-28,Ariana Grande,,123.93853006681516,11225.0,11225.0,"$1,391,210",pop,11225.0,,Mercedes-Benz Arena,Shanghai,Shanghai,China
+,Dangerous Tour,2017-08-30,Ariana Grande,,121.26859142607174,10287.0,10792.0,"$1,247,490",pop,10792.0,,Guangzhou Sports Arena,Guangzhou,,China
+,Dangerous Tour,2017-09-02,Ariana Grande,,90.01866867810674,10606.0,11593.0,"$954,738",pop,11593.0,,Spark Arena,Auckland,Auckland,New Zealand
+,Dangerous Tour,2017-09-04,Ariana Grande,,101.6623965727246,23809.0,24694.0,"$2,420,480",pop,24694.0,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Dangerous Tour,2017-09-05,Ariana Grande,,101.6623965727246,23809.0,24694.0,"$2,420,480",pop,24694.0,,Rod Laver Arena,Melbourne,Victoria,Australia
+,Dangerous Tour,2017-09-08,Ariana Grande,,98.50530142381096,16505.0,16580.0,"$1,625,830",pop,16580.0,,ICC Sydney Theatre,Sydney,New South Wales,Australia
+,Dangerous Tour,2017-09-09,Ariana Grande,,98.50530142381096,16505.0,16580.0,"$1,625,830",pop,16580.0,,ICC Sydney Theatre,Sydney,New South Wales,Australia
+,Dangerous Tour,2017-09-12,Ariana Grande,,97.95171633345907,10604.0,10604.0,"$1,038,680",pop,10604.0,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,Dangerous Tour,2017-09-19,Ariana Grande,,118.8703543647364,11570.0,12673.0,"$1,375,330",pop,12673.0,,Taipei Arena,Taipei,Taipei,Taiwan
+,Dangerous Tour,2017-09-21,Ariana Grande,,130.02713178294573,7740.0,8796.0,"$1,006,410",pop,8796.0,,AsiaWorld–Arena,Hong Kong,Hong Kong,Hong Kong
+,Sweetener Tour,2019-03-18,Ariana Grande,"Normani, Social House",110.92066130160951,11432.0,11432.0,1268045,pop,11432.0,,Times Union Center,Albany,New York,United States
+,Sweetener Tour,2019-03-20,Ariana Grande,"Normani, Social House",127.2415238095238,13125.0,13125.0,1670045,pop,13125.0,,TD Garden,Boston,Massachusetts,United States
+,Sweetener Tour,2019-03-22,Ariana Grande,"Normani, Social House",101.71035341309911,14459.0,14459.0,1470630,pop,14459.0,,KeyBank Center,Buffalo,New York,United States
+,Sweetener Tour,2019-03-25,Ariana Grande,"Normani, Social House",134.7827621709075,13598.0,13598.0,1832776,pop,13598.0,,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+,Sweetener Tour,2019-03-26,Ariana Grande,"Normani, Social House",121.71928044904308,14787.0,14787.0,1799863,pop,14787.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Sweetener Tour,2019-03-28,Ariana Grande,"Normani, Social House",105.31396057711846,14763.0,14763.0,1554750,pop,14763.0,,Quicken Loans Arena,Cleveland,Ohio,United States
+,Sweetener Tour,2019-03-30,Ariana Grande,"Normani, Social House",156.78342961814852,7097.0,7097.0,1112692,pop,7097.0,,Mohegan Sun Arena,Uncasville,Connecticut,United States
+,Sweetener Tour,2019-04-01,Ariana Grande,"Normani, Social House",98.52667578659371,14620.0,15643.0,1440460,pop,15643.0,,Bell Centre,Montreal,Quebec,Canada
+,Sweetener Tour,2019-04-03,Ariana Grande,"Normani, Social House",106.77917206574372,14663.0,14663.0,1565703,pop,14663.0,,Scotiabank Arena,Toronto,Ontario,Canada
+,Sweetener Tour,2019-04-05,Ariana Grande,"Normani, Social House",110.14126149802892,13698.0,13698.0,1508715,pop,13698.0,,Little Caesars Arena,Detroit,Michigan,United States
+,Sweetener Tour,2019-04-25,Ariana Grande,"Normani, Social House",107.11608231160822,13947.0,13947.0,1493948,pop,13947.0,,Rogers Place,Edmonton,Alberta,Canada
+,Sweetener Tour,2019-04-27,Ariana Grande,"Normani, Social House",112.64902875443848,14363.0,14363.0,1617978,pop,14363.0,,Rogers Arena,Vancouver,British Columbia,Canada
+,Sweetener Tour,2019-04-30,Ariana Grande,"Normani, Social House",107.30915863277826,13692.0,13692.0,1469277,pop,13692.0,,Moda Center,Portland,Oregon,United States
+,Sweetener Tour,2019-05-02,Ariana Grande,"Normani, Social House",127.16633590591694,13605.0,13605.0,1730098,pop,13605.0,,SAP Center,San Jose,California,United States
+,Sweetener Tour,2019-05-03,Ariana Grande,"Normani, Social House",125.15519227999424,13886.0,13886.0,1737905,pop,13886.0,,Golden 1 Center,Sacramento,California,United States
+,Sweetener Tour,2019-05-06,Ariana Grande,"Normani, Social House",117.41148445336007,27916.0,27916.0,3277659,pop,27916.0,,Staples Center,Los Angeles,California,United States
+,Sweetener Tour,2019-05-07,Ariana Grande,"Normani, Social House",117.41148445336007,27916.0,27916.0,3277659,pop,27916.0,,Staples Center,Los Angeles,California,United States
+,Sweetener Tour,2019-05-10,Ariana Grande,"Normani, Social House",149.0892002497052,14417.0,14417.0,2149419,pop,14417.0,,The Forum,Inglewood,California,United States
+,Sweetener Tour,2019-05-11,Ariana Grande,"Normani, Social House",102.3659997367382,15194.0,15194.0,1555349,pop,15194.0,,T-Mobile Arena,Las Vegas,Nevada,United States
+,Sweetener Tour,2019-05-14,Ariana Grande,"Normani, Social House",111.86974443528442,13343.0,13343.0,1492678,pop,13343.0,,Talking Stick Resort Arena,Phoenix,Arizona,United States
+,Sweetener Tour,2019-05-17,Ariana Grande,"Normani, Social House",112.95188425302828,14860.0,14860.0,1678465,pop,14860.0,,AT&T Center,San Antonio,Texas,United States
+,Sweetener Tour,2019-05-19,Ariana Grande,"Normani, Social House",128.36818072578708,12483.0,12483.0,1602420,pop,12483.0,,Toyota Center,Houston,Texas,United States
+,Sweetener Tour,2019-05-21,Ariana Grande,"Normani, Social House",112.31952040387044,14262.0,14262.0,1601901,pop,14262.0,,American Airlines Center,Dallas,Texas,United States
+,Sweetener Tour,2019-05-23,Ariana Grande,"Normani, Social House",106.38056520366275,12668.0,12668.0,1347629,pop,12668.0,,Chesapeake Energy Arena,Oklahoma City,Oklahoma,United States
+,Sweetener Tour,2019-05-25,Ariana Grande,"Normani, Social House",106.8348203894794,12889.0,12889.0,1376994,pop,12889.0,,Smoothie King Center,New Orleans,Louisiana,United States
+,Sweetener Tour,2019-05-31,Ariana Grande,"Normani, Social House",117.82770371479928,26704.0,26704.0,3146471,pop,26704.0,,American Airlines Arena,Miami,Florida,United States
+,Sweetener Tour,2019-06-01,Ariana Grande,"Normani, Social House",117.82770371479928,26704.0,26704.0,3146471,pop,26704.0,,American Airlines Arena,Miami,Florida,United States
+,Sweetener Tour,2019-06-04,Ariana Grande,"Normani, Social House",119.8530458519056,28941.0,28941.0,3468667,pop,28941.0,,United Center,Chicago,Illinois,United States
+,Sweetener Tour,2019-06-05,Ariana Grande,"Normani, Social House",119.8530458519056,28941.0,28941.0,3468667,pop,28941.0,,United Center,Chicago,Illinois,United States
+,Sweetener Tour,2019-06-07,Ariana Grande,"Normani, Social House",103.92200939645826,13835.0,13835.0,1437761,pop,13835.0,,Bridgestone Arena,Nashville,Tennessee,United States
+,Sweetener Tour,2019-06-08,Ariana Grande,"Normani, Social House",99.10578874725988,12317.0,12317.0,1220686,pop,12317.0,,State Farm Arena,Atlanta,Georgia,United States
+,Sweetener Tour,2019-06-10,Ariana Grande,"Normani, Social House",103.5793481164841,14972.0,14972.0,1550790,pop,14972.0,,Spectrum Center,Charlotte,North Carolina,United States
+,Sweetener Tour,2019-06-12,Ariana Grande,Social House,105.90057867949524,14343.0,14343.0,1518932,pop,14343.0,,PPG Paints Arena,Pittsburgh,Pennsylvania,United States
+,Sweetener Tour,2019-06-14,Ariana Grande,"Normani, Social House",151.12705370702747,28972.0,28972.0,4378453,pop,28972.0,,Barclays Center,Brooklyn,New York,United States
+,Sweetener Tour,2019-06-15,Ariana Grande,"Normani, Social House",151.12705370702747,28972.0,28972.0,4378453,pop,28972.0,,Barclays Center,Brooklyn,New York,United States
+,Sweetener Tour,2019-06-18,Ariana Grande,"Normani, Social House",192.22105963045917,28576.0,28576.0,5492909,pop,28576.0,,Madison Square Garden,New York City,New York,United States
+,Sweetener Tour,2019-06-19,Ariana Grande,"Normani, Social House",192.22105963045917,28576.0,28576.0,5492909,pop,28576.0,,Madison Square Garden,New York City,New York,United States
+,Sweetener Tour,2019-06-21,Ariana Grande,"Normani, Social House",128.2891991077211,13897.0,13897.0,1782835,pop,13897.0,,Capital One Arena,"Washington, D.C.",District of Columbia,United States
+,Sweetener Tour,2019-06-22,Ariana Grande,"Normani, Social House",122.94796858480592,13242.0,13242.0,1628077,pop,13242.0,,TD Garden,Boston,Massachusetts,United States
+,Sweetener Tour,2019-06-24,Ariana Grande,"Normani, Social House",120.75795029396043,14968.0,14968.0,1807505,pop,14968.0,,Wells Fargo Center,Philadelphia,Pennsylvania,United States
+,Sweetener Tour,2019-06-26,Ariana Grande,"Normani, Social House",102.12180720493598,15073.0,15073.0,1539282,pop,15073.0,,Scotiabank Arena,Toronto,Ontario,Canada
+,Sweetener Tour,2019-06-29,Ariana Grande,"Normani, Social House",97.75176069120744,13773.0,13773.0,1346335,pop,13773.0,,Bankers Life Fieldhouse,Indianapolis,Indiana,United States
+,Sweetener Tour,2019-07-01,Ariana Grande,"Normani, Social House",100.31224219210372,13576.0,13576.0,1361839,pop,13576.0,,Schottenstein Center,Columbus,Ohio,United States
+,Sweetener Tour,2019-07-05,Ariana Grande,"Normani, Social House",108.87292358803988,12040.0,12040.0,1310830,pop,12040.0,,Fiserv Forum,Milwaukee,Wisconsin,United States
+,Sweetener Tour,2019-07-06,Ariana Grande,"Normani, Social House",106.89415503661738,14474.0,14474.0,1547186,pop,14474.0,,Enterprise Center,St. Louis,Missouri,United States
+,Sweetener Tour,2019-07-08,Ariana Grande,"Normani, Social House",118.403948880925,14789.0,14789.0,1751076,pop,14789.0,,Xcel Energy Center,Saint Paul,Minnesota,United States
+,Sweetener Tour,2019-07-11,Ariana Grande,"Normani, Social House",109.10544576859256,13258.0,13258.0,1446520,pop,13258.0,,Pepsi Center,Denver,Colorado,United States
+,Sweetener Tour,2019-07-13,Ariana Grande,"Normani, Social House",92.55819874293896,12569.0,12569.0,1163364,pop,12569.0,,Vivint Smart Home Arena,Salt Lake City,Utah,United States
+,Sweetener Tour,2019-08-17,Ariana Grande,"Ella Mai, Social House",106.37697697697698,49950.0,51426.0,5313530,pop,51426.0,,The O2 Arena,London,England,England
+,Sweetener Tour,2019-08-19,Ariana Grande,"Ella Mai, Social House",106.37697697697698,49950.0,51426.0,5313530,pop,51426.0,,The O2 Arena,London,England,England
+,Sweetener Tour,2019-08-20,Ariana Grande,"Ella Mai, Social House",106.37697697697698,49950.0,51426.0,5313530,pop,51426.0,,The O2 Arena,London,England,England
+,Sweetener Tour,2019-08-23,Ariana Grande,"Ella Mai, Social House",74.77828864134293,32407.0,32407.0,2423340,pop,32407.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Sweetener Tour,2019-08-24,Ariana Grande,"Ella Mai, Social House",74.77828864134293,32407.0,32407.0,2423340,pop,32407.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Sweetener Tour,2019-08-27,Ariana Grande,"Ella Mai, Social House",84.0501253132832,31521.0,32520.0,2649344,pop,32520.0,,AccorHotels Arena,Paris,Île-de-France,France
+,Sweetener Tour,2019-08-28,Ariana Grande,"Ella Mai, Social House",84.0501253132832,31521.0,32520.0,2649344,pop,32520.0,,AccorHotels Arena,Paris,Île-de-France,France
+,Sweetener Tour,2019-08-30,Ariana Grande,"Ella Mai, Social House",65.93146718146718,20720.0,21826.0,1366100,pop,21826.0,,Sportpaleis,Antwerp,Flanders,Belgium
+,Sweetener Tour,2019-09-01,Ariana Grande,"Ella Mai, Social House",91.69638372677046,15928.0,15928.0,1460540,pop,15928.0,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,Sweetener Tour,2019-09-03,Ariana Grande,"Ella Mai, Social House",105.87740225314778,15090.0,15090.0,1597690,pop,15090.0,,Wiener Stadthalle,Vienna,Vienna,Austria
+,Sweetener Tour,2019-09-04,Ariana Grande,"Ella Mai, Social House",92.38432178508516,13624.0,13624.0,1258644,pop,13624.0,,O2 Arena,Prague,Prague,Czech Republic
+,Sweetener Tour,2019-09-11,Ariana Grande,"Ella Mai, Social House",78.17912143398132,15844.0,15844.0,1238670,pop,15844.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,Sweetener Tour,2019-09-14,Ariana Grande,"Ella Mai, Social House",103.90241162372678,26704.0,27810.0,2774610,pop,27810.0,,Arena Birmingham,Birmingham,England,England
+,Sweetener Tour,2019-09-15,Ariana Grande,"Ella Mai, Social House",103.90241162372678,26704.0,27810.0,2774610,pop,27810.0,,Arena Birmingham,Birmingham,England,England
+,Sweetener Tour,2019-09-17,Ariana Grande,"Ella Mai, Social House",103.32615053101432,12994.0,12994.0,1342620,pop,12994.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,Sweetener Tour,2019-09-19,Ariana Grande,"Ella Mai, Social House",80.33241930429332,12764.0,12764.0,1025363,pop,12764.0,,FlyDSA Arena,Sheffield,,England
+,Sweetener Tour,2019-09-22,Ariana Grande,"Ella Mai, Social House",97.3209339137317,37905.0,37905.0,3688950,pop,37905.0,,3Arena,Dublin,Leinster,Ireland
+,Sweetener Tour,2019-09-23,Ariana Grande,"Ella Mai, Social House",97.3209339137317,37905.0,37905.0,3688950,pop,37905.0,,3Arena,Dublin,Leinster,Ireland
+,Sweetener Tour,2019-09-25,Ariana Grande,"Ella Mai, Social House",97.3209339137317,37905.0,37905.0,3688950,pop,37905.0,,3Arena,Dublin,Leinster,Ireland
+,Sweetener Tour,2019-09-28,Ariana Grande,"Ella Mai, Social House",90.60012684319013,12614.0,13377.0,1142830,pop,13377.0,,Barclaycard Arena,Hamburg,Hamburg,Germany
+,Sweetener Tour,2019-10-01,Ariana Grande,"Ella Mai, Social House",81.70619789310412,15473.0,15473.0,1264240,pop,15473.0,,Royal Arena,Copenhagen,Capital Region of Denmark,Denmark
+,Sweetener Tour,2019-10-03,Ariana Grande,"Ella Mai, Social House",75.95416335577768,23911.0,23911.0,1816140,pop,23911.0,,Telenor Arena,Oslo,Oslo,Norway
+,Sweetener Tour,2019-10-05,Ariana Grande,"Ella Mai, Social House",117.22178920931844,11547.0,11547.0,1353560,pop,11547.0,,Hartwall Arena,Helsinki,Uusimaa,Finland
+,Sweetener Tour,2019-10-07,Ariana Grande,"Ella Mai, Social House",91.40626129708626,13831.0,13831.0,1264240,pop,13831.0,,Ericsson Globe,Stockholm,Stockholm County,Sweden
+,Sweetener Tour,2019-10-09,Ariana Grande,"Ella Mai, Social House",94.21535531896475,11553.0,11553.0,1088470,pop,11553.0,,Barclaycard Arena,Hamburg,Hamburg,Germany
+,Sweetener Tour,2019-10-10,Ariana Grande,"Ella Mai, Social House",89.88618727366787,13531.0,13531.0,1216250,pop,13531.0,,Mercedes-Benz Arena,Berlin,Berlin,Germany
+,Sweetener Tour,2019-10-13,Ariana Grande,"Ella Mai, Social House",102.30291697830964,13370.0,13370.0,1367790,pop,13370.0,,Hallenstadion,Zürich,Zürich,Switzerland
+,Sweetener Tour,2019-10-15,Ariana Grande,"Ella Mai, Social House",116.095415070727,26369.0,29062.0,3061320,pop,29062.0,,The O2 Arena,London,England,England
+,Sweetener Tour,2019-10-16,Ariana Grande,"Ella Mai, Social House",116.095415070727,26369.0,29062.0,3061320,pop,29062.0,,The O2 Arena,London,England,England
+,Sweetener Tour,2019-11-09,Ariana Grande,Social House,137.85022679692952,11464.0,11464.0,1580315,pop,11464.0,,Nassau Veterans Memorial Coliseum,Uniondale,New York,United States
+,Sweetener Tour,2019-11-12,Ariana Grande,Social House,140.09214896473748,14151.0,14151.0,1982444,pop,14151.0,,Barclays Center,Brooklyn,New York,United States
+,Sweetener Tour,2019-11-15,Ariana Grande,Social House,110.9536217303823,9940.0,9940.0,1102879,pop,9940.0,,John Paul Jones Arena,Charlottesville,Virginia,United States
+,Sweetener Tour,2019-11-19,Ariana Grande,Social House,105.85621285026888,10599.0,10599.0,1121970,pop,10599.0,,State Farm Arena,Atlanta,Georgia,United States
+,Sweetener Tour,2019-11-22,Ariana Grande,Social House,106.25872249060654,13041.0,13041.0,1385720,pop,13041.0,,PNC Arena,Raleigh,North Carolina,United States
+,Sweetener Tour,2019-11-24,Ariana Grande,Social House,101.6628989834364,14067.0,14067.0,1430092,pop,14067.0,,Amalie Arena,Tampa,Florida,United States
+,Sweetener Tour,2019-11-25,Ariana Grande,Social House,109.13949054301403,13112.0,13112.0,1431037,pop,13112.0,,Amway Center,Orlando,Florida,United States
+,Sweetener Tour,2019-11-27,Ariana Grande,Social House,116.679173553719,12100.0,12100.0,1411818,pop,12100.0,,American Airlines Arena,Miami,Florida,United States
+,Sweetener Tour,2019-12-01,Ariana Grande,Social House,91.45776515151516,10560.0,10560.0,965794,pop,10560.0,,VyStar Veterans Memorial Arena,Jacksonville,Florida,United States
+,Sweetener Tour,2019-12-03,Ariana Grande,Social House,92.20118491321762,11984.0,11984.0,1104939,pop,11984.0,,Colonial Life Arena,Columbia,Maryland,United States
+,Sweetener Tour,2019-12-05,Ariana Grande,Social House,108.89141438258046,10471.0,10471.0,1140202,pop,10471.0,,Bridgestone Arena,Nashville,Tennessee,United States
+,Sweetener Tour,2019-12-07,Ariana Grande,Social House,85.33781498393371,11826.0,11826.0,1009205,pop,11826.0,,FedExForum,Memphis,Tennessee,United States
+,Sweetener Tour,2019-12-09,Ariana Grande,Social House,118.9677605898511,13834.0,13834.0,1645800,pop,13834.0,,American Airlines Center,Dallas,Texas,United States
+,Sweetener Tour,2019-12-12,Ariana Grande,Social House,113.18176202609835,12951.0,12951.0,1465817,pop,12951.0,,Talking Stick Resort Arena,Phoenix,Arizona,United States
+,Sweetener Tour,2019-12-13,Ariana Grande,Social House,134.12978131212725,12575.0,12575.0,1686682,pop,12575.0,,Honda Center,Anaheim,California,United States
+,Sweetener Tour,2019-12-15,Ariana Grande,Social House,116.69413125180688,10377.0,10377.0,1210935,pop,10377.0,,MGM Grand Garden Arena,Las Vegas,Nevada,United States
+,Sweetener Tour,2019-12-17,Ariana Grande,Social House,133.34306220095695,22990.0,22990.0,3065557,pop,22990.0,,Chase Center,San Francisco,California,United States
+,Sweetener Tour,2019-12-18,Ariana Grande,Social House,133.34306220095695,22990.0,22990.0,3065557,pop,22990.0,,Chase Center,San Francisco,California,United States
+,Sweetener Tour,2019-12-21,Ariana Grande,Social House,131.08787291747385,25810.0,25810.0,3383378,pop,25810.0,,The Forum,Inglewood,California,United States
+,Sweetener Tour,2019-12-22,Ariana Grande,Social House,131.08787291747385,25810.0,25810.0,3383378,pop,25810.0,,The Forum,Inglewood,California,United States
