@@ -1,0 +1,16 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Summer Hits Tour,2018-07-06,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,The 1st Central County Ground,Hove,East Sussex,England
+,Summer Hits Tour,2018-07-07,Little Mix,,69.66143147366776,25596.0,25596.0,1783054.0,"girl group, pop, talent show, uk pop",25596.0,,Liberty Stadium,Swansea,Swansea,Wales
+,Summer Hits Tour,2018-07-08,Little Mix,,,10000.0,,,"girl group, pop, talent show, uk pop",,,JobServe Community Stadium,Colchester,Essex,England
+,Summer Hits Tour,2018-07-12,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,County Ground,Northampton,Northamptonshire,England
+,Summer Hits Tour,2018-07-13,Little Mix,,64.1732570239334,21142.0,21142.0,1356751.0,"girl group, pop, talent show, uk pop",21142.0,,KCOM Craven Park,Hull,East Riding of Yorkshire,England
+,Summer Hits Tour,2018-07-14,Little Mix,,67.86336438430679,29414.0,29414.0,1996133.0,"girl group, pop, talent show, uk pop",29414.0,,Macron Stadium,Bolton,Greater Manchester,England
+,Summer Hits Tour,2018-07-15,Little Mix,,69.87533288357064,28163.0,28163.0,1967899.0,"girl group, pop, talent show, uk pop",28163.0,,John Smith's Stadium,Huddersfield,West Yorkshire,England
+,Summer Hits Tour,2018-07-19,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,The 3AAA County Ground,Derby,England,England
+,Summer Hits Tour,2018-07-20,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Lincolnshire Showground,Lincoln,Nebraska,England
+,Summer Hits Tour,2018-07-21,Little Mix,,63.937464549064096,14104.0,14104.0,901774.0,"girl group, pop, talent show, uk pop",14104.0,,Earlham Park,Norwich,Norfolk,England
+,Summer Hits Tour,2018-07-22,Little Mix,,,30000.0,,,"girl group, pop, talent show, uk pop",,,Kent Event Centre,Maidstone,Kent,England
+,Summer Hits Tour,2018-07-26,Little Mix,,69.38307134220072,20675.0,20675.0,1434495.0,"girl group, pop, talent show, uk pop",20675.0,,Gateshead International Stadium,Gateshead,Tyne and Wear,England
+,Summer Hits Tour,2018-07-27,Little Mix,,,21000.0,,,"girl group, pop, talent show, uk pop",,,Falkirk Stadium,Falkirk,Falkirk,Scotland
+,Summer Hits Tour,2018-07-28,Little Mix,,64.57366993801652,15488.0,15488.0,1000117.0,"girl group, pop, talent show, uk pop",15488.0,,AECC Outdoors,Aberdeen,Aberdeen City,Scotland
+,Summer Hits Tour,2018-07-29,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Bught Park,Inverness,,Scotland

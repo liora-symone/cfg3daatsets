@@ -1,0 +1,73 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,The Glory Days Tour,2017-05-21,Little Mix,,50.734309053778084,14690.0,14690.0,745287.0,"girl group, pop, talent show, uk pop",14690.0,,Prenton Park,Birkenhead,Merseyside,England
+,The Glory Days Tour,2017-05-24,Little Mix,,,3964.0,6194.0,,"girl group, pop, talent show, uk pop",6194.0,,Mercedez Benz Arena,Berlin,Berlin,Germany
+,The Glory Days Tour,2017-05-25,Little Mix,,,5644.0,7124.0,,"girl group, pop, talent show, uk pop",7124.0,,Mitsubishi Electric Halle,Düsseldorf,North Rhine-Westphalia,Germany
+,The Glory Days Tour,2017-05-27,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Gasometer,Vienna,Vienna,Austria
+,The Glory Days Tour,2017-05-28,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Burton Constable Hall,Hull,East Riding of Yorkshire,England
+,The Glory Days Tour,2017-05-29,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Samsung Hall,Zurich,Zurich,Switzerland
+,The Glory Days Tour,2017-05-30,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Mediolanum Forum,Milan,Lombardy,Italy
+,The Glory Days Tour,2017-05-31,Little Mix,,,3596.0,4764.0,,"girl group, pop, talent show, uk pop",4764.0,,Olympiahalle,Munich,Bavaria,Germany
+,The Glory Days Tour,2017-06-02,Little Mix,,,7321.0,7348.0,,"girl group, pop, talent show, uk pop",7348.0,,Lotto Arena,Antwerp,Flanders,Belgium
+,The Glory Days Tour,2017-06-03,Little Mix,,,3511.0,3511.0,,"girl group, pop, talent show, uk pop",3511.0,,AFAS Live,Amsterdam,North Holland,Netherlands
+,The Glory Days Tour,2017-06-05,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Valby-Hallen,Copenhagen,Capital Region of Denmark,Denmark
+,The Glory Days Tour,2017-06-06,Little Mix,,,2348.0,3000.0,,"girl group, pop, talent show, uk pop",3000.0,,Annexet,Stockholm,Stockholm County,Sweden
+,The Glory Days Tour,2017-06-08,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Zénith de Paris,Paris,Île-de-France,France
+,The Glory Days Tour,2017-06-10,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Wembley Stadium,London,England,England
+,The Glory Days Tour,2017-06-23,Little Mix,,47.938447576339954,18732.0,19610.0,897983.0,"girl group, pop, talent show, uk pop",19610.0,,Newmarket Racecourse,Newmarket,Suffolk,England
+,The Glory Days Tour,2017-06-24,Little Mix,,32.010701665825344,19810.0,20050.0,634132.0,"girl group, pop, talent show, uk pop",20050.0,,Kingsholm Stadium,Gloucester,Gloucestershire,England
+,The Glory Days Tour,2017-06-25,Little Mix,,41.28710890128547,16492.0,20000.0,680907.0,"girl group, pop, talent show, uk pop",20000.0,,Twickenham Stoop,Twickenham,London,England
+,The Glory Days Tour,2017-06-29,Little Mix,,51.25427081460169,11122.0,11148.0,570050.0,"girl group, pop, talent show, uk pop",11148.0,,Slessor Gardens,Dundee,Dundee City,Scotland
+,The Glory Days Tour,2017-06-30,Little Mix,,43.10293333333333,15000.0,15000.0,646544.0,"girl group, pop, talent show, uk pop",15000.0,,Royal Highland Centre,Edinburgh,Scotland,Scotland
+,The Glory Days Tour,2017-07-01,Little Mix,,38.140042023965016,17609.0,20050.0,671608.0,"girl group, pop, talent show, uk pop",20050.0,,Donington Park,Derby,England,England
+,The Glory Days Tour,2017-07-06,Little Mix,,45.458982772764564,7314.0,7384.0,332487.0,"girl group, pop, talent show, uk pop",7384.0,,Scarborough Open Air Theatre,Scarborough,North Yorkshire,England
+,The Glory Days Tour,2017-07-07,Little Mix,,41.827329192546586,7245.0,7245.0,303039.0,"girl group, pop, talent show, uk pop",7245.0,,Old Royal Naval College,London,England,England
+,The Glory Days Tour,2017-07-08,Little Mix,,42.428872425745936,14713.0,14761.0,624256.0,"girl group, pop, talent show, uk pop",14761.0,,Eirias Stadium,Colwyn Bay,Conwy,Wales
+,The Glory Days Tour,2017-07-09,Little Mix,,49.14519479203607,19739.0,19799.0,970077.0,"girl group, pop, talent show, uk pop",19799.0,,Ageas Bowl,Southampton,Hampshire,England
+,The Glory Days Tour,2017-07-13,Little Mix,,50.121702127659574,11750.0,11750.0,588930.0,"girl group, pop, talent show, uk pop",11750.0,,Caldicot Castle,Monmouthshire,Monmouthshire,Wales
+,The Glory Days Tour,2017-07-14,Little Mix,,43.353432032301484,14860.0,14860.0,644232.0,"girl group, pop, talent show, uk pop",14860.0,,Powderham Castle,Exeter,England,England
+,The Glory Days Tour,2017-07-15,Little Mix,,42.91223386504706,14983.0,14987.0,642954.0,"girl group, pop, talent show, uk pop",14987.0,,County Cricket Club Emirates Riverside,Durham,County Durham,England
+,The Glory Days Tour,2017-07-16,Little Mix,,43.229882352941175,17000.0,17000.0,734908.0,"girl group, pop, talent show, uk pop",17000.0,,Bitts Park,Carlisle,Cumbria,England
+,The Glory Days Tour,2017-07-20,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Crown Theatre,Perth,Western Australia,Australia
+,The Glory Days Tour,2017-07-22,Little Mix,,71.57486728903532,10926.0,11732.0,782027.0,"girl group, pop, talent show, uk pop",11732.0,,Margaret Court Arena,Melbourne,Victoria,Australia
+,The Glory Days Tour,2017-07-23,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Margaret Court Arena,Melbourne,Victoria,Australia
+,The Glory Days Tour,2017-07-26,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,AEC Theatre,Adelaide,South Australia,Australia
+,The Glory Days Tour,2017-07-28,Little Mix,,71.05362690801027,7403.0,7403.0,526010.0,"girl group, pop, talent show, uk pop",7403.0,,Brisbane Entertainment Centre,Brisbane,Queensland,Australia
+,The Glory Days Tour,2017-07-29,Little Mix,,,13748.0,13748.0,,"girl group, pop, talent show, uk pop",13748.0,,Qudos Bank Arena,Sydney,New South Wales,Australia
+,The Glory Days Tour,2017-07-30,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Spark Arena,Auckland,Auckland,New Zealand
+,The Glory Days Tour,2017-09-01,Little Mix,,49.44108511078898,14487.0,19810.0,716253.0,"girl group, pop, talent show, uk pop",19810.0,,South of England Showground,Ardingly,West Sussex,England
+,The Glory Days Tour,2017-09-02,Little Mix,,29.800972285702414,24067.0,28506.0,717220.0,"girl group, pop, talent show, uk pop",28506.0,,Otterspool Promenade,Liverpool,England,England
+,The Glory Days Tour,2017-09-03,Little Mix,,48.052207505518766,18120.0,19988.0,870706.0,"girl group, pop, talent show, uk pop",19988.0,,Earlham Park,Norwich,Norfolk,England
+,The Glory Days Tour,2017-10-09,Little Mix,,,9176.0,9575.0,,"girl group, pop, talent show, uk pop",9575.0,,GE Oil & Gas Arena,Aberdeen,Aberdeen City,Scotland
+,The Glory Days Tour,2017-10-10,Little Mix,,,9176.0,9575.0,,"girl group, pop, talent show, uk pop",9575.0,,GE Oil & Gas Arena,Aberdeen,Aberdeen City,Scotland
+,The Glory Days Tour,2017-10-11,Little Mix,,,38073.0,39154.0,,"girl group, pop, talent show, uk pop",39154.0,,Metro Radio Arena,Newcastle,England,England
+,The Glory Days Tour,2017-10-13,Little Mix,,,52142.0,53195.0,,"girl group, pop, talent show, uk pop",53195.0,,Genting Arena,Birmingham,England,England
+,The Glory Days Tour,2017-10-14,Little Mix,,,34346.0,34386.0,,"girl group, pop, talent show, uk pop",34386.0,,First Direct Arena,Leeds,West Yorkshire,England
+,The Glory Days Tour,2017-10-16,Little Mix,,,29351.0,29351.0,,"girl group, pop, talent show, uk pop",29351.0,,Echo Arena,Liverpool,England,England
+,The Glory Days Tour,2017-10-17,Little Mix,,,36118.0,36528.0,,"girl group, pop, talent show, uk pop",36528.0,,Sheffield Arena,Sheffield,South Yorkshire,England
+,The Glory Days Tour,2017-10-19,Little Mix,,,45450.0,45450.0,,"girl group, pop, talent show, uk pop",45450.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,The Glory Days Tour,2017-10-20,Little Mix,,,43579.0,43579.0,,"girl group, pop, talent show, uk pop",43579.0,,Manchester Arena,Manchester,England,England
+,The Glory Days Tour,2017-10-26,Little Mix,,,63702.0,67099.0,,"girl group, pop, talent show, uk pop",67099.0,,The O2 Arena,London,England,England
+,The Glory Days Tour,2017-10-27,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Sheffield Arena,Sheffield,South Yorkshire,England
+,The Glory Days Tour,2017-10-28,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Sheffield Arena,Sheffield,South Yorkshire,England
+,The Glory Days Tour,2017-10-30,Little Mix,,,9301.0,9301.0,,"girl group, pop, talent show, uk pop",9301.0,,Motorpoint Arena Cardiff,Cardiff,Wales,Wales
+,The Glory Days Tour,2017-10-31,Little Mix,,,9301.0,9301.0,,"girl group, pop, talent show, uk pop",9301.0,,Motorpoint Arena Cardiff,Cardiff,Wales,Wales
+,The Glory Days Tour,2017-11-01,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Echo Arena,Liverpool,England,England
+,The Glory Days Tour,2017-11-03,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Metro Radio Arena,Newcastle,England,England
+,The Glory Days Tour,2017-11-04,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Metro Radio Arena,Newcastle,England,England
+,The Glory Days Tour,2017-11-06,Little Mix,,,12459.0,12459.0,,"girl group, pop, talent show, uk pop",12459.0,,3Arena,Dublin,Leinster,Ireland
+,The Glory Days Tour,2017-11-07,Little Mix,,,17168.0,17168.0,,"girl group, pop, talent show, uk pop",17168.0,,The SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,The Glory Days Tour,2017-11-08,Little Mix,,,17168.0,17168.0,,"girl group, pop, talent show, uk pop",17168.0,,The SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,The Glory Days Tour,2017-11-10,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,SSE Hydro,Glasgow,Scotland,Scotland
+,The Glory Days Tour,2017-11-11,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,SSE Hydro,Glasgow,Scotland,Scotland
+,The Glory Days Tour,2017-11-13,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,First Direct Arena,Leeds,West Yorkshire,England
+,The Glory Days Tour,2017-11-14,Little Mix,,,15705.0,15705.0,,"girl group, pop, talent show, uk pop",15705.0,,Motorpoint Arena Nottingham,Nottingham,England,England
+,The Glory Days Tour,2017-11-15,Little Mix,,,15705.0,15705.0,,"girl group, pop, talent show, uk pop",15705.0,,Motorpoint Arena Nottingham,Nottingham,England,England
+,The Glory Days Tour,2017-11-17,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Genting Arena,Birmingham,England,England
+,The Glory Days Tour,2017-11-18,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Genting Arena,Birmingham,England,England
+,The Glory Days Tour,2017-11-20,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Echo Arena,Liverpool,England,England
+,The Glory Days Tour,2017-11-21,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Manchester Arena,Manchester,England,England
+,The Glory Days Tour,2017-11-22,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Manchester Arena,Manchester,England,England
+,The Glory Days Tour,2017-11-25,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,The O2 Arena,London,England,England
+,The Glory Days Tour,2017-11-26,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,The O2 Arena,London,England,England
+,The Glory Days Tour,2018-03-24,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Makuhari Messe,Chiba,Chiba,Japan
+,The Glory Days Tour,2018-03-25,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,World Memorial Hall,Kobe,Hyogo,Japan

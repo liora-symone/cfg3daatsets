@@ -1,0 +1,21 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,The Salute Tour,2014-05-16,Little Mix,,37.548662420382165,15700.0,15700.0,589514.0,"girl group, pop, talent show, uk pop",15700.0,,LG Arena,Birmingham,England,England
+,The Salute Tour,2014-05-17,Little Mix,,33.98854545454545,11000.0,11000.0,373874.0,"girl group, pop, talent show, uk pop",11000.0,,Metro Radio Arena,Newcastle,England,England
+,The Salute Tour,2014-05-19,Little Mix,,77.74136363636363,2200.0,2200.0,171031.0,"girl group, pop, talent show, uk pop",2200.0,,Usher Hall,Edinburgh,Scotland,Scotland
+,The Salute Tour,2014-05-20,Little Mix,,114.21575757575758,6600.0,6600.0,753824.0,"girl group, pop, talent show, uk pop",6600.0,,Clyde Auditorium,Glasgow,Scotland,Scotland
+,The Salute Tour,2014-05-21,Little Mix,,114.21575757575758,6600.0,6600.0,753824.0,"girl group, pop, talent show, uk pop",6600.0,,Clyde Auditorium,Glasgow,Scotland,Scotland
+,The Salute Tour,2014-05-23,Little Mix,,33.64027272727273,11000.0,11000.0,370043.0,"girl group, pop, talent show, uk pop",11000.0,,Echo Arena Liverpool,Liverpool,England,England
+,The Salute Tour,2014-05-24,Little Mix,,73.08592592592592,13500.0,13500.0,986660.0,"girl group, pop, talent show, uk pop",13500.0,,Motorpoint Arena Sheffield,Sheffield,South Yorkshire,England
+,The Salute Tour,2014-05-25,Little Mix,,88.61285,20000.0,20000.0,1772257.0,"girl group, pop, talent show, uk pop",20000.0,,The O2 Arena,London,England,England
+,The Salute Tour,2014-05-27,Little Mix,,110.22375533428165,14060.0,14060.0,1549746.0,"girl group, pop, talent show, uk pop",14060.0,,Phones 4u Arena,Manchester,England,England
+,The Salute Tour,2014-05-28,Little Mix,,88.7302,10000.0,10000.0,887302.0,"girl group, pop, talent show, uk pop",10000.0,,Capital FM Arena,Nottingham,England,England
+,The Salute Tour,2014-05-30,Little Mix,,50.27825,4000.0,4000.0,201113.0,"girl group, pop, talent show, uk pop",4000.0,,Plymouth Pavilions,Plymouth,Devon,England
+,The Salute Tour,2014-05-31,Little Mix,,51.7984,7500.0,7500.0,388488.0,"girl group, pop, talent show, uk pop",7500.0,,Motorpoint Arena Cardiff,Cardiff,Wales,Wales
+,The Salute Tour,2014-06-02,Little Mix,,37.52054794520548,2920.0,,109560.0,"girl group, pop, talent show, uk pop",,,Blackpool Opera House,Blackpool,Lancashire,England
+,The Salute Tour,2014-06-04,Little Mix,,39.1,6500.0,6500.0,254150.0,"girl group, pop, talent show, uk pop",6500.0,,Windsor Hall,Bournemouth,Dorset,England
+,The Salute Tour,2014-06-05,Little Mix,,53.83826666666667,7500.0,7500.0,403787.0,"girl group, pop, talent show, uk pop",7500.0,,Motorpoint Arena Cardiff,Cardiff,Wales,Wales
+,The Salute Tour,2014-06-06,Little Mix,,39.099946836788945,3762.0,3762.0,147094.0,"girl group, pop, talent show, uk pop",3762.0,,Brighton Centre,Brighton,East Sussex,England
+,The Salute Tour,2014-06-08,Little Mix,,72.09831578947369,9500.0,9500.0,684934.0,"girl group, pop, talent show, uk pop",9500.0,,"The O2, Dublin",Dublin,Leinster,Ireland
+,The Salute Tour,2014-06-09,Little Mix,,124.70618556701031,11058.0,11058.0,1379001.0,"girl group, pop, talent show, uk pop",11058.0,,Odyssey Arena,Belfast,Northern Ireland,Northern Ireland
+,The Salute Tour,2014-07-26,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Osborne House,Isle of Wight,South East England,England
+,The Salute Tour,2014-07-27,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,Scarborough Open Air Theatre,Scarborough,North Yorkshire,England

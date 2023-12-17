@@ -1,0 +1,41 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,LM5: The Tour,2019-09-16,Little Mix,,108.20324508966695,4684.0,4684.0,506824.0,"girl group, pop, talent show, uk pop",4684.0,,WiZink Center,Madrid,Community of Madrid,Spain
+,LM5: The Tour,2019-09-18,Little Mix,,43.10247664244402,6743.0,6743.0,290640.0,"girl group, pop, talent show, uk pop",6743.0,,Mediolanum Forum,Milan,Lombardy,Italy
+,LM5: The Tour,2019-09-21,Little Mix,,58.120923037256674,7757.0,7757.0,450844.0,"girl group, pop, talent show, uk pop",7757.0,,Porsche-Arena,Stuttgart,Baden-Württemberg,Germany
+,LM5: The Tour,2019-09-22,Little Mix,,58.120923037256674,7757.0,7757.0,450844.0,"girl group, pop, talent show, uk pop",7757.0,,Porsche-Arena,Stuttgart,Baden-Württemberg,Germany
+,LM5: The Tour,2019-09-23,Little Mix,,58.80480050866317,6291.0,6291.0,369941.0,"girl group, pop, talent show, uk pop",6291.0,,Lanxess Arena,Cologne,North Rhine-Westphalia,Germany
+,LM5: The Tour,2019-09-25,Little Mix,,48.64138116110564,11179.0,11179.0,543762.0,"girl group, pop, talent show, uk pop",11179.0,,Ziggo Dome,Amsterdam,North Holland,Netherlands
+,LM5: The Tour,2019-09-27,Little Mix,,53.57938344405464,13397.0,13397.0,717803.0,"girl group, pop, talent show, uk pop",13397.0,,Sportpaleis,Antwerp,Flanders,Belgium
+,LM5: The Tour,2019-09-28,Little Mix,,58.84383819379116,4252.0,4252.0,250204.0,"girl group, pop, talent show, uk pop",4252.0,,Dôme de Paris,Paris,Île-de-France,France
+,LM5: The Tour,2019-10-06,Little Mix,,,30371.0,30371.0,,"girl group, pop, talent show, uk pop",30371.0,,SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,LM5: The Tour,2019-10-07,Little Mix,,,30371.0,30371.0,,"girl group, pop, talent show, uk pop",30371.0,,SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,LM5: The Tour,2019-10-08,Little Mix,,62.70041920216362,36975.0,36975.0,2318348.0,"girl group, pop, talent show, uk pop",36975.0,,3Arena,Dublin,Leinster,Ireland
+,LM5: The Tour,2019-10-10,Little Mix,,62.70041920216362,36975.0,36975.0,2318348.0,"girl group, pop, talent show, uk pop",36975.0,,3Arena,Dublin,Leinster,Ireland
+,LM5: The Tour,2019-10-11,Little Mix,,62.70041920216362,36975.0,36975.0,2318348.0,"girl group, pop, talent show, uk pop",36975.0,,3Arena,Dublin,Leinster,Ireland
+,LM5: The Tour,2019-10-13,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,LM5: The Tour,2019-10-14,Little Mix,,,,,,"girl group, pop, talent show, uk pop",,,SSE Arena,Belfast,Northern Ireland,Northern Ireland
+,LM5: The Tour,2019-10-17,Little Mix,,73.64882190375795,35099.0,35099.0,2585000.0,"girl group, pop, talent show, uk pop",35099.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,LM5: The Tour,2019-10-18,Little Mix,,73.64882190375795,35099.0,35099.0,2585000.0,"girl group, pop, talent show, uk pop",35099.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,LM5: The Tour,2019-10-19,Little Mix,,73.64882190375795,35099.0,35099.0,2585000.0,"girl group, pop, talent show, uk pop",35099.0,,SSE Hydro,Glasgow,Scotland,Scotland
+,LM5: The Tour,2019-10-21,Little Mix,,67.9711503220064,19099.0,19099.0,1298181.0,"girl group, pop, talent show, uk pop",19099.0,,M&S Bank Arena,Liverpool,England,England
+,LM5: The Tour,2019-10-22,Little Mix,,67.9711503220064,19099.0,19099.0,1298181.0,"girl group, pop, talent show, uk pop",19099.0,,M&S Bank Arena,Liverpool,England,England
+,LM5: The Tour,2019-10-24,Little Mix,,69.34885426214483,27275.0,28199.0,1891490.0,"girl group, pop, talent show, uk pop",28199.0,,Utilita Arena Newcastle,Newcastle,England,England
+,LM5: The Tour,2019-10-25,Little Mix,,69.34885426214483,27275.0,28199.0,1891490.0,"girl group, pop, talent show, uk pop",28199.0,,Utilita Arena Newcastle,Newcastle,England,England
+,LM5: The Tour,2019-10-26,Little Mix,,69.34885426214483,27275.0,28199.0,1891490.0,"girl group, pop, talent show, uk pop",28199.0,,Utilita Arena Newcastle,Newcastle,England,England
+,LM5: The Tour,2019-10-28,Little Mix,,64.14222575797754,22626.0,22626.0,1451282.0,"girl group, pop, talent show, uk pop",22626.0,,FlyDSA Arena,Sheffield,South Yorkshire,England
+,LM5: The Tour,2019-10-29,Little Mix,,64.14222575797754,22626.0,22626.0,1451282.0,"girl group, pop, talent show, uk pop",22626.0,,FlyDSA Arena,Sheffield,South Yorkshire,England
+,LM5: The Tour,2019-10-31,Little Mix,,73.89894993151728,45997.0,47206.0,3399130.0,"girl group, pop, talent show, uk pop",47206.0,,The O2 Arena,London,England,England
+,LM5: The Tour,2019-11-01,Little Mix,,73.89894993151728,45997.0,47206.0,3399130.0,"girl group, pop, talent show, uk pop",47206.0,,The O2 Arena,London,England,England
+,LM5: The Tour,2019-11-02,Little Mix,,73.89894993151728,45997.0,47206.0,3399130.0,"girl group, pop, talent show, uk pop",47206.0,,The O2 Arena,London,England,England
+,LM5: The Tour,2019-11-07,Little Mix,,62.29502511029106,36041.0,36041.0,2245175.0,"girl group, pop, talent show, uk pop",36041.0,,Resorts World Arena,Birmingham,England,England
+,LM5: The Tour,2019-11-08,Little Mix,,62.29502511029106,36041.0,36041.0,2245175.0,"girl group, pop, talent show, uk pop",36041.0,,Resorts World Arena,Birmingham,England,England
+,LM5: The Tour,2019-11-09,Little Mix,,62.29502511029106,36041.0,36041.0,2245175.0,"girl group, pop, talent show, uk pop",36041.0,,Resorts World Arena,Birmingham,England,England
+,LM5: The Tour,2019-11-11,Little Mix,,66.73761647866601,14273.0,14273.0,952546.0,"girl group, pop, talent show, uk pop",14273.0,,Motorpoint Arena,Nottingham,England,England
+,LM5: The Tour,2019-11-12,Little Mix,,66.73761647866601,14273.0,14273.0,952546.0,"girl group, pop, talent show, uk pop",14273.0,,Motorpoint Arena,Nottingham,England,England
+,LM5: The Tour,2019-11-14,Little Mix,,69.68536621309623,40714.0,40714.0,2837170.0,"girl group, pop, talent show, uk pop",40714.0,,Manchester Arena,Manchester,England,England
+,LM5: The Tour,2019-11-15,Little Mix,,69.68536621309623,40714.0,40714.0,2837170.0,"girl group, pop, talent show, uk pop",40714.0,,Manchester Arena,Manchester,England,England
+,LM5: The Tour,2019-11-16,Little Mix,,69.68536621309623,40714.0,40714.0,2837170.0,"girl group, pop, talent show, uk pop",40714.0,,Manchester Arena,Manchester,England,England
+,LM5: The Tour,2019-11-18,Little Mix,,69.40124886695538,19858.0,21603.0,1378170.0,"girl group, pop, talent show, uk pop",21603.0,,First Direct Arena,Leeds,West Yorkshire,England
+,LM5: The Tour,2019-11-19,Little Mix,,69.40124886695538,19858.0,21603.0,1378170.0,"girl group, pop, talent show, uk pop",21603.0,,First Direct Arena,Leeds,West Yorkshire,England
+,LM5: The Tour,2019-11-21,Little Mix,,71.87531729109554,29547.0,31776.0,2123700.0,"girl group, pop, talent show, uk pop",31776.0,,The O2 Arena,London,England,England
+,LM5: The Tour,2019-11-22,Little Mix,,71.87531729109554,29547.0,31776.0,2123700.0,"girl group, pop, talent show, uk pop",31776.0,,The O2 Arena,London,England,England

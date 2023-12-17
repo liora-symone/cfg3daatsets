@@ -1,0 +1,66 @@
+event_id,event_name,date,artist_name,support_act,average_price,tickets_sold,tickets_available,revenue,genre,capacity,venue_id,venue_name,venue_city,venue_state,venue_country
+,Follow the Yellow Brick Road Tour,2014-03-12,Elton John,,93.01752251155999,8218.0,8218.0,764418.0,"glam rock, mellow gold, piano rock, rock",8218.0,,Ford Arena,Beaumont,,United States
+,Follow the Yellow Brick Road Tour,2014-03-13,Elton John,,95.57949848443097,14516.0,14516.0,1387432.0,"glam rock, mellow gold, piano rock, rock",14516.0,,American Airlines Center,Dallas,Texas,United States
+,Follow the Yellow Brick Road Tour,2014-03-15,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,BJCC Arena,Birmingham,England,United States
+,Follow the Yellow Brick Road Tour,2014-03-16,Elton John,,97.22895416000983,8137.0,8629.0,791152.0,"glam rock, mellow gold, piano rock, rock",8629.0,,Pensacola Bay Center,Pensacola,,United States
+,Follow the Yellow Brick Road Tour,2014-03-19,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,BancorpSouth Arena,Tupelo,,United States
+,Follow the Yellow Brick Road Tour,2014-03-21,Elton John,,80.44166996961289,15138.0,16251.0,1217726.0,"glam rock, mellow gold, piano rock, rock",16251.0,,Smoothie King Center,New Orleans,Louisiana,United States
+,Follow the Yellow Brick Road Tour,2014-03-22,Elton John,,85.11945812807882,12992.0,12992.0,1105872.0,"glam rock, mellow gold, piano rock, rock",12992.0,,CenturyLink Center,Bossier City,,United States
+,Follow the Yellow Brick Road Tour,2014-06-11,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Charleston Civic Center,Charleston,,United States
+,Follow the Yellow Brick Road Tour,2014-06-12,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Farm Bureau Live,Virginia Beach,,United States
+,Follow the Yellow Brick Road Tour,2014-06-14,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,PNC Music Pavilion,Charlotte,North Carolina,United States
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Great Stage Park,Manchester,England,United States
+,Follow the Yellow Brick Road Tour,2014-06-21,Elton John,,106.23800547278807,16445.0,16578.0,1747084.0,"glam rock, mellow gold, piano rock, rock",16578.0,,Leigh Sports Village Stadium,Leigh,,England
+,Follow the Yellow Brick Road Tour,2014-06-22,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Kybunpark,St. Gallen,,Switzerland
+,Follow the Yellow Brick Road Tour,2014-06-24,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Capital FM Arena Nottingham,Nottingham,England,England
+,Follow the Yellow Brick Road Tour,2014-06-28,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Stoke Park Country Club,Buckinghamshire,,England
+,Follow the Yellow Brick Road Tour,2014-06-29,Elton John,,109.2913967427499,16517.0,16539.0,1805166.0,"glam rock, mellow gold, piano rock, rock",16539.0,,Colchester Community Stadium,Colchester,,England
+,Follow the Yellow Brick Road Tour,2014-07-02,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Metro Radio Arena,Newcastle,England,England
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Jardín Botánico del Cap Roig,Calella,,Spain
+,Follow the Yellow Brick Road Tour,2014-07-05,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Skovdalen Atletikstadion,Aalborg,,Denmark
+,Follow the Yellow Brick Road Tour,2014-07-06,Elton John,,115.757116023696,6921.0,7087.0,801155.0,"glam rock, mellow gold, piano rock, rock",7087.0,,Gerry Weber Stadion,Halle,,Germany
+,Follow the Yellow Brick Road Tour,2014-07-10,Elton John,,100.79368421052632,6175.0,7000.0,622401.0,"glam rock, mellow gold, piano rock, rock",7000.0,,Fulda Domplatz,Fulda,,Germany
+,Follow the Yellow Brick Road Tour,2014-07-11,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Theaterplatz vor der Semperoper,Dresden,,Germany
+,Follow the Yellow Brick Road Tour,2014-07-12,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Sparkassen-Arena,Kiel,,Germany
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Théâtre Jean-Deschamps,Carcassonne,,France
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Theatre Romain Fourviere,Lyon,Auvergne-Rhône-Alpes,France
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,La Prairie de Kerampuilh,Carhaix,,France
+,Follow the Yellow Brick Road Tour,2014-07-19,Elton John,,107.993441189331,9148.0,9315.0,987924.0,"glam rock, mellow gold, piano rock, rock",9315.0,,Nordmole Zollhafen,Mainz,,Germany
+,Follow the Yellow Brick Road Tour,2014-07-20,Elton John,,111.54152176936987,7189.0,7980.0,801872.0,"glam rock, mellow gold, piano rock, rock",7980.0,,Warsteiner HockeyPark,Mönchengladbach,,Germany
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Schloss Thurn und Taxis,Regensburg,,Germany
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Marktplatz Lörrach,Lörrach,,Germany
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Nyon Festival Grounds,Nyon,,Switzerland
+,Follow the Yellow Brick Road Tour,,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Salle des Etoiles,Monte Carlo,Monte Carlo,Monaco
+,Follow the Yellow Brick Road Tour,2014-09-13,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Rogers Arena,Vancouver,British Columbia,Canada
+,Follow the Yellow Brick Road Tour,2014-09-14,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Rogers Arena,Vancouver,British Columbia,Canada
+,Follow the Yellow Brick Road Tour,2014-09-17,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Spokane Veterans Memorial Arena,Spokane,Washington,United States
+,Follow the Yellow Brick Road Tour,2014-09-19,Elton John,,70.35296458416235,10052.0,10052.0,707188.0,"glam rock, mellow gold, piano rock, rock",10052.0,,Maverik Center,West Valley City,Utah,United States
+,Follow the Yellow Brick Road Tour,2014-09-20,Elton John,,75.8270418668497,14570.0,14570.0,1104800.0,"glam rock, mellow gold, piano rock, rock",14570.0,,Pepsi Center,Denver,Colorado,United States
+,Follow the Yellow Brick Road Tour,2014-09-25,Elton John,,98.53463382377252,12098.0,13782.0,1192072.0,"glam rock, mellow gold, piano rock, rock",13782.0,,Moda Center,Portland,Oregon,United States
+,Follow the Yellow Brick Road Tour,2014-09-27,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,KeyArena,Seattle,Washington,United States
+,Follow the Yellow Brick Road Tour,2014-10-01,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Sleep Train Arena,Sacramento,California,United States
+,Follow the Yellow Brick Road Tour,2014-10-02,Elton John,,89.5127074867415,14519.0,14896.0,1299635.0,"glam rock, mellow gold, piano rock, rock",14896.0,,SAP Center,San Jose,California,United States
+,Follow the Yellow Brick Road Tour,2014-10-04,Elton John,,104.50093219812318,32182.0,32182.0,3363049.0,"glam rock, mellow gold, piano rock, rock",32182.0,,Staples Center,Los Angeles,California,United States
+,Follow the Yellow Brick Road Tour,2014-10-05,Elton John,,104.50093219812318,32182.0,32182.0,3363049.0,"glam rock, mellow gold, piano rock, rock",32182.0,,Staples Center,Los Angeles,California,United States
+,Follow the Yellow Brick Road Tour,2014-11-01,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Palacio de Deportes de la Comunidad,Madrid,Community of Madrid,Spain
+,Follow the Yellow Brick Road Tour,2014-11-02,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Bizkaia Arena,Bilbao,,Spain
+,Follow the Yellow Brick Road Tour,2014-11-05,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Kraków Arena,Kraków,Lesser Poland Voivodeship,Poland
+,Follow the Yellow Brick Road Tour,2014-11-06,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Minsk-Arena,Minsk,,Belarus
+,Follow the Yellow Brick Road Tour,2014-11-09,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Ice Palace Saint Petersburg,Saint Petersburg,Northwestern,Russia
+,Follow the Yellow Brick Road Tour,2014-11-10,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Hartwall Areena,Helsinki,Uusimaa,Finland
+,Follow the Yellow Brick Road Tour,2014-11-12,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Forum Copenhagen,Copenhagen,Capital Region of Denmark,Denmark
+,Follow the Yellow Brick Road Tour,2014-11-14,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Scandinavium,Gothenburg,Västra Götaland County,Sweden
+,Follow the Yellow Brick Road Tour,2014-11-15,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Oslo Spektrum,Oslo,Oslo,Norway
+,Follow the Yellow Brick Road Tour,2014-11-16,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Sørmarka Arena,Stavanger,Rogaland,Norway
+,Follow the Yellow Brick Road Tour,2014-11-19,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Palais Omnisports Paris Bercy,Paris,Île-de-France,France
+,Follow the Yellow Brick Road Tour,2014-11-20,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Park&Suites Arena,Montpellier,,France
+,Follow the Yellow Brick Road Tour,2014-11-22,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Zénith de Lille,Lille,Hauts-de-France,France
+,Follow the Yellow Brick Road Tour,2014-11-24,Elton John,,92.5289365452409,6808.0,8028.0,629937.0,"glam rock, mellow gold, piano rock, rock",8028.0,,TUI Arena,Hanover,,Germany
+,Follow the Yellow Brick Road Tour,2014-11-27,Elton John,,94.96584948078365,9341.0,9716.0,887076.0,"glam rock, mellow gold, piano rock, rock",9716.0,,Olympiahalle,Munich,Bavaria,Germany
+,Follow the Yellow Brick Road Tour,2014-11-29,Elton John,,102.0129078522768,5578.0,5837.0,569028.0,"glam rock, mellow gold, piano rock, rock",5837.0,,Nuremberg Arena,Nuremberg,,Germany
+,Follow the Yellow Brick Road Tour,2014-11-30,Elton John,,96.33969665271967,7648.0,8043.0,736806.0,"glam rock, mellow gold, piano rock, rock",8043.0,,Hanns-Martin-Schleyer-Halle,Stuttgart,Baden-Württemberg,Germany
+,Follow the Yellow Brick Road Tour,2014-12-03,Elton John,,113.15570047746594,8587.0,10500.0,971668.0,"glam rock, mellow gold, piano rock, rock",10500.0,,Hallenstadion,Zürich,Zürich,Switzerland
+,Follow the Yellow Brick Road Tour,2014-12-04,Elton John,,86.6946160635481,9064.0,9064.0,785800.0,"glam rock, mellow gold, piano rock, rock",9064.0,,Mediolanum Forum,Milan,,Italy
+,Follow the Yellow Brick Road Tour,2014-12-06,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,Palau Sant Jordi,Barcelona,Catalonia,Spain
+,Follow the Yellow Brick Road Tour,2014-12-09,Elton John,,,,,,"glam rock, mellow gold, piano rock, rock",,,3Arena,Dublin,Leinster,Ireland
+,Follow the Yellow Brick Road Tour,2014-12-31,Elton John,,188.05276259866423,16470.0,16470.0,3097229.0,"glam rock, mellow gold, piano rock, rock",16470.0,,Barclays Center,Brooklyn,New York,United States
